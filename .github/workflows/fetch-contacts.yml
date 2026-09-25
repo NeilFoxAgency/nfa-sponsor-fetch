@@ -23,6 +23,12 @@ jobs:
           cache: pip
           cache-dependency-path: worker/requirements.txt
 
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ hashFiles('worker/requirements.txt') }}
+
       - name: Install dependencies
         run: |
           pip install -r worker/requirements.txt
