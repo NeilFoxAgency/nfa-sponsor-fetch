@@ -73,11 +73,16 @@ NAME_STOPWORDS = {
     "storage", "the",
 }
 
-# Words that look like names but are page chrome; never accept as a person.
+# Words that look like names but are page chrome or department labels;
+# never accept as a person.
 NAME_BLACKLIST = {
     "contact us", "about us", "privacy policy", "terms of service",
     "all rights", "read more", "learn more", "sign up", "log in",
     "get started", "free trial", "home page", "site map",
+    "press inquiries", "media inquiries", "press contact", "media contact",
+    "customer service", "customer support", "general inquiries",
+    "sales team", "support team", "marketing team", "press team",
+    "contact info", "contact information", "get in touch",
 }
 
 TITLE_KEYWORDS = (
