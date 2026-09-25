@@ -1,4 +1,4 @@
-name: Fetch business contact emails
+name: Fetch sponsor decision-maker contacts
 
 on:
   workflow_dispatch:
@@ -34,7 +34,7 @@ jobs:
           pip install -r worker/requirements.txt
           python -m playwright install chromium --with-deps
 
-      - name: Fetch contact emails
+      - name: Extract decision-maker contacts
         run: |
           python worker/fetch_contacts.py \
             --targets "batches/${{ inputs.batch_id }}/targets.json" \
@@ -42,8 +42,8 @@ jobs:
 
       - name: Commit results
         run: |
-          git config user.name "sfn-fetch-bot"
-          git config user.email "sfn-fetch-bot@users.noreply.github.com"
+          git config user.name "nfa-fetch-bot"
+          git config user.email "nfa-fetch-bot@users.noreply.github.com"
           git add "batches/${{ inputs.batch_id }}/results.json"
           git commit -m "results for batch ${{ inputs.batch_id }}" || echo "nothing to commit"
           git push
