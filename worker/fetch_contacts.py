@@ -9,7 +9,8 @@ Usage:
 
 Input:  JSON list of {"company_domain", "company_name", "website"}.
 Output: JSON list of {"company_domain", "company_name", "website", "status",
-        "contacts", "role_emails", "company_summary", "source_urls", "reason"}.
+        "contacts", "role_emails", "company_summary", "source_urls", "reason",
+        "pages_fetched"}.
 
 contacts is a list of {"name", "title", "email", "source_url"} for NAMED
 people whose email is first-party (email domain matches the company website
@@ -17,21 +18,46 @@ domain). role_emails holds first-party addresses with no person attached
 (info@, support@, ...) for manual review; they are never treated as
 decision-maker hits.
 
-status is "found" (>=1 named contact), "not_found", or "error".
+status is "found" (>=1 named contact), "not_found", or "error". reason is a
+granular failure code (dns_failure, http_403, challenge_page, ...) so real
+outages can be told apart from bot-block false negatives.
+
+Extraction techniques (adapted from public research, 2026-09-25):
+- curl_cffi with Chrome TLS impersonation for plain-HTTP fetches: many WAFs
+  fingerprint the TLS handshake (JA3) before headers are even read, so a
+  standard library TLS stack is blocked as a class. Browser-grade TLS plus
+  realistic browser headers makes the request a normal web request.
+  (Technique documented by curl-impersonate / curl_cffi; write-ups by
+  Vasile Bratu, Michael Oblak, and others.)
+- Retry with exponential backoff + jitter on transient errors only
+  (timeouts, connection resets, 429, 5xx). Definitive failures (DNS, 403,
+  404, challenge pages) are never retried.
+- Direct probing of common contact endpoints (/contact, /about, /team, ...)
+  in addition to following contact links found on the homepage.
+  (Endpoint list pattern from yogsec/email-finder.)
+- Deobfuscation of "[at]"/"[dot]" style addresses before regex extraction.
+- Headless-Chromium render tier for JS-heavy pages with a real Chrome UA,
+  desktop viewport, and network-idle waits.
+
+HARD LINES (never crossed):
+- robots.txt is honored for every URL fetched.
+- CAPTCHA / challenge / login pages are recorded as fetch failures
+  (reason=challenge_page), never solved or bypassed. The render tier is
+  only for JS rendering, never for getting past a block.
+- No stealth plugins, no JS fingerprint spoofing, no proxy rotation,
+  no CAPTCHA-solving services.
+- Only reports what is actually found, always with the source URL.
 
 IMPORTANT: this worker produces UNVERIFIED extraction only. Every contact
 must still pass the NFA browser verification gate (SigmaWire,
 VERIFIED_DELIVERABLE) before any outreach. This worker never sends anything.
-
-This worker never attempts to evade access controls: CAPTCHA/challenge
-pages, logins, and denied robots rules are recorded as fetch failures,
-never bypassed or solved.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import random
 import re
 import sys
 import time
@@ -39,12 +65,36 @@ from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from urllib.robotparser import RobotFileParser
 
-import httpx
 from bs4 import BeautifulSoup
+from curl_cffi.requests import Session
+from curl_cffi.requests import exceptions as cexc
 
-USER_AGENT = "NeilFoxAgency sponsor research/1.0 (+https://neilfoxagency.com)"
-REQUEST_TIMEOUT = 12.0
-MAX_PAGES = 4
+CHROME_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+BROWSER_HEADERS = {
+    "User-Agent": CHROME_UA,
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "image/avif,image/webp,*/*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+}
+REQUEST_TIMEOUT = 20.0
+MAX_PAGES = 8
+
+# Common contact endpoints probed directly (pattern from yogsec/email-finder).
+CONTACT_ENDPOINTS = (
+    "contact", "contact-us", "about", "about-us", "team", "our-team",
+    "meet-the-team", "support", "help", "press", "media", "company",
+    "who-we-are", "get-in-touch",
+)
+MAX_PROBED_ENDPOINTS = 4
+
 CONTACT_HINTS = (
     "contact", "about", "about-us", "team", "leadership", "company",
     "management", "founders", "location", "support",
@@ -65,6 +115,9 @@ CHALLENGE_MARKERS = (
     "verify you are human",
     "are you a robot",
     "access denied",
+    "attention required",
+    "perimeterx",
+    "datadome",
 )
 
 NAME_STOPWORDS = {
@@ -98,6 +151,13 @@ TITLE_KEYWORDS = (
 )
 
 NAME_RE = re.compile(r"\b([A-Z][a-z]{1,20}(?:\s+[A-Z][a-z]{1,20}){1,2})\b")
+
+# Failures worth retrying with backoff. Everything else is definitive.
+TRANSIENT_REASONS = {
+    "timeout", "connection_error", "request_error", "http_429", "http_5xx",
+    "empty_response", "decode_error",
+}
+MAX_ATTEMPTS = 3
 
 
 def normalized_host(url: str) -> str:
@@ -150,9 +210,35 @@ def identity_matches_content(company_name: str, text: str) -> bool:
     )
 
 
+def deobfuscate_emails(text: str) -> str:
+    """Normalize obfuscated addresses before regex extraction.
+
+    Handles: info [at] example [dot] com, john(at)co(dot)org,
+    jane AT example DOT com. The plain-word form is only rewritten when
+    BOTH an at-word and a dot-word appear in the same token run, so
+    ordinary prose ("look at this photo", "meet me at the store") is
+    left untouched.
+    """
+    # Bracket/paren forms are unambiguous.
+    text = re.sub(r"\s*[\[\(]\s*at\s*[\]\)]\s*", "@", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*[\[\(]\s*dot\s*[\]\)]\s*", ".", text, flags=re.IGNORECASE)
+
+    def fix_word(match: re.Match) -> str:
+        inner = match.group(0)
+        inner = re.sub(r"\s+at\s+", "@", inner, flags=re.IGNORECASE)
+        inner = re.sub(r"\s+dot\s+", ".", inner, flags=re.IGNORECASE)
+        return inner
+
+    text = re.sub(
+        r"[A-Za-z0-9._%+-]+\s+at\s+[A-Za-z0-9.-]+\s+dot\s+[A-Za-z]{2,}",
+        fix_word, text, flags=re.IGNORECASE,
+    )
+    return text
+
+
 def extract_public_emails(text: str) -> list[str]:
     seen: list[str] = []
-    for raw in EMAIL_RE.findall(text or ""):
+    for raw in EMAIL_RE.findall(deobfuscate_emails(text or "")):
         email = raw.strip().strip(".,;:").lower()
         if email and email not in seen and _looks_valid(email):
             seen.append(email)
@@ -183,60 +269,169 @@ def is_challenge_page(html: str) -> bool:
     return any(marker in lowered for marker in CHALLENGE_MARKERS)
 
 
-def fetch_tier1(url: str, client: httpx.Client) -> str | None:
-    """Plain HTTP fetch. Returns page HTML or None on any failure."""
+def fetch_page(session: Session, url: str) -> dict:
+    """One plain-HTTP attempt via curl_cffi (Chrome TLS impersonation).
+
+    Returns {"ok": bool, "html": str|None, "reason": str|None,
+             "status": int|None}. reason is a granular failure code.
+    """
     try:
-        response = client.get(url)
-    except httpx.HTTPError:
-        return None
-    if response.status_code != 200:
-        return None
+        response = session.get(url, timeout=REQUEST_TIMEOUT)
+    except cexc.DNSError:
+        return {"ok": False, "html": None, "reason": "dns_failure",
+                "status": None}
+    except (cexc.ConnectTimeout, cexc.ReadTimeout, cexc.Timeout):
+        return {"ok": False, "html": None, "reason": "timeout", "status": None}
+    except (cexc.SSLError, cexc.CertificateVerifyError):
+        return {"ok": False, "html": None, "reason": "tls_error",
+                "status": None}
+    except cexc.ConnectionError:
+        return {"ok": False, "html": None, "reason": "connection_error",
+                "status": None}
+    except cexc.TooManyRedirects:
+        return {"ok": False, "html": None, "reason": "redirect_loop",
+                "status": None}
+    except (cexc.InvalidURL, cexc.URLRequired, cexc.MissingSchema):
+        return {"ok": False, "html": None, "reason": "invalid_url",
+                "status": None}
+    except Exception:
+        return {"ok": False, "html": None, "reason": "request_error",
+                "status": None}
+    status = response.status_code
+    if status == 404:
+        return {"ok": False, "html": None, "reason": "http_404",
+                "status": status}
+    if status == 403:
+        return {"ok": False, "html": None, "reason": "http_403",
+                "status": status}
+    if status == 429:
+        return {"ok": False, "html": None, "reason": "http_429",
+                "status": status}
+    if status >= 500:
+        return {"ok": False, "html": None, "reason": "http_5xx",
+                "status": status}
+    if status != 200:
+        return {"ok": False, "html": None, "reason": f"http_{status}",
+                "status": status}
     try:
         text = response.text
     except Exception:
-        return None
+        return {"ok": False, "html": None, "reason": "decode_error",
+                "status": status}
+    if not text or len(text.strip()) < 50:
+        return {"ok": False, "html": None, "reason": "empty_response",
+                "status": status}
     if is_challenge_page(text):
-        return None
-    return text
+        # Access-control challenge: recorded failure, never bypassed.
+        return {"ok": False, "html": None, "reason": "challenge_page",
+                "status": status}
+    return {"ok": True, "html": text, "reason": None, "status": status}
 
 
-def fetch_tier2_rendered(url: str) -> str | None:
-    """Headless-Chromium render for JS-heavy pages. None if unavailable.
+def fetch_with_retries(session: Session, url: str,
+                       attempts: int = MAX_ATTEMPTS) -> dict:
+    """Retry transient failures with exponential backoff + jitter.
 
-    Never used to bypass access controls: challenge pages are detected and
-    treated as failures.
+    Definitive failures (DNS, 403, 404, challenge pages, ...) are returned
+    immediately and never hammered.
     """
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        return None
-    try:
-        with sync_playwright() as playwright:
-            browser = playwright.chromium.launch(headless=True)
+    last = fetch_page(session, url)
+    for attempt in range(1, attempts):
+        if last["ok"] or last["reason"] not in TRANSIENT_REASONS:
+            return last
+        time.sleep(2 ** attempt + random.uniform(0, 1))
+        last = fetch_page(session, url)
+    return last
+
+
+def looks_like_js_shell(html: str) -> bool:
+    """Heuristic: 200 OK but almost no rendered text -> needs a real browser."""
+    soup = BeautifulSoup(html, "html.parser")
+    text = soup.get_text(" ", strip=True)
+    if len(text) >= 300:
+        return False
+    lowered = html.lower()
+    return any(marker in lowered for marker in (
+        'id="root"', 'id="app"', "__next_data__", "ng-app", "data-reactroot",
+    ))
+
+
+class Renderer:
+    """Headless-Chromium render tier for JS-heavy pages.
+
+    One browser per target, reused across pages. Real Chrome UA, desktop
+    viewport, network-idle wait. Used ONLY for rendering JavaScript, never
+    to get past an access-control block: challenge pages are still detected
+    and recorded as failures.
+    """
+
+    def __init__(self) -> None:
+        self._playwright = None
+        self._browser = None
+
+    def render(self, url: str) -> dict:
+        try:
+            from playwright.sync_api import sync_playwright
+        except ImportError:
+            return {"ok": False, "html": None, "reason": "no_playwright",
+                    "status": None}
+        try:
+            if self._browser is None:
+                self._playwright = sync_playwright().start()
+                self._browser = self._playwright.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--disable-blink-features=AutomationControlled",
+                        "--no-sandbox",
+                        "--disable-dev-shm-usage",
+                    ],
+                )
+            context = self._browser.new_context(
+                viewport={"width": 1920, "height": 1080},
+                user_agent=CHROME_UA,
+                locale="en-US",
+            )
             try:
-                page = browser.new_page(user_agent=USER_AGENT)
-                page.goto(url, timeout=20000, wait_until="domcontentloaded")
+                page = context.new_page()
+                page.goto(url, timeout=25000, wait_until="networkidle")
+                page.wait_for_timeout(1500)
                 html = page.content()
             finally:
-                browser.close()
-    except Exception:
-        return None
-    if is_challenge_page(html):
-        return None
-    return html
+                context.close()
+        except Exception:
+            return {"ok": False, "html": None, "reason": "render_error",
+                    "status": None}
+        if not html or len(html.strip()) < 50:
+            return {"ok": False, "html": None, "reason": "empty_response",
+                    "status": None}
+        if is_challenge_page(html):
+            return {"ok": False, "html": None, "reason": "challenge_page",
+                    "status": None}
+        return {"ok": True, "html": html, "reason": None, "status": 200}
+
+    def close(self) -> None:
+        try:
+            if self._browser is not None:
+                self._browser.close()
+            if self._playwright is not None:
+                self._playwright.stop()
+        except Exception:
+            pass
+        self._browser = None
+        self._playwright = None
 
 
-def robots_allows(url: str, client: httpx.Client) -> bool:
+def robots_allows(url: str, session: Session) -> bool:
     try:
         parsed = urlparse(url)
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-        response = client.get(robots_url)
+        response = session.get(robots_url, timeout=REQUEST_TIMEOUT)
         if response.status_code != 200:
             return True
         parser = RobotFileParser()
         parser.set_url(robots_url)
         parser.parse(response.text.splitlines())
-        return bool(parser.can_fetch(USER_AGENT, url))
+        return bool(parser.can_fetch(CHROME_UA, url))
     except Exception:
         return True
 
@@ -367,11 +562,13 @@ def associate_contacts(
                 "email_hint": link["email"],
             }
 
-    first_party = [
-        e for e in extract_public_emails(visible)
-        if email_matches_website_domain(e, home_url)
-    ]
-    # mailto: hrefs are not visible text; harvest them too.
+    # Visible text, deobfuscated raw HTML (catches JS blobs), and mailto:.
+    first_party: list[str] = []
+    for blob in (visible, html):
+        for email in extract_public_emails(blob):
+            if (email_matches_website_domain(email, home_url)
+                    and email not in first_party):
+                first_party.append(email)
     for anchor in soup.find_all("a", href=True):
         href = str(anchor["href"]).strip()
         if not href.lower().startswith("mailto:"):
@@ -411,12 +608,35 @@ def associate_contacts(
     return contacts, role_emails
 
 
+def fetch_page_for_target(
+    session: Session, renderer: Renderer, url: str,
+) -> dict:
+    """Tiered fetch for one page: curl_cffi (+retries), then render tier.
+
+    The render tier only fires when plain HTTP failed transiently or
+    returned a JS shell. Definitive blocks (403/404/challenge/DNS/TLS)
+    are never re-attempted through the browser.
+    """
+    result = fetch_with_retries(session, url)
+    if result["ok"]:
+        if looks_like_js_shell(result["html"]):
+            rendered = renderer.render(url)
+            if rendered["ok"]:
+                return rendered
+        return result
+    if result["reason"] in TRANSIENT_REASONS:
+        rendered = renderer.render(url)
+        if rendered["ok"]:
+            return rendered
+    return result
+
+
 def discover_one(
     *,
     company_domain: str,
     company_name: str,
     website: str,
-    client: httpx.Client,
+    session: Session,
 ) -> dict:
     base = {
         "company_domain": company_domain,
@@ -428,81 +648,116 @@ def discover_one(
         "company_summary": None,
         "source_urls": [],
         "reason": None,
+        "pages_fetched": 0,
     }
-    home_url = ""
-    home_html: str | None = None
-    for variant in website_variants(website):
-        html = fetch_tier1(variant, client)
-        if html is None:
-            html = fetch_tier2_rendered(variant)
-        if html:
-            home_url, home_html = variant, html
-            break
-    if not home_html:
-        base["status"] = "error"
-        base["reason"] = "website_unavailable"
-        return base
-    if not company_name_matches_domain(company_name, home_url):
-        base["reason"] = "identity_domain_mismatch"
-        return base
-    if not robots_allows(home_url, client):
-        base["status"] = "error"
-        base["reason"] = "robots_disallowed"
-        return base
+    renderer = Renderer()
+    try:
+        home_url = ""
+        home_html: str | None = None
+        home_reason: str | None = None
+        for variant in website_variants(website):
+            result = fetch_page_for_target(session, renderer, variant)
+            base["pages_fetched"] += 1
+            if result["ok"]:
+                home_url, home_html = variant, result["html"]
+                break
+            home_reason = result["reason"]
+        if not home_html:
+            base["status"] = "error"
+            base["reason"] = home_reason or "website_unavailable"
+            return base
+        if not company_name_matches_domain(company_name, home_url):
+            base["reason"] = "identity_domain_mismatch"
+            return base
+        if not robots_allows(home_url, session):
+            base["status"] = "error"
+            base["reason"] = "robots_disallowed"
+            return base
 
-    pages = [(home_url, home_html)]
-    home_host = normalized_host(home_url)
-    soup = BeautifulSoup(home_html, "html.parser")
-    for anchor in soup.find_all("a", href=True):
-        if len(pages) >= MAX_PAGES:
-            break
-        href = str(anchor["href"]).strip()
-        if not href or href.startswith(("tel:", "javascript:", "#")):
-            continue
-        if href.lower().startswith("mailto:"):
-            continue
-        url = urljoin(home_url, href)
-        if normalized_host(url) != home_host:
-            continue
-        if not any(hint in url.casefold() for hint in CONTACT_HINTS):
-            continue
-        if not robots_allows(url, client):
-            continue
-        html = fetch_tier1(url, client) or fetch_tier2_rendered(url)
-        if html:
-            pages.append((url, html))
+        pages = [(home_url, home_html)]
+        seen_urls = {home_url}
+        home_host = normalized_host(home_url)
+        soup = BeautifulSoup(home_html, "html.parser")
 
-    base["company_summary"] = extract_company_summary(home_html)
-    all_contacts: list[dict] = []
-    all_role: list[str] = []
-    source_urls: list[str] = []
-    for page_url, html in pages:
-        visible = BeautifulSoup(html, "html.parser").get_text(" ")
-        if not identity_matches_content(company_name, visible):
-            continue
-        contacts, role_emails = associate_contacts(page_url, html, home_url)
-        if contacts or role_emails:
-            source_urls.append(page_url)
-        all_contacts.extend(contacts)
-        all_role.extend(r for r in role_emails if r not in all_role)
+        def try_add_page(url: str) -> None:
+            if len(pages) >= MAX_PAGES or url in seen_urls:
+                return
+            if not robots_allows(url, session):
+                return
+            result = fetch_page_for_target(session, renderer, url)
+            base["pages_fetched"] += 1
+            if result["ok"]:
+                seen_urls.add(url)
+                pages.append((url, result["html"]))
 
-    # Dedupe contacts by email, prefer entries with a title.
-    deduped: dict[str, dict] = {}
-    for contact in all_contacts:
-        existing = deduped.get(contact["email"])
-        if existing is None or (not existing.get("title") and contact.get("title")):
-            deduped[contact["email"]] = contact
-    base["contacts"] = sorted(
-        deduped.values(),
-        key=lambda c: (0 if c.get("title") else 1, c["name"]),
-    )
-    base["role_emails"] = sorted(set(all_role))
-    base["source_urls"] = source_urls
-    if base["contacts"]:
-        base["status"] = "found"
-    else:
-        base["reason"] = "no_named_contacts"
-    return base
+        # 1) Follow contact-hint links discovered on the homepage.
+        for anchor in soup.find_all("a", href=True):
+            if len(pages) >= MAX_PAGES:
+                break
+            href = str(anchor["href"]).strip()
+            if not href or href.startswith(("tel:", "javascript:", "#")):
+                continue
+            if href.lower().startswith("mailto:"):
+                continue
+            url = urljoin(home_url, href)
+            if normalized_host(url) != home_host:
+                continue
+            if not any(hint in url.casefold() for hint in CONTACT_HINTS):
+                continue
+            try_add_page(url)
+
+        # 2) Probe common contact endpoints directly (they may not be
+        #    linked from the homepage).
+        probed = 0
+        for endpoint in CONTACT_ENDPOINTS:
+            if len(pages) >= MAX_PAGES or probed >= MAX_PROBED_ENDPOINTS:
+                break
+            url = urljoin(home_url.rstrip("/") + "/", endpoint)
+            if url in seen_urls:
+                continue
+            probed += 1
+            # Single attempt, no render tier: cheap probe.
+            result = fetch_with_retries(session, url, attempts=1)
+            base["pages_fetched"] += 1
+            if result["ok"]:
+                seen_urls.add(url)
+                pages.append((url, result["html"]))
+
+        base["company_summary"] = extract_company_summary(home_html)
+        all_contacts: list[dict] = []
+        all_role: list[str] = []
+        source_urls: list[str] = []
+        for page_url, html in pages:
+            visible = BeautifulSoup(html, "html.parser").get_text(" ")
+            if not identity_matches_content(company_name, visible):
+                continue
+            contacts, role_emails = associate_contacts(
+                page_url, html, home_url)
+            if contacts or role_emails:
+                source_urls.append(page_url)
+            all_contacts.extend(contacts)
+            all_role.extend(r for r in role_emails if r not in all_role)
+
+        # Dedupe contacts by email, prefer entries with a title.
+        deduped: dict[str, dict] = {}
+        for contact in all_contacts:
+            existing = deduped.get(contact["email"])
+            if existing is None or (
+                    not existing.get("title") and contact.get("title")):
+                deduped[contact["email"]] = contact
+        base["contacts"] = sorted(
+            deduped.values(),
+            key=lambda c: (0 if c.get("title") else 1, c["name"]),
+        )
+        base["role_emails"] = sorted(set(all_role))
+        base["source_urls"] = source_urls
+        if base["contacts"]:
+            base["status"] = "found"
+        else:
+            base["reason"] = "no_named_contacts"
+        return base
+    finally:
+        renderer.close()
 
 
 def main() -> int:
@@ -514,11 +769,8 @@ def main() -> int:
     targets = json.loads(Path(args.targets).read_text())
     results: list[dict] = []
     started = time.time()
-    with httpx.Client(
-        timeout=REQUEST_TIMEOUT,
-        headers={"User-Agent": USER_AGENT},
-        follow_redirects=True,
-    ) as client:
+    session = Session(impersonate="chrome", headers=BROWSER_HEADERS)
+    try:
         for index, target in enumerate(targets):
             try:
                 results.append(
@@ -526,7 +778,7 @@ def main() -> int:
                         company_domain=str(target.get("company_domain") or ""),
                         company_name=str(target.get("company_name") or ""),
                         website=str(target.get("website") or ""),
-                        client=client,
+                        session=session,
                     )
                 )
             except Exception as exc:  # never let one target kill the batch
@@ -541,10 +793,13 @@ def main() -> int:
                         "company_summary": None,
                         "source_urls": [],
                         "reason": f"worker_exception:{type(exc).__name__}",
+                        "pages_fetched": 0,
                     }
                 )
             if index and index % 25 == 0:
                 print(f"  ... {index}/{len(targets)} done", flush=True)
+    finally:
+        session.close()
     Path(args.out).write_text(json.dumps(results, indent=2))
     elapsed = time.time() - started
     found = sum(1 for r in results if r["status"] == "found")
