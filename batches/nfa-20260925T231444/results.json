@@ -1,0 +1,986 @@
+[
+  {
+    "company_domain": "carwoo.com",
+    "company_name": "CarWoo",
+    "website": "http://carwoo.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "catch.co",
+    "company_name": "Catch",
+    "website": "http://www.catch.co",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "help@catch.co",
+        "source_url": "http://www.catch.co/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "help@catch.co",
+        "source_url": "http://www.catch.co/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@catch.co",
+        "confidence": "highest",
+        "source_url": "http://www.catch.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o 6pm ET, Monday through Friday excluding federal holidays. help@catch.co 833-309-0500 (TTY 711) Help Follow us Blog Twitter Instagra"
+      },
+      {
+        "address": "partners@catch.co",
+        "confidence": "highest",
+        "source_url": "http://www.catch.co/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reach out to press@catch.co . For partnership inquiries, partners@catch.co . Email us Company About Partners Press Trust Licenses Lega"
+      },
+      {
+        "address": "press@catch.co",
+        "confidence": "highest",
+        "source_url": "http://www.catch.co/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "within one business day. For media inquiries, reach out to press@catch.co . For partnership inquiries, partners@catch.co . Email us"
+      }
+    ],
+    "role_emails": [
+      "help@catch.co",
+      "partners@catch.co",
+      "press@catch.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.catch.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.catch.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.catch.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.catch.co/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.catch.co/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.catch.co/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Enter your info. Share what's most important to you, like how you plan to use your health coverage.",
+    "source_urls": [
+      "http://www.catch.co",
+      "http://www.catch.co/contact",
+      "http://www.catch.co/about",
+      "http://www.catch.co/contact/",
+      "http://www.catch.co/about/",
+      "http://www.catch.co/press/"
+    ],
+    "reason": null,
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "catchbackcards.com",
+    "company_name": "CatchBack Cards",
+    "website": "https://catchbackcards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@catchbackcards.com",
+        "confidence": "high",
+        "source_url": "https://catchbackcards.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@catchbackcards.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://catchbackcards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://catchbackcards.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://catchbackcards.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rip packs of graded Pok\u00e9mon, One Piece, sports, and Riftbound cards with a guaranteed buyback: sell any pull back for 90% of market value within 5 minutes, or 80% anytime after. Build custom packs, battle head-to-head, trade in the $1-fee marketplace, and ship cards home from your vault.",
+    "source_urls": [
+      "https://catchbackcards.com",
+      "https://catchbackcards.com/contact",
+      "https://catchbackcards.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "chargerunning.com",
+    "company_name": "Charge Running",
+    "website": "http://www.chargerunning.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://www.chargerunning.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-08-18"
+      },
+      {
+        "url": "http://www.chargerunning.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-06-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.chargerunning.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "chariot.com",
+    "company_name": "Chariot",
+    "website": "http://chariot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "charm.cash",
+    "company_name": "Charm",
+    "website": "https://charm.cash/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Join Charm",
+        "title": null,
+        "email": "partners@charm.cash",
+        "source_url": "https://charm.cash/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Join Charm",
+        "title": null,
+        "email": "partners@charm.cash",
+        "source_url": "https://charm.cash/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "partners@charm.cash",
+        "confidence": "highest",
+        "source_url": "https://charm.cash/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@charm.cash",
+        "confidence": "highest",
+        "source_url": "https://charm.cash/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@charm.cash"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://charm.cash/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rewards for Regulars. One balance and shared rewards across the coffee shops you keep going back to \u2014 and every so often, one's on Charm. Starting in Wichita.",
+    "source_urls": [
+      "https://charm.cash/"
+    ],
+    "reason": null,
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "chestnutmortgage.com",
+    "company_name": "Chestnut",
+    "website": "https://chestnutmortgage.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@chestnutmortgage.com",
+        "confidence": "highest",
+        "source_url": "https://chestnutmortgage.com/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-12",
+        "context_snippet": "Detta, Inc. DBA Chestnut Mortgage (510) 756-5829 contact@chestnutmortgage.com 2261 Market St STE 86346 San Francisco, CA 94114"
+      }
+    ],
+    "role_emails": [
+      "contact@chestnutmortgage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://chestnutmortgage.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-12"
+      },
+      {
+        "url": "https://chestnutmortgage.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-12"
+      },
+      {
+        "url": "https://chestnutmortgage.com/locations",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-12"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "5.0-star rated mortgage company. AI cuts your rate ~0.5% and closes loans in 2-3 weeks. Get your personalized quote in under 2 minutes \u2014 no phone calls.",
+    "source_urls": [
+      "https://chestnutmortgage.com/",
+      "https://chestnutmortgage.com/about",
+      "https://chestnutmortgage.com/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "chillabit.io",
+    "company_name": "Chillabit",
+    "website": "https://chillabit.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://chillabit.io",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-27"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get the inside scoop on your campus with Chillabit! Hilarious and relatable stories from real students - in real time.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "chirply.com",
+    "company_name": "Chirply",
+    "website": "http://chirply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://www.chirply.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-07"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chirply makes everyday paper products, like greeting cards, notebooks, and wrapping paper, beautiful with the help of a community of amazing designers and people that love great design.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "classdojo.com",
+    "company_name": "ClassDojo",
+    "website": "http://www.classdojo.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Ask Security",
+        "title": null,
+        "email": "security@classdojo.com",
+        "source_url": "http://www.classdojo.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ask Security",
+        "title": null,
+        "email": "security@classdojo.com",
+        "source_url": "http://www.classdojo.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "press@classdojo.com",
+        "confidence": "highest",
+        "source_url": "http://www.classdojo.com/press/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "security@classdojo.com",
+        "confidence": "highest",
+        "source_url": "http://www.classdojo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "press@classdojo.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.classdojo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.classdojo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.classdojo.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.classdojo.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.classdojo.com/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.classdojo.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ClassDojo connects K-12 teachers with families. Free classroom communication, behavior tracking, and student portfolios. Used in 95% of US schools.",
+    "source_urls": [
+      "http://www.classdojo.com/contact",
+      "http://www.classdojo.com/press/",
+      "http://www.classdojo.com/contact/"
+    ],
+    "reason": null,
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "claytonfarms.com",
+    "company_name": "Nebullam (DBA Clayton Farms)",
+    "website": "http://ClaytonFarms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "helloia@claytonfarms.com",
+        "confidence": "highest",
+        "source_url": "http://ClaytonFarms.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10",
+        "context_snippet": "0010 Contact (319) 257-2528 helloia@claytonfarms.com Get directions Loading toda"
+      }
+    ],
+    "role_emails": [
+      "helloia@claytonfarms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://ClaytonFarms.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "http://ClaytonFarms.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-13"
+      },
+      {
+        "url": "http://ClaytonFarms.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://ClaytonFarms.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Clayton Farms: the best Healthy Food in Town and other locations. Order directly online today for takeout or delivery. Save money, support local business!",
+    "source_urls": [
+      "http://ClaytonFarms.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "cleanly.com",
+    "company_name": "Cleanly",
+    "website": "https://cleanly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "ByNext picks up, cleans, and delivers your laundry and dry cleaning across the United States \u2014 fast, reliable service, right to your door in 24\u201348 hours, 7 days a week.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "clearspace.org",
+    "company_name": "Clearspace",
+    "website": "https://clearspace.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://clearspace.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Clearspace families gain access to a 24/7 screen-time concierge, tailored to your family's needs. Designed for parents, by parents.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "clipboardworks.com",
+    "company_name": "Clipboard",
+    "website": "https://www.clipboardworks.com/careers",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@clipboardworks.com",
+        "confidence": "highest",
+        "source_url": "https://www.clipboardworks.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Articles Press Releases Videos Get in touch Media Inquiries press@clipboardworks.com All Other Inquiries clipboardworks.com/support Follow Clipb"
+      }
+    ],
+    "role_emails": [
+      "press@clipboardworks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.clipboardworks.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.clipboardworks.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.clipboardworks.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.clipboardworks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Join Us: You're the Key to Better Care and Brighter Futures. See open roles at Clipboard, how we hire, and what working here is actually like.",
+    "source_urls": [
+      "https://www.clipboardworks.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cloud.tv",
+    "company_name": "Mixwit",
+    "website": "http://cloud.tv",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "cocoon.com",
+    "company_name": "Cocoon",
+    "website": "http://cocoon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://cocoon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://cocoon.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://cocoon.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://cocoon.com/tools/in-house-leave-management-toolkit-landing",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://cocoon.com/blog/active-campaign-leave-management-customer-story",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://cocoon.com/blog/baggu-leave-management-cocoon-vs-competitor",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cocoon is an employee leave management software that automates the complexities of compliance, claims, and payroll for a seamless employee leave experience.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cocreate.so",
+    "company_name": "cocreate",
+    "website": "https://cocreate.so",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://cocreate.so",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cocreate syncs multicams, reads camera reports, labels scenes and takes, and builds edit-ready projects for Avid, DaVinci Resolve, Premiere Pro and Final Cut Pro.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "codec.io",
+    "company_name": "Codec",
+    "website": "https://codec.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://codec.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Codec is a tool to turn your everyday videos into movies.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "codecombat.com",
+    "company_name": "CodeCombat",
+    "website": "https://codecombat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://codecombat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codecombat.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codecombat.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codecombat.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codecombat.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "codecrafters.io",
+    "company_name": "CodeCrafters",
+    "website": "https://codecrafters.io",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Sarup Banskota",
+        "title": "Ceo",
+        "email": "sarup@codecrafters.io",
+        "source_url": "https://codecrafters.io/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sarup Banskota",
+        "title": "Ceo",
+        "email": "sarup@codecrafters.io",
+        "source_url": "https://codecrafters.io/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sarup@codecrafters.io",
+        "confidence": "highest",
+        "source_url": "https://codecrafters.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://codecrafters.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codecrafters.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build your own Redis, Git, SQLite, and more from scratch. Advanced challenges designed for experienced engineers, used by developers at Google, OpenAI, and Vercel.",
+    "source_urls": [
+      "https://codecrafters.io",
+      "https://codecrafters.io/about"
+    ],
+    "reason": null,
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "codewisp.ai",
+    "company_name": "CodeWisp",
+    "website": "https://codewisp.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://codewisp.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Go from idea to playable game in minutes with CodeWisp!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "cointracker.com",
+    "company_name": "CoinTracker",
+    "website": "https://cointracker.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://cointracker.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cointracker.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cointracker.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looking for accurate and fast crypto tax software? Calculate your crypto taxes, generate forms, and file directly with TurboTax, H&R Block, or your own CPA.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "collections.me",
+    "company_name": "Collections",
+    "website": "http://collections.me",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "750 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "collectpure.com",
+    "company_name": "Pure",
+    "website": "https://www.collectpure.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.collectpure.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore top deals on Gold, Silver, Platinum & Palladium Bullion. Discover rare numismatic coins. Enjoy fast, free shipping on orders over $10,000.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "commissary.club",
+    "company_name": "Commissary Club (formerly 70 Million Jobs)",
+    "website": "https://www.Commissary.Club",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.Commissary.Club",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.Commissary.Club/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.Commissary.Club/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.Commissary.Club/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.Commissary.Club/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Commissary Club is a supportive community helping people rebuild after incarceration \u2014 connect with peers, share milestones, and find jobs, housing, and resources.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  }
+]
