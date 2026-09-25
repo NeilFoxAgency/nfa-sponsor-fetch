@@ -289,9 +289,9 @@ def main() -> int:
             try:
                 results.append(
                     discover_one(
-                        business_id=str(target["business_id"]),
-                        business_name=str(target["business_name"]),
-                        website=str(target["website"]),
+                        business_id=str(target.get("business_id") or ""),
+                        business_name=str(target.get("business_name") or ""),
+                        website=str(target.get("website") or ""),
                         client=client,
                     )
                 )
