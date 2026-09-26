@@ -135,16 +135,20 @@ UA_PROFILES = [
 ]
 
 REQUEST_TIMEOUT = 20.0
-MAX_PAGES = 8
+MAX_PAGES = 10
 
 # Common contact endpoints probed directly, crawled early in page order
 # (Fox addition: /about, /team, /contact, /press first).
+# Common contact endpoints probed directly, crawled early in page order.
+# Team/press/about first: that is where named people are published
+# (Fox audit 2026-09-26: named-contact yield was ~16% while ~48% of sites
+# had some first-party email; the gap was name<->email association).
 CONTACT_ENDPOINTS = (
-    "contact", "contact-us", "about", "about-us", "team", "our-team",
-    "meet-the-team", "press", "media", "support", "help", "company",
-    "who-we-are", "get-in-touch",
+    "team", "our-team", "meet-the-team", "about", "about-us",
+    "press", "media", "contact", "contact-us", "company",
+    "who-we-are", "support", "help", "get-in-touch",
 )
-MAX_PROBED_ENDPOINTS = 4
+MAX_PROBED_ENDPOINTS = 8
 
 CONTACT_HINTS = (
     "contact", "about", "about-us", "team", "our-team", "people", "staff",
@@ -786,6 +790,9 @@ def find_titled_people(html: str) -> list[dict]:
         if i > 0:
             candidates += [n for n in _names_in_line(lines[i - 1])
                            if n not in candidates]
+        if i + 1 < len(lines):
+            candidates += [n for n in _names_in_line(lines[i + 1])
+                           if n not in candidates]
         for name in candidates:
             if name.lower() not in seen:
                 seen.add(name.lower())
@@ -813,10 +820,20 @@ def mailto_hits(html: str) -> list[dict]:
 
 def local_part_matches_name(email: str, name: str) -> bool:
     local = email.split("@", 1)[0].lower().replace(".", "").replace("_", "").replace("-", "")
-    first = name.split()[0].lower()
-    if len(first) < 3 or len(local) < 3:
+    parts = name.split()
+    first = parts[0].lower()
+    last = parts[-1].lower()
+    if len(local) < 3:
         return False
-    return local.startswith(first) or first.startswith(local)
+    # first-name prefix (jane@, janedoe@), last-name forms (jsmith@,
+    # smith@), and initial combos (js@, jd@). All evidence-based: the
+    # name is published on the page and the local part is derived
+    # from that same name; nothing is pattern-guessed.
+    candidates = {first, last, first[0] + last, first + last[0]}
+    for cand in candidates:
+        if len(cand) >= 3 and (local.startswith(cand) or cand.startswith(local)):
+            return True
+    return False
 
 
 def associate_contacts(
@@ -906,6 +923,57 @@ def associate_contacts(
             "title": person.get("title"),
             "email": email,
             "source_url": page_url,
+        })
+
+    # Proximity association (Fox audit 2026-09-26): for emails still
+    # unassociated, attach the nearest person-name published within
+    # PROXIMITY_WINDOW chars in the visible text. Both the name and the
+    # email are published on the page near each other; nothing is
+    # guessed. Conservative gate: the name must be a titled person
+    # found on this page, or a title keyword must appear near the email.
+    PROXIMITY_WINDOW = 300
+    titled_names = {p["name"].lower() for p in titled}
+    name_positions: list[tuple[int, str]] = []
+    for m in NAME_RE.finditer(visible):
+        nm = _clean_name(m.group(1))
+        if nm:
+            name_positions.append((m.start(), nm))
+    title_positions = []
+    for kw in TITLE_KEYWORDS:
+        for m in re.finditer(rf"\b{re.escape(kw)}\b", visible, re.IGNORECASE):
+            title_positions.append(m.start())
+    for email in sorted(hits):
+        if email in used_emails:
+            continue
+        best: tuple[int, str] | None = None
+        email_pos: int | None = None
+        for em in re.finditer(re.escape(email), visible):
+            pos = em.start()
+            if email_pos is None:
+                email_pos = pos
+            for npos, nm in name_positions:
+                dist = abs(npos - pos)
+                if dist <= PROXIMITY_WINDOW and (
+                        best is None or dist < best[0]):
+                    best = (dist, nm)
+        if not best or email_pos is None:
+            continue
+        _dist, nm = best
+        key = nm.lower()
+        if key in people_by_name and people_by_name[key].get("email_hint"):
+            continue
+        near_title = any(abs(tp - email_pos) <= PROXIMITY_WINDOW
+                         for tp in title_positions)
+        if key not in titled_names and not near_title:
+            continue
+        used_emails.add(email)
+        existing = people_by_name.get(key)
+        people.append({
+            "name": nm,
+            "title": existing.get("title") if existing else None,
+            "email": email,
+            "source_url": page_url,
+            "association": "proximity",
         })
 
     role_emails = sorted(e for e in hits if e not in used_emails)
