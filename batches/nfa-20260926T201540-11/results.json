@@ -1,0 +1,1298 @@
+[
+  {
+    "company_domain": "6ku.com",
+    "company_name": "6KU Bikes",
+    "website": "https://www.6ku.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "6throne.com",
+    "company_name": "6throne",
+    "website": "https://6throne.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://6throne.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6throne.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://6throne.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "6throne is more than a barbershop. It's a brand built on purpose.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "6thsensefishing.com",
+    "company_name": "6th Sense Fishing",
+    "website": "https://6thsensefishing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@6thsensefishing.com",
+        "confidence": "highest",
+        "source_url": "https://6thsensefishing.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s & Exchanges Feedback survey Email us: CustomerService@6thsensefishing.com Call us: 936.228.7454 Return Address: 6th Sense Fishing 121"
+      },
+      {
+        "address": "info@6thsensefishing.com",
+        "confidence": "high",
+        "source_url": "https://6thsensefishing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@6thsensefishing.com",
+      "info@6thsensefishing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://6thsensefishing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6thsensefishing.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6thsensefishing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop premium fishing gear designed for every angler, from weekend trips to serious pursuits. Innovative lures, rods, and apparel built to perform. Free U.S. shipping on $50+.",
+    "source_urls": [
+      "https://6thsensefishing.com",
+      "https://6thsensefishing.com/pages/about-us",
+      "https://6thsensefishing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "704shop.com",
+    "company_name": "704 Shop",
+    "website": "https://704shop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://704shop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://704shop.com/collections/featured-products/products/704-national-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://704shop.com/collections/featured-products/products/704-national-team?variant=45750765453395",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://704shop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://704shop.com/pages/contact-us",
+        "action": "/contact#contact-template--16269425803347__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop 704 Shop for Charlotte-inspired apparel, hats, accessories, and more. Rep the Queen City with original designs made for those who call the 704 home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "707street.com",
+    "company_name": "707 Street",
+    "website": "https://707street.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@707street.com",
+        "confidence": "high",
+        "source_url": "https://707street.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "for the fastest service, feel free to send us an email at hello@707street.com or you can inquire with a message below. Please input your"
+      }
+    ],
+    "role_emails": [
+      "hello@707street.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://707street.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://707street.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://707street.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://707street.com/pages/contact-us",
+        "action": "/contact#contact-template--27791763243053__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "707 Street is a proud authorized Loungefly retailer. We carry Loungefly mini backpacks, accessories, and even our own 707 Street Loungefly exclusives! We offer free shipping within the US! Style your favorite fandoms from Disney, Marvel, Star Wars, Harry Potter, DC Comics, Anime, Pixar, and more!",
+    "source_urls": [
+      "https://707street.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "70mai.store",
+    "company_name": "70mai",
+    "website": "https://70mai.store",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://70mai.store",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://70mai.store/products/air-compressor-tp03",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://70mai.store/products/air-compressor-tp05",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://70mai.store/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://70mai.store/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://70mai.store/collections/air-compressor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://70mai.store/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "70mai specializes in dashboard cameras that enhance the driving experience with clear road recordings. Our dash cams range from beginner-friendly models to premium 4K cameras with smart features. We also offer car accessories catering to other driving aspects.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "710labs.com",
+    "company_name": "710 Labs",
+    "website": "https://shop.710labs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.710labs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "710 Labs Merch and accessories. Terp Cooler, Dab cards, hoodies, t shirts, glass, rigs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "7115byszeki.com",
+    "company_name": "7115 by Szeki",
+    "website": "https://www.7115byszeki.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.7115byszeki.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7115byszeki.com/pages/shipping-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7115byszeki.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7115byszeki.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7115byszeki.com/pages/shipping-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7115byszeki.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "7115 - An inclusive and pragmatic approach to women\u2019s apparel design. Focusing on Aesthetic, Quality and Attainability.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "717supply.com",
+    "company_name": "717 Supply",
+    "website": "https://717supply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@717supply.com",
+        "confidence": "high",
+        "source_url": "https://717supply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Skip to content Need Help? | Help@717Supply.com | 717-727-1790 717 SUPPLY Open navigation"
+      }
+    ],
+    "role_emails": [
+      "help@717supply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://717supply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://717supply.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://717supply.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://717supply.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Win dream cars & Trucks & Vacations with cash at 717 Supply! Every purchase enters our monthly vehicle sweepstakes, Dream vacations and money. Support K9 heroes. Join now! \ud83c\udfc1",
+    "source_urls": [
+      "https://717supply.com",
+      "https://717supply.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "723vapor.com",
+    "company_name": "723 Vapor",
+    "website": "https://723vapor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://723vapor.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-14"
+      },
+      {
+        "url": "https://723vapor.com/pages/locations",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-10"
+      },
+      {
+        "url": "https://723vapor.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://723vapor.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your local vapor shop with the largest selection an and lowest prices on e-liquids, vapor hardware and coils.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "737duckcalls.com",
+    "company_name": "737 Duck Calls",
+    "website": "https://737duckcalls.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@737duckcalls.com",
+        "confidence": "high",
+        "source_url": "https://737duckcalls.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "E-mail Message Submit Contact information Email: sales@737duckcalls.com Phone: (405) 303-1396 Address: 2400 W. Wrangler Blvd. Semin"
+      }
+    ],
+    "role_emails": [
+      "sales@737duckcalls.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://737duckcalls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://737duckcalls.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-19"
+      },
+      {
+        "url": "https://737duckcalls.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://737duckcalls.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://737duckcalls.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "737 Duck Calls produces the highest quality waterfowl calls on the market. We have a variety of duck and goose calls for hunters of all levels, and we also offer custom engraving on any call!",
+    "source_urls": [
+      "https://737duckcalls.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "770finejewelry.com",
+    "company_name": "770 Fine Jewelry",
+    "website": "https://www.770finejewelry.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "info@770finejewelry.com",
+        "source_url": "https://www.770finejewelry.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "info@770finejewelry.com",
+        "source_url": "https://www.770finejewelry.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@770finejewelry.com",
+        "confidence": "highest",
+        "source_url": "https://www.770finejewelry.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.770finejewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.770finejewelry.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.770finejewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.770finejewelry.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Where Affordable + Fine Jewelry Meet",
+    "source_urls": [
+      "https://www.770finejewelry.com",
+      "https://www.770finejewelry.com/pages/about",
+      "https://www.770finejewelry.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "776bc.com",
+    "company_name": "776BC International",
+    "website": "https://776bc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@776bc.com",
+        "confidence": "high",
+        "source_url": "https://776bc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@776bc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://776bc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://776bc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://776bc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop a range of specialised performance garments, 776BC is developed, tested and endorsed by the world\u2019s best athletes for rowing, kayaking, cycling and training.",
+    "source_urls": [
+      "https://776bc.com",
+      "https://776bc.com/pages/about-us",
+      "https://776bc.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "786cosmetics.com",
+    "company_name": "786 Cosmetics",
+    "website": "https://786cosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@786cosmetics.com",
+        "confidence": "high",
+        "source_url": "https://786cosmetics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need Help? We're here for you hello@786cosmetics.com Worldwide Shipping"
+      },
+      {
+        "address": "ibrahim@786cosmetics.com",
+        "confidence": "high",
+        "source_url": "https://786cosmetics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eibrahim@786cosmetics.com",
+        "confidence": "high",
+        "source_url": "https://786cosmetics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@786cosmetics.com",
+      "ibrahim@786cosmetics.com",
+      "u003eibrahim@786cosmetics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://786cosmetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://786cosmetics.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://786cosmetics.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://786cosmetics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Water-permeable, breathable nail polish in modern, wearable shades. 21-free formula, rich pigment, high-gloss finish. Designed for healthy nails and effortless color.",
+    "source_urls": [
+      "https://786cosmetics.com",
+      "https://786cosmetics.com/about",
+      "https://786cosmetics.com/contact",
+      "https://786cosmetics.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "7amenfant.com",
+    "company_name": "7AM Enfant",
+    "website": "https://www.7amenfant.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7amenfant.com",
+        "confidence": "high",
+        "source_url": "https://www.7amenfant.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ine Contact Us Contact Mail : info@7amenfant.com Address : Brooklyn, NY 11213 stroll in"
+      }
+    ],
+    "role_emails": [
+      "info@7amenfant.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7amenfant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7amenfant.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Winter must-have accessories for keeping baby safe, warm & chic on any given stroll. It is possible to snuggle your way through winter - we make sure of it.",
+    "source_urls": [
+      "https://www.7amenfant.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "7and3coffee.com",
+    "company_name": "7&3 Coffee",
+    "website": "https://7and3coffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "7bucksapop.com",
+    "company_name": "7 Bucks a Pop",
+    "website": "https://7bucksapop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://7bucksapop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7bucksapop.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7bucksapop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7bucksapop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "7 Bucks A Pop is an online Funko Pop store created for collectors with the largest and best selection of Vinyl Pop figures at the lowest prices.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7collection.com",
+    "company_name": "7Collection\u2122",
+    "website": "https://7collection.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://7collection.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the 7Collection, your destination for all 7-Eleven t-shirts, hoodies, jackets, headwear, accessories, and more. New limited release collections drop every month inspired by our legacy and the community.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "7daycolonbreeze.com",
+    "company_name": "Colon Breeze",
+    "website": "https://7daycolonbreeze.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "7dazemfg.com",
+    "company_name": "7 DAZE",
+    "website": "https://7dazemfg.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7dazemfg.com",
+        "confidence": "highest",
+        "source_url": "https://7dazemfg.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@7dazemfg.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://7dazemfg.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7dazemfg.com/pages/contact-7daze",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A leading U.S. cGMP manufacturer providing A-to-Z services from flavor development to e-liquid production, filling, and packaging. We produce top brands including Reds Apple E-Liquid, Fusion Ejuice, and Rinn Bar with ISO-certified quality.",
+    "source_urls": [
+      "https://7dazemfg.com",
+      "https://7dazemfg.com/pages/contact-7daze"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "7diamonds.com",
+    "company_name": "7Diamonds",
+    "website": "https://www.7diamonds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@7diamonds.com",
+        "confidence": "highest",
+        "source_url": "https://www.7diamonds.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-02-08",
+        "context_snippet": "Contact Us Phone: 877-577-1963 Email: customerservice@7diamonds.com Live Chat: Click Here Contact Information"
+      },
+      {
+        "address": "pr@7diamonds.com",
+        "confidence": "highest",
+        "source_url": "https://www.7diamonds.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Friday 9:00am- 5:00pm PT customer-service PR Inquiries pr@7diamonds.com Customer Service Plus Contact Us Returns & Exchanges FAQ Ou"
+      }
+    ],
+    "role_emails": [
+      "customerservice@7diamonds.com",
+      "pr@7diamonds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7diamonds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7diamonds.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-05"
+      },
+      {
+        "url": "https://www.7diamonds.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-02-08"
+      },
+      {
+        "url": "https://www.7diamonds.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7diamonds.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.7diamonds.com/contact",
+        "action": "http://www.7diamonds.com/contacts/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since our beginning in Los Angeles in 2000, 7DIAMONDS has been recognized as a fashion-forward lifestyle brand with a focus on premium products, sophist...",
+    "source_urls": [
+      "https://www.7diamonds.com/contact",
+      "https://www.7diamonds.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7ewellness.com",
+    "company_name": "7E Wellness",
+    "website": "https://www.7ewellness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7ewellness.com",
+        "confidence": "high",
+        "source_url": "https://www.7ewellness.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1 888 412 3160 Direct : + 1 858 657 9226 Email Us Email : info@7ewellness.com Chat With Us Click on bottom right Chat Icon and our cust"
+      }
+    ],
+    "role_emails": [
+      "info@7ewellness.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7ewellness.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7ewellness.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7ewellness.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7ewellness.com/blogs/news-and-press-release",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7ewellness.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7ewellness.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Revolutionize your skincare routine with our best microcurrent facial device. Elevate your beauty regimen using the power of our cutting-edge microcurrent machine. Discover the future of skincare with our top-rated myolift microcurrent facial machine today.",
+    "source_urls": [
+      "https://www.7ewellness.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "7eye.com",
+    "company_name": "7eye by Panoptx",
+    "website": "https://7eye.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7eye.com",
+        "confidence": "high",
+        "source_url": "https://7eye.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@7eye.com",
+        "confidence": "high",
+        "source_url": "https://7eye.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@7eye.com",
+      "support@7eye.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://7eye.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7eye.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-12"
+      },
+      {
+        "url": "https://7eye.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7eye.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7eye.com/pages/7eye-by-panoptx-company-facts",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://7eye.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop 7eye performance motorcycle eyewear, wind-blocking sunglasses, prescription-ready riding glasses, and ANSI Z87.1 safety eyewear. Protect your eyes from wind, dust, debris, and airborne irritants with durable sealed eyewear built for riders, motorsports, outdoor work, and dry eye relief.",
+    "source_urls": [
+      "https://7eye.com",
+      "https://7eye.com/pages/contact-us",
+      "https://7eye.com/pages/about-us",
+      "https://7eye.com/pages/7eye-by-panoptx-company-facts"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "7forallmankind.com",
+    "company_name": "7 For All Mankind",
+    "website": "https://7forallmankind.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://7forallmankind.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7forallmankind.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-09-26"
+      },
+      {
+        "url": "https://7forallmankind.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-07-05"
+      },
+      {
+        "url": "https://7forallmankind.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7forallmankind.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://7forallmankind.com/contact",
+        "action": "https://www.7forallmankind.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your wardrobe with our exclusive denim collection. Experience the comfort and style of our premium denim. Shop today and find your fit!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7kroping.com",
+    "company_name": "7K Roping",
+    "website": "https://7kroping.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "7k@7kroping.com",
+        "confidence": "high",
+        "source_url": "https://7kroping.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "7k@7kroping.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://7kroping.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7kroping.com/pages/meet-the-7k-roping-pro-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7kroping.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7kroping.com/pages/7k-select-team-application",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7kroping.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://7kroping.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premier training equipment for team ropers, breakaway ropers, tie-down ropers, goat tyers, horse trainers, ranchers, cowboys and cowgirls. The Rope Something Total Training System offers features and options that can be tailored to your training program.",
+    "source_urls": [
+      "https://7kroping.com",
+      "https://7kroping.com/pages/meet-the-7k-roping-pro-team",
+      "https://7kroping.com/pages/contact",
+      "https://7kroping.com/pages/7k-select-team-application",
+      "https://7kroping.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  }
+]
