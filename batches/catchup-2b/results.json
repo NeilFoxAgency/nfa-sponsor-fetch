@@ -1,0 +1,928 @@
+[
+  {
+    "company_domain": "bluesmart.com",
+    "company_name": "Bluesmart",
+    "website": "http://bluesmart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://bluesmart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bluesmart.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-30"
+      },
+      {
+        "url": "http://bluesmart.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-15"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Smart Luggage",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "boldvoice.com",
+    "company_name": "BoldVoice",
+    "website": "https://boldvoice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@boldvoice.com",
+        "confidence": "highest",
+        "source_url": "https://boldvoice.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@boldvoice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boldvoice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boldvoice.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BoldVoice is an accent training app that helps non-native English speakers speak clearly and confidently. Users learn with video lessons from Hollywood accent coaches, and get instant feedback as they speak from our speech Artificial Intelligence.",
+    "source_urls": [
+      "https://boldvoice.com",
+      "https://boldvoice.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "boostedboards.com",
+    "company_name": "Boosted",
+    "website": "http://boostedboards.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Community @boostedboards.com",
+        "title": null,
+        "email": "community@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Orders @boostedboards.com",
+        "title": null,
+        "email": "orders@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Press @boostedboards.com",
+        "title": null,
+        "email": "press@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Service @boostedboards.com",
+        "title": null,
+        "email": "service@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      }
+    ],
+    "people": [
+      {
+        "name": "Community @boostedboards.com",
+        "title": null,
+        "email": "community@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Orders @boostedboards.com",
+        "title": null,
+        "email": "orders@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Press @boostedboards.com",
+        "title": null,
+        "email": "press@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      },
+      {
+        "name": "Service @boostedboards.com",
+        "title": null,
+        "email": "service@boostedboards.com",
+        "source_url": "http://boostedboards.com/support"
+      }
+    ],
+    "emails": [
+      {
+        "address": "community@boostedboards.com",
+        "confidence": "highest",
+        "source_url": "http://boostedboards.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-16",
+        "context_snippet": "l other questions, thoughts, and ideas please contact us at community@boostedboards.com. We are also available via phone at (650) 933-5151 Monday"
+      },
+      {
+        "address": "orders@boostedboards.com",
+        "confidence": "highest",
+        "source_url": "http://boostedboards.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-16",
+        "context_snippet": "cated in the FAQ under \u201cshipping\u201d or contact us directly at orders@boostedboards.com. For all press inquiries please contact us at press@boost"
+      },
+      {
+        "address": "press@boostedboards.com",
+        "confidence": "highest",
+        "source_url": "http://boostedboards.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-16",
+        "context_snippet": "dboards.com. For all press inquiries please contact us at press@boostedboards.com. For all other questions, thoughts, and ideas please cont"
+      },
+      {
+        "address": "service@boostedboards.com",
+        "confidence": "highest",
+        "source_url": "http://boostedboards.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-16",
+        "context_snippet": "with maintenance or service, please contact us directly at service@boostedboards.com. If you have questions about the status of your reservati"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://boostedboards.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-17"
+      },
+      {
+        "url": "http://boostedboards.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-15"
+      },
+      {
+        "url": "http://boostedboards.com/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Boosted is on a mission to make cities feel smaller, campuses more accessible, and commutes more enjoyable with high-quality electric skateboards & scooters.",
+    "source_urls": [
+      "http://boostedboards.com/support"
+    ],
+    "reason": null,
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "booth.ai",
+    "company_name": "Booth AI",
+    "website": "https://booth.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "bop.fm",
+    "company_name": "Bop.fm",
+    "website": "http://bop.fm",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bottomless.com",
+    "company_name": "Bottomless",
+    "website": "https://bottomless.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bottomless.com",
+        "confidence": "highest",
+        "source_url": "https://bottomless.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ters Gifts Company Blog Privacy Policy Terms of Use Contact hello@bottomless.com Seattle, WA 8am-10pm PST, 7 days Back to top \u00a9 2025 Bottom"
+      },
+      {
+        "address": "liana@bottomless.com",
+        "confidence": "highest",
+        "source_url": "https://bottomless.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@bottomless.com",
+        "confidence": "highest",
+        "source_url": "https://bottomless.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sit our Shop Choose Coffee Contact our support team Email: support@bottomless.com Text: +12062600782 Making subscriptions easier with AI-pow"
+      }
+    ],
+    "role_emails": [
+      "hello@bottomless.com",
+      "liana@bottomless.com",
+      "support@bottomless.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottomless.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottomless.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottomless.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottomless.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-10"
+      },
+      {
+        "url": "https://bottomless.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get your favorite coffee or build a custom Bottomless rotation.",
+    "source_urls": [
+      "https://bottomless.com",
+      "https://bottomless.com/contact",
+      "https://bottomless.com/contact-us",
+      "https://bottomless.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "bountii.com",
+    "company_name": "Bountii",
+    "website": "http://bountii.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "breakaway.app",
+    "company_name": "The Breakaway",
+    "website": "https://www.breakaway.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@breakaway.app",
+        "confidence": "highest",
+        "source_url": "https://www.breakaway.app/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Reach out and let us know what you think. Or write us at: info@breakaway.app We are a company Copyright 2025 Breakaway Industries, Lt"
+      }
+    ],
+    "role_emails": [
+      "info@breakaway.app"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.breakaway.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakaway.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unlock the joy of improvement with the premiere platform for connecting cyclists to power, motivation and insights.",
+    "source_urls": [
+      "https://www.breakaway.app/",
+      "https://www.breakaway.app/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "breaker.audio",
+    "company_name": "Breaker",
+    "website": "https://www.breaker.audio",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.breaker.audio",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-04"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Breaker: The social podcast app.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "breaks.nu",
+    "company_name": "Zigfu",
+    "website": "http://breaks.nu",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "browse.dev",
+    "company_name": "Meteor",
+    "website": "https://browse.dev",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "browserbuddy.com",
+    "company_name": "Browser Buddy",
+    "website": "https://www.browserbuddy.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.browserbuddy.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover interesting essays and personal sites with Browser Buddy",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "browseros.com",
+    "company_name": "BrowserOS",
+    "website": "https://BrowserOS.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://BrowserOS.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BrowserOS neo, formerly BrowserClaw, is a local, open-source browser your AI agents (Claude, Cowork, Codex, Cursor) drive using your logged-in accounts. Watch every step, run agents in parallel, replay any session. Free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "buildoutfit.com",
+    "company_name": "Outfit",
+    "website": "https://buildoutfit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buildoutfit.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We give you instructions, tools, and materials \u2014 \u00a0everything you need to become the expert .",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "buildwithstar.com",
+    "company_name": "Star",
+    "website": "https://buildwithstar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buildwithstar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Star builds real games from a description: multiplayer servers, leaderboards, and hosting included. Export to itch.io or Windows anytime.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "buildzoom.com",
+    "company_name": "BuildZoom",
+    "website": "https://www.buildzoom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "data@buildzoom.com",
+        "confidence": "high",
+        "source_url": "https://www.buildzoom.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-31",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "data@buildzoom.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buildzoom.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-31"
+      },
+      {
+        "url": "https://www.buildzoom.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-28"
+      },
+      {
+        "url": "https://www.buildzoom.com/contractor/valverde-company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-05"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Save time, money & frustration. Find a contractor for home remodeling or new construction building projects with our independent online contractor matching website. We consider company reviews, licenses and government permit data to find you the best.",
+    "source_urls": [
+      "https://www.buildzoom.com",
+      "https://www.buildzoom.com/contractor/valverde-company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "bulletin.co",
+    "company_name": "Bulletin",
+    "website": "https://bulletin.co",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bumptechnologies.com",
+    "company_name": "Bump",
+    "website": "http://bumptechnologies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://bumptechnologies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bump is no longer available. We'd like to extend a special thank you to all of you who used Bump. Read more...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "burrow.com",
+    "company_name": "Burrow",
+    "website": "http://www.burrow.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: support@burrow.com",
+        "title": null,
+        "email": "support@burrow.com",
+        "source_url": "http://www.burrow.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: support@burrow.com",
+        "title": null,
+        "email": "support@burrow.com",
+        "source_url": "http://www.burrow.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@burrow.com",
+        "confidence": "highest",
+        "source_url": "http://www.burrow.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "The Citizenry St. Frank Contact Customer Experience Email: support@burrow.com Hours: Monday to Friday: 10a - 6p EST Saturday to Sunday: 1"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://www.burrow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.burrow.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.burrow.com/products/opera-media-console",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.burrow.com/collections/credenzas-media-storage",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burrow.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.burrow.com/products/opera-media-console?Wood+Finish=Oak+-+Wood",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop modular furniture designed for modern living. Customizable sofas, sectionals, and storage with tool-free assembly, performance fabrics, and endless configurations.",
+    "source_urls": [
+      "http://www.burrow.com",
+      "http://www.burrow.com/about",
+      "http://www.burrow.com/products/opera-media-console",
+      "http://www.burrow.com/collections/credenzas-media-storage",
+      "https://burrow.com/about",
+      "http://www.burrow.com/products/opera-media-console?Wood+Finish=Oak+-+Wood"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "buttersystems.com",
+    "company_name": "Butter Systems",
+    "website": "http://buttersystems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "This domain may be for sale",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "bytekitchen.io",
+    "company_name": "Byte Kitchen",
+    "website": "https://www.bytekitchen.io/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bytekitchen.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bytekitchen.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bytekitchen.io/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bytekitchen.io/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ByteKitchen is a next-gen operating system for the best restaurants across the U.S. Created by operators and for operators, we help restaurants drive profitability and consistency across fast-casual and quick service restaurants.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "capway.com",
+    "company_name": "CapWay",
+    "website": "http://www.CapWay.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://www.CapWay.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.CapWay.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://capway.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.CapWay.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://capway.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Thank You for Supporting CapWay We want to express our heartfelt gratitude to everyone who supported CapWay and joined us [\u2026]",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "cardpool.com",
+    "company_name": "Cardpool",
+    "website": "http://cardpool.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Apply Today",
+        "title": null,
+        "email": "jobs@cardpool.com",
+        "source_url": "http://cardpool.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Apply Today",
+        "title": null,
+        "email": "jobs@cardpool.com",
+        "source_url": "http://cardpool.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jobs@cardpool.com",
+        "confidence": "highest",
+        "source_url": "http://cardpool.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-07",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://cardpool.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-08-16"
+      },
+      {
+        "url": "http://cardpool.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-07"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cardpool",
+    "source_urls": [
+      "http://cardpool.com/about"
+    ],
+    "reason": null,
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "carlypso.com",
+    "company_name": "Carlypso",
+    "website": "http://carlypso.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://carlypso.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://carlypso.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://carlypso.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://carlypso.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://carlypso.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "OLXTOTO adalah platform bandar toto Macau resmi yang telah berdiri sejak 2014. Sebagai pelopor dalam industri togel online di Indonesia, OLXTOTO menawarkan pengalaman bermain yang aman, terpercaya, dan penuh peluang.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "carsabi.com",
+    "company_name": "Carsabi",
+    "website": "http://carsabi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  }
+]
