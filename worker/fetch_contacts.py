@@ -702,16 +702,51 @@ class Renderer:
         self._playwright = None
 
 
-def robots_allows(url: str, session: Session, user_agent: str) -> bool:
+def _robots_parser(
+    robots_url: str,
+    session: Session,
+    cache: dict[str, RobotFileParser | None],
+) -> RobotFileParser | None:
+    """Fetch and parse a robots.txt once per origin.
+
+    Returns None when the origin has no usable robots.txt (allow all) or it
+    cannot be fetched/parsed. Parsed results are cached per robots.txt URL
+    so checking every page of a site costs one robots.txt fetch, not one
+    fetch per page.
+    """
+    if robots_url in cache:
+        return cache[robots_url]
+    parser: RobotFileParser | None = None
+    try:
+        response = session.get(robots_url, timeout=REQUEST_TIMEOUT)
+        if response.status_code == 200:
+            parser = RobotFileParser()
+            parser.set_url(robots_url)
+            parser.parse(response.text.splitlines())
+    except Exception:
+        parser = None
+    cache[robots_url] = parser
+    return parser
+
+
+def robots_allows(
+    url: str,
+    session: Session,
+    user_agent: str,
+    cache: dict[str, RobotFileParser | None] | None = None,
+) -> bool:
+    """True when the site's robots.txt permits fetching url.
+
+    robots.txt is fetched once per origin (via cache); fetch/parse failures
+    default to allow, matching conventional crawler behavior.
+    """
     try:
         parsed = urlparse(url)
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-        response = session.get(robots_url, timeout=REQUEST_TIMEOUT)
-        if response.status_code != 200:
+        parser = _robots_parser(robots_url, session,
+                                cache if cache is not None else {})
+        if parser is None:
             return True
-        parser = RobotFileParser()
-        parser.set_url(robots_url)
-        parser.parse(response.text.splitlines())
         return bool(parser.can_fetch(user_agent, url))
     except Exception:
         return True
@@ -975,12 +1010,22 @@ def discover_one(
     }
     renderer = Renderer(user_agent)
     try:
+        # robots.txt is checked BEFORE any live URL is fetched (homepage
+        # variants, probed contact endpoints, and discovered links alike);
+        # honoring it "for every live URL fetched" is a hard line of this
+        # worker. Parsed robots rules are cached per origin so the checks
+        # cost one robots.txt fetch per site.
+        robots_cache: dict[str, RobotFileParser | None] = {}
         home_url = ""
         home_html: str | None = None
         home_source = "live"
         home_snapshot: str | None = None
         home_reason: str | None = None
         for variant in website_variants(website):
+            if not robots_allows(variant, session, user_agent, robots_cache):
+                base["status"] = "error"
+                base["reason"] = "robots_disallowed"
+                return base
             result = fetch_page_for_target(session, renderer, variant)
             base["pages_fetched"] += 1
             if result["ok"]:
@@ -996,10 +1041,6 @@ def discover_one(
         if not company_name_matches_domain(company_name, home_url):
             base["reason"] = "identity_domain_mismatch"
             return base
-        if not robots_allows(home_url, session, user_agent):
-            base["status"] = "error"
-            base["reason"] = "robots_disallowed"
-            return base
 
         pages = [(home_url, home_html, home_source, home_snapshot)]
         seen_urls = {home_url}
@@ -1008,7 +1049,7 @@ def discover_one(
         def try_add_page(url: str) -> None:
             if len(pages) >= MAX_PAGES or url in seen_urls:
                 return
-            if not robots_allows(url, session, user_agent):
+            if not robots_allows(url, session, user_agent, robots_cache):
                 return
             result = fetch_page_for_target(session, renderer, url)
             base["pages_fetched"] += 1
@@ -1028,6 +1069,10 @@ def discover_one(
             if url in seen_urls:
                 continue
             probed += 1
+            if not robots_allows(url, session, user_agent, robots_cache):
+                # Disallowed endpoint: never fetched, same as disallowed
+                # discovered links in try_add_page.
+                continue
             # Cheap single-attempt probe; archive fallback still applies.
             result = fetch_page_for_target(session, renderer, url)
             base["pages_fetched"] += 1
