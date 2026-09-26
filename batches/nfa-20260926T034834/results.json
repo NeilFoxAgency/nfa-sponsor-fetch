@@ -1,0 +1,1196 @@
+[
+  {
+    "company_domain": "222.place",
+    "company_name": "222",
+    "website": "https://222.place",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "42technologies.com",
+    "company_name": "42",
+    "website": "https://42technologies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "500friends.com",
+    "company_name": "500Friends",
+    "website": "http://500friends.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "The next decade belongs to brands that are positioned to win on customer experience. And the competition gets more fierce every day. Let's create together.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "99dresses.com",
+    "company_name": "99dresses",
+    "website": "http://99dresses.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://99dresses.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://99dresses.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-05"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://99dresses.com/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "aalo.co",
+    "company_name": "Aalo",
+    "website": "http://www.aalo.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://aalo.co",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-27"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "abundancelabs.io",
+    "company_name": "Abundance Labs",
+    "website": "http://abundancelabs.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "acely.com",
+    "company_name": "Acely",
+    "website": "https://acely.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email our team",
+        "title": null,
+        "email": "press@acely.com",
+        "source_url": "https://acely.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email our team",
+        "title": null,
+        "email": "press@acely.com",
+        "source_url": "https://acely.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "press@acely.com",
+        "confidence": "highest",
+        "source_url": "https://acely.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "re. Plans start at $49 per month. Copy text Contact us at press@acely.com Recent Articles Recent coverage of Acely across news and tr"
+      },
+      {
+        "address": "support@acely.com",
+        "confidence": "high",
+        "source_url": "https://acely.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esupport@acely.com",
+        "confidence": "high",
+        "source_url": "https://acely.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@acely.com",
+      "u003esupport@acely.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://acely.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acely.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acely.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acely.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acely.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Achieve your target score faster with Acely, guaranteed. Get a personalized study plan, 15,000+ questions, and 50+ practice tests for the SAT & ACT.",
+    "source_urls": [
+      "https://acely.com/contact",
+      "https://acely.com/contact-us",
+      "https://acely.com/press"
+    ],
+    "reason": null,
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "adapted.app",
+    "company_name": "Adapted",
+    "website": "https://adapted.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@adapted.app",
+        "confidence": "highest",
+        "source_url": "https://adapted.app",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@adapted.app"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adapted.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adapted builds evidence-based prehab and mobility programs personalized to your sport, injury history, and goals so you can stay ready.",
+    "source_urls": [
+      "https://adapted.app"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "adventurous.co",
+    "company_name": "Adventurous Co",
+    "website": "http://adventurous.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "founders@adventurous.co",
+        "confidence": "highest",
+        "source_url": "http://adventurous.co",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-18",
+        "context_snippet": ""
+      },
+      {
+        "address": "info@adventurous.co",
+        "confidence": "high",
+        "source_url": "http://adventurous.co",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-18",
+        "context_snippet": "r just want to send your thoughts and wishes, e-mail us at info@adventurous.co Jeany Ngo Adventurous Founder"
+      }
+    ],
+    "role_emails": [
+      "founders@adventurous.co",
+      "info@adventurous.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://adventurous.co",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-18"
+      },
+      {
+        "url": "http://adventurous.co/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adventurous Co \u2013 Go on fantastic family Adventures at home or through your neighborhood. Our storytelling scavenger hunt Adventures are fun for kids ages 6-12. Great for 1-1.5hrs of independent play or an activity the whole family can enjoy!",
+    "source_urls": [
+      "http://adventurous.co"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "airbnb.com",
+    "company_name": "Airbnb",
+    "website": "http://airbnb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "http://airbnb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://airbnb.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://airbnb.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get an Airbnb for every kind of trip \u2192 8 million vacation rentals \u2192 2 million Guest Favorites \u2192 220+ countries and regions worldwide",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "aircaps.com",
+    "company_name": "AirCaps",
+    "website": "https://aircaps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aircaps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircaps.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AirCaps smart glasses show real-time captions and translate 60+ languages instantly. Designed for hearing loss, travel, and professionals. 97% accuracy, 49g lightweight. $599.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "airgoods.com",
+    "company_name": "Airgoods",
+    "website": "https://airgoods.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@airgoods.com",
+        "confidence": "highest",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce Contact Us Have questions? We're here to help. Live Chat hello@airgoods.com Help Center FDA Disclaimer: These statements have not been"
+      },
+      {
+        "address": "support@airgoods.com",
+        "confidence": "highest",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@airgoods.com",
+      "support@airgoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airgoods.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/product/367fd482-8285-4381-b69f-37ef1f89bf39-chocolate-covered-california-medjool-date-with-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover what's next, order and receive with ease, and turn new arrivals into best sellers.",
+    "source_urls": [
+      "https://airgoods.com/",
+      "https://airgoods.com/contact",
+      "https://airgoods.com/contact-us",
+      "https://airgoods.com/about",
+      "https://airgoods.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "aisle50.com",
+    "company_name": "Aisle50",
+    "website": "http://aisle50.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "alephlab.ai",
+    "company_name": "Aleph Lab",
+    "website": "http://alephlab.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@alephlab.ai",
+        "confidence": "highest",
+        "source_url": "http://alephlab.ai/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@alephlab.ai"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://alephlab.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI-powered language learning companion for kids in their favorite games",
+    "source_urls": [
+      "http://alephlab.ai/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "allocommunity.com",
+    "company_name": "Allo",
+    "website": "https://www.allocommunity.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "allocommunity.com is for sale on Spaceship. Secure checkout and quick transfer. See all purchase options. No hidden fees.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "alltruists.com",
+    "company_name": "Alltruists",
+    "website": "http://www.alltruists.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@alltruists.com",
+        "confidence": "high",
+        "source_url": "http://www.alltruists.com",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-26",
+        "context_snippet": "Contact Get in touch anytime! Email: hello@alltruists.com Text: 818-864-1255 Menu Sh"
+      }
+    ],
+    "role_emails": [
+      "hello@alltruists.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.alltruists.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-26"
+      },
+      {
+        "url": "http://www.alltruists.com/products/we-can-all-support-migratory-birds",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-11"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hands-on, kid-friendly volunteer and craft projects delivered to your doorstep. Created in partnership with amazing nonprofits. Make an impact together!",
+    "source_urls": [
+      "http://www.alltruists.com",
+      "http://www.alltruists.com/products/we-can-all-support-migratory-birds"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alluresystems.com",
+    "company_name": "Allure Systems",
+    "website": "http://www.alluresystems.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@alluresystems.com",
+        "confidence": "high",
+        "source_url": "http://www.alluresystems.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-03-31",
+        "context_snippet": "Request a demo at contact@alluresystems.com Or fill in the form below and we will get back to you v"
+      }
+    ],
+    "role_emails": [
+      "contact@alluresystems.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.alluresystems.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-04-12"
+      },
+      {
+        "url": "http://www.alluresystems.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-03-31"
+      },
+      {
+        "url": "http://www.alluresystems.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-03-02"
+      },
+      {
+        "url": "https://www.alluresystems.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-03-02"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.alluresystems.com/contact",
+        "action": "/contact/#wpcf7-f5822-p5766-o2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.alluresystems.com/contact",
+        "action": "/contact/#wpcf7-f5822-o3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.alluresystems.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.alluresystems.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Allure Systems uses A.I. to help leading fashion retailers create unlimited apparel images for their online stores without models or photographers on site.",
+    "source_urls": [
+      "http://www.alluresystems.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "almondobgyn.com",
+    "company_name": "Almond",
+    "website": "https://www.almondobgyn.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://almondobgyn.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "url": "https://almondobgyn.com/care-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Almond ObGyn offers root-cause personalized women's health care with online booking & virtual video visits. Experience compassionate care today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "ampup.io",
+    "company_name": "AmpUp",
+    "website": "https://ampup.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@ampup.io",
+        "confidence": "highest",
+        "source_url": "https://ampup.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nta Clara, CA 95054 General Inquiries info@ampup.io Support help@ampup.io \u200d Sales sales@ampup.io \u200d **A Note on Performance: We estima"
+      },
+      {
+        "address": "info@ampup.io",
+        "confidence": "highest",
+        "source_url": "https://ampup.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "att Drive, Suite 8 Santa Clara, CA 95054 General Inquiries info@ampup.io Support help@ampup.io \u200d Sales sales@ampup.io \u200d **A Note on"
+      },
+      {
+        "address": "sales@ampup.io",
+        "confidence": "highest",
+        "source_url": "https://ampup.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "neral Inquiries info@ampup.io Support help@ampup.io \u200d Sales sales@ampup.io \u200d **A Note on Performance: We estimate CO2 savings by compa"
+      }
+    ],
+    "role_emails": [
+      "help@ampup.io",
+      "info@ampup.io",
+      "sales@ampup.io"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ampup.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-23"
+      },
+      {
+        "url": "https://ampup.io/products/ev-charging-management-software",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/use-cases/ev-charging-management-for-fleets",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/use-cases/ev-charging-management-for-hotels",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampup.io/use-cases/ev-charging-management-for-installers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ampup.io/contact",
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/23808085/34cf14a0-650e-4b7e-8976-2ecccb0c4382",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ampup.io/about-us",
+        "action": "/about-us/#wpcf7-f39-p19-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://ampup.io/products/ev-charging-management-software",
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/23808085/854633c5-81de-4174-a70f-e356307ec88d",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ampup.io/use-cases/ev-charging-management-for-fleets",
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/23808085/854633c5-81de-4174-a70f-e356307ec88d",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ampup.io/use-cases/ev-charging-management-for-hotels",
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/23808085/854633c5-81de-4174-a70f-e356307ec88d",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ampup.io/use-cases/ev-charging-management-for-installers",
+        "action": "https://forms.hsforms.com/submissions/v3/public/submit/formsnext/multipart/23808085/854633c5-81de-4174-a70f-e356307ec88d",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AmpUp powers commercial, multifamily, and fleet EV charging networks with OCPP-certified management software. Book a demo or see pricing today.",
+    "source_urls": [
+      "https://ampup.io",
+      "https://ampup.io/contact",
+      "https://ampup.io/about",
+      "https://ampup.io/about-us",
+      "https://ampup.io/products/ev-charging-management-software",
+      "https://ampup.io/use-cases/ev-charging-management-for-fleets",
+      "https://ampup.io/use-cases/ev-charging-management-for-hotels",
+      "https://ampup.io/use-cases/ev-charging-management-for-installers"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anara.com",
+    "company_name": "Anara",
+    "website": "https://anara.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@anara.com",
+        "confidence": "highest",
+        "source_url": "https://anara.com/contact-sales",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "upport Company size Send message You can also email us at sales@anara.com Anara \u2014 AI for scientific advancement Backed by Y Combina"
+      },
+      {
+        "address": "support@anara.com",
+        "confidence": "highest",
+        "source_url": "https://anara.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@anara.com",
+      "support@anara.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anara.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anara.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anara.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anara.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anara.com/contact-sales",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anara.com/contact-sales",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anara is the AI workspace for research. Search your library and the web, then write with every claim cited to its source. 4\u00d7 more accurate than general AI.",
+    "source_urls": [
+      "https://anara.com",
+      "https://anara.com/contact-sales"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "ancestry.com",
+    "company_name": "1000Memories",
+    "website": "http://ancestry.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "andcomfort.com",
+    "company_name": "And Comfort",
+    "website": "http://andcomfort.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "andiai.com",
+    "company_name": "Andi",
+    "website": "https://AndiAI.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello+sales@andiai.com",
+        "confidence": "highest",
+        "source_url": "https://AndiAI.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "case / additional details Submit Inquiry Prefer to email? hello+sales@andiai.com \u2713 Unlimited API keys \u2713 Custom rate limits \u2713 Zero Data Re"
+      },
+      {
+        "address": "hello@andiai.com",
+        "confidence": "highest",
+        "source_url": "https://AndiAI.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@andiai.com",
+        "confidence": "highest",
+        "source_url": "https://AndiAI.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ter Capital. Learn more at andisearch.com . Contact: press@andiai.com Andi Backed by Y Combinator Company FAQs Contact us System"
+      }
+    ],
+    "role_emails": [
+      "hello+sales@andiai.com",
+      "hello@andiai.com",
+      "press@andiai.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://AndiAI.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://AndiAI.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://AndiAI.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://AndiAI.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Andi AI search gives you answers, not just links. 87% accuracy \u2014 beating Google, ChatGPT, and Perplexity. Free, private, and ad-free.",
+    "source_urls": [
+      "https://AndiAI.com",
+      "https://AndiAI.com/about",
+      "https://AndiAI.com/blogs/press-release-andi-named-best-free-ai-search-20260327-1931"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  },
+  {
+    "company_domain": "anglera.com",
+    "company_name": "Anglera",
+    "website": "https://www.anglera.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anglera.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anglera.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anglera.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anglera.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anglera.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Anglera automatically enriches product data for retailers and distributors. Transform messy data into a structured catalog optimized for discovery.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "anjahealth.com",
+    "company_name": "Anja Health",
+    "website": "https://anjahealth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@anjahealth.com",
+        "confidence": "high",
+        "source_url": "https://anjahealth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "upport +1 310 620 1663 +1 877-Anja-380 hello@anjahealth.com contact@anjahealth.com Help Desk Knowledge Center Operating Hours: 7 AM to 6 PM Pa"
+      },
+      {
+        "address": "hello@anjahealth.com",
+        "confidence": "high",
+        "source_url": "https://anjahealth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a human right. Get support +1 310 620 1663 +1 877-Anja-380 hello@anjahealth.com contact@anjahealth.com Help Desk Knowledge Center Operating"
+      }
+    ],
+    "role_emails": [
+      "contact@anjahealth.com",
+      "hello@anjahealth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anjahealth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anjahealth.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anjahealth.com/about-anja",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anjahealth.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anjahealth.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anjahealth.com/about-anja",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anja Health offers affordable cord blood, tissue, & placenta banking. Safely collect and store your baby\u2019s stem cells for future cell treatments.",
+    "source_urls": [
+      "https://anjahealth.com",
+      "https://anjahealth.com/about",
+      "https://anjahealth.com/about-anja"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 6
+  }
+]
