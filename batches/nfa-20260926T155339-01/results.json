@@ -1,0 +1,1480 @@
+[
+  {
+    "company_domain": "1-800-taco.com",
+    "company_name": "K PASA",
+    "website": "https://www.1-800-taco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "1-800flags.com",
+    "company_name": "1-800 Flags",
+    "website": "https://1-800flags.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "amber@1-800flags.com",
+        "confidence": "highest",
+        "source_url": "https://1-800flags.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@1-800flags.com",
+        "confidence": "high",
+        "source_url": "https://1-800flags.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lags.com Toll-free (800)210-5330 Phone (585)385-5850 Email: sales@1-800flags.com 1270 Creek Street, Suite 9 Webster, NY 14580"
+      }
+    ],
+    "role_emails": [
+      "amber@1-800flags.com",
+      "sales@1-800flags.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1-800flags.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1-800flags.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-13"
+      },
+      {
+        "url": "https://1-800flags.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1-800 Flags supplies high quality international flags at affordable prices. American Made and Polyester Flags to fit every budget. Shop for Country Flags, American Flags, World Flags, and Flagpoles. We work closely with Schools, Churches & Businesses since 1990!",
+    "source_urls": [
+      "https://1-800flags.com",
+      "https://1-800flags.com/pages/our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "10-8apparel.com",
+    "company_name": "8 Apparel LLC",
+    "website": "https://10-8apparel.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "1000facescoffee.com",
+    "company_name": "1000 Faces Coffee",
+    "website": "https://1000facescoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "catering@1000facescoffee.com",
+        "confidence": "highest",
+        "source_url": "https://1000facescoffee.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fee.com Wholesale - mary@1000facescoffee.com Catering - catering@1000facescoffee.com"
+      },
+      {
+        "address": "mary@1000facescoffee.com",
+        "confidence": "highest",
+        "source_url": "https://1000facescoffee.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "General - orders@1000facescoffee.com Wholesale - mary@1000facescoffee.com Catering - catering@1000facescoffee.com"
+      },
+      {
+        "address": "orders@1000facescoffee.com",
+        "confidence": "highest",
+        "source_url": "https://1000facescoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "p Subscribe Learn Connect orders@1000facescoffee.com 510 North Thomas Street"
+      }
+    ],
+    "role_emails": [
+      "catering@1000facescoffee.com",
+      "mary@1000facescoffee.com",
+      "orders@1000facescoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1000facescoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1000facescoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1000facescoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1000facescoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1000facescoffee.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://1000facescoffee.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "COFFEE IS MORE THAN A FACE-LESS COMMODITY. We partner with those who share our vision of prioritizing sustainable practices and aim to honor the many important faces throughout our supply chain by investing in long-term relationships and creating space to center their stories.",
+    "source_urls": [
+      "https://1000facescoffee.com",
+      "https://1000facescoffee.com/contact",
+      "https://1000facescoffee.com/pages/about-us",
+      "https://1000facescoffee.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "100coconuts.com",
+    "company_name": "100 Coconuts",
+    "website": "https://www.100coconuts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@100coconuts.com",
+        "confidence": "highest",
+        "source_url": "https://www.100coconuts.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "not satisfied with 100 Coconuts, please send us an email at hello@100coconuts.com within 14 days of receipt of your package and we will refun"
+      }
+    ],
+    "role_emails": [
+      "hello@100coconuts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.100coconuts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100coconuts.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100coconuts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.100coconuts.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.100coconuts.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover 100 Coconuts Pure Coconut Water: 100% pure, naturally hydrating with electrolytes & antioxidants. Shop now for natural refreshment!",
+    "source_urls": [
+      "https://www.100coconuts.com/contact",
+      "https://www.100coconuts.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "100gecs.com",
+    "company_name": "100 gecs",
+    "website": "https://store.100gecs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.100gecs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.100gecs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.100gecs.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Official 100 gecs store. Shop merch and music.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "100mph.cc",
+    "company_name": "100 Miles Per Hour",
+    "website": "https://100mph.cc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "100percent.com",
+    "company_name": "100%",
+    "website": "https://www.100percent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "100percentelectronica.com",
+    "company_name": "100% Electronica",
+    "website": "https://www.100percentelectronica.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "George Clanton",
+        "title": "Founder",
+        "email": "george@100percentelectronica.com",
+        "source_url": "https://www.100percentelectronica.com/about-us"
+      },
+      {
+        "name": "Lindsey French",
+        "title": "Founder",
+        "email": "lindsey@100percentelectronica.com",
+        "source_url": "https://www.100percentelectronica.com/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "George Clanton",
+        "title": "Founder",
+        "email": "george@100percentelectronica.com",
+        "source_url": "https://www.100percentelectronica.com/about-us"
+      },
+      {
+        "name": "Lindsey French",
+        "title": "Founder",
+        "email": "lindsey@100percentelectronica.com",
+        "source_url": "https://www.100percentelectronica.com/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "george@100percentelectronica.com",
+        "confidence": "highest",
+        "source_url": "https://www.100percentelectronica.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "erns about your order. STAFF George Clanton - Label Founder george@100percentelectronica.com Lindsey French - Label Founder lindsey@100percentelectronic"
+      },
+      {
+        "address": "info@100percentelectronica.com",
+        "confidence": "highest",
+        "source_url": "https://www.100percentelectronica.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y and is based in Los Angeles, CA. CONTACT General Inquires info@100percentelectronica.com Wholesale Inquires info@100percentelectronica.com Online St"
+      },
+      {
+        "address": "lindsey@100percentelectronica.com",
+        "confidence": "highest",
+        "source_url": "https://www.100percentelectronica.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ge@100percentelectronica.com Lindsey French - Label Founder lindsey@100percentelectronica.com Adam Kane - Fulfilment Manager support@100percentelectronic"
+      },
+      {
+        "address": "support@100percentelectronica.com",
+        "confidence": "highest",
+        "source_url": "https://www.100percentelectronica.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "demos@100percentelectronica.com",
+        "confidence": "high",
+        "source_url": "https://www.100percentelectronica.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s place most Thursdays at 5pm PST / 8pm EST. Email demos to demos@100percentelectronica.com, and we will eventually listen to it. Why hasn't my order s"
+      }
+    ],
+    "role_emails": [
+      "demos@100percentelectronica.com",
+      "info@100percentelectronica.com",
+      "support@100percentelectronica.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.100percentelectronica.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentelectronica.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentelectronica.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentelectronica.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentelectronica.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official home of 100% Electronica, the music & arts collective that provides label services and support to iconic underground artists. 100% independent.",
+    "source_urls": [
+      "https://www.100percentelectronica.com",
+      "https://www.100percentelectronica.com/about-us",
+      "https://www.100percentelectronica.com/media",
+      "https://www.100percentelectronica.com/contact",
+      "https://www.100percentelectronica.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "100percentpure.com",
+    "company_name": "100% PURE",
+    "website": "https://www.100percentpure.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.100percentpure.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/pages/store-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.100percentpure.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.100percentpure.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.100percentpure.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "100% PURE\u00ae makes clean, cruelty-free beauty, known for Fruit Pigmented\u00ae makeup colored with fruit, tea and cocoa, plus skin, body and hair care. Shop online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "100senses.com",
+    "company_name": "100 SENSES",
+    "website": "https://100senses.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@100senses.com",
+        "confidence": "highest",
+        "source_url": "https://100senses.com/pages/faq#contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to fulfill orders of all sizes and budgets. Contact us at customercare@100senses.com and we'll be happy to help you with personalized messaging"
+      },
+      {
+        "address": "partners@100senses.com",
+        "confidence": "highest",
+        "source_url": "https://100senses.com/pages/faq#contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nquiries: press@100senses.com For general partnerships: partners@100senses.com To explore a retail partnership, start here: For Retail P"
+      },
+      {
+        "address": "press@100senses.com",
+        "confidence": "highest",
+        "source_url": "https://100senses.com/pages/faq#contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uiries: customercare@100senses.com For press inquiries: press@100senses.com For general partnerships: partners@100senses.com To explo"
+      }
+    ],
+    "role_emails": [
+      "customercare@100senses.com",
+      "partners@100senses.com",
+      "press@100senses.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://100senses.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100senses.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100senses.com/pages/faq#contact",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Body. Soul. Sanctuary. Healthy, Hydrated Skin. Soothe Your Body and Cleanse Your Mind. We make deeply refreshing antidotes to help you recharge from the inside out.",
+    "source_urls": [
+      "https://100senses.com/pages/faq#contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "100soft.shop",
+    "company_name": "100% Soft",
+    "website": "https://100soft.shop",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://100soft.shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100soft.shop/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://100soft.shop/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "kawaii pop art Los Angeles based artist Truck Torrence, home of the Dumpster Fire vinyl figure",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "100thieves.com",
+    "company_name": "100 Thieves",
+    "website": "https://100thieves.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://100thieves.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-04-21"
+      },
+      {
+        "url": "https://100thieves.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/collections/2026-vct-team-bundle",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/pages/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/pages/counter-strike-team-page",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100thieves.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "100 Thieves is the premier lifestyle brand and gaming organization founded by Matthew \"Nadeshot\" Haag. Explore 100 Thieves Esports, Creators, and Apparel.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "100xequine.com",
+    "company_name": "100X Equine",
+    "website": "https://100xequine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://100xequine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://100xequine.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vet-formulated liquid supplements for gut health, joints, calm, hydration, and recovery. Formulated by Dr. Russ Peterson, DVM. Trusted by 100,000+ horse owners.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "101-films.com",
+    "company_name": "101 Films",
+    "website": "https://101-films.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "andy@101-films.com",
+        "confidence": "highest",
+        "source_url": "https://101-films.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he team Andy Lyon Managing Director andy@101-films.com Tim Scaping Director of Product & Marketing"
+      },
+      {
+        "address": "gerry@101-films.com",
+        "confidence": "highest",
+        "source_url": "https://101-films.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "01-films.com Gerry Cole Project Manager gerry@101-films.com Howard Musson Digital Content Manager h"
+      },
+      {
+        "address": "info@101-films.com",
+        "confidence": "highest",
+        "source_url": "https://101-films.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy For general enquiries please email: info@101-films.com Website by Bionic Media We use Cook"
+      },
+      {
+        "address": "mike@101-films.com",
+        "confidence": "highest",
+        "source_url": "https://101-films.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mike Bourne Head of Content & Channels mike@101-films.com Gerry Cole Project Manager gerry@101-fi"
+      },
+      {
+        "address": "tim@101-films.com",
+        "confidence": "highest",
+        "source_url": "https://101-films.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Tim Scaping Director of Product & Marketing tim@101-films.com Mike Bourne Head of Content & Channels"
+      }
+    ],
+    "role_emails": [
+      "andy@101-films.com",
+      "gerry@101-films.com",
+      "info@101-films.com",
+      "mike@101-films.com",
+      "tim@101-films.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://101-films.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-films.com/brand/10/yet-another-distribution-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "101 Films is one of the UK\u2019s fastest growing independent entertainment brands having acquired over 1,000 movies",
+    "source_urls": [
+      "https://101-films.com",
+      "https://101-films.com/team",
+      "https://101-films.com/our-team",
+      "https://101-films.com/meet-the-team",
+      "https://101-films.com/about",
+      "https://101-films.com/about-us",
+      "https://101-films.com/press",
+      "https://101-films.com/media",
+      "https://101-films.com/contact",
+      "https://101-films.com/brand/10/yet-another-distribution-company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "101-karaoke.com",
+    "company_name": "101 Karaoke",
+    "website": "https://101-karaoke.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@101-karaoke.com",
+        "confidence": "highest",
+        "source_url": "https://101-karaoke.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "all support or order-related questions, please email us at: info@101-karaoke.com We typically reply within 1\u20132 business days . Phone Supp"
+      }
+    ],
+    "role_emails": [
+      "info@101-karaoke.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://101-karaoke.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-karaoke.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-karaoke.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101-karaoke.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://101-karaoke.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://101-karaoke.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "101 Karaoke has karaoke sets that will have you performing your own mini-concerts in no time! From professional karaoke systems to touchscreen KTV bundles, we have your next party or event\u2019s entertainment right here.",
+    "source_urls": [
+      "https://101-karaoke.com",
+      "https://101-karaoke.com/contact",
+      "https://101-karaoke.com/pages/contact-us",
+      "https://101-karaoke.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "101piercing.com",
+    "company_name": "101 Piercing",
+    "website": "https://101piercing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://101piercing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101piercing.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101piercing.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Body Vision Los Angeles Exclusive Retailer located in Encinitas, California. Highest Quality Body Jewelry available",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "101surfsports.com",
+    "company_name": "101 Surf Sports",
+    "website": "https://101surfsports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@101surfsports.com",
+        "confidence": "highest",
+        "source_url": "https://101surfsports.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Save Big on Select Wings info@101surfsports.com 415-524-8492 My Account Log"
+      }
+    ],
+    "role_emails": [
+      "info@101surfsports.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://101surfsports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/blogs/about-us/101-surf-sports-lesson-offering-for-2025",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/blogs/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/pages/contact-101-surf-sports",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/pages/about-101-surf-sports",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/blogs/about-us/fast-safe-and-affordable-air-cargo-shipping-for-your-boards-to-major-airports",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/blogs/about-us/efoils",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://101surfsports.com/pages/directions-to-san-rafael-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://101surfsports.com/pages/contact-101-surf-sports",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The premier paddle boarding, wing foiling, E foil, surfski, and surfing outfitter in the San Francisco Bay Area. Carrying great brands like Jimmy Lewis, Code Foil, Quickblade, Starboard, SIC, Duotone, Epic Kayaks, and more.",
+    "source_urls": [
+      "https://101surfsports.com",
+      "https://101surfsports.com/blogs/about-us/101-surf-sports-lesson-offering-for-2025",
+      "https://101surfsports.com/blogs/about-us",
+      "https://101surfsports.com/pages/contact-101-surf-sports",
+      "https://101surfsports.com/pages/about-101-surf-sports",
+      "https://101surfsports.com/blogs/about-us/fast-safe-and-affordable-air-cargo-shipping-for-your-boards-to-major-airports",
+      "https://101surfsports.com/blogs/about-us/efoils",
+      "https://101surfsports.com/policies/contact-information",
+      "https://101surfsports.com/pages/directions-to-san-rafael-location"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "1080motion.com",
+    "company_name": "www.1080motion.com",
+    "website": "https://www.1080motion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1080motion.com",
+        "confidence": "highest",
+        "source_url": "https://www.1080motion.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "America 704 Main Street, 78602 Bastrop, USA +1 512-387-3880 info@1080motion.com Rest of the World Sigurdsgatan 7, 721 30 V\u00e4ster\u00e5s, Sweden i"
+      }
+    ],
+    "role_emails": [
+      "info@1080motion.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.1080motion.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-03"
+      },
+      {
+        "url": "https://www.1080motion.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.1080motion.com/about-us",
+        "action": "/about-us/#wpcf7-f3572-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.1080motion.com/about-us",
+        "action": "/about-us/#wpcf7-f3572-o2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.1080motion.com/contact-us",
+        "action": "/api/hubspot-form/a7f3f0e1-9032-4981-b9db-9516fbce4941",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Motorized resistance equipment for speed, strength, and return-to-play. Control load & velocity and get real-time data so training becomes testing.",
+    "source_urls": [
+      "https://www.1080motion.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "10fitness.com",
+    "company_name": "10 Fitness",
+    "website": "https://store.10fitness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.10fitness.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "10 Fitness",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "10kcp.com",
+    "company_name": "www.10kcp.com",
+    "website": "https://www.10kcp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "We don't just fix and sell phones, we also repair tablets, laptops, iPads, drones and more! Our staff has been knocking out repairs and selling phones since 2003 in Jacksonville, Florida. We are\u00a0the first shop in the southeast\u00a0and best choice when it comes to your personal devices.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "10spottools.com",
+    "company_name": "10-Spot Tools",
+    "website": "https://10spottools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://10spottools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10spottools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10spottools.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://10spottools.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Purveyors of Socket and Wrench Set Organizers for Milwaukee Packout Cases and Packout Drawers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "10thwhiskey.com",
+    "company_name": "10th Mountain Whiskey",
+    "website": "https://10thwhiskey.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Tom Boyce",
+        "title": "Marketing Director",
+        "email": "tom@10thwhiskey.com",
+        "source_url": "https://10thwhiskey.com/pages/media-kit"
+      }
+    ],
+    "people": [
+      {
+        "name": "Tom Boyce",
+        "title": "Marketing Director",
+        "email": "tom@10thwhiskey.com",
+        "source_url": "https://10thwhiskey.com/pages/media-kit"
+      }
+    ],
+    "emails": [
+      {
+        "address": "tom@10thwhiskey.com",
+        "confidence": "high",
+        "source_url": "https://10thwhiskey.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "tom@10thwhiskey.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://10thwhiskey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/pages/media-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://10thwhiskey.com/pages/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://10thwhiskey.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "10th Mountain Whiskey & Spirit Co. is a philanthropic Colorado distillery crafting small batch, award-winning Colorado whiskey, potato vodka, moonshine, brandy and cordial.",
+    "source_urls": [
+      "https://10thwhiskey.com",
+      "https://10thwhiskey.com/our-team",
+      "https://10thwhiskey.com/meet-the-team",
+      "https://10thwhiskey.com/about",
+      "https://10thwhiskey.com/about-us",
+      "https://10thwhiskey.com/pages/media-kit"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "10xhealthsystem.com",
+    "company_name": "10X Health System",
+    "website": "https://shop.10xhealthsystem.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.10xhealthsystem.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.10xhealthsystem.com/collections/immune-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.10xhealthsystem.com/collections/methylation-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.10xhealthsystem.com/products/10x-blood-flow-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.10xhealthsystem.com/search?q=Sleep+Support&options%5Bprefix%5D=last",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "10X Health System",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "10yearsmusic.com",
+    "company_name": "www.10yearsmusic.com",
+    "website": "https://www.10yearsmusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@10yearsmusic.com",
+        "confidence": "high",
+        "source_url": "https://www.10yearsmusic.com/pages/management",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "MENT - Brian Vodinh MANAGEMENT - Brian Vodinh contact@10yearsmusic.com Name Email Phone Number Message"
+      }
+    ],
+    "role_emails": [
+      "contact@10yearsmusic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.10yearsmusic.com/pages/management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.10yearsmusic.com/pages/management",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Official Website for all things related to 10 Years and their music. Tour dates, tickets, VIP and news for the band 10 Years based out of Knoxville, TN. 10yearsmusic.com",
+    "source_urls": [
+      "https://www.10yearsmusic.com/pages/management"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
