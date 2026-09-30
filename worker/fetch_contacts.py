@@ -567,9 +567,18 @@ def _looks_valid(email: str) -> bool:
 def email_matches_website_domain(email: str, website_url: str) -> bool:
     domain = email.split("@", 1)[-1].lower()
     host = normalized_host(website_url)
-    return bool(domain and host) and (
-        domain == host or domain.endswith(f".{host}")
-    )
+    if not (domain and host):
+        return False
+    if domain == host or domain.endswith(f".{host}"):
+        return True
+    # 2026-09-30: accept close variants (auntfannie.com vs auntfannies.com).
+    # Companies often use singular/plural or hyphen variants for email.
+    # Strip TLD and check if stems match or one contains the other.
+    def stem(d: str) -> str:
+        parts = d.split(".")
+        return ".".join(parts[:-1]) if len(parts) > 1 else d
+    ds, hs = stem(domain), stem(host)
+    return bool(ds and hs) and (ds == hs or ds in hs or hs in ds)
 
 
 def context_snippet(text: str, email: str, window: int = 60) -> str:
