@@ -1,0 +1,54 @@
+name: Bulk contact enrichment (overnight backfill)
+
+# Fox 2026-09-30: enrich all 57K sponsor prospects overnight via the
+# waterfall (static crawl -> KeenAble search+extract). Dispatched once
+# per shard; each shard runs bulk_enrich.py and commits its results.
+
+on:
+  workflow_dispatch:
+    inputs:
+      shard_id:
+        description: "Shard file under bulk-shards/ (e.g. shard-00.json)"
+        required: true
+        type: string
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6h: ~2350 companies/shard
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enrich shard
+        env:
+          KEENABLE_API_KEY: ${{ secrets.KEENABLE_API_KEY }}
+          # 0.4 KeenAble calls/sec per worker; 24 workers = ~9.6/sec,
+          # under the 10/sec org limit.
+          KEENABLE_PACING: "2.5"
+        run: |
+          python worker/bulk_enrich.py \
+            --targets "bulk-shards/${{ inputs.shard_id }}" \
+            --out "bulk-results/${{ inputs.shard_id }}" \
+            --concurrency 30
+
+      - name: Commit results
+        run: |
+          git config user.name "nfa-fetch-bot"
+          git config user.email "nfa-fetch-bot@users.noreply.github.com"
+          mkdir -p bulk-results
+          git add "bulk-results/${{ inputs.shard_id }}"
+          git commit -m "bulk enrichment results for ${{ inputs.shard_id }}" || echo "nothing to commit"
+          for attempt in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "results committed on attempt $attempt"
+              break
+            fi
+            echo "push attempt $attempt failed; retrying after pull --rebase"
+            sleep 5
+          done
