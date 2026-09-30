@@ -48,7 +48,8 @@ def _api_key() -> str:
     return key
 
 
-def _post(path: str, payload: dict, timeout: int = 30) -> dict:
+def _post(path: str, payload: dict, timeout: int = 30) -> tuple[dict, int]:
+    """POST to Keenable API. Returns (response_dict, credits_used)."""
     body = json.dumps(payload).encode()
     req = urllib.request.Request(
         API + path, data=body,
@@ -57,22 +58,48 @@ def _post(path: str, payload: dict, timeout: int = 30) -> dict:
                  "X-API-Key": _api_key()},
         method="POST")
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode())
+        data = json.loads(resp.read().decode())
+    # Each search/fetch costs 1 credit per Keenable docs.
+    return data, 1
 
 
-def _get(path: str, params: dict, timeout: int = 60) -> dict:
+def _get(path: str, params: dict, timeout: int = 60) -> tuple[dict, int]:
+    """GET from Keenable API. Returns (response_dict, credits_used)."""
     qs = urllib.parse.urlencode(params)
     req = urllib.request.Request(
         API + path + "?" + qs,
         headers={"Accept": "application/json",
                  "X-API-Key": _api_key()})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return json.loads(resp.read().decode())
+        data = json.loads(resp.read().decode())
+    return data, 1
+
+
+def _host_matches_domain(host: str, domain: str) -> bool:
+    """Safe domain matching: exact host or subdomain, no substring tricks.
+
+    Replaces the old `dom_root not in host` substring check which could
+    false-positive (e.g. 'amagicspoon.com' matching 'magicspoon').
+    """
+    host = (host or "").lower().strip().lstrip(".")
+    domain = (domain or "").lower().strip()
+    # Strip www. prefix safely (lstrip("www.") strips chars, not prefix)
+    if domain.startswith("www."):
+        domain = domain[4:]
+    if host.startswith("www."):
+        host = host[4:]
+    if not host or not domain:
+        return False
+    # Exact match or proper subdomain
+    return host == domain or host.endswith("." + domain)
 
 
 def search_contact_pages(domain: str, company: str,
-                         max_results: int = 10) -> list[dict]:
-    """Search for the company's contact pages. Returns [{url, title}]."""
+                         max_results: int = 10) -> tuple[list[dict], int]:
+    """Search for the company's contact pages.
+
+    Returns (pages, credits_used) where pages = [{url, title}].
+    """
     queries = [
         f"site:{domain} contact",
         f"{domain} contact email",
@@ -80,36 +107,40 @@ def search_contact_pages(domain: str, company: str,
     if company and company.lower() not in domain.lower():
         queries.append(f"{company} contact email")
     seen: dict[str, dict] = {}
+    credits = 0
     for q in queries:
         try:
-            d = _post("/v1/search", {
+            d, c = _post("/v1/search", {
                 "query": q, "mode": "realtime",
                 "max_results": max_results, "snippet_max_length": 180,
             })
+            credits += c
         except Exception:
             continue
         for r in d.get("results", []):
             url = r.get("url", "")
             if not url or url in seen:
                 continue
-            # Keep only URLs plausibly on the target domain
+            # Keep only URLs on the target domain (safe matching)
             host = urllib.parse.urlparse(url).hostname or ""
-            dom_root = domain.split(".")[-2] if "." in domain else domain
-            if dom_root not in host:
+            if not _host_matches_domain(host, domain):
                 continue
             seen[url] = {"url": url, "title": r.get("title", "")}
         time.sleep(0.15)  # stay well under 10 req/sec
-    return list(seen.values())
+    return list(seen.values()), credits
 
 
-def extract_emails(url: str) -> list[str]:
-    """Fetch a page with LLM extraction; parse emails with regex (code)."""
+def extract_emails(url: str) -> tuple[list[str], int]:
+    """Fetch a page with LLM extraction; parse emails with regex (code).
+
+    Returns (emails, credits_used).
+    """
     try:
-        d = _get("/v1/fetch", {
+        d, credits = _get("/v1/fetch", {
             "url": url, "max_chars": 8000, "prompt": EMAIL_PROMPT,
         })
     except Exception:
-        return []
+        return [], 0
     content = d.get("content", "") or ""
     # The LLM returns a JSON array, but be defensive: regex-scan regardless.
     emails = EMAIL_RE.findall(content)
@@ -122,18 +153,26 @@ def extract_emails(url: str) -> list[str]:
         if len(e) > 254:
             continue
         out.append(e)
-    return out
+    return out, credits
 
 
 def discover(domain: str, company: str = "",
              max_pages: int = 5) -> dict:
-    """Full pipeline: search -> extract -> structured result."""
-    domain = domain.lower().strip().lstrip("www.")
+    """Full pipeline: search -> extract -> structured result.
+
+    Returns dict with exact credit accounting (actual API calls made).
+    """
+    # Safe www. stripping (str.lstrip("www.") strips characters, not prefix)
+    domain = domain.lower().strip()
+    if domain.startswith("www."):
+        domain = domain[4:]
     company = company or domain
-    pages = search_contact_pages(domain, company)
+    pages, search_credits = search_contact_pages(domain, company)
     results = []
+    fetch_credits = 0
     for p in pages[:max_pages]:
-        emails = extract_emails(p["url"])
+        emails, c = extract_emails(p["url"])
+        fetch_credits += c
         time.sleep(0.15)
         if emails:
             results.append({
@@ -147,7 +186,9 @@ def discover(domain: str, company: str = "",
         "company": company,
         "pages_checked": min(len(pages), max_pages),
         "contacts": results,
-        "credits_used": 1 + min(len(pages), max_pages),  # approx
+        "credits_used": search_credits + fetch_credits,
+        "searches": search_credits,  # 1 credit per search call
+        "fetches": fetch_credits,    # 1 credit per fetch call
     }
 
 
