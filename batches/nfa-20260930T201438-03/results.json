@@ -1,0 +1,2318 @@
+[
+  {
+    "company_domain": "aleatherd.com",
+    "company_name": "American Leather Direct",
+    "website": "https://aleatherd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bduncan@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "info@aleatherd.com Our People Bo Duncan \u2013 Sales bduncan@aleatherd.com Matt Ashley \u2013 Sales mashley@aleatherd.com Bridget"
+      },
+      {
+        "address": "bfuller@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "\u2013 Sales mashley@aleatherd.com Bridget Fuller \u2013 Sales bfuller@aleatherd.com Tonya Carpenter \u2013 International Orders tprice@aleather"
+      },
+      {
+        "address": "info@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact (270) 526-3835 info@aleatherd.com Facebook Instagram"
+      },
+      {
+        "address": "mashley@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "\u2013 Sales bduncan@aleatherd.com Matt Ashley \u2013 Sales mashley@aleatherd.com Bridget Fuller \u2013 Sales bfuller@aleatherd.com Tonya C"
+      },
+      {
+        "address": "soreim@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "ith you ASAP. \u00bfNecesita Asistencia en Espa\u00f1ol? Email: soreim@aleatherd.com Your Name First Last Business Name"
+      },
+      {
+        "address": "tprice@aleatherd.com",
+        "confidence": "highest",
+        "source_url": "https://aleatherd.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "r@aleatherd.com Tonya Carpenter \u2013 International Orders tprice@aleatherd.com Find Us On the Map Copy"
+      }
+    ],
+    "role_emails": [
+      "bduncan@aleatherd.com",
+      "bfuller@aleatherd.com",
+      "info@aleatherd.com",
+      "mashley@aleatherd.com",
+      "soreim@aleatherd.com",
+      "tprice@aleatherd.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aleatherd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aleatherd.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17"
+      },
+      {
+        "url": "https://aleatherd.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aleatherd.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aleatherd.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Leather Direct offers a premium vegetable tanned leather as well as bag leather. Shop skirting, tooling strap, latigo, bridle, harness, and rawhide.",
+    "source_urls": [
+      "https://aleatherd.com",
+      "https://aleatherd.com/contact-us",
+      "https://aleatherd.com/pages/about",
+      "https://aleatherd.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "aleavia.com",
+    "company_name": "Aleavia",
+    "website": "https://www.aleavia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@aleavia.com",
+        "confidence": "highest",
+        "source_url": "https://www.aleavia.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Wholesale inquiries sales@aleavia.com Press & Media support@aleavia.com Other Inquiries s"
+      },
+      {
+        "address": "support@aleavia.com",
+        "confidence": "highest",
+        "source_url": "https://www.aleavia.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Wholesale inquiries sales@aleavia.com Press & Media support@aleavia.com Other Inquiries support@aleavia.com S"
+      }
+    ],
+    "role_emails": [
+      "sales@aleavia.com",
+      "support@aleavia.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "graham@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.graham@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly.graham@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly_graham@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kellyg@aleavia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Graham",
+        "person_title": "Founder",
+        "source_url": "https://www.aleavia.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aleavia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aleavia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aleavia.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aleavia.com/contact",
+        "action": "/contact#Form-template--18565285347397__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aleavia.com/pages/contact-us",
+        "action": "/contact#Form-template--18565285347397__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We use non-toxic, plant-based ingredients to feed your skin what it really needs. Ditch the chemicals and shop natural skin products today.",
+    "source_urls": [
+      "https://www.aleavia.com/contact",
+      "https://www.aleavia.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alecsicecream.com",
+    "company_name": "Alec's Ice Cream",
+    "website": "https://www.alecsicecream.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "partnerships@alecsicecream.com",
+        "confidence": "high",
+        "source_url": "https://www.alecsicecream.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "collaborations & partnership opportunities, please write to partnerships@alecsicecream.com, for all other inquiries use the form below: N"
+      }
+    ],
+    "role_emails": [
+      "partnerships@alecsicecream.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alecsicecream.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alecsicecream.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alecsicecream.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alecsicecream.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alec\u2019s makes ridiculously good ice cream with A2 dairy and thoughtfully sourced ingredients. Find us in super creamy pints and the iconic Culture Cups made for people who want their ice cream to taste and feel good.",
+    "source_urls": [
+      "https://www.alecsicecream.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alecsteeleshop.com",
+    "company_name": "Alec Steele Co.",
+    "website": "https://alecsteeleshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alecsteeleshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alecsteeleshop.com/products/5-contact-wheel",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alecsteeleshop.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official Alec Steele home of Belt grinders, Hammers and more. A curated selection of tools for the modern blacksmith, bladesmith and craftsman.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aleenes.com",
+    "company_name": "Aleene's",
+    "website": "https://aleenes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aleenes.com",
+        "confidence": "highest",
+        "source_url": "https://aleenes.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "de name: Aleene's Phone number: +1 888-740-7620 Email: info@aleenes.com Physical address: Paisley Crafts LLC, 5661 E Shields Ave,"
+      }
+    ],
+    "role_emails": [
+      "info@aleenes.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "f.florist@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "florist@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "from.florist@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "from@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "from_florist@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fromf@aleenes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "From Florist",
+        "person_title": "Founder",
+        "source_url": "https://aleenes.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aleenes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aleenes.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aleenes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aleenes.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "High-quality Aleene\u2019s glue and adhesives for crafts, DIY, and professional projects. Trusted formulas for fabric, wood, paper, and more.",
+    "source_urls": [
+      "https://aleenes.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alefbet.com",
+    "company_name": "Alef Bet by Paula",
+    "website": "https://www.alefbet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alefbet.com",
+        "confidence": "highest",
+        "source_url": "https://www.alefbet.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bet by Paula P.O. Box 3974, Los Angeles, CA 91313-3974 info@alefbet.com Hope you found what you were looking for, and to contin"
+      }
+    ],
+    "role_emails": [
+      "info@alefbet.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alefbet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alefbet.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alefbet.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alefbet.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alefbet.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alefbet.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alefbet.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alef Bet Jewelry is a sparkling light in the world of Jewish jewelry, hamsa and evil eye, Israel Map Necklaces, and Chai. Shop our unique, meaningful designs today.",
+    "source_urls": [
+      "https://www.alefbet.com/pages/contact-us",
+      "https://www.alefbet.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alegriashoes.com",
+    "company_name": "Alegria\u2122 Shoes",
+    "website": "https://alegriashoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@alegriashoes.com",
+        "confidence": "high",
+        "source_url": "https://alegriashoes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@alegriashoes.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alegriashoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alegriashoes.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alegriashoes.com/pages/contact-us",
+        "action": "/contact#ContactPage-template--27661249085762__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The official branded online site for Alegria\u2122, featuring women's comfort shoes designed with support and fashion in mind. Shop the latest styles for professional, casual, and athleisure wear. Experience all-day comfort and say goodbye to tired feet. Discover what happy looks like!",
+    "source_urls": [
+      "https://alegriashoes.com",
+      "https://alegriashoes.com/about",
+      "https://alegriashoes.com/about-us",
+      "https://alegriashoes.com/team",
+      "https://alegriashoes.com/pages/about-us",
+      "https://alegriashoes.com/pages/contact-us",
+      "https://alegriashoes.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alehorn.com",
+    "company_name": "AleHorn",
+    "website": "https://www.alehorn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@alehorn.com",
+        "confidence": "high",
+        "source_url": "https://www.alehorn.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Fire Horse Partners LLC dba Alehorn Los Angeles, CA 90266 Support@alehorn.com Join us and save 10% Enter your email"
+      }
+    ],
+    "role_emails": [
+      "support@alehorn.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alehorn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alehorn.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alehorn.com/pages/about-alehorn",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alehorn.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Premier Provider of High-Quality Viking Drinking Horns. As the leading company in the industry, we offer the largest selection of top-notch drinking horns, including tankards, coffee mugs, and curved horns. Our custom engraved mead horns are a true masterpiece, showcasing the beauty and traditio",
+    "source_urls": [
+      "https://www.alehorn.com/contact",
+      "https://www.alehorn.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alembika.com",
+    "company_name": "Alembika U.S.",
+    "website": "https://alembika.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alembika.com",
+        "confidence": "highest",
+        "source_url": "https://alembika.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-16",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alembika.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "edelist@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.edelist@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yael.edelist@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yael@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yael_edelist@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yaele@alembika.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yael Edelist",
+        "person_title": "President",
+        "source_url": "https://alembika.com/pages/about-yael",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alembika.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alembika.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-16"
+      },
+      {
+        "url": "https://alembika.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-19"
+      },
+      {
+        "url": "https://alembika.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alembika.com/pages/about-alembika",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alembika.com/pages/about-hagar-alembik",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alembika.com/pages/about-yael",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alembika.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alembika.com/pages/contact-us",
+        "action": "/contact#contact-template--16564984807494__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://alembika.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alembika.com/pages/about-alembika",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alembika.com/pages/about-hagar-alembik",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alembika.com/pages/about-yael",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ALEMBIKA offers a collection best suited for women 40 plus. We specialize in middle and large plus size ranges. Feel comfortable in the body you have right now. Not the body you're working on or fantasizing about. Get $50 off your first order with code GIFT50.",
+    "source_urls": [
+      "https://alembika.com/contact",
+      "https://alembika.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alen.com",
+    "company_name": "Alen | Store",
+    "website": "https://alen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alen.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alen.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alen.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alen.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alen air purifiers for homes and commercial businesses remove dust, mold and odors with True HEPA air filters. Rated #1 in customer reviews.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alephlab.ai",
+    "company_name": "Aleph Lab",
+    "website": "http://alephlab.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@alephlab.ai",
+        "confidence": "highest",
+        "source_url": "http://alephlab.ai/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@alephlab.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://alephlab.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI-powered language learning companion for kids in their favorite games",
+    "source_urls": [
+      "http://alephlab.ai/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "alesmith.com",
+    "company_name": "AleSmith Brewing Co.",
+    "website": "https://shop.alesmith.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.alesmith.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.alesmith.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Awesome Beer, now with Awesome Gear!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alessi.com",
+    "company_name": "Alessi USA Inc",
+    "website": "https://us.alessi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://us.alessi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/products/9090-3-cp-espresso-coffee-maker",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/products/9090-espresso-coffee-maker",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/pages/commercial-contacts",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.alessi.com/pages/press-room",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alessi is an icon of Italian design. Discover its history, meet the designers, explore the collections, and purchase timeless home products created by Alessi.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "aletenutrition.com",
+    "company_name": "Alete Active Nutrition",
+    "website": "https://aletenutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aletenutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alete Active Nutrition",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alevjewelry.com",
+    "company_name": "Alev Jewelry",
+    "website": "https://www.alevjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "nathalie@alevjewelry.com",
+        "confidence": "highest",
+        "source_url": "https://www.alevjewelry.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "press For all press inquiries please contact: nathalie@alevjewelry.com Get in Touch Have a question"
+      },
+      {
+        "address": "wholesale@alevjewelry.com",
+        "confidence": "highest",
+        "source_url": "https://www.alevjewelry.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "wholesale For all wholesale inquiries please contact: wholesale@alevjewelry.com press For all press inquiries please contact:"
+      },
+      {
+        "address": "elian@alevjewelry.com",
+        "confidence": "high",
+        "source_url": "https://www.alevjewelry.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ceives the item in 7 days. For any questions or concerns: elian@alevjewelry.com. Shop now Offer ends in"
+      },
+      {
+        "address": "hello@alevjewelry.com",
+        "confidence": "high",
+        "source_url": "https://www.alevjewelry.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "elian@alevjewelry.com",
+      "hello@alevjewelry.com",
+      "nathalie@alevjewelry.com",
+      "wholesale@alevjewelry.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alevjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alevjewelry.com/pages/about-us23",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alevjewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alevjewelry.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alev Collection provides instant access to an impressive selection of curated products and our own collection.",
+    "source_urls": [
+      "https://www.alevjewelry.com",
+      "https://www.alevjewelry.com/pages/about-us23",
+      "https://www.alevjewelry.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alewinepottery.net",
+    "company_name": "Alewine Pottery",
+    "website": "https://www.alewinepottery.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alewinepottery.net",
+        "confidence": "high",
+        "source_url": "https://www.alewinepottery.net/contact",
+        "source_type": "archived",
+        "snapshot_date": "2009-04-27",
+        "context_snippet": "ottery By Phone: 865-430-7828 Online: info@alewinepottery.net By Mail: 623 Glades Road Gatlinburg, Tennessee 37"
+      }
+    ],
+    "role_emails": [
+      "info@alewinepottery.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alewinepottery.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alewinepottery.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2009-04-27"
+      },
+      {
+        "url": "https://www.alewinepottery.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alewinepottery.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alewinepottery.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Functional, handcrafted pottery from the Alewine family in Gatlinburg, TN. Selection of mugs, vases, bowls and more available online.",
+    "source_urls": [
+      "https://www.alewinepottery.net/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "alexaleigh.com",
+    "company_name": "Alexa Leigh",
+    "website": "https://alexaleigh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@alexaleigh.com",
+        "confidence": "highest",
+        "source_url": "https://alexaleigh.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r suggestions, we\u2019d love to hear them! Please reach out to customerservice@alexaleigh.com. Back Add a Gift"
+      }
+    ],
+    "role_emails": [
+      "customerservice@alexaleigh.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "o.october@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "october@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on.october@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on_october@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ono@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.parke@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parke Chelsea Parke",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parke.parke@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parke Chelsea Parke",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parke@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parke Chelsea Parke",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parke_parke@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parke Chelsea Parke",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parkep@alexaleigh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parke Chelsea Parke",
+        "person_title": "Founder",
+        "source_url": "https://alexaleigh.com/pages/press-2",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alexaleigh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexaleigh.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexaleigh.com/pages/press-2",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexaleigh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alexaleigh.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop fine jewelry from Alexa Leigh. Discover hand crafted diamond necklaces, gold rings, earrings, and bracelets. Timeless pieces with personal significance since 2010.",
+    "source_urls": [
+      "https://alexaleigh.com/pages/about-us",
+      "https://alexaleigh.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alexandani.com",
+    "company_name": "ALEX AND ANI",
+    "website": "https://www.alexandani.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@alexandani.com",
+        "confidence": "highest",
+        "source_url": "https://www.alexandani.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-06-20",
+        "context_snippet": "turday: CLOSED Phone: 1 (800) 725-7822 Email: customerservice@alexandani.com Wholesale Applications: Apply Now FAQs: Orderin"
+      },
+      {
+        "address": "pr@alexandani.com",
+        "confidence": "highest",
+        "source_url": "https://www.alexandani.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-18",
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@alexandani.com",
+        "confidence": "highest",
+        "source_url": "https://www.alexandani.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-18",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@alexandani.com",
+      "pr@alexandani.com",
+      "wholesale@alexandani.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alexandani.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alexandani.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-18"
+      },
+      {
+        "url": "https://www.alexandani.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-06-20"
+      },
+      {
+        "url": "https://www.alexandani.com/collections/express-your-style",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alexandani.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alexandani.com/contact",
+        "action": "/custom/index/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We design + create charm bangles, bracelets, necklaces, earrings + rings, that adorn the body, enlighten the mind + empower the spirit. Start stacking!",
+    "source_urls": [
+      "https://www.alexandani.com/contact",
+      "https://www.alexandani.com/contact-us",
+      "https://www.alexandani.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alexanderdaas.com",
+    "company_name": "ALEXANDER DAAS",
+    "website": "https://alexanderdaas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.daas@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander.daas@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander_daas@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexanderd@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daas@alexanderdaas.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander Daas",
+        "person_title": "Co-Founder",
+        "source_url": "https://alexanderdaas.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alexanderdaas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/pages/contact-lens-ordering",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/pages/locations-san-diego-opticians",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/pages/locations-los-angeles-opticians",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderdaas.com/pages/locations-palo-alto-opticians",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop luxury eyewear & designer frames at Alexander Daas. Book eye exams or visit our boutiques in Los Angeles, San Francisco, San Diego, Orange County & Palo Alto. Explore eyeglasses and sunglasses from Barton Perreira, Celine, ic! Berlin, Lindberg, Lunor, Mykita, Theo, Tom Ford and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "alexanderjane.com",
+    "company_name": "Alexander Jane Boutique",
+    "website": "https://alexanderjane.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "happypeople@alexanderjane.com",
+        "confidence": "high",
+        "source_url": "https://alexanderjane.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eached via the form above which goes directly to our email, happypeople@alexanderjane.com, or you can use the chat feature on the bottom right of thi"
+      }
+    ],
+    "role_emails": [
+      "happypeople@alexanderjane.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alexanderjane.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderjane.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderjane.com/pages/about-aj",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderjane.com/pages/warehouse-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alexanderjane.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Confidence starts here. Alexander Jane\u2019s size-inclusive jeans, tops, and everyday essentials help you look amazing, feel unstoppable, and and take on your day with style.",
+    "source_urls": [
+      "https://alexanderjane.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alexanderjulian.com",
+    "company_name": "Alexander Julian",
+    "website": "https://www.alexanderjulian.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "maria@alexanderjulian.com",
+        "confidence": "high",
+        "source_url": "https://www.alexanderjulian.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y - no items are available for sale for now. Please contact maria@alexanderjulian.com for any questions\u2014 Menu 0"
+      }
+    ],
+    "role_emails": [
+      "maria@alexanderjulian.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alexanderjulian.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alexanderjulian.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Casual elegance, Extraordinary Design. Bring excitement back to your wardrobe. A reinvigoration of style by father-son duo Alex and Huston Julian.",
+    "source_urls": [
+      "https://www.alexanderjulian.com",
+      "https://www.alexanderjulian.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alexanderlaut.com",
+    "company_name": "Alexander Laut",
+    "website": "https://alexanderlaut.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alexanderlaut.com",
+        "confidence": "highest",
+        "source_url": "https://alexanderlaut.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alexanderlaut.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alexanderlaut.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderlaut.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-05-05"
+      },
+      {
+        "url": "https://alexanderlaut.com/press.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vision and talent are necessary prerequisites to success in the very competitive world of fine jewelry, but what differentiates a jewelry designer from a jewelry creator is a single-minded dedication to producing not just one piece of jewelry, but telling a story of colors and emotions in the next p",
+    "source_urls": [
+      "https://alexanderlaut.com",
+      "https://alexanderlaut.com/press.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alexanderpcs.com",
+    "company_name": "Alexander PCs",
+    "website": "https://alexanderpcs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@alexanderpcs.com",
+        "confidence": "high",
+        "source_url": "https://alexanderpcs.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-01",
+        "context_snippet": "n message us on Facebook/Instagram Messanger, e-mail us at admin@alexanderpcs.com or give us a call during our business hours at chat with on"
+      }
+    ],
+    "role_emails": [
+      "admin@alexanderpcs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alexanderpcs.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-01"
+      },
+      {
+        "url": "https://alexanderpcs.com/pages/tech-support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-01"
+      },
+      {
+        "url": "https://alexanderpcs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-01"
+      },
+      {
+        "url": "https://alexanderpcs.com/pages/please-contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-01"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alexanderpcs.com/pages/contact",
+        "action": "/contact#contact-form-template--15460503912581__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alexanderpcs.com/pages/please-contact-us",
+        "action": "/contact#contact-form-template--15460507091077__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alexander PCs - Desktop Gaming PCs and Custom PC Builds. Lifetime Warranty. High end desktop PCs for gaming, stock trading, and content creation. Best value. Amazing Performance. Socially responsible brand. Inclusive brand community.",
+    "source_urls": [
+      "https://alexanderpcs.com",
+      "https://alexanderpcs.com/pages/tech-support",
+      "https://alexanderpcs.com/pages/contact",
+      "https://alexanderpcs.com/pages/please-contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alexanderscolumbus.com",
+    "company_name": "Alexander's Jewelers",
+    "website": "https://alexanderscolumbus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "b.beach@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bank@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "beach@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad.beach@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad_beach@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradb@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Beach",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.marzich@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.marzich@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_marzich@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidm@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.bank@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fifth.bank@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fifth@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fifth_bank@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fifthb@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fifth Third Bank",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.services@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hillcrest.services@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hillcrest@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hillcrest_services@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hillcrests@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marzich@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Marzich",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "services@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hillcrest Food Services",
+        "person_title": "President",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.management@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tailored.management@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tailored@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tailored_management@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tailoredm@alexanderscolumbus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tailored Management",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://alexanderscolumbus.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alexanderscolumbus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderscolumbus.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderscolumbus.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderscolumbus.com/collections/iwc-international-watch-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderscolumbus.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexanderscolumbus.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Customize jewelry with the experienced team at Alexander's Jewelers. Visit our store in Columbus, Ohio, for jewelry repairs, custom rings, watches, and more. Click to learn more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alexandrabeth.com",
+    "company_name": "Alexandra Beth",
+    "website": "https://alexandrabeth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alexandrabeth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexandrabeth.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-10"
+      },
+      {
+        "url": "https://alexandrabeth.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://alexandrabeth.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alexandrabeth.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alexandrabeth.com/contact",
+        "action": "https://alexandra-samit-ph1m.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alexandrabeth.com/pages/contact-us-1",
+        "action": "/contact#ContactForm-template--17538528673847__contact_form_fVhkqG",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Alexandra Beth Fine Jewelry is a collection of contemporary on-trend jewelry designed and curated by designer Alexandra Samit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
