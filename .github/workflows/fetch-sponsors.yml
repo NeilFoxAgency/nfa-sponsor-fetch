@@ -35,6 +35,8 @@ jobs:
           python -m playwright install chromium --with-deps
 
       - name: Extract decision-maker contacts
+        env:
+          KEENABLE_API_KEY: ${{ secrets.KEENABLE_API_KEY }}
         run: |
           python worker/fetch_contacts.py \
             --targets "batches/${{ inputs.batch_id }}/targets.json" \
