@@ -170,7 +170,9 @@ UA_PROFILES = [
 ]
 
 REQUEST_TIMEOUT = 20.0
-MAX_PAGES = 8
+# 2026-09-30: Fox confirmed unlimited GitHub Actions minutes.
+# Crawl aggressively: 50 pages per company (was 8).
+MAX_PAGES = 50
 
 # Common contact endpoints probed directly, crawled early in page order
 # (Fox addition: /about, /team, /contact, /press first; iteration-1 added
@@ -187,7 +189,9 @@ CONTACT_ENDPOINTS = (
 )
 # 2026-09-30: increased from 6 to 10 (Fox: worker missed support@gamesir.com
 # because "support" was 15th in the probe order and never reached).
-MAX_PROBED_ENDPOINTS = 10
+# 2026-09-30: probe ALL endpoints (was 10). With unlimited minutes,
+# there's no reason to stop early.
+MAX_PROBED_ENDPOINTS = 999
 
 CONTACT_HINTS = (
     "contact", "about", "about-us", "team", "our-team", "people", "staff",
@@ -1539,11 +1543,15 @@ def discover_one(
                     (url, result["html"], result["source_type"],
                      result["snapshot_date"]))
 
-        # 2) Follow contact-hint links discovered on the homepage.
+        # 2) Follow links discovered on the homepage.
+        # 2026-09-30: unlimited minutes, so crawl aggressively.
+        # Priority 1: contact-hint links (most likely to have emails).
+        # Priority 2: ALL other internal links (footers, nav, etc. often
+        # have emails; Fox: "don't be shy about crawling lots of pages").
         soup = BeautifulSoup(home_html, "html.parser")
+        priority_urls = []
+        fallback_urls = []
         for anchor in soup.find_all("a", href=True):
-            if len(pages) >= MAX_PAGES:
-                break
             href = str(anchor["href"]).strip()
             if not href or href.startswith(("tel:", "javascript:", "#")):
                 continue
@@ -1552,8 +1560,16 @@ def discover_one(
             url = urljoin(home_url, href)
             if normalized_host(url) != home_host:
                 continue
-            if not any(hint in url.casefold() for hint in CONTACT_HINTS):
+            if url in seen_urls:
                 continue
+            if any(hint in url.casefold() for hint in CONTACT_HINTS):
+                priority_urls.append(url)
+            else:
+                fallback_urls.append(url)
+        # Priority first, then fallback, up to MAX_PAGES
+        for url in priority_urls + fallback_urls:
+            if len(pages) >= MAX_PAGES:
+                break
             try_add_page(url)
 
         base["company_summary"] = extract_company_summary(home_html)
