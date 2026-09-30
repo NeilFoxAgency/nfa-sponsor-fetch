@@ -69,6 +69,12 @@ Extraction techniques (adapted from public research + Fox's 2026-09-25 fixes):
   static passes, the homepage and the best contact/about/team page are
   re-fetched through headless Chromium (max 2 renders per domain) to catch
   JS-injected emails and mailto: links.
+- KeenAble fallback tier (Fox 2026-09-30): when the static crawl finds zero
+  first-party emails, KeenAble's realtime search finds contact pages the
+  crawler may have missed and its LLM extracts emails on KeenAble's compute
+  (~4 credits/company, zero worker tokens). Runs before the render tier so
+  a KeenAble hit skips the expensive Chromium render. No-ops without
+  KEENABLE_API_KEY.
 - Team-link person discovery: anchors pointing at /team, /about, /people,
   /leadership, /founder, /staff whose link text is a person's name are
   recorded as people when the surrounding block carries a title keyword.
@@ -116,6 +122,16 @@ from urllib.robotparser import RobotFileParser
 from bs4 import BeautifulSoup
 from curl_cffi.requests import Session
 from curl_cffi.requests import exceptions as cexc
+
+# KeenAble programmatic discovery (Fox 2026-09-30: "wire it into our
+# process"). Imported lazily-guarded so the worker still runs if the
+# module is missing; the tier itself no-ops without KEENABLE_API_KEY.
+try:
+    from discover import discover as keenable_discover
+    _KEENABLE_MODULE_OK = True
+except ImportError:
+    keenable_discover = None  # type: ignore
+    _KEENABLE_MODULE_OK = False
 
 # Rotating realistic browser profiles (Fox fix #1). The impersonation
 # profile must match the UA/headers or the mismatch itself is a signal.
@@ -1454,6 +1470,90 @@ def harvest_pages(
     }
 
 
+def keenable_tier(
+    company_domain: str,
+    company_name: str,
+    home_url: str,
+    max_pages: int = 3,
+) -> dict:
+    """KeenAble fallback tier: search + LLM-extract contact pages via API.
+
+    Runs ONLY when the static crawl found zero first-party emails (saves
+    credits: ~4/company vs the 100K/month budget). KeenAble's search finds
+    contact pages the crawler may have missed (JS nav, unusual paths), and
+    its LLM extracts emails on KeenAble's compute (zero worker tokens).
+
+    Returns a harvest-compatible dict:
+        {emails, role_emails, contact_pages, source_urls,
+         keenable_credits, keenable_pages}
+    All emails are first-party validated; failures return empty results
+    (never raises — the caller must not break on a tier failure).
+    """
+    empty = {
+        "emails": [], "role_emails": [], "contact_pages": [],
+        "source_urls": [], "keenable_credits": 0, "keenable_pages": 0,
+    }
+    if not _KEENABLE_MODULE_OK or keenable_discover is None:
+        return empty
+    import os
+    if not os.environ.get("KEENABLE_API_KEY", "").strip():
+        return empty
+    try:
+        result = keenable_discover(
+            company_domain, company_name, max_pages=max_pages)
+    except Exception:
+        return empty
+    credits = int(result.get("credits_used", 0) or 0)
+    emails: dict[str, dict] = {}
+    role_emails: list[str] = []
+    contact_pages: list[dict] = []
+    source_urls: list[str] = []
+    for page in result.get("contacts", []):
+        url = page.get("url", "")
+        if not url:
+            continue
+        contact_pages.append({
+            "url": url,
+            "page_type": classify_page_type(url),
+            "source_type": "keenable",
+            "snapshot_date": None,
+        })
+        page_emails = page.get("emails", []) or []
+        if page_emails:
+            source_urls.append(url)
+        for addr in page_emails:
+            addr = (addr or "").strip().lower()
+            if not _looks_valid(addr):
+                continue
+            # First-party only: the address must belong to the company's
+            # domain (same rule as the static harvest).
+            if not email_matches_website_domain(addr, home_url):
+                continue
+            if addr not in emails:
+                emails[addr] = {
+                    "address": addr,
+                    "confidence": "high",  # LLM-extracted from page text
+                    "source_url": url,
+                    "source_type": "keenable",
+                    "snapshot_date": None,
+                    "context_snippet": "",
+                }
+            if addr not in role_emails:
+                role_emails.append(addr)
+    return {
+        "emails": sorted(
+            emails.values(),
+            key=lambda h: (-CONFIDENCE_RANK[h["confidence"]],
+                           h["address"]),
+        ),
+        "role_emails": sorted(set(role_emails)),
+        "contact_pages": contact_pages,
+        "source_urls": source_urls,
+        "keenable_credits": credits,
+        "keenable_pages": int(result.get("pages_checked", 0) or 0),
+    }
+
+
 def discover_one(
     *,
     company_domain: str,
@@ -1574,6 +1674,43 @@ def discover_one(
 
         base["company_summary"] = extract_company_summary(home_html)
         harvest = harvest_pages(company_name, home_url, pages)
+
+        # KeenAble fallback tier (Fox 2026-09-30): when the static crawl
+        # found zero first-party emails, ask KeenAble's search + LLM
+        # extraction (their compute, ~4 credits/company). Results merge
+        # into the harvest with first-party validation. If KeenAble finds
+        # emails, the expensive Chromium render tier below is skipped.
+        keenable_credits = 0
+        keenable_pages = 0
+        if not harvest["emails"] and not harvest["role_emails"]:
+            kt = keenable_tier(company_domain, company_name, home_url)
+            keenable_credits = kt["keenable_credits"]
+            keenable_pages = kt["keenable_pages"]
+            if kt["emails"]:
+                for entry in kt["emails"]:
+                    existing = None
+                    for e in harvest["emails"]:
+                        if e["address"] == entry["address"]:
+                            existing = e
+                            break
+                    if existing is None:
+                        harvest["emails"].append(entry)
+                harvest["emails"] = sorted(
+                    harvest["emails"],
+                    key=lambda h: (-CONFIDENCE_RANK[h["confidence"]],
+                                   h["address"]),
+                )
+                for addr in kt["role_emails"]:
+                    if addr not in harvest["role_emails"]:
+                        harvest["role_emails"].append(addr)
+                harvest["role_emails"] = sorted(set(
+                    harvest["role_emails"]))
+                harvest["contact_pages"].extend(kt["contact_pages"])
+                for url in kt["source_urls"]:
+                    if url not in harvest["source_urls"]:
+                        harvest["source_urls"].append(url)
+        base["keenable_credits_used"] = keenable_credits
+        base["keenable_pages_checked"] = keenable_pages
 
         # Render-on-miss: the static passes found zero first-party emails
         # anywhere on the domain. Re-fetch the homepage and the best
