@@ -181,6 +181,9 @@ CONTACT_ENDPOINTS = (
     "people", "staff", "press", "media", "help", "company",
     "who-we-are", "our-story", "our-mission", "get-in-touch", "reach-us",
     "enquiries", "impressum",
+    # 2026-09-30: Shopify-style nested paths (Fox: worker missed
+    # /pages/contact-us on nortiv8.com, /support/contact on gamesir.com).
+    "pages/contact", "pages/contact-us", "support/contact",
 )
 # 2026-09-30: increased from 6 to 10 (Fox: worker missed support@gamesir.com
 # because "support" was 15th in the probe order and never reached).
