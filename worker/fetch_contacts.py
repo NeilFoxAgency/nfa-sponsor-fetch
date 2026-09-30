@@ -176,13 +176,15 @@ MAX_PAGES = 8
 # (Fox addition: /about, /team, /contact, /press first; iteration-1 added
 # leadership/founders/people/staff/impressum and more contact variants).
 CONTACT_ENDPOINTS = (
-    "contact", "contact-us", "contactus", "about", "about-us", "team",
-    "our-team", "meet-the-team", "leadership", "founders", "people",
-    "staff", "press", "media", "support", "help", "company",
+    "contact", "support", "about", "team", "contact-us", "contactus",
+    "about-us", "our-team", "meet-the-team", "leadership", "founders",
+    "people", "staff", "press", "media", "help", "company",
     "who-we-are", "our-story", "our-mission", "get-in-touch", "reach-us",
     "enquiries", "impressum",
 )
-MAX_PROBED_ENDPOINTS = 6
+# 2026-09-30: increased from 6 to 10 (Fox: worker missed support@gamesir.com
+# because "support" was 15th in the probe order and never reached).
+MAX_PROBED_ENDPOINTS = 10
 
 CONTACT_HINTS = (
     "contact", "about", "about-us", "team", "our-team", "people", "staff",
