@@ -1,0 +1,2115 @@
+[
+  {
+    "company_domain": "alchemistcoffee.com",
+    "company_name": "Alchemist Coffee",
+    "website": "https://www.alchemistcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@alchemistcoffee.com",
+        "confidence": "high",
+        "source_url": "https://www.alchemistcoffee.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact information Email: admin@alchemistcoffee.com Return Address: 5220 N Sawyer Ave ste a, Boise, ID, 83714"
+      }
+    ],
+    "role_emails": [
+      "admin@alchemistcoffee.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alchemistcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alchemistcoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-07-26"
+      },
+      {
+        "url": "https://www.alchemistcoffee.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-12-19"
+      },
+      {
+        "url": "https://www.alchemistcoffee.com/pages/about-alchemist-coffee",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alchemistcoffee.com/products/gold-espresso-blend?variant=40581395349578",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alchemistcoffee.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alchemistcoffee.com/contact",
+        "action": "/contact/#wpcf7-f161-p21-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.alchemistcoffee.com/about",
+        "action": "http://alchemistcoffee.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alchemist Coffee",
+    "source_urls": [
+      "https://www.alchemistcoffee.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alchemistsrefuge.shop",
+    "company_name": "Alchemist's Refuge",
+    "website": "https://alchemistsrefuge.shop",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@alchemistsrefuge.shop",
+        "confidence": "high",
+        "source_url": "https://alchemistsrefuge.shop",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@alchemistsrefuge.shop"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alchemistsrefuge.shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemistsrefuge.shop/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemistsrefuge.shop/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alchemistsrefuge.shop/pages/contact-us",
+        "action": "/contact#template--16749045874943__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alchemist's Refuge is an online retailer that specializes in Magic the Gathering, Pokemon and Disney Lorcana. We have a wide selection of graded cards, sealed product and singles.",
+    "source_urls": [
+      "https://alchemistsrefuge.shop",
+      "https://alchemistsrefuge.shop/pages/about-us",
+      "https://alchemistsrefuge.shop/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alchemizefightwear.com",
+    "company_name": "Alchemize Fightwear",
+    "website": "https://alchemizefightwear.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alchemybikes.com",
+    "company_name": "Alchemy Bikes",
+    "website": "https://alchemybikes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@alchemybikes.com",
+        "confidence": "highest",
+        "source_url": "https://alchemybikes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@alchemybikes.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alchemybikes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemybikes.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This is the core of the Alchemy way: We only spec top-shelf bikes and we only ship direct from Golden, CO with minimal markups and a lifetime guarantee on every frame.",
+    "source_urls": [
+      "https://alchemybikes.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alchemyfacebar.com",
+    "company_name": "ALCHEMY FACE BAR",
+    "website": "https://alchemyfacebar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "helloboulder@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10",
+        "context_snippet": "equency varies. Reply STOP to opt out at any time Boulder | helloboulder@alchemyfacebar.com Cherry Hills | Denver helloch@alchemyfacebar.com Lower Gree"
+      },
+      {
+        "address": "helloch@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10",
+        "context_snippet": "der | helloboulder@alchemyfacebar.com Cherry Hills | Denver helloch@alchemyfacebar.com Lower Greenville | Dallas hellogreenville@alchemyfacebar.co"
+      },
+      {
+        "address": "helloeatx@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "OCT 1ST! 2610a Manor Road Austin, TX 78722 (512) 641-9613 helloeatx@alchemyfacebar.com book now hours Monday + thursday: 10am - 6pm Friday - Sunda"
+      },
+      {
+        "address": "hellogreenville@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10",
+        "context_snippet": "Denver helloch@alchemyfacebar.com Lower Greenville | Dallas hellogreenville@alchemyfacebar.com Hale | Denver hellohale@alchemyfacebar.com Highlands | Denv"
+      },
+      {
+        "address": "hellohale@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10",
+        "context_snippet": "e | Dallas hellogreenville@alchemyfacebar.com Hale | Denver hellohale@alchemyfacebar.com Highlands | Denver hellohighlands@alchemyfacebar.com View o"
+      },
+      {
+        "address": "hellohighlands@alchemyfacebar.com",
+        "confidence": "high",
+        "source_url": "https://alchemyfacebar.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10",
+        "context_snippet": "le | Denver hellohale@alchemyfacebar.com Highlands | Denver hellohighlands@alchemyfacebar.com View our Privacy Policy describing how your personal infor"
+      }
+    ],
+    "role_emails": [
+      "helloboulder@alchemyfacebar.com",
+      "helloch@alchemyfacebar.com",
+      "helloeatx@alchemyfacebar.com",
+      "hellogreenville@alchemyfacebar.com",
+      "hellohale@alchemyfacebar.com",
+      "hellohighlands@alchemyfacebar.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alchemyfacebar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemyfacebar.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10"
+      },
+      {
+        "url": "https://alchemyfacebar.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We believe in connection and that good energy, clean beauty and kindness can light up the world. We are a facial bar and medical spa located in Denver + Boulder, CO and Dallas, TX that provides organic and medical facials, lash and brow services, medical aesthetics and cosmetic injectables.",
+    "source_urls": [
+      "https://alchemyfacebar.com/contact",
+      "https://alchemyfacebar.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alchemymerch.com",
+    "company_name": "Alchemy Merch",
+    "website": "https://alchemymerch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@alchemymerch.com",
+        "confidence": "highest",
+        "source_url": "https://alchemymerch.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cy Contact Alchemy 602-456-1580 orders@alchemymerch.com Facebook X (Twitter) Instagra"
+      }
+    ],
+    "role_emails": [
+      "orders@alchemymerch.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alchemymerch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemymerch.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're a team of artists, musicians, and brand owners producing custom retail-quality pins, patches, keychains and more from your art. All-in pricing with no hidden fees. Shipping always included. 50 MOQ on most items. 5+ million products for creators.",
+    "source_urls": [
+      "https://alchemymerch.com",
+      "https://alchemymerch.com/contact",
+      "https://alchemymerch.com/about-us",
+      "https://alchemymerch.com/team",
+      "https://alchemymerch.com/pages/contact",
+      "https://alchemymerch.com/pages/meet-the-team",
+      "https://alchemymerch.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alchemynaturals.com",
+    "company_name": "Alchemy Naturals",
+    "website": "https://alchemynaturals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@alchemynaturals.com",
+        "confidence": "high",
+        "source_url": "https://alchemynaturals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ehelp@alchemynaturals.com",
+        "confidence": "high",
+        "source_url": "https://alchemynaturals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@alchemynaturals.com",
+      "u003ehelp@alchemynaturals.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "api@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.api@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shopify.api@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shopify@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shopify_api@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shopifya@alchemynaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shopify API",
+        "person_title": null,
+        "source_url": "https://alchemynaturals.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alchemynaturals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemynaturals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemynaturals.com/pages/contact-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premium full-spectrum CBD gummies from Alchemy Naturals, infused with minor cannabinoids, functional mushrooms, and adaptogens for Sleep, Relief, Workout and more. Shop now for natural wellness!",
+    "source_urls": [
+      "https://alchemynaturals.com",
+      "https://alchemynaturals.com/pages/about-us",
+      "https://alchemynaturals.com/pages/contact-form"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alchemyorganics.com",
+    "company_name": "Alchemy Organics",
+    "website": "https://www.alchemyorganics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@alchemyorganics.com",
+        "confidence": "high",
+        "source_url": "https://www.alchemyorganics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Organics, Inc. CALL: (512) 317-0100 TEXT: (512)-200-3533 hello@alchemyorganics.com Alchemy Cafe - Zilker 1701 Toomey Rd. Austin, TX 78704 Alc"
+      }
+    ],
+    "role_emails": [
+      "hello@alchemyorganics.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "brown@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.brown@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carly.brown@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carly@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carly_brown@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlyb@alchemyorganics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carly Brown",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alchemyorganics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alchemyorganics.com/pages/about-alchemy",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alchemyorganics.com/pages/contact-alchemy",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cold pressed juice with 100% organic ingredients, delivered to your home or business in Austin Texas or shipped nationwide. Visit our cafes for juice or organic espresso and coffee drinks.",
+    "source_urls": [
+      "https://www.alchemyorganics.com",
+      "https://www.alchemyorganics.com/pages/about-alchemy",
+      "https://www.alchemyorganics.com/pages/contact-alchemy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alcltd.com",
+    "company_name": "ALC LTD",
+    "website": "https://alcltd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "assistance@alcltd.com",
+        "confidence": "highest",
+        "source_url": "https://alcltd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "TikTok Customer Service 909-361-3238 assistance@alcltd.com M-F, 8:00 AM - 4:00 PM PST Accessibility Statement VI"
+      },
+      {
+        "address": "press@alcltd.com",
+        "confidence": "highest",
+        "source_url": "https://alcltd.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "holesale Inquiries: sales@alcltd.com For Press Inquiries: press@alcltd.com Shopping Cart"
+      },
+      {
+        "address": "sales@alcltd.com",
+        "confidence": "highest",
+        "source_url": "https://alcltd.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Inquiries: assistance@alcltd.com For Wholesale Inquiries: sales@alcltd.com For Press Inquiries: press@alcltd.com"
+      }
+    ],
+    "role_emails": [
+      "assistance@alcltd.com",
+      "press@alcltd.com",
+      "sales@alcltd.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alcltd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcltd.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcltd.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcltd.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcltd.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From everyday essentials to statement silhouettes, shop our elevated Spring edit. Polished pleats & modern separates lead A.L.C.\u2019s Winter collection. 15% off your first full price order. Free Ground Shipping over $200. Shop Online. Types: Dresses, Tops, Tees & Tanks, Bottoms, Suits, Knitwear, Jumpsu",
+    "source_urls": [
+      "https://alcltd.com",
+      "https://alcltd.com/contact",
+      "https://alcltd.com/pages/contact",
+      "https://alcltd.com/pages/about-us",
+      "https://alcltd.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alcoeats.com",
+    "company_name": "alcoeats",
+    "website": "https://alcoeats.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alcojewelry.com",
+    "company_name": "ALCO Jewelry",
+    "website": "https://alcojewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@alcojewelry.com",
+        "confidence": "high",
+        "source_url": "https://alcojewelry.com/pages/join-our-team-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lternatively, you can email your resume and cover letter to hello@alcojewelry.com. Which position are you interested in? - Pick an option -"
+      }
+    ],
+    "role_emails": [
+      "hello@alcojewelry.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "o.story@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.story@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_story@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ours@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "story@alcojewelry.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://alcojewelry.com/pages/about-2-0",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alcojewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcojewelry.com/pages/about-2-0",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcojewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcojewelry.com/pages/join-our-team-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alcojewelry.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://alcojewelry.com/pages/join-our-team-1",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Water resistant jewelry. ALCO jewelry is made for life. Shower, sweat and swim in hypoallergenic, tarnish resistant jewelry.",
+    "source_urls": [
+      "https://alcojewelry.com/pages/join-our-team-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alconemakeup.com",
+    "company_name": "Alcone Company",
+    "website": "https://alconemakeup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alconemakeup.com",
+        "confidence": "high",
+        "source_url": "https://alconemakeup.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alconemakeup.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alconemakeup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconemakeup.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconemakeup.com/products/alcone-company-luxe-gel-eyeliner",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconemakeup.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alconemakeup.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alconemakeup.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alcone Company",
+    "source_urls": [
+      "https://alconemakeup.com",
+      "https://alconemakeup.com/contact",
+      "https://alconemakeup.com/products/alcone-company-luxe-gel-eyeliner",
+      "https://alconemakeup.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alconkits.com",
+    "company_name": "Alcon Brake Kits",
+    "website": "https://alconkits.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@alconkits.com",
+        "confidence": "highest",
+        "source_url": "https://alconkits.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us for advice sales@alconkits.com latest news"
+      },
+      {
+        "address": "support@alconkits.com",
+        "confidence": "high",
+        "source_url": "https://alconkits.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@alconkits.com",
+      "support@alconkits.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.kits@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alcon.kits@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alcon@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alcon_kits@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alconk@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kits@alconkits.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alcon Kits",
+        "person_title": null,
+        "source_url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alconkits.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconkits.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconkits.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconkits.com/pages/support-landing",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alconkits.com/blogs/news/about-alcon-brake-kits",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alconkits.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alconkits.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alcon Brake Kits supplies performance brake kits for sports cars and heavy duty trucks for armored and off-road trucks worldwide. Find replacement brake pads, rotors, and upgrades in stock",
+    "source_urls": [
+      "https://alconkits.com",
+      "https://alconkits.com/contact-us",
+      "https://alconkits.com/pages/contact",
+      "https://alconkits.com/pages/support-landing",
+      "https://alconkits.com/blogs/news/about-alcon-brake-kits"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alcrecords.com",
+    "company_name": "ALC Records",
+    "website": "https://alcrecords.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alcrecords.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcrecords.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alcrecords.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alcrecords.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The official store for The Alchemist's private label ALC Records based in Santa Monica, California. Serving limited edition vinyl, apparel & more. Subscribe to the newsletter for merch drops & upcoming releases.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ald.kitchen",
+    "company_name": "ALDKitchen",
+    "website": "https://ald.kitchen",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "equipment@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.us@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more.us@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more_us@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moreu@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q.equipment@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quality.equipment@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quality@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quality_equipment@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qualitye@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quality Kitchen Equipment",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen/pages/about-us-new",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "us@ald.kitchen",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "more About Us",
+        "person_title": "Owner",
+        "source_url": "https://ald.kitchen",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ald.kitchen",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/pages/about-us-new",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/collections/hamburger-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/collections/panini-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/collections/oil-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ald.kitchen/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ald.kitchen/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ALDKitchen \u2013 Professional equipment for restaurants. \u2713 Appliances for catering business. \u2713 Free Shipping & Worldwide Delivery \u2713 High-quality guaranteed. \u2713 Honest lowest prices. \u2713 Sincere customer service. \u2713 Easy to clean and maintain. \u2713 Money back guarantee.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "aldeacoffee.com",
+    "company_name": "Aldea Coffee",
+    "website": "https://www.aldeacoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "partner@aldeacoffee.com",
+        "confidence": "high",
+        "source_url": "https://www.aldeacoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "partner@aldeacoffee.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aldeacoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldeacoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldeacoffee.com/products/party_pace_espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldeacoffee.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldeacoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldeacoffee.com/pages/learn-about-aldea-coffee",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aldeacoffee.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aldeacoffee.com/pages/locations",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aldeacoffee.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We are a coffee shop located in Grand Haven, and Muskegon, Michigan. Through our non-profit directly with small micro-lot coffee farmers in La Union, Honduras. We strive to build community through specialty coffee.",
+    "source_urls": [
+      "https://www.aldeacoffee.com",
+      "https://www.aldeacoffee.com/contact",
+      "https://www.aldeacoffee.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aldenmadison.com",
+    "company_name": "Alden Madison",
+    "website": "https://aldenmadison.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aldenmadison.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldenmadison.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-10"
+      },
+      {
+        "url": "https://aldenmadison.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldenmadison.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aldenmadison.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ALDEN SHOES",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aldenshop.com",
+    "company_name": "The Alden Shop",
+    "website": "https://www.aldenshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aldenshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldenshop.com/pages/hours-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aldenshop.com/pages/contact-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aldenshop.com/pages/contact-1",
+        "action": "/contact#ContactForm-template--17732062511270__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The Alden Shop",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aldercreek.com",
+    "company_name": "Alder Creek Kayak Canoe",
+    "website": "https://aldercreek.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "alderferlumber.com",
+    "company_name": "Alderfer Lumber",
+    "website": "https://alderferlumber.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@alderferlumber.com",
+        "confidence": "highest",
+        "source_url": "https://alderferlumber.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", Mt Pleasant Mills, PA 17853 Call or Email: 570-539-2063 sales@alderferlumber.com Facebook Instagram"
+      },
+      {
+        "address": "info@alderferlumber.com",
+        "confidence": "high",
+        "source_url": "https://alderferlumber.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ion Trade name: alderfer Phone number: Email: info@alderferlumber.com Physical address: Alderfer Lumber Co. , 5532 Flint Valley"
+      }
+    ],
+    "role_emails": [
+      "info@alderferlumber.com",
+      "sales@alderferlumber.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alderferlumber.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alderferlumber.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alderferlumber.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alderferlumber.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alderferlumber.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alderferlumber.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alderferlumber.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alderferlumber.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alderfer Lumber & Live Edge Slabs are the premiere lumber yard and sawmill in PA supplying furniture-grade rough cut and surfaced wood for woodworkers. Nationwide shipping, lots of rough cut lumber, and additional services available.",
+    "source_urls": [
+      "https://alderferlumber.com",
+      "https://alderferlumber.com/contact",
+      "https://alderferlumber.com/pages/contact",
+      "https://alderferlumber.com/pages/about-us",
+      "https://alderferlumber.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aldoscoffee.com",
+    "company_name": "Aldo's Coffee Company",
+    "website": "https://aldoscoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aldoscoffee.com",
+        "confidence": "highest",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone number: +1 (631) 213-9353 Email: info@aldoscoffee.com Hours: Monday: 7am \u2013 7pm Tuesday: 7am \u2013 5pm Wednesday: 7am"
+      },
+      {
+        "address": "u003einfo@aldoscoffee.com",
+        "confidence": "high",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@aldoscoffee.com",
+      "u003einfo@aldoscoffee.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.gallagher@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel.gallagher@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel_gallagher@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danielg@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gallagher@aldoscoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Gallagher",
+        "person_title": "Owner",
+        "source_url": "https://aldoscoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aldoscoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldoscoffee.com/pages/learn-about-aldo-s",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldoscoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldoscoffee.com/products/orient-espresso-blend?variant=20336875713",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldoscoffee.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aldoscoffee.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fresh-roasted USDA Organic coffee and freshly baked biscotti from Greenport, NY. Bold, small-batch roasted since 1987. Free U.S. shipping.",
+    "source_urls": [
+      "https://aldoscoffee.com",
+      "https://aldoscoffee.com/pages/learn-about-aldo-s",
+      "https://aldoscoffee.com/pages/contact-us",
+      "https://aldoscoffee.com/products/orient-espresso-blend?variant=20336875713",
+      "https://aldoscoffee.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aldosohm.com",
+    "company_name": "Aldo Sohm",
+    "website": "https://aldosohm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "office@aldosohm.com",
+        "confidence": "highest",
+        "source_url": "https://aldosohm.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "FAQ Email office@aldosohm.com"
+      }
+    ],
+    "role_emails": [
+      "office@aldosohm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aldosohm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosohm.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-26"
+      },
+      {
+        "url": "https://aldosohm.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-26"
+      },
+      {
+        "url": "https://aldosohm.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosohm.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosohm.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aldosohm.com/contact",
+        "action": "https://aldo-sohm.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aldosohm.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aldo Sohm, Sommelier at Le Bernardin, Author of Wine Simple and Winemaker of Fine Wines from Austria, Zalto Glassware brand ambassador.",
+    "source_urls": [
+      "https://aldosohm.com",
+      "https://aldosohm.com/contact",
+      "https://aldosohm.com/about",
+      "https://aldosohm.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aldosurgicalsupply.com",
+    "company_name": "Aldo Surgical Supply",
+    "website": "https://aldosurgicalsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@aldosurgicalsupply.com",
+        "confidence": "highest",
+        "source_url": "https://aldosurgicalsupply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ay Closed Google Map Contact Us sales@aldosurgicalsupply.com"
+      }
+    ],
+    "role_emails": [
+      "sales@aldosurgicalsupply.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aldosurgicalsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosurgicalsupply.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-11"
+      },
+      {
+        "url": "https://aldosurgicalsupply.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-11"
+      },
+      {
+        "url": "https://aldosurgicalsupply.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosurgicalsupply.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aldosurgicalsupply.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aldosurgicalsupply.com/contact-us",
+        "action": "/wforms/index/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Medical Equipment and Supplies, Compression Therapy, Personal Care, Beauty, Hair & Skin Care , OTC Products, Vitamins & Homeopathy, Groceries, and much more at discounted prices in Hialeah, Florida USA",
+    "source_urls": [
+      "https://aldosurgicalsupply.com",
+      "https://aldosurgicalsupply.com/pages/about-us",
+      "https://aldosurgicalsupply.com/pages/contact",
+      "https://aldosurgicalsupply.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aleadergear.com",
+    "company_name": "AleaderGear",
+    "website": "https://www.aleadergear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aleadergear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop AleaderGear water shoes and quick-dry outdoor footwear for swimming, beach trips, kayaking and boating. Explore Xdrain styles for men and women.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "aleafglass.com",
+    "company_name": "aLeaf\u00c2\u00ae Glass",
+    "website": "https://www.aleafglass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aleafglass.com",
+        "confidence": "highest",
+        "source_url": "https://www.aleafglass.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch 305 E 4th St. Los Angeles, CA 90013 info@aleafglass.com 424-385-8330 Follow on Facebook Follow on Twitter Follow"
+      }
+    ],
+    "role_emails": [
+      "info@aleafglass.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aleafglass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aleafglass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aleafglass.com/pages/about-aleaf-the-origin-of-keep-it-lit",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aleafglass.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aleafglass.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Thanks for visiting aLeaf Glass, a premium glass company based in Los Angeles. At aLeaf Glass, we produce and sell our own line of Water Pipes, Bangers, and aLeaf Purifiers that we have developed using state-of-the-art techniques.",
+    "source_urls": [
+      "https://www.aleafglass.com",
+      "https://www.aleafglass.com/about",
+      "https://www.aleafglass.com/pages/about-aleaf-the-origin-of-keep-it-lit",
+      "https://www.aleafglass.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
