@@ -1,0 +1,1583 @@
+[
+  {
+    "company_domain": "abracandy.com",
+    "company_name": "ABRACANDY",
+    "website": "https://abracandy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abracandy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AbraCandy\u2122 is the Brand of Promotion Booth LLC. AbraCandy is a magic themed candy brand, located in the Chicago area.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "acelaskincare.com",
+    "company_name": "Acela Skincare",
+    "website": "https://acelaskincare.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@acelaskincare.com",
+        "confidence": "highest",
+        "source_url": "https://acelaskincare.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "livery for a full refund. To start a return, contact us at hello@acelaskincare.com with your order number, and we'll walk you through next st"
+      }
+    ],
+    "role_emails": [
+      "hello@acelaskincare.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://acelaskincare.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/about-acela",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/collections/shop-all-bundles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-signature-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/whipped-body-cream",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/body-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/body-lotion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/lip-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-body-bar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/acela-gives-back",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/glow-with-love",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-self-care-standard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-glow-getter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://acelaskincare.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://acelaskincare.com/pages/about-acela",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Acela Skincare is a family-founded brand built on faith, love, and purpose, creating intentional tallow skincare that cares deeply and helps you glow.",
+    "source_urls": [
+      "https://acelaskincare.com/pages/contact",
+      "https://acelaskincare.com/pages/about-acela",
+      "https://acelaskincare.com/products/the-signature-collection",
+      "https://acelaskincare.com/products/whipped-body-cream",
+      "https://acelaskincare.com/products/body-balm",
+      "https://acelaskincare.com/products/body-lotion",
+      "https://acelaskincare.com/products/lip-balm",
+      "https://acelaskincare.com/products/the-body-bar",
+      "https://acelaskincare.com/products/glow-with-love",
+      "https://acelaskincare.com/products/the-self-care-standard",
+      "https://acelaskincare.com/products/the-glow-getter",
+      "https://acelaskincare.com/policies/refund-policy",
+      "https://acelaskincare.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "batwrapz.com",
+    "company_name": "BATWRAPZ",
+    "website": "https://batwrapz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://batwrapz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://batwrapz.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "bohicabrand.com",
+    "company_name": "BOHICA BRAND",
+    "website": "https://bohicabrand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@bohicabrand.com",
+        "confidence": "high",
+        "source_url": "https://bohicabrand.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vailable to you, please call +1 336-448-4195 or email us at shop@bohicabrand.com or contact us at 116 Lowes Foods Dr, 248, Lewisville NC 270"
+      }
+    ],
+    "role_emails": [
+      "shop@bohicabrand.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bohicabrand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/womens-clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/mens-clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/energy-drinks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/the-lab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/mission-files",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/apparel-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/circle-text-zip-hoodie-here-it-comes-again-bend-over-graphic-zip-up-hoodie?variant=43102812242033",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bouica-ops-gothic-logo-hoodie-black-streetwear-pullover?variant=43102740185201",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/embroidered-trucker-cap-bold-gothic-logo-snapback?variant=42990878064753",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/the-big-bohica-t-shirt?variant=43172743217265",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/kiss-cut-stickers?variant=42984480964721",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-ops-gothic-logo-die-cut-sticker?variant=43103595855985",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/big-bohica-long-sleeve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-ops-gothic-logo-die-cut-sticker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-brand-flag-hat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/copy-of-bohica-brand-the-standard-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bohicabrand.com/pages/contact",
+        "action": "/contact#ContactForm-AWkxiUEozUFlOUGlve__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BOHICA BRAND Store",
+    "source_urls": [
+      "https://bohicabrand.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cardcologne.com",
+    "company_name": "CARD COLOGNE",
+    "website": "https://cardcologne.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cardcologne.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/products/card-cologne-santal?variant=47312893444274",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/products/card-cologne-santal-pre-order-copy-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/products/card-cologne-santal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cardcologne.com/products/card-cologne-santal-pre-order-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cardcologne.com/pages/contact",
+        "action": "/contact#ContactForm-AUkdpcnFiY0haVHc1W__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "COMING SOON!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cccg.com",
+    "company_name": "CCCG",
+    "website": "https://cccg.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@cccgroupinc.com",
+        "confidence": "highest",
+        "source_url": "https://cccg.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@cccgroupinc.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cccg.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cccg.com?s=",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "CCC Group is a general contractor providing a broad scope of industrial construction and fabrication services throughout the U.S. and in select foreign markets.",
+    "source_urls": [
+      "https://cccg.com",
+      "https://cccg.com?s="
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chilitries.com",
+    "company_name": "CHILI TRIES",
+    "website": "https://chilitries.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chilitries.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chilitries.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chilitries.com - Website launch coming soon. Stay tuned for updates and subscribe to our newsletter for the latest news!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "creatineisthenewvitamin.com",
+    "company_name": "CREATINE IS THE NEW VITAMIN",
+    "website": "https://creatineisthenewvitamin.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "forgeandfiregaming.com",
+    "company_name": "FORGE AND FIRE GAMING",
+    "website": "https://forgeandfiregaming.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "palacecoffee.com",
+    "company_name": "PALACE COFFEE",
+    "website": "https://palacecoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.rosener@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.rosener@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_rosener@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewr@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fogarty@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.gabriel@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.gabriel@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_gabriel@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffg@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.mann@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mann@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.mann@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_mann@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meetm@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rosener@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.fogarty@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy.fogarty@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy_fogarty@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracyf@palacecoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://palacecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://palacecoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://palacecoffee.com/similar/PalaceCoffee.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://palacecoffee.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "PalaceCoffee.com - a great premium domain available for sale.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tennisstringtheory.com",
+    "company_name": "TENNIS STRING THEORY",
+    "website": "https://tennisstringtheory.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@tennisstringtheory.com",
+        "confidence": "high",
+        "source_url": "https://tennisstringtheory.com/about-us/shipping-returns",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Thank you for your understanding and support! Please email info@tennisstringtheory.com or call at 703-998-4585 to request a return and we will ass"
+      }
+    ],
+    "role_emails": [
+      "info@tennisstringtheory.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bert@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "c.bert@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "coach.bert@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "coach@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "coach_bert@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "coachb@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coach Bert",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "e.writing@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "english.writing@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "english@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "english_writing@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "englishw@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.sports@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "fitness.sports@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "fitness@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "fitness_sports@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "fitnesss@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "g.shop@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "great.shop@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "great@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "great_shop@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "greats@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "shop@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Great Shop",
+        "person_title": "Owner",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "sports@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fitness Sports",
+        "person_title": "Founder",
+        "source_url": "https://tennisstringtheory.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "address": "writing@tennisstringtheory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "English Writing",
+        "person_title": "President",
+        "source_url": "https://tennisstringtheory.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://tennisstringtheory.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "url": "https://tennisstringtheory.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/about-us/blog",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/about-us/shipping-returns",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennisstringtheory.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/racquet-stringing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/tennis-lessons",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/racquet-demo-program",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/string-selection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/racquet-customization",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/pop-up",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/falls-church-va",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/alexandria-va",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/ashburn-va",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/tennis-racquets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/vintage-racquets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/pre-owned-racquets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/grips-dampeners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/tennis-bags",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/tennis-shoes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/pickleball",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/badminton",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/racquetball",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/squash",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennisstringtheory.com/save-more-every-time-you-play",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennisstringtheory.com/online-store",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/online-store",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tennisstringtheory.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get same-day tennis racquet stringing and shop quality tennis rackets, used racquets, tennis shoes, apparel, and accessories for every player.",
+    "source_urls": [
+      "https://tennisstringtheory.com/about-us/shipping-returns"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "triplebarkcoffee.com",
+    "company_name": "TRIPLE BARK COFFEE",
+    "website": "https://triplebarkcoffee.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_402",
+    "pages_fetched": 2
+  }
+]
