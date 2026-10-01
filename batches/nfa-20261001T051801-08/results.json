@@ -1,0 +1,4509 @@
+[
+  {
+    "company_domain": "lumi.com",
+    "company_name": "Lumi",
+    "website": "https://www.lumi.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "lumona.ai",
+    "company_name": "Lumona",
+    "website": "https://www.lumona.ai",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "lyggcorp.com",
+    "company_name": "Lygg",
+    "website": "http://www.lyggcorp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@lyggcorp.com",
+        "confidence": "medium",
+        "source_url": "http://www.lyggcorp.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@lyggcorp.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.lyggcorp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.lyggcorp.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.lyggcorp.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.lyggcorp.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Building New Anti-Aging Ingredients for Skincare",
+    "source_urls": [
+      "http://www.lyggcorp.com/contact",
+      "http://www.lyggcorp.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "magicbus.io",
+    "company_name": "MagicBus",
+    "website": "http://www.magicbus.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@magicbus.io",
+        "confidence": "medium",
+        "source_url": "https://www.magicbus.io/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@magicbus.io",
+        "confidence": "medium",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "legal@magicbus.io",
+      "support@magicbus.io"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.upjohn@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.upjohn@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_upjohn@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrisu@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "content@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "disclaimer@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content Disclaimer",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leaders@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.joseph@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.joseph@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_joseph@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markj@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Joseph",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.leaders@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.leaders@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_leaders@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourl@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Leaders",
+        "person_title": "Ceo",
+        "source_url": "http://www.magicbus.io/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.content@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.disclaimer@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content Disclaimer",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "upjohn@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Upjohn",
+        "person_title": "Ceo",
+        "source_url": "https://www.magicbus.io/resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user.content@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user.disclaimer@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content Disclaimer",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user_content@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user_disclaimer@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content Disclaimer",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "userc@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "userd@magicbus.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "User Content Disclaimer",
+        "person_title": "Owner",
+        "source_url": "https://www.magicbus.io/terms-of-service/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.magicbus.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.magicbus.io/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-12-04"
+      },
+      {
+        "url": "http://www.magicbus.io/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.magicbus.io/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/fleet-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/resources/magicbus-at-swta-2023/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/employee-transit-planner/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/hr-employee-transit/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/flexible-schedule-dynamic-vanpools/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/magicride-vanpooling-app/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/route-crowdsourcing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/reporting-dashboard/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/resources/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/schedule-a-demo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/resources/better-employee-perks-with-commuter-benefits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/resources/commuter-survey/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/terms-of-service/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicbus.io/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "MagicBus makes vanpooling easier for commuters, employers, and organizations with our dynamic routing and route crowdsourcing solutions.",
+    "source_urls": [
+      "https://www.magicbus.io/terms-of-service/",
+      "https://www.magicbus.io/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "makeasite.io",
+    "company_name": "Makeasite",
+    "website": "https://makeasite.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://makeasite.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeasite.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeasite.io/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create sites with just a prompt",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mayhem.gg",
+    "company_name": "Mayhem",
+    "website": "https://www.mayhem.gg",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.mayhem.gg",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2021-02-04"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Join community organized leagues, ladders, tournaments and more. Play your favorite games with your communities and friends.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "meetings.io",
+    "company_name": "Bitplay",
+    "website": "http://meetings.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "meetpoppy.com",
+    "company_name": "Poppy",
+    "website": "http://meetpoppy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://meetpoppy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meetpoppy.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome Meet Poppy previous customers and caregivers! Did you know The Baby Post acquired Meet Poppy after discontinuing its services as of December 4, 2018? Prior to closing the business, Poppy partnered with Sittercity (which is our #1 pick on our \"Best Babysitter Website\" list) to offer Poppy fam",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "meetyu.com",
+    "company_name": "Meetyu",
+    "website": "http://meetyu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "meitre.com",
+    "company_name": "Meitre",
+    "website": "http://meitre.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ayuda@meitre.com",
+        "confidence": "highest",
+        "source_url": "http://meitre.com/reserva/registro",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ile is free and takes under a minute Questions? Email us at ayuda@meitre.com By signing up and using this service, you accept the Terms"
+      }
+    ],
+    "role_emails": [
+      "ayuda@meitre.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "america@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cerne@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "experience@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.fuerte@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fuego.fuerte@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fuego@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fuego_fuerte@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fuegof@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fuerte@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fuego Fuerte",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.lunghi@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julio.lunghi@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julio@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julio_lunghi@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juliol@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lunghi@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julio Lunghi",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/afuegofuerte",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.cerne@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pablo.cerne@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pablo@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pablo_cerne@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pabloc@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pablo Cerne",
+        "person_title": "Owner",
+        "source_url": "http://meitre.com/reserva/4tapared",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.america@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south.america@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south_america@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southa@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South America",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.experience@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.experience@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_experience@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thee@meitre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Experience",
+        "person_title": "Founder",
+        "source_url": "http://meitre.com/reserva/sambombi",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://meitre.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/registro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/fogon-lagarde",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/the-hole",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/picaronba",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/casavigil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/humonegrobog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/tanaka-ladehesa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/sambombi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/afuegofuerte",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/4tapared",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/debora",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/bravado",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/elpreferido",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/garabatobistro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/evelia-restaurant",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/mishiguene",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/gioia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/banda-river",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/99restaurante",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/dondiablo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://meitre.com/reserva/duhau",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Los restaurantes, bodegas y bares m\u00e1s extraordinarios de Latinoam\u00e9rica, para descubrir y reservar.",
+    "source_urls": [
+      "http://meitre.com/reserva/registro"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mentra.glass",
+    "company_name": "Mentra",
+    "website": "https://mentra.glass",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@mentraglass.com",
+        "confidence": "highest",
+        "source_url": "https://mentra.glass/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing formal dispute resolution, you agree to contact us at legal@mentraglass.com to attempt informal resolution. We will attempt to resolv"
+      },
+      {
+        "address": "privacy@mentraglass.com",
+        "confidence": "highest",
+        "source_url": "https://mentra.glass/security",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mentra Support . For privacy rights or questions, email privacy@mentraglass.com . Ready to build on Mentra? Open-source moves fast. Stay up"
+      },
+      {
+        "address": "security@mentraglass.com",
+        "confidence": "highest",
+        "source_url": "https://mentra.glass/security",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n expect from us. Report a Vulnerability Email reports to security@mentraglass.com . Please do not send vulnerability details through customer"
+      },
+      {
+        "address": "support@mentraglass.com",
+        "confidence": "highest",
+        "source_url": "https://mentra.glass/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ships Feedback Other Message Send Message Reach Us Email us support@mentraglass.com Open source GitHub (opens in new tab) Shipping Policy Ship"
+      },
+      {
+        "address": "team@mentraglass.com",
+        "confidence": "high",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "legal@mentraglass.com",
+      "privacy@mentraglass.com",
+      "security@mentraglass.com",
+      "support@mentraglass.com",
+      "team@mentraglass.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "advisor@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.sold@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "is.sold@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "is@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "is_sold@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "iss@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.advisor@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rx.advisor@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rx@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rx_advisor@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rxa@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rx Lens Advisor",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sold@mentra.glass",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Is Almost Sold",
+        "person_title": "Founder",
+        "source_url": "https://mentra.glass/newsroom",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mentra.glass",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/contact?topic=sales",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/live",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/os",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/devs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/enterprise/call",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/prescriptions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/compare",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/get-mentra",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/newsroom",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/partnerships",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/socials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/captions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/notes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/accessibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mentra.glass/recalls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://mentra.glass/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mentra.glass/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mentra.glass/support/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mentra.glass/contact?topic=sales",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mentra.glass/careers",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mentra.glass/partnerships",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Mentra builds AI glasses for frontline workers, with hands-free remote expert calls, documentation, guided work, and software your team controls.",
+    "source_urls": [
+      "https://mentra.glass/contact",
+      "https://mentra.glass/support",
+      "https://mentra.glass/pages/contact",
+      "https://mentra.glass/support/contact",
+      "https://mentra.glass/contact?topic=sales",
+      "https://mentra.glass/live",
+      "https://mentra.glass/newsroom",
+      "https://mentra.glass/partnerships",
+      "https://mentra.glass/security",
+      "https://mentra.glass/privacy-policy",
+      "https://mentra.glass/terms-of-service",
+      "https://mentra.glass/shipping-policy",
+      "https://mentra.glass/refund-policy",
+      "https://mentra.glass/recalls"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mertado.com",
+    "company_name": "Mertado",
+    "website": "http://mertado.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@mertado.com",
+        "confidence": "high",
+        "source_url": "http://mertado.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2010-01-23",
+        "context_snippet": "ard to hearing from you. You may reach us at - Email: support@mertado.com Phone: 510-405-0460 Monday - Friday (9am - 5pm P"
+      },
+      {
+        "address": "feedback@mertado.com",
+        "confidence": "medium",
+        "source_url": "http://mertado.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2010-01-24",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "feedback@mertado.com",
+      "support@mertado.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://mertado.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-01-23"
+      },
+      {
+        "url": "http://mertado.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2010-01-24"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shark Tank Fans Unite. We Analyze Every Pitch",
+    "source_urls": [
+      "http://mertado.com/contact-us",
+      "http://mertado.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "messageparty.com",
+    "company_name": "MessageParty",
+    "website": "http://messageparty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "metavision.com",
+    "company_name": "Meta",
+    "website": "http://www.metavision.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "careers@metavision.com",
+        "confidence": "highest",
+        "source_url": "http://www.metavision.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-11",
+        "context_snippet": "ail pr@metavision.com For jobs and careers please email careers@metavision.com Corporate Headquarters: Meta Company 2855 Campus Driv"
+      },
+      {
+        "address": "contact@metavision.com",
+        "confidence": "highest",
+        "source_url": "http://www.metavision.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-11",
+        "context_snippet": "ntact us via email: For general inquiries please email contact@metavision.com For support with your Meta product please email support@"
+      },
+      {
+        "address": "pr@metavision.com",
+        "confidence": "highest",
+        "source_url": "http://www.metavision.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-11",
+        "context_snippet": "etavision.com For press and media inquiries please email pr@metavision.com For jobs and careers please email careers@metavision.com"
+      },
+      {
+        "address": "support@metavision.com",
+        "confidence": "highest",
+        "source_url": "http://www.metavision.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-11",
+        "context_snippet": "sion.com For support with your Meta product please email support@metavision.com For press and media inquiries please email pr@metavision"
+      }
+    ],
+    "role_emails": [
+      "careers@metavision.com",
+      "contact@metavision.com",
+      "pr@metavision.com",
+      "support@metavision.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "gribetz@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "address": "m.gribetz@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "address": "meron.gribetz@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "address": "meron@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "address": "meron_gribetz@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "address": "merong@metavision.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meron Gribetz",
+        "person_title": "Co-Founder",
+        "source_url": "http://www.metavision.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.metavision.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-06"
+      },
+      {
+        "url": "http://www.metavision.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-11"
+      },
+      {
+        "url": "http://www.metavision.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "url": "http://www.metavision.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-03-28"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "http://www.metavision.com/contact",
+      "http://www.metavision.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mezli.com",
+    "company_name": "Mezli",
+    "website": "https://www.mezli.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "midnox.com",
+    "company_name": "Midnox",
+    "website": "http://midnox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@midnox.com",
+        "confidence": "highest",
+        "source_url": "http://midnox.com/privacy",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-17",
+        "context_snippet": "stions about this Privacy Policy should be addressed to support@midnox.com . \u00a9 2011 midnox Contact Terms Privacy RSS"
+      }
+    ],
+    "role_emails": [
+      "support@midnox.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "agent@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "copyright@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "d.agent@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "d.copyright@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "designated.agent@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "designated@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "designated_agent@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "designateda@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Copyright Agent",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "digital.copyright@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "digital@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "digital_copyright@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "address": "digitalc@midnox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "http://midnox.com/terms",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://midnox.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2012-11-05"
+      },
+      {
+        "url": "http://midnox.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2012-11-05"
+      },
+      {
+        "url": "http://midnox.com/terms",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-29"
+      },
+      {
+        "url": "http://midnox.com/privacy",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "http://midnox.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mightyquiz.com",
+    "company_name": "MightyQuiz",
+    "website": "http://mightyquiz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "minefold.com",
+    "company_name": "Minefold",
+    "website": "http://minefold.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.minefold.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-09"
+      },
+      {
+        "url": "http://www.minefold.com/help",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "miniswap.gg",
+    "company_name": "Miniswap",
+    "website": "https://miniswap.gg/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "minomonsters.com",
+    "company_name": "Mino Games",
+    "website": "http://minomonsters.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mochi.tv",
+    "company_name": "Mochi",
+    "website": "https://www.mochi.tv/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "copyright@mochi.tv",
+        "confidence": "medium",
+        "source_url": "https://www.mochi.tv/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-28",
+        "context_snippet": ""
+      },
+      {
+        "address": "help@mochi.tv",
+        "confidence": "medium",
+        "source_url": "https://www.mochi.tv/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-28",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "copyright@mochi.tv",
+      "help@mochi.tv"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.mochi.tv/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-28"
+      },
+      {
+        "url": "https://www.mochi.tv/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-29"
+      },
+      {
+        "url": "https://www.mochi.tv/lab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/watch/god-slayer/1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/i-can-see-everyones-body-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/god-slayer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/my-wife-is-sleeping-with-a-robot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/dandelion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/reincarnated-into-harem-game",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/every-monster-thinks-im-their-landlord",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/last-man",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/love-note",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/dead-man-rising",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/gotcha",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/soleil-from-the-moon",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/i-was-the-weakest-hero",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/reptilia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/the-bounty-from-hell",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/trey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/nobody-knew-i-was-atlas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/trueAtlas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/the-worlds-strongest-incel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/dan-saves-the-universe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/tova_swartz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/my-teachers-a-superhero",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/goldemblem16",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/cult-of-power",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/slycer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/champion-robot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/captain-deadwake",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/apocalypse-cat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/leookrah",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/broken-cross-o8oj",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/Mythos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/christophermarroquin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/Tensei.EXE",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/unbeatable",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/Shadow_Ox",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/monster-girl-roommates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/hom2saints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/justint.brown",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/rruniverse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/love-match",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/Yuuta0073",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/the-sniper-king-shall-rule-the-world",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/Superhoodie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/series/i-took-a-pill-now-im-hot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mochi.tv/u/sapratibhhazorika",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1 minute anime, new drops daily \u2014 watch free on iOS and Android.",
+    "source_urls": [
+      "https://www.mochi.tv/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "modalup.com",
+    "company_name": "Modal",
+    "website": "http://modalup.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "bhalla@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "capital@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "m.bhalla@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "m.up@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Teams Up",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "magazine@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modal.bhalla@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modal.up@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Teams Up",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modal@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modal_bhalla@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modal_up@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Teams Up",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modalb@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Elevates Bhalla",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "modalu@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Teams Up",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "t.capital@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "thiel.capital@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "thiel@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "thiel_capital@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "thielc@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thiel Capital",
+        "person_title": "Founder",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "up@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Modal Teams Up",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "w.magazine@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "world.magazine@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "world@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "world_magazine@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "worldm@modalup.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Magazine",
+        "person_title": "Ceo",
+        "source_url": "http://modalup.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://modalup.com/company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore our updated list of the best sports betting sites Singapore punters use in 2026, with top odds, bonuses, and secure payments.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 53,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "moltin.com",
+    "company_name": "Moltin",
+    "website": "https://moltin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dpo@moltin.com",
+        "confidence": "highest",
+        "source_url": "https://moltin.com/terms/",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19",
+        "context_snippet": "on, Subscriber will promptly notify Moltin by writing to dpo@moltin.com . 13. Limitation of Liability IN NO EVENT WILL A PA"
+      },
+      {
+        "address": "dpo@moltin.com.",
+        "confidence": "highest",
+        "source_url": "https://moltin.com/terms/privacy",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19",
+        "context_snippet": "or these direct marketing purposes by sending an e-mail to dpo@moltin.com. 3.6. Business Transfers. If Moltin undertakes or"
+      },
+      {
+        "address": "support@moltin.com",
+        "confidence": "highest",
+        "source_url": "https://moltin.com/terms/",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19",
+        "context_snippet": "platform that is migrated or shutdown, please email us at support@moltin.com . Notwithstanding the foregoing, in the event that the part"
+      },
+      {
+        "address": "jonathan.prest@moltin.com",
+        "confidence": "high",
+        "source_url": "https://www.moltin.com/blog/rss.xml",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12",
+        "context_snippet": "Announcements Developer Wed, 21 Aug 2019 16:40:01 GMT jonathan.prest@moltin.com (Jonathan Prest) https://www.moltin.com/blog/introducing-"
+      },
+      {
+        "address": "kirsten.aebersold@moltin.com",
+        "confidence": "high",
+        "source_url": "https://moltin.com/blog",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "dpo@moltin.com",
+      "dpo@moltin.com.",
+      "jonathan.prest@moltin.com",
+      "kirsten.aebersold@moltin.com",
+      "support@moltin.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.new@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "announces@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "appoints.new@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "appoints@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "appoints_new@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "appointsn@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "c.success@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "cline@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "customer.success@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "customer@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "customer_success@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "customers@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "driscoll@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "e.turcotte@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "eric.turcotte@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "eric@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "eric_turcotte@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "erict@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "former@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Appoints Former",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "g.lord@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "greg.lord@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "greg@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "greg_lord@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "gregl@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "j.driscoll@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "jamus.driscoll@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "jamus@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "jamus_driscoll@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "jamusd@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamus Driscoll",
+        "person_title": "Ceo",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "k.cline@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "keith.cline@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "keith@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "keith_cline@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "keithc@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Cline",
+        "person_title": "Founder",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "lord@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Lord",
+        "person_title": "Cmo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "m.announces@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "m.former@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Appoints Former",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "m.raises@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Raises",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "m.series@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "million.series@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "million@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "million_series@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "millions@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin.announces@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin.former@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Appoints Former",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin.raises@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Raises",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin_announces@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin_former@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Appoints Former",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltin_raises@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Raises",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltina@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Announces",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltinf@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Appoints Former",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "moltinr@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Raises",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "new@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints New",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "p.zaengle@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "paul.zaengle@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "paul@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "paul_zaengle@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "paulz@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "address": "raises@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moltin Raises",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "series@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Series",
+        "person_title": "Ceo",
+        "source_url": "https://moltin.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "address": "success@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Success",
+        "person_title": "Co-Founder",
+        "source_url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "address": "turcotte@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Turcotte",
+        "person_title": "President",
+        "source_url": "https://moltin.com/compare/magento/",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "address": "zaengle@moltin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Zaengle",
+        "person_title": "President",
+        "source_url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://moltin.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-12"
+      },
+      {
+        "url": "https://moltin.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://moltin.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://moltin.com/company/careers/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-22"
+      },
+      {
+        "url": "https://moltin.com/contact/",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://www.moltin.com/company/press/stance-launch-mobile-self-checkout/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "url": "https://moltin.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-12"
+      },
+      {
+        "url": "https://moltin.com/product",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2020-01-22"
+      },
+      {
+        "url": "https://moltin.com/commerce-solutions/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "url": "https://moltin.com/pricing/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://moltin.com/commerce-solutions",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-10"
+      },
+      {
+        "url": "https://moltin.com/blog",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://www.moltin.com/customer-stories/enable-the-label",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-16"
+      },
+      {
+        "url": "https://www.moltin.com/customer-stories/maison-de-fleurs/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-16"
+      },
+      {
+        "url": "https://moltin.com/compare/magento/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "url": "https://moltin.com/blog/an-introduction-to-ecommerce-apis",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://www.moltin.com/blog/ecommerce-platforms-buyers-guide",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19"
+      },
+      {
+        "url": "https://www.moltin.com/blog/2020-ecommerce-trends",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-16"
+      },
+      {
+        "url": "https://www.moltin.com/blog/black-friday-discount-strategy",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-16"
+      },
+      {
+        "url": "https://moltin.com/digital-marketing-agency",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://moltin.com/product/flows",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://moltin.com/headless-commerce",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-06"
+      },
+      {
+        "url": "https://www.moltin.com/compare/magento",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-11"
+      },
+      {
+        "url": "https://moltin.com/open-commerce-architecture/jamstack/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-24"
+      },
+      {
+        "url": "https://www.moltin.com/blog/an-introduction-to-ecommerce-apis",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://moltin.com/blog/ecommerce-platforms-buyers-guide",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19"
+      },
+      {
+        "url": "https://moltin.com/compare",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-20"
+      },
+      {
+        "url": "https://moltin.com/blog/postman-collection/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-19"
+      },
+      {
+        "url": "https://moltin.com/terms/",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19"
+      },
+      {
+        "url": "https://moltin.com/terms/privacy",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19"
+      },
+      {
+        "url": "https://www.moltin.com/blog/rss.xml",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Moltin | The only API-first, Headless Commerce Service to transform consumer encounters into unique, shoppable moments in a way eCommerce platforms can't.",
+    "source_urls": [
+      "https://moltin.com/blog",
+      "https://moltin.com/blog/an-introduction-to-ecommerce-apis",
+      "https://www.moltin.com/blog/an-introduction-to-ecommerce-apis",
+      "https://moltin.com/terms/",
+      "https://moltin.com/terms/privacy",
+      "https://www.moltin.com/blog/rss.xml"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mosaix.ai",
+    "company_name": "Mosaix.ai",
+    "website": "https://mosaix.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@mosaix.ai",
+        "confidence": "highest",
+        "source_url": "https://mosaix.ai",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23",
+        "context_snippet": "0, Palo Alto, CA Additional offices in China and Singapore. info@mosaix.ai Product Mosaix Language API Knowledge Service Try Now Demo"
+      },
+      {
+        "address": "support@mosaix.ai",
+        "confidence": "high",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23",
+        "context_snippet": "\u201cunsubscribe\u201d link in Your account or by contacting us at: support@mosaix.ai. 5.4 Delinquent Accounts.You must not, and must ensure that"
+      }
+    ],
+    "role_emails": [
+      "info@mosaix.ai",
+      "support@mosaix.ai"
+    ],
+    "email_candidates": [
+      {
+        "address": "huang@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "m.huang@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "maxwell.huang@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "maxwell@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "maxwell_huang@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "maxwellh@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maxwell Huang",
+        "person_title": "President",
+        "source_url": "https://mosaix.ai/use-case-saic-motor",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "programs@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "t.programs@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "third.programs@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "third@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "third_programs@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "address": "thirdp@mosaix.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Third Party Programs",
+        "person_title": "Owner",
+        "source_url": "https://mosaix.ai/terms",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mosaix.ai",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://mosaix.ai/#languageAPI",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://mosaix.ai/#knowledgeService",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://mosaix.ai/free-sign-up",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "url": "https://mosaix.ai/demo-text-to-fulfillment",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2022-07-03"
+      },
+      {
+        "url": "https://mosaix.ai/use-case-cvte",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "url": "https://mosaix.ai/use-case-saic-motor",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://mosaix.ai/terms",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://mosaix.ai/privacy-statement",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://mosaix.ai",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mosaix.ai/#languageAPI",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://mosaix.ai/#knowledgeService",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Mosaix AI combines Natural Language Processing and Deep Semantic Search to Continually improve the ability of virtual assistants to accurately answer queries.",
+    "source_urls": [
+      "https://mosaix.ai",
+      "https://mosaix.ai/#languageAPI",
+      "https://mosaix.ai/#knowledgeService",
+      "https://mosaix.ai/free-sign-up",
+      "https://mosaix.ai/demo-text-to-fulfillment",
+      "https://mosaix.ai/use-case-cvte",
+      "https://mosaix.ai/use-case-saic-motor",
+      "https://mosaix.ai/terms",
+      "https://mosaix.ai/privacy-statement"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "moveloot.com",
+    "company_name": "Move Loot",
+    "website": "http://moveloot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "advertising@moveloot.com",
+        "confidence": "medium",
+        "source_url": "http://moveloot.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-03",
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@moveloot.com",
+        "confidence": "medium",
+        "source_url": "http://moveloot.com",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-05",
+        "context_snippet": ""
+      },
+      {
+        "address": "press@moveloot.com",
+        "confidence": "medium",
+        "source_url": "http://moveloot.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-03",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "advertising@moveloot.com",
+      "hello@moveloot.com",
+      "press@moveloot.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.with@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "an.with@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "an@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "an_with@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "anw@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "indoor@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "t.indoor@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "tips.indoor@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "tips@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "tips_indoor@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "tipsi@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tips For Indoor",
+        "person_title": "Co-Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "address": "with@moveloot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Interview With",
+        "person_title": "Founder",
+        "source_url": "http://moveloot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://moveloot.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-05"
+      },
+      {
+        "url": "http://moveloot.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-03"
+      },
+      {
+        "url": "http://moveloot.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-02"
+      },
+      {
+        "url": "http://moveloot.com/cdn-cgi/l/email-protection#e58d8089898aa5888a9380898a8a91cb868a88",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      },
+      {
+        "url": "http://moveloot.com/cdn-cgi/l/email-protection#4028252c2c2f002d2f36252c2f2f346e232f2d",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-07"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup and delivery.",
+    "source_urls": [
+      "http://moveloot.com",
+      "http://moveloot.com/contact",
+      "http://moveloot.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
