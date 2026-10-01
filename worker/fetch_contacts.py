@@ -1741,7 +1741,11 @@ def discover_one(
             # 2026-10-01: skip the tier when the budget is nearly gone --
             # its search+fetch+LLM API calls are one blocking unit that
             # cannot be interrupted mid-flight.
-            kt = {"keenable_credits": 0, "keenable_pages": 0, "emails": []}
+            kt = {
+                "emails": [], "role_emails": [], "contact_pages": [],
+                "source_urls": [], "keenable_credits": 0,
+                "keenable_pages": 0,
+            }
             if _deadline - time.monotonic() > 45:
                 _check_budget()
                 kt = keenable_tier(company_domain, company_name, home_url)
