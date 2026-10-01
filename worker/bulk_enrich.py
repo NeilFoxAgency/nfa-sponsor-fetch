@@ -139,9 +139,16 @@ async def static_enrich(company: dict) -> dict:
 async def _curl_json(method: str, url: str, key: str,
                      data: dict | None = None,
                      params: dict | None = None,
-                     timeout: int = 30) -> dict | None:
-    """curl-based JSON API call (egress-proxy safe)."""
-    cmd = ["curl", "-s", "--max-time", str(timeout), "-X", method,
+                     timeout: int = 30,
+                     _retry_429: int = 3) -> dict | None:
+    """curl-based JSON API call (egress-proxy safe).
+
+    Handles 429 (rate limit: exponential backoff) and 402 (credits
+    exhausted: raise immediately so the run stops instead of burning
+    through the shard with failed calls).
+    """
+    cmd = ["curl", "-s", "-w", "\n%{http_code}", "--max-time", str(timeout),
+           "-X", method,
            "-H", f"X-API-Key: {key}",
            "-H", "Content-Type: application/json",
            "-H", "Accept: application/json"]
@@ -157,10 +164,43 @@ async def _curl_json(method: str, url: str, key: str,
             stdout=asyncio.subprocess.PIPE,
             stderr=asyncio.subprocess.DEVNULL,
         )
-        out, _ = await asyncio.wait_for(proc.communicate(), timeout + 5)
+        try:
+            out, _ = await asyncio.wait_for(proc.communicate(), timeout + 5)
+        finally:
+            # Ensure the transport is fully closed before the loop ends;
+            # prevents "Event loop is closed" noise on shutdown.
+            try:
+                await asyncio.wait_for(proc.wait(), 5)
+            except Exception:
+                pass
         if proc.returncode != 0:
             return None
-        return json.loads(out.decode("utf-8", errors="ignore"))
+        text = out.decode("utf-8", errors="ignore")
+        # Split off the trailing HTTP status code
+        *body_lines, status_line = text.rsplit("\n", 1)
+        body = "\n".join(body_lines)
+        try:
+            status = int(status_line.strip())
+        except ValueError:
+            status = 0
+        if status == 402:
+            raise RuntimeError(
+                "KeenAble 402: credits exhausted; stopping shard")
+        if status == 429 and _retry_429 > 0:
+            await asyncio.sleep(2 ** (3 - _retry_429) * 2)
+            return await _curl_json(method, url, key, data, params,
+                                    timeout, _retry_429 - 1)
+        if status == 429:
+            return None  # retries exhausted; skip this call
+        if status in (401, 403):
+            raise RuntimeError(
+                f"KeenAble auth error {status}; stopping shard")
+        try:
+            return json.loads(body)
+        except json.JSONDecodeError:
+            return None
+    except RuntimeError:
+        raise
     except Exception:
         return None
 
@@ -177,6 +217,7 @@ async def keenable_search(domain: str, company_name: str) -> tuple[list[str], in
     urls: list[str] = []
     credits = 0
     for q in queries[:2]:  # max 2 searches per company (save credits)
+        await _keenable_gate()
         data = await _curl_json(
             "POST", API + "/v1/search", key,
             data={"query": q, "mode": "realtime",
@@ -191,7 +232,6 @@ async def keenable_search(domain: str, company_name: str) -> tuple[list[str], in
             dom_root = ".".join(domain.split(".")[-2:])
             if dom_root in host and url not in urls:
                 urls.append(url)
-        await asyncio.sleep(pacing())
     return urls[:3], credits
 
 
@@ -201,6 +241,7 @@ async def keenable_extract(url: str, domain: str) -> tuple[list[str], int]:
     key = _api_key()
     if not key:
         return [], 0
+    await _keenable_gate()
     data = await _curl_json(
         "GET", API + "/v1/fetch", key,
         params={"url": url, "max_chars": 8000, "prompt": EMAIL_PROMPT},
@@ -220,12 +261,37 @@ async def keenable_extract(url: str, domain: str) -> tuple[list[str], int]:
             continue
         if addr not in emails:
             emails.append(addr)
-    await asyncio.sleep(pacing())
     return emails, 1
 
 
 def pacing() -> float:
     return float(os.environ.get("KEENABLE_PACING", "2.0"))
+
+
+# Global rate limiter: max 1 KeenAble call per PACING seconds ACROSS ALL
+# coroutines in this job. The old code slept per-coroutine, so 30 concurrent
+# coroutines could fire 30 simultaneous requests. This shared lock ensures
+# the job stays under its fair share of the 10/sec org limit.
+_keenable_lock: asyncio.Lock | None = None
+_keenable_last_call: float = 0.0
+
+
+async def _keenable_gate() -> None:
+    """Block until this job may make its next KeenAble call."""
+    global _keenable_last_call
+    if _keenable_lock is None:
+        return
+    async with _keenable_lock:
+        now = time.monotonic()
+        wait = pacing() - (now - _keenable_last_call)
+        if wait > 0:
+            await asyncio.sleep(wait)
+        _keenable_last_call = time.monotonic()
+
+
+def _init_rate_limiter() -> None:
+    global _keenable_lock
+    _keenable_lock = asyncio.Lock()
 
 
 async def enrich_one(sem: asyncio.Semaphore,
@@ -271,6 +337,7 @@ async def enrich_one(sem: asyncio.Semaphore,
 
 async def main_async(targets: list[dict],
                      concurrency: int) -> list[dict]:
+    _init_rate_limiter()
     sem = asyncio.Semaphore(concurrency)
     tasks = [enrich_one(sem, c) for c in targets]
     results = []
@@ -301,6 +368,12 @@ def main() -> int:
     print(f"done in {dt:.0f}s: {found}/{len(results)} found, "
           f"~{credits} keenable credits", flush=True)
 
+    # FIX 2026-09-30: create the output parent dir. The workflow only ran
+    # mkdir -p bulk-results in the commit step AFTER the script, so the
+    # script crashed with FileNotFoundError after doing all the work.
+    out_dir = os.path.dirname(args.out)
+    if out_dir:
+        os.makedirs(out_dir, exist_ok=True)
     with open(args.out, "w") as f:
         json.dump(results, f)
     return 0
