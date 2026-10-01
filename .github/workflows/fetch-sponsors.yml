@@ -11,7 +11,7 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     permissions:
       contents: write
     steps:
@@ -43,10 +43,16 @@ jobs:
             --out "batches/${{ inputs.batch_id }}/results.json"
 
       - name: Commit results
+        # 2026-10-01: always run, even when the Extract step is killed by the
+        # job timeout. The worker flushes results.json after every domain, so
+        # a timed-out run still commits partial results instead of yielding
+        # zero (the 2026-10-01 timeout-cancellation epidemic).
+        if: always()
         run: |
           git config user.name "nfa-fetch-bot"
           git config user.email "nfa-fetch-bot@users.noreply.github.com"
-          git add "batches/${{ inputs.batch_id }}/results.json"
+          git add "batches/${{ inputs.batch_id }}/results.json" 2>/dev/null \
+            || echo "no results.json to commit"
           git commit -m "results for batch ${{ inputs.batch_id }}" || echo "nothing to commit"
           for attempt in 1 2 3; do
             if git pull --rebase && git push; then
