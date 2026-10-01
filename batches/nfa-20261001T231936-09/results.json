@@ -1,0 +1,359 @@
+[
+  {
+    "company_domain": "shiftworkerapp.com",
+    "company_name": "Production Shed Pty Ltd",
+    "website": "http://shiftworkerapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "shopwagbury.com",
+    "company_name": "WAGBURY & CO",
+    "website": "https://shopwagbury.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@shopwagbury.com",
+        "confidence": "highest",
+        "source_url": "https://shopwagbury.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "klin Ave, Ste 687, #5353, Pinedale, WY 82941, United States info@shopwagbury.com \u00b7 +1 307 500 4752 Wagbury Refund Policy \u00b7 Shi"
+      }
+    ],
+    "role_emails": [
+      "info@shopwagbury.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopwagbury.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/products/wagbury-no-pull-dog-harness",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/products/wagbury-no-pull-dog-harness#atc-bundle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/products/wagbury-cooling-mat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/products/wagbury-grooming-glove",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/products/wagbury-clean-up-brush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwagbury.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shopwagbury.com/pages/contact",
+        "action": "/contact#contact-template--27195943452781__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Wagbury",
+    "source_urls": [
+      "https://shopwagbury.com",
+      "https://shopwagbury.com/pages/contact",
+      "https://shopwagbury.com/policies/contact-information",
+      "https://shopwagbury.com/",
+      "https://shopwagbury.com/collections/all",
+      "https://shopwagbury.com/products/wagbury-no-pull-dog-harness",
+      "https://shopwagbury.com/products/wagbury-no-pull-dog-harness#atc-bundle",
+      "https://shopwagbury.com/products/wagbury-cooling-mat",
+      "https://shopwagbury.com/products/wagbury-grooming-glove",
+      "https://shopwagbury.com/products/wagbury-clean-up-brush",
+      "https://shopwagbury.com/policies/privacy-policy",
+      "https://shopwagbury.com/policies/shipping-policy",
+      "https://shopwagbury.com/policies/refund-policy",
+      "https://shopwagbury.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopwith.co",
+    "company_name": "ShopWith",
+    "website": "https://www.shopwith.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shottracerapp.com",
+    "company_name": "Visual Vertigo Software Technologies GmbH",
+    "website": "https://www.shottracerapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "shoutfit.com",
+    "company_name": "Shoutfit",
+    "website": "http://shoutfit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "shycheese.com",
+    "company_name": "SUPLIFE PTE. LTD.",
+    "website": "https://shycheese.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "simmery.com",
+    "company_name": "Simmery",
+    "website": "http://simmery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://simmery.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-29"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Purchase simmery.com today. Starter logo included. Money back guarantee. Fast domain transfer.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "siteauditpro.com",
+    "company_name": "Veam Studios Ltd",
+    "website": "https://www.siteauditpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "sleeper.app",
+    "company_name": "Blitz Studios, Inc.",
+    "website": "http://sleeper.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "slicelife.com",
+    "company_name": "Slice Solutions, Inc.",
+    "website": "http://slicelife.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "slushiq.com",
+    "company_name": "Michael Sturgis",
+    "website": "https://slushiq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "smallstepinfo.com",
+    "company_name": "Guangzhou SmallStep Information Technology Co., Ltd",
+    "website": "https://www.smallstepinfo.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.smallstepinfo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Smallstep Technology specializes in app internationalization, mobile advertising, and monetization, delivering high-quality products and services to users worldwide.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  }
+]
