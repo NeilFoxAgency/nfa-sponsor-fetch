@@ -455,6 +455,21 @@ TRANSIENT_REASONS = {
 }
 MAX_ATTEMPTS = 3
 
+# 2026-10-01: per-domain wall-clock budget (seconds). The 2026-09-30
+# "crawl aggressively" change (MAX_PAGES=50, 27 endpoint probes, every fetch
+# running the full curl -> Chromium -> Wayback tier stack) let a single
+# slow/tarpitting domain burn 10+ minutes, so 25-domain runs kept dying at
+# the 60-min job timeout and committing zero results. Each domain now gets
+# DOMAIN_TIME_BUDGET seconds; when it trips, the domain is recorded with
+# whatever was harvested so far and the run moves on. Worst case per run is
+# now bounded: <domains-per-run> x DOMAIN_TIME_BUDGET.
+DOMAIN_TIME_BUDGET = 240.0
+
+
+class _DomainBudgetExceeded(Exception):
+    """Raised when a domain exhausts its DOMAIN_TIME_BUDGET."""
+
+
 # Confidence ranking for email sources.
 CONFIDENCE_RANK = {"medium": 1, "high": 2, "highest": 3}
 
@@ -797,7 +812,12 @@ class Renderer:
             )
             try:
                 page = context.new_page()
-                page.goto(url, timeout=25000, wait_until="networkidle")
+                # 2026-10-01: domcontentloaded instead of networkidle.
+                # networkidle hangs the full 25s on pages with analytics /
+                # long-polling; the 1.5s settle below is what lets
+                # JS-injected emails appear.
+                page.goto(url, timeout=25000,
+                          wait_until="domcontentloaded")
                 page.wait_for_timeout(1500)
                 html = page.content()
             finally:
@@ -829,16 +849,34 @@ class Renderer:
         self._playwright = None
 
 
+# 2026-10-01: robots.txt fetched once per host per run. The old code fetched
+# it fresh for every URL (homepage + each probed/link-followed page), each
+# fetch carrying a 20s timeout on slow hosts.
+_ROBOTS_PARSERS: dict[str, RobotFileParser | None] = {}
+
+
 def robots_allows(url: str, session: Session, user_agent: str) -> bool:
     try:
         parsed = urlparse(url)
         robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-        response = session.get(robots_url, timeout=REQUEST_TIMEOUT)
-        if response.status_code != 200:
-            return True
-        parser = RobotFileParser()
-        parser.set_url(robots_url)
-        parser.parse(response.text.splitlines())
+    except Exception:
+        return True
+    if robots_url not in _ROBOTS_PARSERS:
+        parser: RobotFileParser | None = None
+        try:
+            response = session.get(robots_url, timeout=REQUEST_TIMEOUT)
+            if response.status_code == 200:
+                parser = RobotFileParser()
+                parser.set_url(robots_url)
+                parser.parse(response.text.splitlines())
+        except Exception:
+            parser = None
+        _ROBOTS_PARSERS[robots_url] = parser
+    else:
+        parser = _ROBOTS_PARSERS[robots_url]
+    if parser is None:
+        return True
+    try:
         return bool(parser.can_fetch(user_agent, url))
     except Exception:
         return True
@@ -1580,13 +1618,28 @@ def discover_one(
         "pages_fetched": 0,
     }
     renderer = Renderer(user_agent)
+    # 2026-10-01: per-domain wall-clock budget (see DOMAIN_TIME_BUDGET).
+    # _check_budget() is called before every network fetch; when the budget
+    # trips, _DomainBudgetExceeded unwinds to the handler below, which
+    # harvests whatever pages were collected so far instead of discarding
+    # the domain's work.
+    _deadline = time.monotonic() + DOMAIN_TIME_BUDGET
+
+    def _check_budget() -> None:
+        if time.monotonic() >= _deadline:
+            raise _DomainBudgetExceeded()
+
+    budget_hit = False
+    home_url = ""
+    home_html: str | None = None
+    pages: list[tuple[str, str, str, str | None]] = []
+    harvest: dict | None = None
     try:
-        home_url = ""
-        home_html: str | None = None
         home_source = "live"
         home_snapshot: str | None = None
         home_reason: str | None = None
         for variant in website_variants(website):
+            _check_budget()
             result = fetch_page_for_target(session, renderer, variant)
             base["pages_fetched"] += 1
             if result["ok"]:
@@ -1612,6 +1665,7 @@ def discover_one(
         home_host = normalized_host(home_url)
 
         def try_add_page(url: str) -> None:
+            _check_budget()
             if len(pages) >= MAX_PAGES or url in seen_urls:
                 return
             if not robots_allows(url, session, user_agent):
@@ -1628,6 +1682,7 @@ def discover_one(
         #    (/contact, /about, /team, /press ...).
         probed = 0
         for endpoint in CONTACT_ENDPOINTS:
+            _check_budget()
             if len(pages) >= MAX_PAGES or probed >= MAX_PROBED_ENDPOINTS:
                 break
             url = urljoin(home_url.rstrip("/") + "/", endpoint)
@@ -1683,7 +1738,12 @@ def discover_one(
         keenable_credits = 0
         keenable_pages = 0
         if not harvest["emails"] and not harvest["role_emails"]:
-            kt = keenable_tier(company_domain, company_name, home_url)
+            # 2026-10-01: skip the tier when the budget is nearly gone --
+            # its search+fetch+LLM API calls are one blocking unit that
+            # cannot be interrupted mid-flight.
+            if _deadline - time.monotonic() > 45:
+                _check_budget()
+                kt = keenable_tier(company_domain, company_name, home_url)
             keenable_credits = kt["keenable_credits"]
             keenable_pages = kt["keenable_pages"]
             if kt["emails"]:
@@ -1728,6 +1788,7 @@ def discover_one(
                     break
             rendered_by_url: dict[str, tuple] = {}
             for url in miss_urls[:2]:
+                _check_budget()
                 if not robots_allows(url, session, user_agent):
                     continue
                 result = renderer.render(url)
@@ -1746,6 +1807,7 @@ def discover_one(
         # Iteration-2 GitHub org fallback (dev-tool companies): only when
         # no emails were found on the site itself.
         if not harvest["emails"] and not harvest["role_emails"]:
+            _check_budget()
             for entry in github_org_fallback(session, pages, home_url):
                 known = {e["address"] for e in harvest["emails"]}
                 if entry["address"] not in known:
@@ -1758,30 +1820,44 @@ def discover_one(
             )
             harvest["role_emails"] = sorted(set(harvest["role_emails"]))
 
-        people = harvest["people"]
-        base["people"] = people
-        base["contacts"] = people  # legacy alias for the dispatcher
-        base["emails"] = harvest["emails"]
-        base["role_emails"] = harvest["role_emails"]
-        base["email_candidates"] = harvest["email_candidates"]
-        base["contact_pages"] = harvest["contact_pages"]
-        # Dedupe forms by (page_url, action).
-        seen_forms: set[tuple[str, str]] = set()
-        deduped_forms: list[dict] = []
-        for form in harvest["contact_forms"]:
-            key = (form["page_url"], form["action"])
-            if key not in seen_forms:
-                seen_forms.add(key)
-                deduped_forms.append(form)
-        base["contact_forms"] = deduped_forms
-        base["source_urls"] = harvest["source_urls"]
-        if base["people"]:
-            base["status"] = "found"
-        else:
-            base["reason"] = "no_named_contacts"
-        return base
+    except _DomainBudgetExceeded:
+        # 2026-10-01: slow/tarpitting domain. Fall through to the finalizer
+        # below, which harvests whatever pages were collected so far instead
+        # of discarding the domain's work.
+        budget_hit = True
     finally:
         renderer.close()
+    if harvest is None:
+        if not home_html:
+            base["status"] = "error"
+            base["reason"] = "domain_time_budget"
+            return base
+        base["company_summary"] = extract_company_summary(home_html)
+        harvest = harvest_pages(company_name, home_url, pages)
+    people = harvest["people"]
+    base["people"] = people
+    base["contacts"] = people  # legacy alias for the dispatcher
+    base["emails"] = harvest["emails"]
+    base["role_emails"] = harvest["role_emails"]
+    base["email_candidates"] = harvest["email_candidates"]
+    base["contact_pages"] = harvest["contact_pages"]
+    # Dedupe forms by (page_url, action).
+    seen_forms: set[tuple[str, str]] = set()
+    deduped_forms: list[dict] = []
+    for form in harvest["contact_forms"]:
+        key = (form["page_url"], form["action"])
+        if key not in seen_forms:
+            seen_forms.add(key)
+            deduped_forms.append(form)
+    base["contact_forms"] = deduped_forms
+    base["source_urls"] = harvest["source_urls"]
+    if base["people"]:
+        base["status"] = "found"
+    elif budget_hit:
+        base["reason"] = "domain_time_budget"
+    else:
+        base["reason"] = "no_named_contacts"
+    return base
 
 
 def main() -> int:
@@ -1834,8 +1910,17 @@ def main() -> int:
                         "pages_fetched": 0,
                     }
                 )
-            if index and index % 25 == 0:
-                print(f"  ... {index}/{len(targets)} done", flush=True)
+            # 2026-10-01: flush results after EVERY domain. A run killed by
+            # the job timeout (or cancelled) previously committed nothing;
+            # the workflow's Commit step now runs with `if: always()`, so
+            # partial results survive. The write is small relative to the
+            # per-domain network cost.
+            try:
+                Path(args.out).write_text(json.dumps(results))
+            except Exception:
+                pass
+            if (index + 1) % 5 == 0 or index + 1 == len(targets):
+                print(f"  ... {index + 1}/{len(targets)} done", flush=True)
     finally:
         for session in sessions:
             try:
