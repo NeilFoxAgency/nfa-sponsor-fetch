@@ -1,0 +1,1419 @@
+[
+  {
+    "company_domain": "abracandy.com",
+    "company_name": "ABRACANDY",
+    "website": "https://abracandy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abracandy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AbraCandy\u2122 is the Brand of Promotion Booth LLC. AbraCandy is a magic themed candy brand, located in the Chicago area.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "acelaskincare.com",
+    "company_name": "Acela Skincare",
+    "website": "https://acelaskincare.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@acelaskincare.com",
+        "confidence": "highest",
+        "source_url": "https://acelaskincare.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "livery for a full refund. To start a return, contact us at hello@acelaskincare.com with your order number, and we'll walk you through next st"
+      }
+    ],
+    "role_emails": [
+      "hello@acelaskincare.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://acelaskincare.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/about-acela",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/collections/shop-all-bundles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-signature-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/whipped-body-cream",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/body-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/body-lotion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/lip-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-body-bar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/pages/acela-gives-back",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/glow-with-love",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-self-care-standard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/products/the-glow-getter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acelaskincare.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://acelaskincare.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://acelaskincare.com/pages/about-acela",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Acela Skincare is a family-founded brand built on faith, love, and purpose, creating intentional tallow skincare that cares deeply and helps you glow.",
+    "source_urls": [
+      "https://acelaskincare.com/pages/contact",
+      "https://acelaskincare.com/pages/about-acela",
+      "https://acelaskincare.com/products/the-signature-collection",
+      "https://acelaskincare.com/products/whipped-body-cream",
+      "https://acelaskincare.com/products/body-balm",
+      "https://acelaskincare.com/products/body-lotion",
+      "https://acelaskincare.com/products/lip-balm",
+      "https://acelaskincare.com/products/the-body-bar",
+      "https://acelaskincare.com/products/glow-with-love",
+      "https://acelaskincare.com/products/the-self-care-standard",
+      "https://acelaskincare.com/products/the-glow-getter",
+      "https://acelaskincare.com/policies/refund-policy",
+      "https://acelaskincare.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "advntrbums.com",
+    "company_name": "ADVNTR BUMS",
+    "website": "https://advntrbums.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://advntrbums.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advntrbums.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-22"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover outdoor family adventures with ADVNTR BUMS, offering luxury outdoor experiences for unforgettable family outings.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "aevron.co",
+    "company_name": "A second brain should remember what you still don't know.",
+    "website": "https://aevron.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "affluentology.com",
+    "company_name": "AFFLUENTOLOGY",
+    "website": "https://affluentology.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@affluentology.com",
+        "confidence": "high",
+        "source_url": "https://affluentology.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "illage, CO 80111 (720) 608-0013 contact@affluentology.com Frequently Asked Questions How can I acce"
+      }
+    ],
+    "role_emails": [
+      "contact@affluentology.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.trump@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald.trump@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald_trump@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donaldt@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trump@affluentology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://affluentology.com/blog-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://affluentology.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/contact-page/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/about-page/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/blog-page/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/youtube-page/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://affluentology.com/resources-page/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://affluentology.com/contact",
+        "action": "https://affluentology.com/contact-page/#72bbb68a2b3a7df4b260ef5d37c80c9e89869cb9",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://affluentology.com/pages/contact",
+        "action": "https://affluentology.com/contact-page/#72bbb68a2b3a7df4b260ef5d37c80c9e89869cb9",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://affluentology.com/support/contact",
+        "action": "https://affluentology.com/contact-page/#72bbb68a2b3a7df4b260ef5d37c80c9e89869cb9",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://affluentology.com/contact-page/",
+        "action": "https://affluentology.com/contact-page/#72bbb68a2b3a7df4b260ef5d37c80c9e89869cb9",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hi, I\u2019m Todd A guy trying to figure out how to retire younger with more money and share everything I learn with anyone interested. Early on I started my professional career as a high school marketing teacher making roughly $20,000.00 per year. I love to teach but couldn\u2019t accept the lifestyle I woul",
+    "source_urls": [
+      "https://affluentology.com/contact",
+      "https://affluentology.com/pages/contact",
+      "https://affluentology.com/support/contact",
+      "https://affluentology.com/contact-page/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "amitsharma.tech",
+    "company_name": "I built a \u20b92k product to help founders decide what to build. Now I'm testing whether anyone will pay for it.",
+    "website": "https://amitsharma.tech",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ampeduploadedteas.com",
+    "company_name": "AMPED UP LOADED TEAS",
+    "website": "https://ampeduploadedteas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ampeduploadedteas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections/loaded-teas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections/hydration-teas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/pages/recipes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections/wholesale-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/amped-up-starter-set-%E2%AD%90",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/slytherin-hydration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/ravenclaw-hydration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/hufflepuff-hydration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections/half-caff",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/summer-love-loaded-tea",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/products/untitled-oct31_08-52",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/collections/frontpage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/pages/wholesale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ampeduploadedteas.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ampeduploadedteas.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our teas are shipped dry for freshness, packed with 180mg of caffeine for energy, plus B vitamins and minerals to boost metabolism, improve focus, and support overall wellness. A refreshing, low-calorie alternative to sugary sodas or energy drinks, they offer a delicious way to stay energized and fe",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "awaybook.com",
+    "company_name": "AWAYBOOK",
+    "website": "https://awaybook.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "frontdesk@awaybook.com",
+        "confidence": "highest",
+        "source_url": "https://awaybook.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy Terms of Service \u00a9 2026 Away Studio LLC frontdesk@awaybook.com Photos by Mikolaj Felinski , Urlaubstrack"
+      }
+    ],
+    "role_emails": [
+      "frontdesk@awaybook.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://awaybook.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/smart-import",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/calendar-sync",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaybook.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Log every hotel stay, relive it with photos, maps and keycards, and see your travels add up. Search 100,000+ hotels from 500+ hotel groups. Free on the App Store.",
+    "source_urls": [
+      "https://awaybook.com",
+      "https://awaybook.com/",
+      "https://awaybook.com/faq",
+      "https://awaybook.com/smart-import",
+      "https://awaybook.com/calendar-sync",
+      "https://awaybook.com/privacy",
+      "https://awaybook.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "batwrapz.com",
+    "company_name": "BATWRAPZ",
+    "website": "https://batwrapz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://batwrapz.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-21"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 5
+  },
+  {
+    "company_domain": "blagowood.com",
+    "company_name": "BLAGOWOOD",
+    "website": "https://blagowood.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blagowood.com",
+        "confidence": "high",
+        "source_url": "https://blagowood.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@blagowood.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://blagowood.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/wooden-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/gods-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/goddess-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/wooden-bust-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/wall-hanging-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/animals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/pages/explore-deities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/greek-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/norse-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/celtic-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/wiccan-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/egypt-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/occult_statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/slavic-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/hindu-god-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/yoruba-orisha-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/mesopotamian-god-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/american-gods-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/altar-items",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/candlesticks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/incense-stands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/decorative-weapon",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/pendants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/pages/basic-terms-of-my-services",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/new-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/bestsellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/hecate-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/odin-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/freya-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/thor-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/aphrodite-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/tyr-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/gaia-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/cernunnos-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/hel-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/apollo-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/lilith-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/loki-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/morrigan-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/baphomet-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/cerridwen-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/hermes-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/persephone-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blagowood.com/collections/pan-statues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blagowood.com/pages/contact",
+        "action": "/contact#contact-template--20336479567946__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://blagowood.com/pages/about",
+        "action": "/contact#contact-template--20336479731786__contact_form_EBVAxq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://blagowood.com/pages/explore-deities",
+        "action": "/contact#contact-template--20336479600714__contact_form_qXnVK8",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://blagowood.com/pages/basic-terms-of-my-services",
+        "action": "/contact#contact-template--20336479731786__contact_form_EBVAxq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop statues of gods at Blagowood.com. Here you can buy statues of Norse gods, Greek gods, Celtic gods, Egypt gods and others. Here you can shop different pendants, runes, candlesticks and incense stands. All items are made of high quality wood. Worldwide shipping.",
+    "source_urls": [
+      "https://blagowood.com",
+      "https://blagowood.com/pages/contact",
+      "https://blagowood.com/pages/about",
+      "https://blagowood.com/policies/contact-information",
+      "https://blagowood.com/collections",
+      "https://blagowood.com/collections/wooden-statues",
+      "https://blagowood.com/collections/gods-statues",
+      "https://blagowood.com/collections/goddess-statues",
+      "https://blagowood.com/collections/wooden-bust-statues",
+      "https://blagowood.com/collections/wall-hanging-statues",
+      "https://blagowood.com/collections/animals",
+      "https://blagowood.com/pages/explore-deities",
+      "https://blagowood.com/collections/greek-gods",
+      "https://blagowood.com/collections/norse-gods",
+      "https://blagowood.com/collections/celtic-gods",
+      "https://blagowood.com/collections/wiccan-gods",
+      "https://blagowood.com/collections/egypt-gods",
+      "https://blagowood.com/collections/occult_statues",
+      "https://blagowood.com/collections/slavic-gods",
+      "https://blagowood.com/collections/hindu-god-statues",
+      "https://blagowood.com/collections/yoruba-orisha-statues",
+      "https://blagowood.com/collections/mesopotamian-god-statues",
+      "https://blagowood.com/collections/american-gods-statues",
+      "https://blagowood.com/collections/altar-items",
+      "https://blagowood.com/collections/candlesticks",
+      "https://blagowood.com/collections/incense-stands",
+      "https://blagowood.com/collections/decorative-weapon",
+      "https://blagowood.com/collections/pendants",
+      "https://blagowood.com/pages/basic-terms-of-my-services",
+      "https://blagowood.com/collections/all-products",
+      "https://blagowood.com/collections/new-products",
+      "https://blagowood.com/collections/bestsellers",
+      "https://blagowood.com/collections/hecate-statues",
+      "https://blagowood.com/collections/odin-statues",
+      "https://blagowood.com/collections/freya-statues",
+      "https://blagowood.com/collections/thor-statues",
+      "https://blagowood.com/collections/aphrodite-statues",
+      "https://blagowood.com/collections/tyr-statues",
+      "https://blagowood.com/collections/gaia-statues",
+      "https://blagowood.com/collections/cernunnos-statues",
+      "https://blagowood.com/collections/hel-statues",
+      "https://blagowood.com/collections/apollo-statues",
+      "https://blagowood.com/collections/lilith-statues",
+      "https://blagowood.com/collections/loki-statues",
+      "https://blagowood.com/collections/morrigan-statues",
+      "https://blagowood.com/collections/baphomet-statues",
+      "https://blagowood.com/collections/cerridwen-statues",
+      "https://blagowood.com/collections/hermes-statues",
+      "https://blagowood.com/collections/persephone-statues",
+      "https://blagowood.com/collections/pan-statues"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bohicabrand.com",
+    "company_name": "BOHICA BRAND",
+    "website": "https://bohicabrand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@bohicabrand.com",
+        "confidence": "high",
+        "source_url": "https://bohicabrand.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vailable to you, please call +1 336-448-4195 or email us at shop@bohicabrand.com or contact us at 116 Lowes Foods Dr, 248, Lewisville NC 270"
+      }
+    ],
+    "role_emails": [
+      "shop@bohicabrand.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bohicabrand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/womens-clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/mens-clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/energy-drinks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/the-lab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/pages/mission-files",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/customer_authentication/login?return_to=%2F&locale=en&ui_hint=full\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/collections/apparel-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/circle-text-zip-hoodie-here-it-comes-again-bend-over-graphic-zip-up-hoodie?variant=43102812242033",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bouica-ops-gothic-logo-hoodie-black-streetwear-pullover?variant=43102740185201",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/embroidered-trucker-cap-bold-gothic-logo-snapback?variant=42990878064753",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/the-big-bohica-t-shirt?variant=43172743217265",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/kiss-cut-stickers?variant=42984480964721",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-ops-gothic-logo-die-cut-sticker?variant=43103595855985",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/big-bohica-long-sleeve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-ops-gothic-logo-die-cut-sticker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/bohica-brand-flag-hat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bohicabrand.com/products/copy-of-bohica-brand-the-standard-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bohicabrand.com/pages/contact",
+        "action": "/contact#ContactForm-AWkxiUEozUFlOUGlve__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BOHICA BRAND Store",
+    "source_urls": [
+      "https://bohicabrand.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "californiaritual.com",
+    "company_name": "CALIFORNIA RITUAL",
+    "website": "https://californiaritual.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://californiaritual.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "cargo.site",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
