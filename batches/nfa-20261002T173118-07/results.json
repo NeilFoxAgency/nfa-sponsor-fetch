@@ -1,0 +1,1949 @@
+[
+  {
+    "company_domain": "artisan.plus",
+    "company_name": "Home",
+    "website": "https://artisan.plus",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "artisanaz.com",
+    "company_name": "Home - Artisan Systems",
+    "website": "https://artisanaz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "baziz@artisanaz.com",
+        "confidence": "highest",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jbakutis@artisanaz.com",
+        "confidence": "highest",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "baziz@artisanaz.com",
+      "jbakutis@artisanaz.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "aziz@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.aziz@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill.aziz@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill_aziz@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billa@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Aziz",
+        "person_title": "Owner",
+        "source_url": "https://artisanaz.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doe@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.doe@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.doe@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_doe@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnd@artisanaz.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Doe",
+        "person_title": "President",
+        "source_url": "https://artisanaz.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://artisanaz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/about-us/leadership-team/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/artisan-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/home-theater-media/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/commercial-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/home-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/surveillance-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/service/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanaz.com/case-studies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/commercial-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/meeting-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/digital-signage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/unified-communications/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/command-centers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/home-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/smart-home-automation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/surveillance-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/lighting-control/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/home-audio-video/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/home-network/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/motorized-shades/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/case-studies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanaz.com/sitemap/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://artisanaz.com/contact",
+        "action": "/contact/#wpcf7-f130-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanaz.com/pages/contact",
+        "action": "/contact/#wpcf7-f130-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanaz.com/support/contact",
+        "action": "/contact/#wpcf7-f130-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanaz.com/contact/",
+        "action": "/contact/#wpcf7-f130-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.artisanaz.com/contact/",
+        "action": "/contact/#wpcf7-f130-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.artisanaz.com/careers/",
+        "action": "/careers/#wpcf7-f1395-p117-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.artisanaz.com/blog/",
+        "action": "/blog/#wpcf7-f130-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "High Standards, Real Value. Smart Solutions for Your Space Artisan Systems isn\u2019t just about technology WE'RE ABOUT connection. Years in Business 0 + Commercial Solutions Designed & Implemented 0 + Connected Homes 0 + For over 20 years, we\u2019ve been designing tailored audio and video solutions for home",
+    "source_urls": [
+      "https://artisanaz.com/about",
+      "https://artisanaz.com/about-us",
+      "https://artisanaz.com/leadership",
+      "https://www.artisanaz.com/about-us/",
+      "https://www.artisanaz.com/about-us/leadership-team/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "artisancooking.com",
+    "company_name": "Brands Artisan Cooking Carries",
+    "website": "https://artisancooking.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@artisancooking.com",
+        "confidence": "highest",
+        "source_url": "https://artisancooking.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Information Phone +1 800 908-0655 Email info@artisancooking.com Shipping and Mail Address Only, No Retail Outlet"
+      },
+      {
+        "address": "support@artisancooking.com",
+        "confidence": "highest",
+        "source_url": "https://artisancooking.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@artisancooking.com",
+      "support@artisancooking.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://artisancooking.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/about-us/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/about-us/faq/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/cervello-super-automatic-espresso-machine/",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-22"
+      },
+      {
+        "url": "https://artisancooking.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/terms-of-use/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/refundreturnspolicy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/my-account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-tag/on-sale/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/professional-deli-slicer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-tag/giava/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/stella-caffe/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/12-cavity-ravioli-tray-with-pin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/18-cavity-ravioli-tray-with-pin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/24-cavity-ravioli-tray-with-pin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/36-cavity-ravioli-tray-with-pin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/4-sided-grater-with-attachable-container/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/flex-tri-ply-stainless-steel-fry-pan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product/oil-vinegar-set-with-caddy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/artisan-cooking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/bialetti/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/biesse/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/cateringline/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/ga-fratelli/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/homeworks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/imperia/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/inoxbonomi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/korkmaz/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/marcato/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/omac/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/omra/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/perfetta/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/piatto-pieno/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/porkert/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/puly-caff/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/sara-cucina/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/sara-dolce/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/sara-moka/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/tulip/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisancooking.com/product-category/vev-vigano/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Signup for our newsletter to get notified about sales and new products. You will also receive a PROMO CODE for first time purchase that is worth 10% off your order.",
+    "source_urls": [
+      "https://artisancooking.com",
+      "https://artisancooking.com/contact",
+      "https://artisancooking.com/about",
+      "https://artisancooking.com/about-us",
+      "https://artisancooking.com/pages/contact",
+      "https://artisancooking.com/support/contact",
+      "https://artisancooking.com/about-us/",
+      "https://artisancooking.com/about-us/contact/",
+      "https://artisancooking.com/about-us/faq/",
+      "https://artisancooking.com/product/cervello-super-automatic-espresso-machine/",
+      "https://artisancooking.com/privacy-policy/",
+      "https://artisancooking.com/terms-of-use/",
+      "https://artisancooking.com/refundreturnspolicy/",
+      "https://artisancooking.com/",
+      "https://artisancooking.com/my-account/",
+      "https://artisancooking.com/cart/",
+      "https://artisancooking.com/shop/",
+      "https://artisancooking.com/blog/",
+      "https://artisancooking.com/product-tag/on-sale/",
+      "https://artisancooking.com/product/professional-deli-slicer/",
+      "https://artisancooking.com/product-tag/giava/",
+      "https://artisancooking.com/product-category/stella-caffe/",
+      "https://artisancooking.com/product/12-cavity-ravioli-tray-with-pin/",
+      "https://artisancooking.com/product/18-cavity-ravioli-tray-with-pin/",
+      "https://artisancooking.com/product/24-cavity-ravioli-tray-with-pin/",
+      "https://artisancooking.com/product/36-cavity-ravioli-tray-with-pin/",
+      "https://artisancooking.com/product/4-sided-grater-with-attachable-container/",
+      "https://artisancooking.com/product/flex-tri-ply-stainless-steel-fry-pan/",
+      "https://artisancooking.com/product/oil-vinegar-set-with-caddy/",
+      "https://artisancooking.com/product-category/artisan-cooking/",
+      "https://artisancooking.com/product-category/bialetti/",
+      "https://artisancooking.com/product-category/biesse/",
+      "https://artisancooking.com/product-category/cateringline/",
+      "https://artisancooking.com/product-category/ga-fratelli/",
+      "https://artisancooking.com/product-category/homeworks/",
+      "https://artisancooking.com/product-category/imperia/",
+      "https://artisancooking.com/product-category/inoxbonomi/",
+      "https://artisancooking.com/product-category/korkmaz/",
+      "https://artisancooking.com/product-category/marcato/",
+      "https://artisancooking.com/product-category/omac/",
+      "https://artisancooking.com/product-category/omra/",
+      "https://artisancooking.com/product-category/perfetta/",
+      "https://artisancooking.com/product-category/piatto-pieno/",
+      "https://artisancooking.com/product-category/porkert/",
+      "https://artisancooking.com/product-category/puly-caff/",
+      "https://artisancooking.com/product-category/sara-cucina/",
+      "https://artisancooking.com/product-category/sara-dolce/",
+      "https://artisancooking.com/product-category/sara-moka/",
+      "https://artisancooking.com/product-category/tulip/",
+      "https://artisancooking.com/product-category/vev-vigano/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 72,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "artisanelectric.com",
+    "company_name": "1.13.32",
+    "website": "https://artisanelectric.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "artisanfounder.com",
+    "company_name": "The Artisan Founder | Independent Guide to Artisan Brands",
+    "website": "https://artisanfounder.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "artisangiftsandflowers.com",
+    "company_name": "Mint Cleaning Products - Floor Wash, Bottle",
+    "website": "https://artisangiftsandflowers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "artisanhome.co",
+    "company_name": "Artisan Home Health | Modern Nontoxic Living in Colorado",
+    "website": "https://artisanhome.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jennifer@artisanhome.co",
+        "confidence": "highest",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@artisanhomehealth.com",
+        "confidence": "high",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@artisanhomehealth.com",
+      "jennifer@artisanhome.co"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.health@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artisan.health@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artisan@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artisan_health@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artisanh@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "health@artisanhome.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artisan Home Health",
+        "person_title": "Founder",
+        "source_url": "https://artisanhome.co",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://artisanhome.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/about-non-toxic-living-expert",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/contact-artisan-home-health-non-toxic-living-expert",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/services-non-toxic-consulting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/glossary-for-non-toxic-living",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.co/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Artisan Home Health is a lifestyle and wellness brand in Colorado sharing in-home expertise on modern nontoxic living so you can discover safer options at home.",
+    "source_urls": [
+      "https://artisanhome.co",
+      "https://artisanhome.co/about-non-toxic-living-expert",
+      "https://artisanhome.co/contact-artisan-home-health-non-toxic-living-expert",
+      "https://artisanhome.co/cart",
+      "https://artisanhome.co/",
+      "https://artisanhome.co/services-non-toxic-consulting",
+      "https://artisanhome.co/glossary-for-non-toxic-living",
+      "https://artisanhome.co/blog",
+      "https://artisanhome.co/privacy-policy",
+      "https://artisanhome.co/terms-of-use"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "artisanhome.io",
+    "company_name": "Artisan Systems",
+    "website": "https://artisanhome.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@artisanhome.io",
+        "confidence": "highest",
+        "source_url": "https://artisanhome.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Artisan SYstems CSLB #1092860 info@artisanhome.io p: 925.338.1548"
+      }
+    ],
+    "role_emails": [
+      "info@artisanhome.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://artisanhome.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/smarthomeautomation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/smarthomeautomation-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/surveillance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/audiovideo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/lighting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/commercial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/gallery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/book-a-consultation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhome.io/new-dropdown",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are more than just \"AV Guys\" - we engineer functionality into your home and office.",
+    "source_urls": [
+      "https://artisanhome.io",
+      "https://artisanhome.io/cart",
+      "https://artisanhome.io/",
+      "https://artisanhome.io/smarthomeautomation",
+      "https://artisanhome.io/smarthomeautomation-1",
+      "https://artisanhome.io/surveillance",
+      "https://artisanhome.io/audiovideo",
+      "https://artisanhome.io/lighting",
+      "https://artisanhome.io/commercial",
+      "https://artisanhome.io/gallery",
+      "https://artisanhome.io/book-a-consultation",
+      "https://artisanhome.io/new-dropdown"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "artisanhomeservices.com",
+    "company_name": "Recommended Products",
+    "website": "https://artisanhomeservices.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "artisanhometechnologies.com",
+    "company_name": "Home | Artisan Home Technologies",
+    "website": "https://artisanhometechnologies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://artisanhometechnologies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#lighting-fixtures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#automated-window-treatment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#home-automation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#home-theaters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#golf-simulators",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#professional-grade-networks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/services#surveillance-systems",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhometechnologies.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://artisanhometechnologies.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhometechnologies.com/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhometechnologies.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhometechnologies.com/pages/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhometechnologies.com/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhometechnologies.com/contact-us/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Seamless. Simple. Sophisticated. Experience Luxury Home Automation at Its Finest. Get In Touch Our Story From the beginning, our mission has been to provide luxury technology solutions with an unwavering dedication to service, loyalty, and integrity. As Artisans of our craft, we believe that true cr",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "artisanhousemattress.com",
+    "company_name": "Craftsmanship \u2014 Artisan House",
+    "website": "https://artisanhousemattress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://artisanhousemattress.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhousemattress.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhousemattress.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhousemattress.com/models",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhousemattress.com/craftsmanship",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhousemattress.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://artisanhousemattress.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Artisan House, we approach each mattress we make as our name implies - as artisans.\u00a0 Using only the finest materials, the latest advances in technology and products, as well as the most experienced craftsmen, we combine Old World detail with present day engineering to ensure the final product is ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "artisanhygiene.co.uk",
+    "company_name": "About Us - Artisan",
+    "website": "https://artisanhygiene.co.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@artisanhygiene.co.uk",
+        "confidence": "highest",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "of Artisan Intelligent Hygiene Ltd Contact Us E: info@artisanhygiene.co.uk T: 0330 335 6735"
+      }
+    ],
+    "role_emails": [
+      "info@artisanhygiene.co.uk"
+    ],
+    "email_candidates": [
+      {
+        "address": "boutique@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.boutique@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ladies.boutique@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ladies@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ladies_boutique@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ladiesb@artisanhygiene.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies Boutique",
+        "person_title": "Owner",
+        "source_url": "https://artisanhygiene.co.uk",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://artisanhygiene.co.uk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/what-our-clients-say-about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artisanhygiene.co.uk/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/artisan-shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/product-category/scent-diffusers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/product-category/scents/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/product-category/air-fresheners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/product-category/room_sprays/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/product-category/sanitisers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/free-delivery-service/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/automatic-air-freshener-system-nickel-ross/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/homeowner/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/homeowner-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/owner-ladies-boutique/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/manager-cocktail-bar/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/premises-manager-academy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/hotel-guest-now-a-customer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/facilities-manager-office-block/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.artisanhygiene.co.uk/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://artisanhygiene.co.uk/contact",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhygiene.co.uk/contact-us",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhygiene.co.uk/pages/contact",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhygiene.co.uk/pages/contact-us",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://artisanhygiene.co.uk/support/contact",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/contact-us/",
+        "action": "https://www.artisanhygiene.co.uk/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/homeowner/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/homeowner-2/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/owner-ladies-boutique/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/manager-cocktail-bar/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/premises-manager-academy/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/hotel-guest-now-a-customer/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.artisanhygiene.co.uk/facilities-manager-office-block/",
+        "action": "https://www.artisanhygiene.co.uk/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Creating a smart, hygienic world through innovative washroom dispensers and professional air freshener systems. The home of functional washroom dispensers and effective fragrance diffuser machines.",
+    "source_urls": [
+      "https://artisanhygiene.co.uk",
+      "https://artisanhygiene.co.uk/contact",
+      "https://artisanhygiene.co.uk/about",
+      "https://artisanhygiene.co.uk/contact-us",
+      "https://artisanhygiene.co.uk/about-us",
+      "https://artisanhygiene.co.uk/pages/contact",
+      "https://artisanhygiene.co.uk/pages/contact-us",
+      "https://artisanhygiene.co.uk/support/contact",
+      "https://www.artisanhygiene.co.uk/about-us/",
+      "https://www.artisanhygiene.co.uk/what-our-clients-say-about-us/",
+      "https://www.artisanhygiene.co.uk/contact-us/",
+      "https://www.artisanhygiene.co.uk/",
+      "https://artisanhygiene.co.uk/",
+      "https://www.artisanhygiene.co.uk/artisan-shop/",
+      "https://www.artisanhygiene.co.uk/product-category/scent-diffusers/",
+      "https://www.artisanhygiene.co.uk/product-category/scents/",
+      "https://www.artisanhygiene.co.uk/product-category/air-fresheners/",
+      "https://www.artisanhygiene.co.uk/product-category/room_sprays/",
+      "https://www.artisanhygiene.co.uk/product-category/sanitisers/",
+      "https://www.artisanhygiene.co.uk/free-delivery-service/",
+      "https://www.artisanhygiene.co.uk/blog/",
+      "https://www.artisanhygiene.co.uk/cart/",
+      "https://www.artisanhygiene.co.uk/automatic-air-freshener-system-nickel-ross/",
+      "https://www.artisanhygiene.co.uk/homeowner/",
+      "https://www.artisanhygiene.co.uk/homeowner-2/",
+      "https://www.artisanhygiene.co.uk/owner-ladies-boutique/",
+      "https://www.artisanhygiene.co.uk/manager-cocktail-bar/",
+      "https://www.artisanhygiene.co.uk/premises-manager-academy/",
+      "https://www.artisanhygiene.co.uk/hotel-guest-now-a-customer/",
+      "https://www.artisanhygiene.co.uk/facilities-manager-office-block/",
+      "https://www.artisanhygiene.co.uk/privacy-policy/",
+      "https://www.artisanhygiene.co.uk/terms-conditions/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 56,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
