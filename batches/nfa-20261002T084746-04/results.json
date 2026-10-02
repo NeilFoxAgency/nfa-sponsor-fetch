@@ -1,0 +1,849 @@
+[
+  {
+    "company_domain": "funtreks.com",
+    "company_name": "FunTreks Inc.",
+    "website": "https://www.funtreks.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "getchord.com",
+    "company_name": "Thomas Grapperon",
+    "website": "https://getchord.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "getprotego.app",
+    "company_name": "Edgar Sanchez",
+    "website": "https://getprotego.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "globetonic.com",
+    "company_name": "Globetonic LLC",
+    "website": "https://globetonic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@globetonic.com",
+        "confidence": "highest",
+        "source_url": "https://globetonic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@globetonic.com",
+        "confidence": "highest",
+        "source_url": "https://globetonic.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ded personal information, please contact us immediately at privacy@globetonic.com . Questions or Concerns? For privacy-related inquiries or t"
+      }
+    ],
+    "role_emails": [
+      "hello@globetonic.com",
+      "privacy@globetonic.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://globetonic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://globetonic.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Technology for tranquility. Your passport to a healthier, happier you.",
+    "source_urls": [
+      "https://globetonic.com",
+      "https://globetonic.com/",
+      "https://globetonic.com/terms",
+      "https://globetonic.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gocalcapp.com",
+    "company_name": "Apps On The Move Limited",
+    "website": "http://gocalcapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "goinc.jp",
+    "company_name": "GO Inc.",
+    "website": "https://go.goinc.jp/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "go-support@goinc.jp",
+        "confidence": "high",
+        "source_url": "https://go.goinc.jp/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "P\u30bf\u30ef\u30fc 23F GO\u682a\u5f0f\u4f1a\u793e\u30a2\u30d7\u30ea\u30b5\u30dd\u30fc\u30c8\u30c7\u30b9\u30af \u96fb\u8a71\u756a\u53f7 050-3183-1250 E-mail go-support@goinc.jp 10. \u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u306e\u5909\u66f4\u624b\u7d9a \u5f53\u793e\u306f\u3001\u5229\u7528\u8005\u60c5\u5831\u306e\u53d6\u6271\u3044\u306b\u95a2\u3059\u308b\u904b\u7528\u72b6\u6cc1\u3092\u9069\u5b9c\u898b\u76f4\u3057\u3001\u7d99\u7d9a\u7684\u306a\u6539\u5584\u306b"
+      }
+    ],
+    "role_emails": [
+      "go-support@goinc.jp"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://go.goinc.jp/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/area",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/service",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/gopay",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/en",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/ko",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/zh-hans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/zh-tw",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/business/?utm_source=self&utm_medium=go&utm_campaign=navigation2304",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/news/39",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/news/164",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/service#section1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/news/162",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/news/163",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/taxi-column",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/business?utm_source=self&utm_medium=go&utm_campaign=footer_banner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/travel-info",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/yakkan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/agreement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/tokushoho",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/gohaisha",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/promo_apply",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://go.goinc.jp/business/?utm_source=self&utm_medium=go&utm_campaign=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u300cGO\u300d\u306f\u30bf\u30af\u30b7\u30fc\u304c\u547c\u3079\u308b\u30a2\u30d7\u30ea\u3067\u3059\u3002\u4eca\u306a\u3089\u65b0\u898f\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3067500\u5186OFF\u30af\u30fc\u30dd\u30f3\u30d7\u30ec\u30bc\u30f3\u30c8\u4e2d\uff01\u300cJapanTaxi\u300d\u300cMOV\u300d\u306e\u304a\u5ba2\u69d8\u306f\u3001\u4eca\u5f8c\u300cGO\u300d\u3092\u3054\u5229\u7528\u304f\u3060\u3055\u3044\uff01",
+    "source_urls": [
+      "https://go.goinc.jp/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gps-laptimer.de",
+    "company_name": "Harald Schlangmann",
+    "website": "http://www.gps-laptimer.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hairoraaisty.com",
+    "company_name": "Shenzhen Wuhe Network Technology Co.Ltd",
+    "website": "https://zdei.hairoraaisty.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "harborviewimagingco.com",
+    "company_name": "Brian McCoy",
+    "website": "https://www.harborviewimagingco.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "health-is-in-your-hands.com",
+    "company_name": "Upper West Side Philosophers, Incorporated",
+    "website": "https://www.health-is-in-your-hands.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "healthychildren.org",
+    "company_name": "Self Care Decisions",
+    "website": "http://www.healthychildren.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hexler.net",
+    "company_name": "Hexler LLC",
+    "website": "https://hexler.net/touchosc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@hexler.net",
+        "confidence": "high",
+        "source_url": "https://hexler.net/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u793e \u3012135-0063 \u6771\u4eac\u90fd\u6c5f\u6771\u533a\u6709\u660e3-7-26 \u6709\u660e\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30d3\u30ebB\u68df9\u968e support@hexler.net By sending us this messag"
+      }
+    ],
+    "role_emails": [
+      "support@hexler.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hexler.net/touchosc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/support/manuals",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc-mk1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/manual/setup-traktor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/touchosc/manual",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hexler.net/pub/touchosc/touchosc-bridge-1.7.3.153-win32.exe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hexler.net/contact",
+        "action": "https://hexler.net/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We've listened for the past 10 years and we've re-written the application from the ground up - with speed,\n            features and usability in mind. A GPU-powered, fast and advanced integrated editor is part of\n            TouchOSC on all platforms - create the most complex of control layouts with",
+    "source_urls": [
+      "https://hexler.net/contact",
+      "https://hexler.net/pub/touchosc/touchosc-bridge-1.7.3.153-win32.exe"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
