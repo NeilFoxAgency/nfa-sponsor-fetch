@@ -1,0 +1,827 @@
+[
+  {
+    "company_domain": "applorium.com",
+    "company_name": "Applorium Ltd",
+    "website": "https://applorium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@applorium.com",
+        "confidence": "high",
+        "source_url": "https://applorium.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our request. Please contact the server administrator at admin@applorium.com to inform them of the time this error occurred, and the ac"
+      }
+    ],
+    "role_emails": [
+      "admin@applorium.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://applorium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://applorium.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://applorium.com",
+        "action": "https://formspree.io/f/movaqebk",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://applorium.com/contact",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://applorium.com/contact",
+        "action": "https://formspree.io/f/movaqebk",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Applorium Ltd is a London based app and web developer. Our apps have been downloaded by millions of users!",
+    "source_urls": [
+      "https://applorium.com/support",
+      "https://applorium.com/about",
+      "https://applorium.com/team",
+      "https://applorium.com/contact-us",
+      "https://applorium.com/contactus",
+      "https://applorium.com/about-us",
+      "https://applorium.com/our-team",
+      "https://applorium.com/meet-the-team",
+      "https://applorium.com/leadership",
+      "https://applorium.com/founders",
+      "https://applorium.com/people",
+      "https://applorium.com/staff",
+      "https://applorium.com/press",
+      "https://applorium.com/media",
+      "https://applorium.com/help",
+      "https://applorium.com/company",
+      "https://applorium.com/who-we-are",
+      "https://applorium.com/our-story",
+      "https://applorium.com/our-mission",
+      "https://applorium.com/get-in-touch",
+      "https://applorium.com/reach-us",
+      "https://applorium.com/enquiries",
+      "https://applorium.com/impressum",
+      "https://applorium.com/pages/contact",
+      "https://applorium.com/pages/contact-us"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 27
+  },
+  {
+    "company_domain": "appmosaic.com",
+    "company_name": "Guenter Wolf",
+    "website": "http://www.appmosaic.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ascendo.co",
+    "company_name": "Ascendo Inc.",
+    "website": "https://www.ascendo.co/iphone-ipad-ipod-password-manager",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "datavault@ascendo.co",
+        "confidence": "highest",
+        "source_url": "https://www.ascendo.co/datavault/iphone/FAQ.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "still having problems, please contact technical support at datavault@ascendo.co When I select Options > Synchronize > Wi-Fi on my iPhon"
+      },
+      {
+        "address": "info@ascendo.co",
+        "confidence": "highest",
+        "source_url": "https://www.ascendo.co/iphone-ipad-ipod-password-manager",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions? We would love to hear from you! Contact us by email info@ascendo.co , Twitter or Facebook Get peace of mind with the best p"
+      },
+      {
+        "address": "support@ascendo.co",
+        "confidence": "highest",
+        "source_url": "https://ascendo.co/support.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ve the problem. DataVault Password Manager support@ascendo.co VidaLingua Dictionaries support@vidalingua.com"
+      },
+      {
+        "address": "wallet_support@ascendo.co",
+        "confidence": "highest",
+        "source_url": "https://www.ascendo.co/datavault/iphone/user-guide.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "are still having problems synching please send an email to wallet_support@ascendo.co \u00a9 Ascendo info@"
+      },
+      {
+        "address": "info@ascendo-inc.com",
+        "confidence": "high",
+        "source_url": "https://ascendo.co/blackberry/password-manager.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "recommend@ascendo-inc.com",
+        "confidence": "high",
+        "source_url": "https://ascendo.co/blackberry/password-manager.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "datavault@ascendo.co",
+      "info@ascendo-inc.com",
+      "info@ascendo.co",
+      "recommend@ascendo-inc.com",
+      "support@ascendo.co",
+      "wallet_support@ascendo.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ascendo.co/iphone-ipad-ipod-password-manager",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/iphone-ipad-ipod-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/datavault/iphone/whats-new.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/datavault/iphone/reviews.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/datavault/iphone/FAQ.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/datavault/iphone/user-guide.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/iphone-ipad-ipod-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/mac-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/android-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/windows-password-manager.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/mac-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/windows-password-manager.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascendo.co/android-password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendo.co/blackberry/password-manager.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The best passsword manager for iPhone, iPad and iPod touch.",
+    "source_urls": [
+      "https://www.ascendo.co/iphone-ipad-ipod-password-manager",
+      "https://ascendo.co/support.html",
+      "https://ascendo.co",
+      "https://www.ascendo.co/iphone-ipad-ipod-password-manager.html",
+      "https://www.ascendo.co/datavault/iphone/whats-new.html",
+      "https://www.ascendo.co/datavault/iphone/reviews.html",
+      "https://www.ascendo.co/datavault/iphone/FAQ.html",
+      "https://www.ascendo.co/datavault/iphone/user-guide.html",
+      "https://ascendo.co/iphone-ipad-ipod-password-manager.html",
+      "https://ascendo.co/mac-password-manager.html",
+      "https://ascendo.co/android-password-manager.html",
+      "https://www.ascendo.co/mac-password-manager.html",
+      "https://www.ascendo.co/android-password-manager.html",
+      "https://ascendo.co/blackberry/password-manager.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 43,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "audiosymmetric.com",
+    "company_name": "Ryan Robinson",
+    "website": "http://www.audiosymmetric.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bibledrillandspeakers.com",
+    "company_name": "Georgia Baptist Bible Drill and Speakers, Inc.",
+    "website": "http://bibledrillandspeakers.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Maria Brannen",
+        "title": "President",
+        "email": "maria@bibledrillandspeakers.com",
+        "source_url": "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-team/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Maria Brannen",
+        "title": "President",
+        "email": "maria@bibledrillandspeakers.com",
+        "source_url": "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-team/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "maria@bibledrillandspeakers.com",
+        "confidence": "highest",
+        "source_url": "http://bibledrillandspeakers.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22",
+        "context_snippet": "(470) 650-8452 Email maria@bibledrillandspeakers.com Share this: Click to share on Faceb"
+      }
+    ],
+    "role_emails": [
+      "maria@bibledrillandspeakers.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://bibledrillandspeakers.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "http://bibledrillandspeakers.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-team/",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/contact/",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/general-bible-drill/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/childrens-bible-drill/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/youth-bible-drill/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/high-school-bible-drill/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/bible-drill-exhibition/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/student-speaker-competition/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/essay-contest/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/bonus-resources/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/resources/videos/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/georgia-bible-drill/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "http://bibledrillandspeakers.com/wp-content/uploads/2024/11/Bible-Drill-Fall-Newsletter-2-2.pdf",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/georgia-bible-drill/board-members/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-22"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-app-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/blog/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/donate/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/christ-connections-bible-skills-at-home-part-3/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/5-ways-to-pass-a-love-of-gods-word-to-the-next-generation/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/sharing-your-faith-through-writing/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      },
+      {
+        "url": "https://bibledrillandspeakers.com/georgia-bible-drill/newsletter/",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-21"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://bibledrillandspeakers.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bibledrillandspeakers.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u201cBible Drill helps me reaffirm my beliefs and reevaluate my relationship to God by making sure I am following Him in all aspects of my life.\u201d \u2013 Darren Li, First Chinese Baptist Church, Atlanta",
+    "source_urls": [
+      "http://bibledrillandspeakers.com",
+      "http://bibledrillandspeakers.com/contact",
+      "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-team/",
+      "https://bibledrillandspeakers.com/contact/",
+      "https://bibledrillandspeakers.com",
+      "https://bibledrillandspeakers.com/resources/general-bible-drill/",
+      "https://bibledrillandspeakers.com/resources/childrens-bible-drill/",
+      "https://bibledrillandspeakers.com/resources/youth-bible-drill/",
+      "https://bibledrillandspeakers.com/resources/high-school-bible-drill/",
+      "https://bibledrillandspeakers.com/resources/bible-drill-exhibition/",
+      "https://bibledrillandspeakers.com/resources/student-speaker-competition/",
+      "https://bibledrillandspeakers.com/essay-contest/",
+      "https://bibledrillandspeakers.com/bonus-resources/",
+      "https://bibledrillandspeakers.com/resources/videos/",
+      "https://bibledrillandspeakers.com/georgia-bible-drill/",
+      "https://bibledrillandspeakers.com/georgia-bible-drill/board-members/",
+      "https://bibledrillandspeakers.com/georgia-bible-drill/bible-drill-app-privacy-policy/",
+      "https://bibledrillandspeakers.com/blog/",
+      "https://bibledrillandspeakers.com/donate/",
+      "https://bibledrillandspeakers.com/christ-connections-bible-skills-at-home-part-3/",
+      "https://bibledrillandspeakers.com/5-ways-to-pass-a-love-of-gods-word-to-the-next-generation/",
+      "https://bibledrillandspeakers.com/sharing-your-faith-through-writing/",
+      "https://bibledrillandspeakers.com/georgia-bible-drill/newsletter/"
+    ],
+    "reason": null,
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bimmerrefs.com",
+    "company_name": "Manuel Rodriguez",
+    "website": "https://www.bimmerrefs.com/en",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bjqyhd.cc",
+    "company_name": "Beijing Quke Huyu Network Technology Co., Ltd",
+    "website": "https://xy.bjqyhd.cc",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "blackslawdictionary.com",
+    "company_name": "Thomson Reuters",
+    "website": "http://www.blackslawdictionary.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bluevoid.zone",
+    "company_name": "Bonomodo Ltd",
+    "website": "https://bluevoid.zone/apps/bluevoid",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bmfitt.com",
+    "company_name": "Private Label Skincare Market Evolution 2020\u20132026: Growth & Cost Analysis",
+    "website": "https://bmfitt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bombreport.com",
+    "company_name": "Rodan + Fields Expands Omnichannel Access to Dermatologist Skincare",
+    "website": "https://bombreport.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bossip.com",
+    "company_name": "Savannah James Enters The Skincare Scene With Her Bold New Brand: Reframe",
+    "website": "https://bossip.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
