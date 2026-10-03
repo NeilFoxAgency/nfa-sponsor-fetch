@@ -1,0 +1,709 @@
+[
+  {
+    "company_domain": "mealia.com",
+    "company_name": "Mealia Ltd.",
+    "website": "https://www.mealia.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@mealia.co.uk",
+        "confidence": "highest",
+        "source_url": "https://www.mealia.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@mealia.com",
+        "confidence": "highest",
+        "source_url": "https://www.mealia.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@mealia.com",
+        "confidence": "highest",
+        "source_url": "https://www.mealia.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21",
+        "context_snippet": "info@mealia.com Working Hours"
+      }
+    ],
+    "role_emails": [
+      "hello@mealia.co.uk",
+      "hello@mealia.com",
+      "info@mealia.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.mealia.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21"
+      },
+      {
+        "url": "https://www.mealia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/#features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/#benefits",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/meal-planning-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/best-meal-planning-app-uk-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/meal-planning-on-a-budget-uk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/family-meal-planning-app-uk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/reduce-weekly-food-shop-uk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/meal-planning-app-tesco",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/meal-planning-app-asda",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/mealia-vs-hellofresh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mealia.com/uk/guides/mealia-vs-gousto",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.mealia.com/contact",
+        "action": "/forms/contactpage.cshtml",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Mealia connects to your supermarket and builds your complete weekly grocery basket automatically from your meal plan. Works with Walmart and Kroger. Free 1-week trial.",
+    "source_urls": [
+      "https://www.mealia.com/",
+      "https://www.mealia.com/contact",
+      "https://www.mealia.com/about",
+      "https://www.mealia.com/#faq",
+      "https://www.mealia.com/#features",
+      "https://www.mealia.com/#benefits",
+      "https://www.mealia.com/uk/meal-planning-guides",
+      "https://www.mealia.com/uk/guides/best-meal-planning-app-uk-2026",
+      "https://www.mealia.com/uk/guides/meal-planning-on-a-budget-uk",
+      "https://www.mealia.com/uk/guides/family-meal-planning-app-uk",
+      "https://www.mealia.com/uk/guides/reduce-weekly-food-shop-uk",
+      "https://www.mealia.com/uk/guides/meal-planning-app-tesco",
+      "https://www.mealia.com/uk/guides/meal-planning-app-asda",
+      "https://www.mealia.com/uk/guides/mealia-vs-hellofresh",
+      "https://www.mealia.com/uk/guides/mealia-vs-gousto"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "midcosports.com",
+    "company_name": "Midcontinent Communications",
+    "website": "https://www.MidcoSports.com/streaming",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mygoaliestats.app",
+    "company_name": "Flag & Torch LLC",
+    "website": "https://www.mygoaliestats.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "neueschool.com",
+    "company_name": "Neue School Creative L.L.C.",
+    "website": "https://neueschool.com/measurelog/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email measurelog@neueschool.com",
+        "title": null,
+        "email": "measurelog@neueschool.com",
+        "source_url": "https://neueschool.com/measurelog/support"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email measurelog@neueschool.com",
+        "title": null,
+        "email": "measurelog@neueschool.com",
+        "source_url": "https://neueschool.com/measurelog/support"
+      }
+    ],
+    "emails": [
+      {
+        "address": "measurelog@neueschool.com",
+        "confidence": "highest",
+        "source_url": "https://neueschool.com/measurelog/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "saved. \u00a9 2026 Neue School Support Terms Privacy measurelog@neueschool.com"
+      }
+    ],
+    "role_emails": [
+      "measurelog@neueschool.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://neueschool.com/measurelog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neueschool.com/measurelog/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neueschool.com/measurelog/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neueschool.com/measurelog/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neueschool.com/measurelog/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Measure with your iPhone camera, a ruler and a level, then keep every size, photo and note in one organized log.",
+    "source_urls": [
+      "https://neueschool.com/measurelog/",
+      "https://neueschool.com/measurelog/support",
+      "https://neueschool.com/measurelog/support/",
+      "https://neueschool.com/measurelog/privacy/",
+      "https://neueschool.com/measurelog/terms/"
+    ],
+    "reason": null,
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "norcalpremier.com",
+    "company_name": "NorCal Premier Soccer",
+    "website": "https://norcalpremier.com/norcal-app/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "norwegian4x4.com",
+    "company_name": "Nikita Yampolski",
+    "website": "https://norwegian4x4.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "operagx.gg",
+    "company_name": "operagx.gg",
+    "website": "https://operagx.gg",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Opera GX is the browser built specifically for gamers. Get unparalleled gaming and browsing features, packed in a powerful revolutionary browser.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "optimumangle.com",
+    "company_name": "John Dickinson",
+    "website": "https://optimumangle.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "peakviewsoftware.com",
+    "company_name": "Peakview Software LLC",
+    "website": "http://www.peakviewsoftware.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@peakviewsoftware.com",
+        "confidence": "highest",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@peakviewsoftware.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.mobile@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "covele@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "crafting.mobile@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "crafting@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "crafting_mobile@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craftingm@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.covele@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.covele@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_covele@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnc@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Covele",
+        "person_title": "Owner",
+        "source_url": "http://www.peakviewsoftware.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobile@peakviewsoftware.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Crafting Great Mobile",
+        "person_title": "Founder",
+        "source_url": "http://www.peakviewsoftware.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.peakviewsoftware.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.peakviewsoftware.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.peakviewsoftware.com/custom-software.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.peakviewsoftware.com/index-products.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.peakviewsoftware.com/portfolio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hi, I'm John Covele , the primary creator and developer behind Peakview Software. I have a passion for elegant, reliable, easy-to-use mobile apps. I build both custom software solutions for others, and have several commercial products of my own on the App Store. See the App Store Products button for",
+    "source_urls": [
+      "http://www.peakviewsoftware.com",
+      "http://www.peakviewsoftware.com/about",
+      "http://www.peakviewsoftware.com/custom-software.html",
+      "http://www.peakviewsoftware.com/index-products.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "precisionstriking.com",
+    "company_name": "Jason Van Veldhuysen",
+    "website": "http://www.precisionstriking.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "realbodywork.com",
+    "company_name": "Real Bodywork",
+    "website": "http://www.realbodywork.com/mobile-apps/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "email@realbodywork.com",
+        "confidence": "high",
+        "source_url": "http://realbodywork.com/mobile-apps/",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-11",
+        "context_snippet": "a message 805 898-1539 We prefer you contact us by email email@realbodywork.com Product Categories Massage Cream Massage DVDs Massa"
+      }
+    ],
+    "role_emails": [
+      "email@realbodywork.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bodywork@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      },
+      {
+        "address": "r.bodywork@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      },
+      {
+        "address": "real.bodywork@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      },
+      {
+        "address": "real@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      },
+      {
+        "address": "real_bodywork@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      },
+      {
+        "address": "realb@realbodywork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Real Bodywork",
+        "person_title": "Founder",
+        "source_url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://realbodywork.com/mobile-apps/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-11"
+      },
+      {
+        "url": "https://www.realbodywork.com/online-classes/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "url": "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-18"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Muscle Trigger Point anatomy, Learn Muscles, Massage techniques, Anatomy quiz pro, Skeletal Anatomy and more. For both iPhone and android.",
+    "source_urls": [
+      "http://realbodywork.com/mobile-apps/",
+      "https://www.realbodywork.com/online-classes/",
+      "https://www.realbodywork.com/course/lymphatic-drainage-massage-online-class/"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 56
+  },
+  {
+    "company_domain": "reporter-app.com",
+    "company_name": "ReporterApp Inc",
+    "website": "http://reporter-app.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "nicholas@reporter-app.com",
+        "confidence": "highest",
+        "source_url": "http://reporter-app.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "nicholas@reporter-app.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://reporter-app.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "http://reporter-app.com/privacy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
