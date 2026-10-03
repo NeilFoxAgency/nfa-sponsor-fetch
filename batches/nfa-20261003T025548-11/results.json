@@ -1,0 +1,2235 @@
+[
+  {
+    "company_domain": "appdicted.com",
+    "company_name": "Appdicted LLC",
+    "website": "http://www.appdicted.com/app/santa-hat/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "audiojoinermix.com",
+    "company_name": "Chengdu Moqi Yungou Technology Co., Ltd.",
+    "website": "http://audiojoinermix.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "babyformulacalculator.com",
+    "company_name": "Casey Davis",
+    "website": "https://babyformulacalculator.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bandcamp.com",
+    "company_name": "Bandcamp Ventures, LLC",
+    "website": "http://bandcamp.com/artists",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "copyright@bandcamp.com",
+        "confidence": "highest",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fication of Claimed Infringement at the following address: copyright@bandcamp.com , or by mail at: DMCA Complaints Bandcamp Ventures 8605"
+      },
+      {
+        "address": "press@bandcamp.com",
+        "confidence": "highest",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ng services]. Please direct press inquiries to press@bandcamp.com General support messages sent to this address will not re"
+      },
+      {
+        "address": "support@bandcamp.com",
+        "confidence": "highest",
+        "source_url": "https://bandcamp.com/privacy?from=footer",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s to your Personal Data, please send a detailed message to support@bandcamp.com . Please specify the subject of your request on the subject"
+      },
+      {
+        "address": "terms@bandcamp.com",
+        "confidence": "high",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ou have a right to complain to us by submitting an email to terms@bandcamp.com. Your email will then be reviewed by our in-house counsel a"
+      }
+    ],
+    "role_emails": [
+      "copyright@bandcamp.com",
+      "press@bandcamp.com",
+      "support@bandcamp.com",
+      "terms@bandcamp.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.subscription@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agent@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anderson@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artist.subscription@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artist@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artist_subscription@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artists@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "content@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Content",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "court@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.agent@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.content@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Content",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.licensed@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.transactions@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated.agent@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated_agent@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designateda@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.content@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Content",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.transactions@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_content@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Content",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_transactions@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Content",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalt@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "direct.licensed@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "direct@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "direct_licensed@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "directl@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.court@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federal.court@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federal@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federal_court@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federalc@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federal Court",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/copyright?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.anderson@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg.anderson@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg_anderson@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grega@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Anderson",
+        "person_title": "Co-Founder",
+        "source_url": "http://bandcamp.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "licensed@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Direct Licensed",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.works@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musical.works@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musical@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musical_works@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musicalw@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.share@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "publishing.share@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "publishing@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "publishing_share@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "publishings@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.artist@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Represented Artist",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "represented.artist@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Represented Artist",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "represented@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Represented Artist",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "represented_artist@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Represented Artist",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "representeda@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Represented Artist",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "share@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Publishing Share",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "states@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "subscription@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artist Subscription",
+        "person_title": "Owner",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transactions@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transactions",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.states@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united.states@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united_states@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uniteds@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "works@bandcamp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musical Works",
+        "person_title": "Cmo",
+        "source_url": "https://bandcamp.com/terms_of_use?from=footer",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://bandcamp.com/artists",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/about_clubs?from=menubar&ui_context=subnav",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bandcamp.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bandcamp.com/about_livestreams",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bandcamp.com/about_listening_parties",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/about?from=footer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/about?from=footer#press",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/?from=menubar&ui_context=logo",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/login?from=menubar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/gift_cards?from=menubar&ui_context=subnav",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/radio?from=menubar&ui_context=subnav",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bandcamp.com/guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bandcamp.com/pro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/buttons?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/gift_cards?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/fair_trade_music_policy?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/copyright?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/privacy?from=footer",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/terms_of_use?from=footer",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/artists?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/fans?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/labels?from=footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandcamp.com/?from=footer&ui_context=logo",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bandcamp.com/gift_cards?from=menubar&ui_context=subnav",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandcamp.com/gift_cards?from=footer",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bandcamp connects you to a massive community of vinyl collectors, tapeheads, digital audiophiles, and people who just want to support their favorite artists.",
+    "source_urls": [
+      "http://bandcamp.com/about",
+      "https://bandcamp.com/about?from=footer",
+      "https://bandcamp.com/about?from=footer#press",
+      "https://bandcamp.com/copyright?from=footer",
+      "https://bandcamp.com/privacy?from=footer",
+      "https://bandcamp.com/terms_of_use?from=footer"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rootrisetech.com",
+    "company_name": "RootRise Technologies Private Limited",
+    "website": "http://rootrisetech.com/product/wpd-reader",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@rootrisetech.com",
+        "confidence": "highest",
+        "source_url": "http://rootrisetech.com/support/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nearest possible terms. You can also e-mail us directly at support@rootrisetech.com Send us a Message Name Email Product Select a product\u2026 Arch"
+      }
+    ],
+    "role_emails": [
+      "support@rootrisetech.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "g.o@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gar.o@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gar@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gar_o@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garo@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Logy R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "logy.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Logy R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "logy@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Logy R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "logy_r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Logy R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "logyr@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Logy R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.p@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more.p@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "more_p@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morep@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "gar O.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "More P.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professor.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professor@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professor_r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professorr@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RWA R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professor R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rwa.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RWA R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rwa@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RWA R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rwa_r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RWA R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rwar@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RWA R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/wpd-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_r@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisr@rootrisetech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This R.",
+        "person_title": null,
+        "source_url": "http://rootrisetech.com/products/document-converter/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://rootrisetech.com/product/wpd-reader",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/company/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/wpd-converter/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/document-converter/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/privacy/wpd-reader/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=Productivity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=Reader",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=Converter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=PDF+Creator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=Photos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/products/?category=Utility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://rootrisetech.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://rootrisetech.com/support/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Open, view, search, print, and convert Corel WordPerfect (.wpd) files to PDF on Mac and iOS. Secure, fast, offline legacy document reader \u2014 no Windows required.",
+    "source_urls": [
+      "http://rootrisetech.com/product/wpd-reader",
+      "http://rootrisetech.com/company/",
+      "http://rootrisetech.com/support/",
+      "http://rootrisetech.com/",
+      "http://rootrisetech.com/products/wpd-converter/",
+      "http://rootrisetech.com/products/document-converter/",
+      "http://rootrisetech.com/products/",
+      "http://rootrisetech.com/privacy/wpd-reader/",
+      "http://rootrisetech.com/products/?category=Productivity",
+      "http://rootrisetech.com/products/?category=Reader",
+      "http://rootrisetech.com/products/?category=Converter",
+      "http://rootrisetech.com/products/?category=PDF+Creator",
+      "http://rootrisetech.com/products/?category=Photos",
+      "http://rootrisetech.com/products/?category=Utility",
+      "http://rootrisetech.com/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sowebmail.com",
+    "company_name": "LAXMAN KATTIKAR",
+    "website": "https://sowebmail.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "surepalmbp.com",
+    "company_name": "MINER (HK) CO., LIMITED",
+    "website": "https://cdao.surepalmbp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "targetdetect.com",
+    "company_name": "Pacific Northwest Software",
+    "website": "https://targetdetect.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "venturaes.com",
+    "company_name": "Ventura Educational Systems",
+    "website": "http://www.venturaes.com/iosapps/football_scoreboard.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "fred@venturaes.com",
+        "confidence": "high",
+        "source_url": "https://venturaes.com/workshops",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@venturaes.com",
+        "confidence": "high",
+        "source_url": "https://venturaes.com/iosapps/termsofservice.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "fred@venturaes.com",
+      "sales@venturaes.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://venturaes.com/iosapps/termsofservice.html",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://venturaes.com/workshops",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://venturaes.com",
+        "page_type": "home",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Football Scoreboard is a simulation of a simplified scoreboard typically found at community football fields. The app is useful in any situation where it is necessary to keep an accurate score for a football game.",
+    "source_urls": [
+      "https://venturaes.com/iosapps/termsofservice.html",
+      "https://venturaes.com/workshops",
+      "https://venturaes.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "windscribe.com",
+    "company_name": "Windscribe Limited",
+    "website": "https://windscribe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@windscribe.com",
+        "confidence": "high",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@windscribe.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.moses@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akpokabayen.moses@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akpokabayen@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akpokabayen_moses@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akpokabayenm@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moses@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akpokabayen Moses",
+        "person_title": null,
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sak@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.sak@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yegor.sak@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yegor@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yegor_sak@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yegors@windscribe.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yegor Sak",
+        "person_title": "Founder",
+        "source_url": "https://windscribe.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://windscribe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/knowledge-base/articles/what-routers-are-supported-by-windscribe",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/upgrade?_lang=eng",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/login",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-04"
+      },
+      {
+        "url": "https://windscribe.com/ethics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/transparency",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/knowledge-base/articles/has-windscribe-been-audited",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/blog/windscribe-greek-court-case/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/vpn-service/travel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/vpn-service/hotels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/vpn-service/online-shopping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/features/windows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/features/macos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/features/linux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/install/mobile/android",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/install/mobile/ios",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/install/extension/chrome",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/install/extension/firefox",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://windscribe.com/install/extension/edge",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Protect your privacy, stream global content, and mask your location with the best VPN service. Enjoy fast speeds and servers in over 130 locations.",
+    "source_urls": [
+      "https://windscribe.com",
+      "https://windscribe.com/media",
+      "https://windscribe.com/",
+      "https://windscribe.com/ethics"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "wood40202.com",
+    "company_name": "Wood40202 LLC",
+    "website": "http://www.wood40202.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.wood40202.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.wood40202.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.wood40202.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get to know me!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "zifigo.com",
+    "company_name": "Zifigo",
+    "website": "http://www.zifigo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@zifigo.com",
+        "confidence": "highest",
+        "source_url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@zifigo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.zifigo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/667",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/279",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/686",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/300",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/661",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/5",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/9",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/668",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/688",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zifigo.com/node/686",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/685",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/684",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/683",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/682",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zifigo.com/node/673#racecontrol",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/680",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zifigo.com/node/673#maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/679",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/675",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com/node/672",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=0",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=1",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=2",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=3",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=4",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=5",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=6",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=7",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=8",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=10",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This is a stand alone Watch App, especially targeting Dinghy and small boat sailors. With the new Apple Watch Ultra, we finally have a device that can have the GPS running for a full day of racing, and with the new Action button, the app can also be operated while the \"Water Lock\" is active.",
+    "source_urls": [
+      "http://www.zifigo.com/node/300",
+      "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=1",
+      "http://www.zifigo.com?destination=/&_exception_statuscode=404&page=3"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 59,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
