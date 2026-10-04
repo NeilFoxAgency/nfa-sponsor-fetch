@@ -1,0 +1,569 @@
+[
+  {
+    "company_domain": "getananda.com",
+    "company_name": "Manuel Loigeret",
+    "website": "https://getananda.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gigsmart.com",
+    "company_name": "GigSmart Inc",
+    "website": "https://gigsmart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@gigsmart.com",
+        "confidence": "highest",
+        "source_url": "https://gigsmart.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05",
+        "context_snippet": "now how we can help. FPO GET IN TOUCH: 720-828-7720 hello@gigsmart.com 999 18th St Denver, Colorado 80202, US Quick Lin"
+      },
+      {
+        "address": "support@gigsmart.com",
+        "confidence": "highest",
+        "source_url": "https://gigsmart.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-15",
+        "context_snippet": "FPO CONTACT US 720-828-7720 support@gigsmart.com 999 18th St, Suite 1750S Denver, Colorado 80202, U"
+      }
+    ],
+    "role_emails": [
+      "hello@gigsmart.com",
+      "support@gigsmart.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gigsmart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05"
+      },
+      {
+        "url": "https://gigsmart.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-15"
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/shift-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/work",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/homeowner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/smart-hire",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/messaging",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/trust-and-safety",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/warehouse-manufacturing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/hospitality",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/stadiums-large-events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/transportation-logistics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/restoration-construction-landscaping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/facility-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/food-beverage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/retail",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/business/g-flex/senior-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/legal/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/privacy/?&",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/legal/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/glossary/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsmart.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover GigSmart, the platform that connects businesses with flexible workers. Sign up to streamline hiring and find reliable help for your projects.",
+    "source_urls": [
+      "https://gigsmart.com/contact",
+      "https://gigsmart.com/about-us",
+      "https://gigsmart.com/business/g-flex/payments",
+      "https://gigsmart.com/privacy/?&",
+      "https://gigsmart.com/legal/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "golffix.io",
+    "company_name": "MOAIS, Inc.",
+    "website": "https://www.golffix.io/en/golffix",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gosoftworks.com",
+    "company_name": "GoSoftWorks Development Co.",
+    "website": "http://www.gosoftworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "gosatwatch_support@gosoftworks.com",
+        "confidence": "high",
+        "source_url": "https://gosoftworks.com/apps/gosatwatch/support",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@gosoftworks.com",
+        "confidence": "high",
+        "source_url": "https://gosoftworks.com/apps/about-us",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@gosoftworks.com",
+        "confidence": "high",
+        "source_url": "https://gosoftworks.com/apps/gosunwatch/support",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "gosatwatch_support@gosoftworks.com",
+      "info@gosoftworks.com",
+      "support@gosoftworks.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gosoftworks.com/apps/about-us",
+        "page_type": "about",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gosoftworks.com/apps/gosunwatch/support",
+        "page_type": "support",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gosoftworks.com/apps/gosatwatch/support",
+        "page_type": "support",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://gosoftworks.com/apps/about-us",
+      "https://gosoftworks.com/apps/gosunwatch/support",
+      "https://gosoftworks.com/apps/gosatwatch/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "hejluxom.com",
+    "company_name": "LASZLO DOBROVOLSZKI",
+    "website": "https://hejluxom.com/abdctn/index.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hiconsumption.com",
+    "company_name": "The 15 Boutique Outdoor Brands You Should Know",
+    "website": "https://hiconsumption.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hiddenlemur.com",
+    "company_name": "Sustainable Brands with the Best Camping Gear (2021)- Hidden Lemur",
+    "website": "https://hiddenlemur.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hiddenlemur.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are a global marketing agency helping sustainable businesses grow. We do this through meaningful strategies, smart campaigns, powerful communications, and",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 3
+  },
+  {
+    "company_domain": "highqualityblog.com",
+    "company_name": "Reddit Picked the 25 Best Camping Tents. Here\u2019s What the Data Actually Shows",
+    "website": "https://highqualityblog.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "jogaeapp.com.br",
+    "company_name": "Andre Loureiro",
+    "website": "https://jogaeapp.com.br",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jumpchasegames.com",
+    "company_name": "Interactive Innovative Solutions LLC",
+    "website": "https://www.jumpchasegames.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "langlang.love",
+    "company_name": "MetaG Inc.",
+    "website": "https://langlang.love/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "opensend.cc",
+    "company_name": "Opensend Cc",
+    "website": "https://opensend.cc/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://opensend.cc/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/#inside",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/#self-host",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/docs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/sponsors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/changelog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/docs/self-host-in-10-minutes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/waitlist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/sponsors#spots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/sponsors/checkout/gold",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/license",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensend.cc/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Open source email API you run yourself. Resend-compatible REST and SMTP, React templates and webhooks on Next.js, Convex, Better Auth and AWS SES.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 43,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
