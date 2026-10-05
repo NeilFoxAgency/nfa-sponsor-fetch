@@ -1,0 +1,1801 @@
+[
+  {
+    "company_domain": "opensupport.com",
+    "company_name": "OPENSUPPORT",
+    "website": "https://opensupport.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@opensupport.com",
+        "confidence": "high",
+        "source_url": "https://opensupport.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Contact Us SALES Sales@OpenSupport.com Toll-Free: 855.OPEN.SUP / 855.673.6787 (Option 1) Intern"
+      },
+      {
+        "address": "support@opensupport.com",
+        "confidence": "high",
+        "source_url": "https://opensupport.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rnational: +1.510.995.0400 (Option 1) TECHNICAL SUPPORT Support@OpenSupport.com Toll-Free: 855.OPEN.SUP (Option 2) International: +1.781.24"
+      },
+      {
+        "address": "support@opensupport.comtoll",
+        "confidence": "high",
+        "source_url": "https://opensupport.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@opensupport.com",
+      "support@opensupport.com",
+      "support@opensupport.comtoll"
+    ],
+    "email_candidates": [
+      {
+        "address": "license@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.license@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "use.license@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "use@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "use_license@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "usel@opensupport.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Use License",
+        "person_title": "Owner",
+        "source_url": "https://opensupport.com/pages/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://opensupport.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/storage-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/server-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/data-center-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/partners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/why-opensuppot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/customer_authentication/redirect?locale=en&region_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/pages/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opensupport.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://opensupport.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your Entire Data Center & Cloud Infrastructure: One Support Contract.",
+    "source_urls": [
+      "https://opensupport.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "opumo.com",
+    "company_name": "The best independent watch brands for men in 2026 | OPUMO Magazine",
+    "website": "https://opumo.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "outrageousintrovert.com",
+    "company_name": "OUTRAGEOUS INTROVERT",
+    "website": "https://outrageousintrovert.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@outrageousintrovert.com",
+        "confidence": "highest",
+        "source_url": "https://outrageousintrovert.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ge, returns stay open for 14 days, and anything you email support@outrageousintrovert.com comes straight to Piper. Shop All Read the FAQ Join the c"
+      }
+    ],
+    "role_emails": [
+      "support@outrageousintrovert.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "our@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.our@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorry.our@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorry@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorry_our@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorryo@outrageousintrovert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorry About Our",
+        "person_title": "President",
+        "source_url": "https://outrageousintrovert.com/shop/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://outrageousintrovert.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/on-sale/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/fighting-fascism/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/all-pride-no-prejudice/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/sunshine-snark/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/hotflash-fash/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/cottage-core/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/woo-woo-inspired/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/collections/y2k/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/shut-your-whore-mouth-ceramic-mug/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/you-can-do-great-things-be-your-bitch-self-mug-brown-skin-tone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/you-can-do-great-things-be-your-bitch-self-mug-light-skin-tone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/hot-flash-loading-tee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/fuck-trump-skeleton-candy-corn-tee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/fuck-trump-skeleton-halloween-tee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/fauci-varsity-lettering-tee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/products/noble-country-garden-center-tee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/shipping-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/refund-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/terms-and-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/cookie-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outrageousintrovert.com/accessibility-statement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Independent statement graphic tees for the quietly bold: political protest shirts, LGBTQ+ pride apparel and sarcastic humor tees. 10% of profits donated.",
+    "source_urls": [
+      "https://outrageousintrovert.com",
+      "https://outrageousintrovert.com/about",
+      "https://outrageousintrovert.com/about/",
+      "https://outrageousintrovert.com/",
+      "https://outrageousintrovert.com/shop/",
+      "https://outrageousintrovert.com/collections/accessories/",
+      "https://outrageousintrovert.com/collections/on-sale/",
+      "https://outrageousintrovert.com/blog/",
+      "https://outrageousintrovert.com/collections/fighting-fascism/",
+      "https://outrageousintrovert.com/collections/all-pride-no-prejudice/",
+      "https://outrageousintrovert.com/collections/sunshine-snark/",
+      "https://outrageousintrovert.com/collections/hotflash-fash/",
+      "https://outrageousintrovert.com/collections/cottage-core/",
+      "https://outrageousintrovert.com/collections/woo-woo-inspired/",
+      "https://outrageousintrovert.com/collections/y2k/",
+      "https://outrageousintrovert.com/products/shut-your-whore-mouth-ceramic-mug/",
+      "https://outrageousintrovert.com/products/you-can-do-great-things-be-your-bitch-self-mug-brown-skin-tone/",
+      "https://outrageousintrovert.com/products/you-can-do-great-things-be-your-bitch-self-mug-light-skin-tone/",
+      "https://outrageousintrovert.com/products/hot-flash-loading-tee/",
+      "https://outrageousintrovert.com/products/fuck-trump-skeleton-candy-corn-tee/",
+      "https://outrageousintrovert.com/products/fuck-trump-skeleton-halloween-tee/",
+      "https://outrageousintrovert.com/products/fauci-varsity-lettering-tee/",
+      "https://outrageousintrovert.com/products/noble-country-garden-center-tee/",
+      "https://outrageousintrovert.com/faq/",
+      "https://outrageousintrovert.com/shipping-policy/",
+      "https://outrageousintrovert.com/refund-policy/",
+      "https://outrageousintrovert.com/privacy-policy/",
+      "https://outrageousintrovert.com/terms-and-conditions/",
+      "https://outrageousintrovert.com/cookie-policy/",
+      "https://outrageousintrovert.com/accessibility-statement/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 56,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pawcedar.com",
+    "company_name": "PAWCEDAR",
+    "website": "https://pawcedar.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "playnice.co",
+    "company_name": "PLAY NICE",
+    "website": "https://playnice.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "perry@playnice.co",
+        "confidence": "highest",
+        "source_url": "https://playnice.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "perry@playnice.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://playnice.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/SK8",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/Shot-on-iPhone",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/Vertical",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/VIDEO",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/PHOTO",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnice.co/Eventually",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A New York City Based Media Production Company Specializing in Film, Photo, Graphics & Web Development.",
+    "source_urls": [
+      "https://playnice.co",
+      "https://playnice.co/contact",
+      "https://playnice.co/about",
+      "https://playnice.co/SK8",
+      "https://playnice.co/Shot-on-iPhone",
+      "https://playnice.co/Vertical",
+      "https://playnice.co/VIDEO",
+      "https://playnice.co/PHOTO",
+      "https://playnice.co/Eventually"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rankred.com",
+    "company_name": "17 Top Swiss Watch Brands [As of 2026]",
+    "website": "https://rankred.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "reforception.com",
+    "company_name": "REFORCEPTION",
+    "website": "https://reforception.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://reforception.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/platform",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reforception.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Reforming Perception. Reforception brings models, agents, tools, repositories, notes, and connected compute into one controlled AI workspace.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "reformintelligence.com",
+    "company_name": "REFORM INTELLIGENCE",
+    "website": "https://reformintelligence.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@reformintelligence.com",
+        "confidence": "highest",
+        "source_url": "https://reformintelligence.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "telligence AI, Inc. A Delaware public benefit corporation. contact@reformintelligence.com LinkedIn Navigate Home What We Do Who We Serve Insights Ab"
+      }
+    ],
+    "role_emails": [
+      "contact@reformintelligence.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "intelligence@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.intelligence@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reform.intelligence@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reform@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reform_intelligence@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reformi@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reform Intelligence",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.reform@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Reform",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.reform@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Reform",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Reform",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_reform@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Reform",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ther@reformintelligence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Reform",
+        "person_title": "Founder",
+        "source_url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://reformintelligence.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/what-we-do",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/who-we-serve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/insights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/insights/ai-governance-manifesto",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reformintelligence.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://reformintelligence.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Reform Intelligence builds the independent evaluation and governance infrastructure the world needs to trust artificial intelligence.",
+    "source_urls": [
+      "https://reformintelligence.com",
+      "https://reformintelligence.com/contact",
+      "https://reformintelligence.com/support",
+      "https://reformintelligence.com/about",
+      "https://reformintelligence.com/team",
+      "https://reformintelligence.com/contact-us",
+      "https://reformintelligence.com/contactus",
+      "https://reformintelligence.com/about-us",
+      "https://reformintelligence.com/our-team",
+      "https://reformintelligence.com/meet-the-team",
+      "https://reformintelligence.com/leadership",
+      "https://reformintelligence.com/founders",
+      "https://reformintelligence.com/people",
+      "https://reformintelligence.com/staff",
+      "https://reformintelligence.com/press",
+      "https://reformintelligence.com/media",
+      "https://reformintelligence.com/help",
+      "https://reformintelligence.com/company",
+      "https://reformintelligence.com/who-we-are",
+      "https://reformintelligence.com/our-story",
+      "https://reformintelligence.com/our-mission",
+      "https://reformintelligence.com/get-in-touch",
+      "https://reformintelligence.com/reach-us",
+      "https://reformintelligence.com/enquiries",
+      "https://reformintelligence.com/impressum",
+      "https://reformintelligence.com/pages/contact",
+      "https://reformintelligence.com/pages/contact-us",
+      "https://reformintelligence.com/support/contact",
+      "https://reformintelligence.com/",
+      "https://reformintelligence.com/what-we-do",
+      "https://reformintelligence.com/who-we-serve",
+      "https://reformintelligence.com/insights",
+      "https://reformintelligence.com/insights/ai-governance-manifesto",
+      "https://reformintelligence.com/privacy",
+      "https://reformintelligence.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rocketbox.co",
+    "company_name": "ROCKETBOX",
+    "website": "https://rocketbox.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rocketbox.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/legal/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/legal/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rocketbox.co/legal/cookies",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rocketbox is a self-hosted software forge: git hosting, a work graph, and first-class AI-agent coordination in one platform, with its own identity provider.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rootboard.com",
+    "company_name": "ROOTBOARD",
+    "website": "https://rootboard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "charles@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.charles@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "switched.charles@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "switched@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "switched_charles@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "switchedc@rootboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Switched Source Charles",
+        "person_title": "Ceo",
+        "source_url": "https://rootboard.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rootboard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/worldnews/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/climate/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/business/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/finance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/education/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootboard.com/employment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "technology news, robotics, AI, software, cloud systems, satellites, automation, devices, solar technology, hosting, networks, cybersecurity, digital tools and innovation coverage.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "shopperiod.com",
+    "company_name": "PERIOD.",
+    "website": "https://shopperiod.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopperiod.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shopperiod.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "shopperiod.com is for sale on Spaceship. Secure checkout and quick transfer. See all purchase options. No hidden fees.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "simplesentinel.com",
+    "company_name": "SIMPLESENTINEL",
+    "website": "https://simplesentinel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@simplesentinel.com",
+        "confidence": "high",
+        "source_url": "https://simplesentinel.com/about/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@simplesentinel.com",
+        "confidence": "high",
+        "source_url": "https://simplesentinel.com/legal",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "no-reply@simplesentinel.com",
+        "confidence": "high",
+        "source_url": "https://simplesentinel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@simplesentinel.com",
+        "confidence": "high",
+        "source_url": "https://simplesentinel.com/legal",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@simplesentinel.com",
+      "legal@simplesentinel.com",
+      "no-reply@simplesentinel.com",
+      "privacy@simplesentinel.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://simplesentinel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/about/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://simplesentinel.com/coming-soon",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Parent at a higher level with iPhone & iPad parental controls, task management, and innovational tools never before seen in one app!",
+    "source_urls": [
+      "https://simplesentinel.com",
+      "https://simplesentinel.com/contact",
+      "https://simplesentinel.com/support",
+      "https://simplesentinel.com/about",
+      "https://simplesentinel.com/team",
+      "https://simplesentinel.com/contact-us",
+      "https://simplesentinel.com/contactus",
+      "https://simplesentinel.com/about-us",
+      "https://simplesentinel.com/our-team",
+      "https://simplesentinel.com/meet-the-team",
+      "https://simplesentinel.com/leadership",
+      "https://simplesentinel.com/founders",
+      "https://simplesentinel.com/people",
+      "https://simplesentinel.com/staff",
+      "https://simplesentinel.com/press",
+      "https://simplesentinel.com/media",
+      "https://simplesentinel.com/help",
+      "https://simplesentinel.com/company",
+      "https://simplesentinel.com/who-we-are",
+      "https://simplesentinel.com/our-story",
+      "https://simplesentinel.com/our-mission",
+      "https://simplesentinel.com/get-in-touch",
+      "https://simplesentinel.com/reach-us",
+      "https://simplesentinel.com/enquiries",
+      "https://simplesentinel.com/impressum",
+      "https://simplesentinel.com/pages/contact",
+      "https://simplesentinel.com/pages/contact-us",
+      "https://simplesentinel.com/support/contact",
+      "https://simplesentinel.com/about/contact-us",
+      "https://simplesentinel.com/home",
+      "https://simplesentinel.com/legal",
+      "https://simplesentinel.com/coming-soon"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
