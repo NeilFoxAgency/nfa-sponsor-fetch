@@ -1,0 +1,929 @@
+[
+  {
+    "company_domain": "1011now.com",
+    "company_name": "Gray Television Group, Inc.",
+    "website": "https://www.1011now.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "adva-soft.com",
+    "company_name": "ADVA Soft GmbH",
+    "website": "https://adva-soft.com/app-pageTouch.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jobs@adva-soft.com",
+        "confidence": "highest",
+        "source_url": "https://adva-soft.com/aboutUs.html",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-22",
+        "context_snippet": "feel free to send your CV to: jobs@adva-soft.com"
+      },
+      {
+        "address": "support@adva-soft.com",
+        "confidence": "highest",
+        "source_url": "https://adva-soft.com/app-pageTouch.html",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-31",
+        "context_snippet": "MAC APPS TouchRetouch support About Us support@adva-soft.com Scherenbergstra\u00dfe 8, 10439 Berlin Germany"
+      }
+    ],
+    "role_emails": [
+      "jobs@adva-soft.com",
+      "support@adva-soft.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adva-soft.com/app-pageTouch.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-31"
+      },
+      {
+        "url": "https://adva-soft.com/support.html",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-19"
+      },
+      {
+        "url": "https://adva-soft.com/aboutUs.html",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-22"
+      },
+      {
+        "url": "https://adva-soft.com/support.html#tutorials",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-19"
+      },
+      {
+        "url": "https://adva-soft.com/press-room.html#mediaCoverage",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-19"
+      },
+      {
+        "url": "https://adva-soft.com/support.html#faq",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-19"
+      },
+      {
+        "url": "https://adva-soft.com/press-room.html#pressKits",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-19"
+      },
+      {
+        "url": "https://adva-soft.com/app-pageBatched.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-05-04"
+      },
+      {
+        "url": "https://adva-soft.com/app-pageHandy.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-11"
+      },
+      {
+        "url": "https://adva-soft.com/app-pageRecrop.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-05-21"
+      },
+      {
+        "url": "https://adva-soft.com/app-pageMacTouch.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-06"
+      },
+      {
+        "url": "https://adva-soft.com/privacy-policy.html",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-11"
+      },
+      {
+        "url": "https://adva-soft.com/touchretouch-eula.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-04"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adva-soft.com/app-pageTouch.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/support.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/aboutUs.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/support.html#tutorials",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/press-room.html#mediaCoverage",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/support.html#faq",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/press-room.html#pressKits",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/app-pageBatched.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/app-pageHandy.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/app-pageRecrop.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/app-pageMacTouch.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/privacy-policy.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adva-soft.com/touchretouch-eula.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Edit out objects that are close to other items with efficiency.\n                                No smears of content near edges. The edge-aware algorithm finds\n                                the best way to seamlessly blend a retouched area with the surrounding background.",
+    "source_urls": [
+      "https://adva-soft.com/app-pageTouch.html",
+      "https://adva-soft.com/support.html",
+      "https://adva-soft.com/aboutUs.html",
+      "https://adva-soft.com/support.html#tutorials",
+      "https://adva-soft.com/press-room.html#mediaCoverage",
+      "https://adva-soft.com/support.html#faq",
+      "https://adva-soft.com/press-room.html#pressKits",
+      "https://adva-soft.com/app-pageBatched.html",
+      "https://adva-soft.com/app-pageHandy.html",
+      "https://adva-soft.com/app-pageRecrop.html",
+      "https://adva-soft.com/app-pageMacTouch.html",
+      "https://adva-soft.com/privacy-policy.html",
+      "https://adva-soft.com/touchretouch-eula.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "amsl3.com",
+    "company_name": "Skaggs Media LLC",
+    "website": "https://www.amsl3.com/study-guide-apps",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "appsolutely.software",
+    "company_name": "Michael Moran",
+    "website": "https://appsolutely.software/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "archerysuccess.com",
+    "company_name": "AllTen Software Limited",
+    "website": "https://archerysuccess.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "atlantanewsfirst.com",
+    "company_name": "Gray Television Group, Inc.",
+    "website": "https://www.atlantanewsfirst.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "atplayer.com",
+    "company_name": "Aktis Inc",
+    "website": "https://www.atplayer.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "axialdigital.com",
+    "company_name": "Touchable Apps",
+    "website": "http://www.axialdigital.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "baliza.de",
+    "company_name": "Baliza GmbH",
+    "website": "https://baliza.de/en/apps/scorecard.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "feedback@baliza.de",
+        "confidence": "high",
+        "source_url": "https://baliza.de/en/about-us/about-us.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "bH Your contacts: Tanja Credner and J\u00fcrgen Dittert Email: feedback@baliza.de \u00a9 201"
+      },
+      {
+        "address": "info@baliza.de",
+        "confidence": "high",
+        "source_url": "https://baliza.de/en/press/index.html",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20",
+        "context_snippet": "s materials For press inquiries please send us an e-mail to info@baliza.de. Here are some materials for your use. Food Intolerances"
+      }
+    ],
+    "role_emails": [
+      "feedback@baliza.de",
+      "info@baliza.de"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://baliza.de/en/apps/scorecard.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/about-us/about-us.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/press/index.html",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "url": "https://baliza.de/en/index.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-03-15"
+      },
+      {
+        "url": "https://baliza.de/en/apps/histamine.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/apps/natural-food-guide.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/apps/oxipur.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/article/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baliza.de/en/blog/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baliza.de/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baliza.de/en/imprint/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baliza.de",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The app Mini Golf Score Card is the ideal companion if you like to play mini golf. It replaces pen and paper and takes care of all your calculations.",
+    "source_urls": [
+      "https://baliza.de/en/about-us/about-us.html",
+      "https://baliza.de/en/press/index.html",
+      "https://www.baliza.de/en/imprint/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "beefcuts3d.com",
+    "company_name": "Uli Niklaus",
+    "website": "https://beefcuts3d.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bitchat.free",
+    "company_name": "permissionless tech, llc",
+    "website": "http://bitchat.free",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "tryveil.app",
+    "company_name": "Veil",
+    "website": "https://tryveil.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "matt@tryveil.app",
+        "confidence": "highest",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "VEIL \u2014 Privacy that survives scrutiny. support@tryveil.app matt@tryveil.app VEIL labels what it implements. So should everyone."
+      },
+      {
+        "address": "support@tryveil.app",
+        "confidence": "highest",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "one number, no card Every control on from day one Support: support@tryveil.app The promises Four promises VEIL keeps Held on every device"
+      }
+    ],
+    "role_emails": [
+      "matt@tryveil.app",
+      "support@tryveil.app"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.store@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app.store@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app_store@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apps@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store@tryveil.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://tryveil.app",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://tryveil.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/why-veil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/#hero-features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/#cryptography",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/#compare",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/privacy-modes",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/claims",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/disclosure",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/relay-hold",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/who-can-see-what",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/architecture",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryveil.app/challenge",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VEIL is a private, end-to-end encrypted messenger: hardware-backed keys that never leave your device, Nothing at Rest wipe, duress wipe, and post-quantum hybrid encryption (X25519 + ML-KEM-768).",
+    "source_urls": [
+      "https://tryveil.app",
+      "https://tryveil.app/contact",
+      "https://tryveil.app/founders",
+      "https://tryveil.app/press",
+      "https://tryveil.app/",
+      "https://tryveil.app/why-veil",
+      "https://tryveil.app/#how-it-works",
+      "https://tryveil.app/#hero-features",
+      "https://tryveil.app/#cryptography",
+      "https://tryveil.app/#compare",
+      "https://tryveil.app/privacy-modes",
+      "https://tryveil.app/#faq",
+      "https://tryveil.app/disclosure",
+      "https://tryveil.app/relay-hold",
+      "https://tryveil.app/who-can-see-what",
+      "https://tryveil.app/challenge"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
