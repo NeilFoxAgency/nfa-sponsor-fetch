@@ -1,0 +1,1885 @@
+[
+  {
+    "company_domain": "archiveofletters.com",
+    "company_name": "I built a free archive of 3,000+ real historic letters, from clay tablets to the 20th century",
+    "website": "https://archiveofletters.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "hearthsea.com",
+    "company_name": "I built a Catan-style board game that runs in the browser, with a 3D island and bots that trade",
+    "website": "https://hearthsea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jewelryartisans.com",
+    "company_name": "Jewelry Artisans | Providing Beautiful Luxury Jewelry For You",
+    "website": "https://jewelryartisans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jamie@jewelryartisans.com",
+        "confidence": "highest",
+        "source_url": "https://jewelryartisans.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-19",
+        "context_snippet": "Call us today at (770)393-0321 You can also email us at Jamie@jewelryartisans.com Thank you for contacting Jewelry Artisans. 4500 Olde Pe"
+      },
+      {
+        "address": "kristen@jewelryartisans.com",
+        "confidence": "highest",
+        "source_url": "https://jewelryartisans.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sheila@jewelryartisans.com",
+        "confidence": "high",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "jamie@jewelryartisans.com",
+      "kristen@jewelryartisans.com",
+      "sheila@jewelryartisans.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "j.kresl@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie.kresl@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie_kresl@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamiek@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kresl@jewelryartisans.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Kresl",
+        "person_title": "Owner",
+        "source_url": "https://jewelryartisans.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://jewelryartisans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-19"
+      },
+      {
+        "url": "https://jewelryartisans.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-14"
+      },
+      {
+        "url": "https://jewelryartisans.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-in-sandy-plains-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-in-dunwoody-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-in-freedom-park-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-in-old-fourth-ward-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-in-sandy-springs-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-stores-near-east-cobb-ga/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/custom-jewelry-design/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/bridal-diamonds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/fashion-jewelry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/jewelry-repair/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/custom-jewelry-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/start-a-custom-design/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/discover-our-offerings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryartisans.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://jewelryartisans.com/contact",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/contact-us",
+        "action": "/contact-us/#wpcf7-f30-p12-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/pages/contact",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/pages/contact-us",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/support/contact",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/contact/",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/start-a-custom-design/",
+        "action": "/start-a-custom-design/#gf_2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelryartisans.com/discover-our-offerings",
+        "action": "/discover-our-offerings/#gf_2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover exquisite bridal & fashion jewelry at Jewelry Artisans. Our curated showroom offers unique and timeless designs, making your jewelry dreams a reality. Visit us today!",
+    "source_urls": [
+      "https://jewelryartisans.com/contact",
+      "https://jewelryartisans.com/about",
+      "https://jewelryartisans.com/contact-us",
+      "https://jewelryartisans.com/pages/contact",
+      "https://jewelryartisans.com/pages/contact-us",
+      "https://jewelryartisans.com/support/contact",
+      "https://jewelryartisans.com/about/",
+      "https://jewelryartisans.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jewelrybrands.org",
+    "company_name": "17 Independent Jewelry Designers to Elevate Your Style (2026) \u2728 - Jewelry Brands",
+    "website": "https://jewelrybrands.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@jewelrybrands.org",
+        "confidence": "medium",
+        "source_url": "https://jewelrybrands.org",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@jewelrybrands.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "As Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "as.naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "As Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "as@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "As Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "as_naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "As Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "asn@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "As Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana.naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana_naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danan@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.group@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interwoven.group@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interwoven@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interwoven_group@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interwoveng@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interwoven Design Group",
+        "person_title": "Founder",
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.try@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jewellery.try@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jewellery@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jewellery_try@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jewelleryt@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.scott@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kendra.scott@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kendra@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kendra_scott@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kendras@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "naberezny@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Naberezny",
+        "person_title": "President",
+        "source_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.team@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review.team@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review_team@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reviewt@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.transfers@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scott@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kendra Scott",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "simplified.transfers@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "simplified@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "simplified_transfers@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "simplifiedt@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Team",
+        "person_title": null,
+        "source_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transfers@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Simplified Transfers",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "try@jewelrybrands.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jewellery Virtual Try",
+        "person_title": "Owner",
+        "source_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://jewelrybrands.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/author/team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrybrands.org/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/all-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/all-groups/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/default-user-group/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/forgot-password/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/login/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/my-profile/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/registration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/search-users/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/submit-new-blog-post/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/terms-of-service/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/user-blogs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/jewelry-brand-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/designer-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/luxury-watches/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/jewelry-history/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/jewelry-industry-news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/jewelry-care-tips/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/fine-jewelry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/fashion-jewelry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/category/fashion-trends/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/jewelry-brands-for-women/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/best-online-jewelry-stores/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/modular-jewelry-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/jewelry-brands-and-ai-in-design/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/popular-jewelry-styles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/popular-jewelry-brands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/page/2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/page/3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/page/4/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/page/22/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelrybrands.org/is-tiffany-jewelry-real-silver/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://jewelrybrands.org/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelrybrands.org/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelrybrands.org/pages/contact",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://jewelrybrands.org/pages/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelrybrands.org/support/contact",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/contact-us/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://jewelrybrands.org/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/jewelry-brands-for-women/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/best-online-jewelry-stores/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/modular-jewelry-brands/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/tiffany-jewelry/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/jewelry-brands-and-ai-in-design/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/popular-jewelry-styles/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/popular-jewelry-brands/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jewelrybrands.org/is-tiffany-jewelry-real-silver/",
+        "action": "https://www.jewelrybrands.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Support our educational content for free when you purchase through links on our site. Learn more",
+    "source_urls": [
+      "https://jewelrybrands.org",
+      "https://jewelrybrands.org/contact",
+      "https://jewelrybrands.org/about",
+      "https://jewelrybrands.org/contact-us",
+      "https://jewelrybrands.org/pages/contact",
+      "https://jewelrybrands.org/pages/contact-us",
+      "https://jewelrybrands.org/support/contact",
+      "https://www.jewelrybrands.org/about/",
+      "https://www.jewelrybrands.org/contact-us/",
+      "https://jewelrybrands.org/about/",
+      "https://www.jewelrybrands.org/author/team/",
+      "https://jewelrybrands.org/contact/",
+      "https://www.jewelrybrands.org/all-brands/",
+      "https://www.jewelrybrands.org/all-groups/",
+      "https://www.jewelrybrands.org/blog/",
+      "https://www.jewelrybrands.org/default-user-group/",
+      "https://www.jewelrybrands.org/forgot-password/",
+      "https://www.jewelrybrands.org/login/",
+      "https://www.jewelrybrands.org/my-profile/",
+      "https://www.jewelrybrands.org/privacy-policy/",
+      "https://www.jewelrybrands.org/registration/",
+      "https://www.jewelrybrands.org/search-users/",
+      "https://www.jewelrybrands.org/submit-new-blog-post/",
+      "https://www.jewelrybrands.org/terms-of-service/",
+      "https://www.jewelrybrands.org/user-blogs/",
+      "https://www.jewelrybrands.org/",
+      "https://www.jewelrybrands.org/category/jewelry-brand-guides/",
+      "https://www.jewelrybrands.org/category/designer-brands/",
+      "https://www.jewelrybrands.org/category/luxury-watches/",
+      "https://www.jewelrybrands.org/category/jewelry-history/",
+      "https://www.jewelrybrands.org/category/jewelry-industry-news/",
+      "https://www.jewelrybrands.org/category/jewelry-care-tips/",
+      "https://www.jewelrybrands.org/category/fine-jewelry/",
+      "https://www.jewelrybrands.org/category/fashion-jewelry/",
+      "https://www.jewelrybrands.org/category/fashion-trends/",
+      "https://www.jewelrybrands.org/algae-based-bioplastics-jewelry-brands/",
+      "https://www.jewelrybrands.org/jewelry-brands-for-women/",
+      "https://www.jewelrybrands.org/best-online-jewelry-stores/",
+      "https://www.jewelrybrands.org/modular-jewelry-brands/",
+      "https://www.jewelrybrands.org/tiffany-jewelry/",
+      "https://www.jewelrybrands.org/nft-backed-jewelry-brands/",
+      "https://www.jewelrybrands.org/jewelry-brands-and-ai-in-design/",
+      "https://www.jewelrybrands.org/popular-jewelry-styles/",
+      "https://www.jewelrybrands.org/popular-jewelry-brands/",
+      "https://www.jewelrybrands.org/jewelry-brands-with-virtual-try-on/",
+      "https://www.jewelrybrands.org/page/2/",
+      "https://www.jewelrybrands.org/page/3/",
+      "https://www.jewelrybrands.org/page/4/",
+      "https://www.jewelrybrands.org/page/22/",
+      "https://www.jewelrybrands.org/is-tiffany-jewelry-real-silver/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jewelryodm.com",
+    "company_name": "Master TikTok\u2019s Golden 3-Second Rule: How Jewelry Brands Can Win Gen Z with Fast-Paced Edits & Trends | JewelryODM Blog",
+    "website": "https://jewelryodm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@jewelryodm.com",
+        "confidence": "high",
+        "source_url": "https://jewelryodm.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@jewelryodm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jewelryodm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/policy/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-express-dropshipping",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jewelryodm.com/customer/inquiry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-rings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-bracelets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-adjustable-rings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-wedding-rings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-pendant-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-locket-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-tennis-bracelets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-charm-bracelets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-stud-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-hoop-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-beads-charms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-sterling-silver-jewelry-findings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-wholesale-fine-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-gold-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-gold-chain-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelryodm.com/collection-gold-bar-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grow your brand with China's leading fine jewelry factory. One-stop 925 silver & gold wholesale & custom: 300K+ styles, No MOQ, 3-7 day delivery. Your B2B partner.",
+    "source_urls": [
+      "https://jewelryodm.com",
+      "https://jewelryodm.com/policy/contact-us",
+      "https://jewelryodm.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jewelrysales.online",
+    "company_name": "Small\u2011Batch Branding: How Artisanal Jewelry Makers Can Tell a Story Like Liber & Co.",
+    "website": "https://jewelrysales.online",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@jewelrysales.online",
+        "confidence": "highest",
+        "source_url": "https://jewelrysales.online/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@jewelrysales.online"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jewelrysales.online",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrysales.online/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jewelrysales.online/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Curated fine jewelry and luxury watches\u2014timeless designs, authenticated pieces, and effortless shopping for every occasion.",
+    "source_urls": [
+      "https://jewelrysales.online/contact",
+      "https://jewelrysales.online/about"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "jewelrystore.uk",
+    "company_name": "Brand Spotlight: The Rise of Independent Jewelry Makers in 2026",
+    "website": "https://jewelrystore.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@jewelrystore.uk",
+        "confidence": "highest",
+        "source_url": "https://www.jewelrystore.uk/contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-15",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@jewelrystore.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.jewelrystore.uk",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-11"
+      },
+      {
+        "url": "https://www.jewelrystore.uk/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-15"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fine jewelry and luxury watches - curated collections, expert craftsmanship, and timeless style for every occasion.",
+    "source_urls": [
+      "https://www.jewelrystore.uk/contact"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 3
+  },
+  {
+    "company_domain": "jewelstyleradar.com",
+    "company_name": "Craft Necklace Trends 2026: Elevating Artisan Jewelry",
+    "website": "https://jewelstyleradar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jeweltrendpro.com",
+    "company_name": "Who Sells the Best Gold Jewelry? Data-Backed Rankings",
+    "website": "https://jeweltrendpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jeweltrendz.com",
+    "company_name": "Fine Jewelry, Retail Excellence, & Custom Designs",
+    "website": "https://jeweltrendz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jitpomi.com",
+    "company_name": "[Hiring] 3 Video Creators / Editors for 30-45s SEYFR App Demo & Honest Review ($40 each)",
+    "website": "https://jitpomi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "popfly.com",
+    "company_name": "Any outdoor creators in here?",
+    "website": "https://popfly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
