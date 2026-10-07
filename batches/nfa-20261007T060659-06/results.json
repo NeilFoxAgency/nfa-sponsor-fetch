@@ -1,0 +1,619 @@
+[
+  {
+    "company_domain": "nostalgicpod.com",
+    "company_name": "Jesus manuel Curreri",
+    "website": "https://nostalgicpod.com/privacy/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "obairhaus.com",
+    "company_name": "Darren Ebbing",
+    "website": "https://obairhaus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ottovon.com",
+    "company_name": "Otto Von Productions, Inc.",
+    "website": "http://www.ottovon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@ottovon.com",
+        "confidence": "highest",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "amesake and mascot, Otto Contact You can reach us at Contact@OttoVon.com for more information. Archives July 20"
+      },
+      {
+        "address": "support@ottovon.com",
+        "confidence": "highest",
+        "source_url": "http://www.ottovon.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "applications, please feel free to reach out us by emailing Support@ottovon.com to reach one of our support staff. We hope you have the"
+      }
+    ],
+    "role_emails": [
+      "contact@ottovon.com",
+      "support@ottovon.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.logo@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about.logo@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about_logo@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aboutl@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "logo@ottovon.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Our Logo",
+        "person_title": "Founder",
+        "source_url": "http://www.ottovon.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.ottovon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.ottovon.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.ottovon.com/contact",
+        "action": "/contact-us/#wpcf7-f28-p29-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.ottovon.com/contact-us",
+        "action": "/contact-us/#wpcf7-f28-p29-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.ottovon.com/pages/contact",
+        "action": "/contact-us/#wpcf7-f28-p29-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.ottovon.com/pages/contact-us",
+        "action": "/contact-us/#wpcf7-f28-p29-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.ottovon.com/support/contact",
+        "action": "/contact-us/#wpcf7-f28-p29-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Mobile RPG Where Wizards Rule the World Some games let you play as a wizard. Coven Clash lets you become one. From your first spell to your hundredth duel, Coven Clash is a mobile RPG built around the idea that magic should feel earned, mastery should feel meaningful, and \u2026",
+    "source_urls": [
+      "http://www.ottovon.com/support",
+      "http://www.ottovon.com/about",
+      "http://www.ottovon.com/about-us"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 28
+  },
+  {
+    "company_domain": "packr.app",
+    "company_name": "Jeremie Leroy",
+    "website": "https://packr.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "parityzone.com",
+    "company_name": "Muhammad Asad Khan",
+    "website": "http://akappsandgames.parityzone.com/app-ads.txt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thehealthy.com",
+    "company_name": "7 Best Kombucha Brands, According to RDs",
+    "website": "https://thehealthy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "themarketintelligence.com",
+    "company_name": "Who Are the Top 21 Kombucha Companies in the World?",
+    "website": "https://themarketintelligence.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "thepnpmedia.com",
+    "company_name": "Kombucha Market to Expand from USD 2.9 Billion in 2025 to USD 10.7 Billion by 2032",
+    "website": "https://thepnpmedia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thesocialpetclub.com",
+    "company_name": "THE SOCIAL PET CLUB",
+    "website": "https://thesocialpetclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thesocialpetclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thesocialpetclub.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thesweetandsimplekitchen.com",
+    "company_name": "8 Best Kombucha Brewing Kits for Beginners (September 2026)",
+    "website": "https://thesweetandsimplekitchen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thetealist.com",
+    "company_name": "Best Tea Cafes Melbourne: 8 Connoisseur-Approved Venues",
+    "website": "https://thetealist.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thetruckersedge.com",
+    "company_name": "THE TRUCKERS EDGE",
+    "website": "https://thetruckersedge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "c.guides@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "career.guides@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "career@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "career_guides@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "careerg@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guides@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Career Guides",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.trucking@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "local.trucking@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "local@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "local_trucking@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "localt@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.warranty@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "semi.warranty@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "semi@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "semi_warranty@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "semiw@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trucking@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Local Trucking",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warranty@thetruckersedge.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Semi Truck Warranty",
+        "person_title": "Owner",
+        "source_url": "https://thetruckersedge.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://thetruckersedge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thetruckersedge.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2008-09-13"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free CDL practice tests, trucking career guides, and tools for drivers. Get your commercial license and advance your trucking career.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  }
+]
