@@ -1,0 +1,778 @@
+[
+  {
+    "company_domain": "3nfinans.com",
+    "company_name": "Ipek Magden",
+    "website": "https://www.3nfinans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "abobakerbuilds.com",
+    "company_name": "Abobaker Mohammadi",
+    "website": "https://abobakerbuilds.com/apps/cheapest/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "faro@abobakerbuilds.com",
+        "confidence": "highest",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "essage and usually reply within 2 business days. Email us faro@abobakerbuilds.com Tell us which iPhone and iOS version you use and what you s"
+      },
+      {
+        "address": "hello@abobakerbuilds.com",
+        "confidence": "highest",
+        "source_url": "https://abobakerbuilds.com/#contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ople who use it. Contact Let's build something. hello@abobakerbuilds.com \u2192 \u2715"
+      }
+    ],
+    "role_emails": [
+      "faro@abobakerbuilds.com",
+      "hello@abobakerbuilds.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.mohammadi@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abobaker.mohammadi@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abobaker@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abobaker_mohammadi@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abobakerm@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohammadi@abobakerbuilds.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abobaker Mohammadi",
+        "person_title": "Founder",
+        "source_url": "https://abobakerbuilds.com/apps/cheapest/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://abobakerbuilds.com/apps/cheapest/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/cheapest/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/cheapest/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/#apps",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/cheapest/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/cheapest/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/tradequest/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/apps/mamelat/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abobakerbuilds.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Faro shows the lowest one-way fare for every day of the month, including cheaper trips made of two separate tickets. Made for budget travellers with flexible dates.",
+    "source_urls": [
+      "https://abobakerbuilds.com/apps/cheapest/",
+      "https://abobakerbuilds.com/apps/cheapest/support",
+      "https://abobakerbuilds.com/#contact",
+      "https://abobakerbuilds.com/apps/cheapest/support/",
+      "https://abobakerbuilds.com/",
+      "https://abobakerbuilds.com/#apps",
+      "https://abobakerbuilds.com/apps/cheapest/privacy/",
+      "https://abobakerbuilds.com/apps/cheapest/terms/",
+      "https://abobakerbuilds.com/apps/tradequest/",
+      "https://abobakerbuilds.com/apps/mamelat/",
+      "https://abobakerbuilds.com/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aitenya.com",
+    "company_name": "Ethirion Sp z o.o.",
+    "website": "https://aitenya.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alienminds.net",
+    "company_name": "Sergey Li",
+    "website": "https://alienminds.net/chute",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alyakastudio.com",
+    "company_name": "Alper Kahriman",
+    "website": "https://www.alyakastudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "apphelia.com",
+    "company_name": "Xiscan Limited",
+    "website": "http://www.apphelia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "appliedballisticsllc.com",
+    "company_name": "Applied Ballistics Media Inc",
+    "website": "http://www.appliedballisticsllc.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@appliedballisticsllc.com",
+        "confidence": "highest",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@appliedballisticsllc.com",
+        "confidence": "highest",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@appliedballisticsllc.com",
+      "orders@appliedballisticsllc.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisw@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united.states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united_states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uniteds@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.appliedballisticsllc.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/consulting/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/mobile-lab/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/education/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/ab-quantum/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/policies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/newsletter-signup/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.appliedballisticsllc.com/contact-us",
+        "action": "https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHr00000BD3Vv",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.appliedballisticsllc.com/contact-us/",
+        "action": "https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHr00000BD3Vv",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Introducing Applied Ballistics Quantum\u2122, a state-of-the-art platform integrating the most complete ballistics solver and profile management tool for long-range shooting. Featuring an all new user-interface and available for IOS and Android, AB Quantum\u2122 includes a host of new tools and features that ",
+    "source_urls": [
+      "http://www.appliedballisticsllc.com/policies/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "atlomira.com",
+    "company_name": "OZAN BOZ",
+    "website": "https://atlomira.com/en/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aydindiler.com",
+    "company_name": "aydn diler",
+    "website": "https://aydindiler.com/?page_id=52",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aydindiler.com/?page_id=52",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://aydindiler.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aydindiler.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aydindiler.com/?page_id=12",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aydindiler.com/?page_id=13",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aydindiler.com/?page_id=14",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aydindiler.com/?page_id=15",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aydindiler.com/?page_id=15",
+        "action": "https://aydindiler.com/wp-admin/admin-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bu Gizlilik Politikas\u0131, Ayd\u0131n Diler taraf\u0131ndan geli\u015ftirilen mobil uygulamalar\u0131n (\u201cUygulama\u201d) kullan\u0131c\u0131 verilerini nas\u0131l i\u015fledi\u011fini a\u00e7\u0131klar. Kullan\u0131c\u0131 gizlili\u011fi ve veri g\u00fcvenli\u011fi temel prensibimizdir. 1. Toplanan Bilgiler ve Veri Kullan\u0131m\u0131 Uygulamalar\u0131m\u0131z, i\u015flevselli\u011fini yerine getirmek amac\u0131yla \u015fu t",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "balloonlabs.ai",
+    "company_name": "Balloon Labs LLC",
+    "website": "https://balloonlabs.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "craig@balloonlabs.ai",
+        "confidence": "high",
+        "source_url": "https://balloonlabs.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the EU in accordance with Article 27 of the GDPR: Craig \ud83d\udce7 craig@balloonlabs.ai Data subjects in the EEA may contact our representative f"
+      },
+      {
+        "address": "hello@balloonlabs.ai",
+        "confidence": "high",
+        "source_url": "https://balloonlabs.ai/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rable experiences E-mail hello@balloonlabs.ai Phone +1 347 918 4989"
+      },
+      {
+        "address": "privacy@balloonlabs.ai",
+        "confidence": "high",
+        "source_url": "https://balloonlabs.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lloon Labs LLC Website: https://www.balloonlabs.ai Contact: privacy@balloonlabs.ai 1. Introduction At Balloon Labs LLC (\u201cBalloon Labs,\u201d"
+      }
+    ],
+    "role_emails": [
+      "craig@balloonlabs.ai",
+      "hello@balloonlabs.ai",
+      "privacy@balloonlabs.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://balloonlabs.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonlabs.ai/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://balloonlabs.ai/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://balloonlabs.ai/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://balloonlabs.ai/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://balloonlabs.ai/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Digital products for better, more enjoyable lives SPEAK TO US Big ambitions \u2014What drives us is working with a community of the best & brightest minds. The opportunity to design, launch and scale world-class high-growth solutions with massive potential. What we do 01.CREATE ABETTEREXPERIENCE We belie",
+    "source_urls": [
+      "https://balloonlabs.ai/",
+      "https://balloonlabs.ai/contact",
+      "https://balloonlabs.ai/about",
+      "https://balloonlabs.ai/pages/contact",
+      "https://balloonlabs.ai/support/contact",
+      "https://balloonlabs.ai/about/",
+      "https://balloonlabs.ai/contact/",
+      "https://balloonlabs.ai/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "blackdollsmatter.com",
+    "company_name": "Black Dolls Matter LLC",
+    "website": "https://blackdollsmatter.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_202",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bodyresonance.ai",
+    "company_name": "Konstantin Resch",
+    "website": "https://bodyresonance.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
