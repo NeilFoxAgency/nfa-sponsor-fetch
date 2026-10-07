@@ -1,0 +1,2365 @@
+[
+  {
+    "company_domain": "hark.com",
+    "company_name": "Hark",
+    "website": "https://hark.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "humansand.ai",
+    "company_name": "Persimmon",
+    "website": "https://humansand.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "lambda.ai",
+    "company_name": "additional $1 billion",
+    "website": "https://lambda.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "melius.com",
+    "company_name": "Melius",
+    "website": "https://melius.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@melius.com",
+        "confidence": "high",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ton Avenue, Suite 1402 1018 New York, New York 10170 Email: legal@melius.com 13.3 Counter-Notification. If you believe that your Content"
+      },
+      {
+        "address": "privacy@melius.com",
+        "confidence": "high",
+        "source_url": "https://melius.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in any marketing email we send you, or by contacting us at privacy@melius.com. Even if you opt out of marketing communications, we may co"
+      },
+      {
+        "address": "support@melius.com",
+        "confidence": "high",
+        "source_url": "https://melius.com/pricing",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "legal@melius.com",
+      "privacy@melius.com",
+      "support@melius.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.bouaziz@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.ramu@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex.bouaziz@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex_bouaziz@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexb@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arnav.ramu@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arnav@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arnav_ramu@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arnavr@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bouaziz@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Bouaziz",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.copyright@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.copyright@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_copyright@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://melius.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.rauch@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guillermo.rauch@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guillermo@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guillermo_rauch@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guillermor@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joowon.kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joowon@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joowon_kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joowonk@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.wang@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin.wang@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin_wang@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevinw@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joowon Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.tannenbaum@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.tannenbaum@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_tannenbaum@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelt@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramu@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arnav Ramu",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rauch@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guillermo Rauch",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/blog/melius-seed-and-series-a",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tannenbaum@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wang@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Wang",
+        "person_title": "Cpo",
+        "source_url": "https://melius.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Young Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "young.kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Young Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "young@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Young Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "young_kim@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Young Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "youngk@melius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Young Kim",
+        "person_title": "Co-Founder",
+        "source_url": "https://melius.com/manifesto",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://melius.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/blog/melius-seed-and-series-a",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/enterprise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/book-intro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/desktop-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/models",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/api-cli",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/solutions/marketers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/solutions/ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/solutions/filmmakers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/solutions/branding",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/manifesto",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/brand",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melius.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://melius.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://melius.com/solutions/marketers",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://melius.com/solutions/ecommerce",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://melius.com/solutions/filmmakers",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://melius.com/solutions/branding",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The AI-native operating system for creatives. Describe what you want; Mel routes the right model, runs the workflow, and shows you every prompt \u2014 so you can steer until it lands.",
+    "source_urls": [
+      "https://melius.com/pricing",
+      "https://melius.com/terms",
+      "https://melius.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mirrorparticle.com",
+    "company_name": "Mirror Particle",
+    "website": "https://mirrorparticle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@mirrorparticle.com",
+        "confidence": "highest",
+        "source_url": "https://mirrorparticle.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Terms. Contact Questions about these Terms can be sent to info@mirrorparticle.com . Mirror Particle Home Terms Privacy Cookies Legal \u00a9 2026"
+      }
+    ],
+    "role_emails": [
+      "info@mirrorparticle.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mirrorparticle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mirrorparticle.com/apply/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mirrorparticle.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mirrorparticle.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mirrorparticle.com/cookies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mirrorparticle.com/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mirror Particle is building foundational models of human behavior by simulating it with machines \u2014 how people perceive, feel, decide, and act.",
+    "source_urls": [
+      "https://mirrorparticle.com/terms",
+      "https://mirrorparticle.com/privacy",
+      "https://mirrorparticle.com/cookies"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "typeoneenergy.com",
+    "company_name": "Type One Energy",
+    "website": "https://typeoneenergy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "media@typeoneenergy.com",
+        "confidence": "highest",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Media Contact Alison Mickey +1 (608) 721-7454 media@typeoneenergy.com Company News Octo"
+      },
+      {
+        "address": "sarah.clark@typeoneenergy.com",
+        "confidence": "high",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "media@typeoneenergy.com",
+      "sarah.clark@typeoneenergy.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "allen@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.allen@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradley.allen@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradley@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradley_allen@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradleya@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bradley Allen",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.mowry@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "canik@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christofer.mowry@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christofer@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christofer_mowry@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christoferm@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.moul@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "don.moul@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "don@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "don_moul@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donm@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "energy@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "engineering@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frey@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gates@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gov@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.canik@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.canik@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_canik@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnc@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Canik",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.skaggs@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike.skaggs@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike_skaggs@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikes@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moul@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Don Moul",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mowry@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christofer Mowry",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "optimization@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.management@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "program.management@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "program@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "program_management@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "programm@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Program Management",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.engineering@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.optimization@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vice@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.vice@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_vice@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniorv@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "skaggs@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Skaggs",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stellarator.optimization@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stellarator@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stellarator_optimization@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stellaratoro@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stellarator Optimization",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "systems.engineering@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "systems@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "systems_engineering@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "systemse@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Systems Engineering",
+        "person_title": "Co-Founder",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.energy@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.frey@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.gates@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.gov@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tennessee.gov@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tennessee@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tennessee_gov@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tennesseeg@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tennessee Gov",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.gates@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_gates@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisg@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Bill Gates",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/newsroom/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas.frey@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas_frey@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomasf@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas Frey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "type.energy@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "type@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "type_energy@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "typee@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Type One Energy",
+        "person_title": "Ceo",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@typeoneenergy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://typeoneenergy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://typeoneenergy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/blog/fast-company-worlds-most-innovative-companies-2026/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/fusion/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/our-technology/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/our-strategy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/newsroom/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/publications/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/insights-announcements/type-one-energy-completes-200m-series-b-financing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/newsroom/?_news_categories=insights-announcements",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/insights-announcements/first-license-for-commercial-fusion/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/insights-announcements/tva-type-one-energy-accelerate-fusion-commercialization-tennessee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/community-engagement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://typeoneenergy.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://typeoneenergy.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://typeoneenergy.com/pages/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://typeoneenergy.com/support/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://typeoneenergy.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Type One Energy is bringing the power of the stars to Earth\u2014Safe, Clean, affordable fusion energy for all.",
+    "source_urls": [
+      "https://typeoneenergy.com/newsroom/",
+      "https://typeoneenergy.com/newsroom/?_news_categories=insights-announcements",
+      "https://typeoneenergy.com/insights-announcements/the-state-of-tennessee-tennessee-valley-authority-and-united-kingdom-expand-collaboration-on-commercial-fusion-energy-deployment/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vereev-ai.com",
+    "company_name": "PT SWOOSHED VISION TECHNOLOGY",
+    "website": "https://www.vereev-ai.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "voxeloid.com",
+    "company_name": "Voxeloid Kft.",
+    "website": "http://voxeloid.com/picmix",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "This application allows you to mix two (or more) pictures into one montage. The pictures can be freely moved and resized, and you have complete freedom over which parts of the photos you want to keep. You can remove (or readd) areas with your fingers, like painting. With this technique you can creat",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "wavefoldlabs.com",
+    "company_name": "Wavefold Labs LLC",
+    "website": "https://wavefoldlabs.com/products/gaussian-blur",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@wavefoldlabs.com",
+        "confidence": "highest",
+        "source_url": "https://wavefoldlabs.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ay in the loop, or just say hi, reach out to us anytime at hello@wavefoldlabs.com \u00a9 2026 Wavefold Labs LLC Privacy Policy \u00b7 Terms of Servic"
+      },
+      {
+        "address": "support@wavefoldlabs.com",
+        "confidence": "highest",
+        "source_url": "https://wavefoldlabs.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t and we'll get back to you as soon as we can. Email us at support@wavefoldlabs.com \u00a9 2026 Wavefold Labs LLC Privacy Policy \u00b7 Terms of Servic"
+      }
+    ],
+    "role_emails": [
+      "hello@wavefoldlabs.com",
+      "support@wavefoldlabs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wavefoldlabs.com/products/gaussian-blur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/account?product=gaussian-blur&download_trial=1#downloads",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/checkout?product=gaussian-blur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/products/gaussian-blur/manual",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wavefoldlabs.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Granular bloom reverb plugin for VST3 and AU. Shape when the reverb swells with the bloom curve, from short to huge reverb times.",
+    "source_urls": [
+      "https://wavefoldlabs.com/support",
+      "https://wavefoldlabs.com/about",
+      "https://wavefoldlabs.com/privacy",
+      "https://wavefoldlabs.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "wesponsored.com",
+    "company_name": "ProductWind, Inc",
+    "website": "https://www.wesponsored.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "winefolly.com",
+    "company_name": "Wine Folly Inc",
+    "website": "https://winefolly.com/plus",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "club@winefolly.com",
+        "confidence": "high",
+        "source_url": "https://club.winefolly.com/pages/faq",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "club@winefolly.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "award@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "enterprises@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Folly Enterprises",
+        "person_title": "Owner",
+        "source_url": "https://winefolly.com/terms-of-use/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.enterprises@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Folly Enterprises",
+        "person_title": "Owner",
+        "source_url": "https://winefolly.com/terms-of-use/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "folly.enterprises@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Folly Enterprises",
+        "person_title": "Owner",
+        "source_url": "https://winefolly.com/terms-of-use/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "folly@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "folly_enterprises@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Folly Enterprises",
+        "person_title": "Owner",
+        "source_url": "https://winefolly.com/terms-of-use/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "follye@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Folly Enterprises",
+        "person_title": "Owner",
+        "source_url": "https://winefolly.com/terms-of-use/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.award@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james.award@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james_award@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamesa@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Beard Award",
+        "person_title": "Co-Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.folly@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wine.folly@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wine@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wine_folly@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "winef@winefolly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wine Folly",
+        "person_title": "Founder",
+        "source_url": "https://winefolly.com/courses/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://winefolly.com/plus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/grapes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/regions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/topics/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/courses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/club/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/plus/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/regions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/deep-dive/what-is-wine/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/deep-dive/the-wine-tasting-method-video/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/tips/getting-started-with-food-and-wine-pairing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/wine-glossary/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/wines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/wine-regions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/articles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/featured/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/articles#videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/sponsorships/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://winefolly.com/terms-of-use/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://club.winefolly.com/pages/faq",
+        "page_type": "support",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://newyork.guides.winefolly.com/wineries/northern-cross-vineyard/",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://napa.guides.winefolly.com/wineries/frog-s-leap-winery/",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "For wine lovers seeking deeper knowledge, unlock exclusive resources, premium content, and tools to elevate your wine journey.",
+    "source_urls": [
+      "https://club.winefolly.com/pages/faq",
+      "https://newyork.guides.winefolly.com/wineries/northern-cross-vineyard/",
+      "https://napa.guides.winefolly.com/wineries/frog-s-leap-winery/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "worthitpa.com",
+    "company_name": "Colby Schenck",
+    "website": "https://worthitpa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
