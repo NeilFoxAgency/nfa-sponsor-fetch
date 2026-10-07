@@ -1,0 +1,696 @@
+[
+  {
+    "company_domain": "throughike.com",
+    "company_name": "Throughike",
+    "website": "https://throughike.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "andrew@throughike.com",
+        "confidence": "high",
+        "source_url": "https://throughike.com/pages/warranty",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "care. How to Make a Warranty Claim Email our team at andrew@throughike.com with your order number and clear photos of the issue. We"
+      }
+    ],
+    "role_emails": [
+      "andrew@throughike.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.kent@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.kent@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_kent@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewk@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kent@throughike.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Kent",
+        "person_title": null,
+        "source_url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://throughike.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/collections/backpacks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/collections/clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/collections/equipment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/products/pre-order-throughike-55l",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/products/throughike-55l",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/products/throughike-75l-pro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/blogs/news/trail-tested-300-miles-with-the-75l-pro",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/blogs/news/how-to-pack-for-a-5-day-backcountry-trek-with-the-75l-pro",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/blogs/news/why-the-throughhike-75l-pro-is-the-ultimate-backpack-for-serious-hikers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/pages/warranty",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/pages/returns-exchanges",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://throughike.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://throughike.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Born on the trails of the Shawnee National Forest, Throughike builds durable, modular backpacks designed for comfort, performance, and adventure.",
+    "source_urls": [
+      "https://throughike.com/pages/warranty",
+      "https://throughike.com/pages/returns-exchanges"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "todayinmarcom.com",
+    "company_name": "Kombucha market stays fragmented as flavor innovation drives competition",
+    "website": "https://todayinmarcom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "torchystacos.com",
+    "company_name": "SUCCESS FOODS MANAGEMENT GROUP LLC",
+    "website": "https://torchystacos.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "torontoguardian.com",
+    "company_name": "Homegrown Business: Zoey Shamai of Tonica Kombucha",
+    "website": "https://torontoguardian.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tridge.com",
+    "company_name": "V\u00edver Kombucha Achieves Profitability and Expands European Market with Fermented Beverages",
+    "website": "https://tridge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "trufo.com",
+    "company_name": "TRUFO",
+    "website": "https://trufo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@trufo.com",
+        "confidence": "highest",
+        "source_url": "https://trufo.com/en/contacts/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "01 Z\u00fcrich Switzerland Tel: +41 (0 )44 262 61 21 Email: info@trufo.com Production Szent M\u00e1rton"
+      }
+    ],
+    "role_emails": [
+      "info@trufo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trufo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/contacts/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/process/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/recipes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trufo.com/en/explore/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Trufo brings the exquisite taste of truffles from exclusive restaurant settings to tables everywhere, making gourmet experiences accessible to everyone that appreciates fine cuisine.",
+    "source_urls": [
+      "https://trufo.com/en/contacts/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryfi.com",
+    "company_name": "Fi",
+    "website": "https://tryfi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "tryoriva.com",
+    "company_name": "ORIVA",
+    "website": "https://tryoriva.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@tryoriva.com",
+        "confidence": "highest",
+        "source_url": "https://tryoriva.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "oof of purchase. To start a return, you can contact us at contact@tryoriva.com . If your return is accepted, we\u2019ll send you a return shipp"
+      }
+    ],
+    "role_emails": [
+      "contact@tryoriva.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryoriva.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/products/oriva-6-in-1-lymphatic-complex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryoriva.com/products/oriva-leg-relief-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tryoriva.com/pages/contact",
+        "action": "/contact#ContactForm-Ad1VzVVg1TzFwQVZWV__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Oriva",
+    "source_urls": [
+      "https://tryoriva.com/policies/contact-information",
+      "https://tryoriva.com/policies/privacy-policy",
+      "https://tryoriva.com/policies/refund-policy",
+      "https://tryoriva.com/policies/terms-of-service",
+      "https://tryoriva.com/policies/shipping-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "trytock.com",
+    "company_name": "TOCK",
+    "website": "https://trytock.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trytock.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A beautifully minimal Pomodoro timer that lives in your Mac menu bar. No clutter, no noise \u2014 just you and the work.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "usetorg.com",
+    "company_name": "Who\u2019s Brewing the Future? Torg\u2019s Top Kombucha Picks",
+    "website": "https://usetorg.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@usetorg.com",
+        "confidence": "highest",
+        "source_url": "https://usetorg.com/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ome a Seller Curious to know more? Get in touch with us at team@usetorg.com We'd love to hear from you. Sourcing made simple. We'd lov"
+      },
+      {
+        "address": "u003eteam@usetorg.com",
+        "confidence": "high",
+        "source_url": "https://usetorg.com/company",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "team@usetorg.com",
+      "u003eteam@usetorg.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://usetorg.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetorg.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetorg.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetorg.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://usetorg.com/contactus",
+      "https://usetorg.com/leadership",
+      "https://usetorg.com/company",
+      "https://usetorg.com/our-mission"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "utahbusiness.com",
+    "company_name": "How Kate Lubing co-founded HK Brewing Collective & Han\u2019s Kombucha",
+    "website": "https://utahbusiness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "v2dynamix.com",
+    "company_name": "V2 DYNAMIX, LLC",
+    "website": "https://v2dynamix.com/genesis-ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://v2dynamix.com/genesis-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://v2dynamix.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://v2dynamix.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://v2dynamix.com/ai-corner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Innovative apps, multiple generative ai tools, generative ai video",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  }
+]
