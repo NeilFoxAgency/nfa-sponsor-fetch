@@ -1,0 +1,3141 @@
+[
+  {
+    "company_domain": "biraea.com",
+    "company_name": "BIRAEA",
+    "website": "https://biraea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@biraea.com",
+        "confidence": "highest",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "g any formal legal action, you agree to first contact us at legal@biraea.com and attempt to resolve the dispute informally for at least"
+      },
+      {
+        "address": "privacy@biraea.com",
+        "confidence": "highest",
+        "source_url": "https://biraea.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mmediately. You can also ask us to remove you by writing to privacy@biraea.com. Payment Information We use Stripe to process payments for"
+      },
+      {
+        "address": "abuse@biraea.com",
+        "confidence": "high",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ibution was made to a fraudulent fund, you may report it to abuse@biraea.com and we will investigate within 10 business days. 7.10 Contr"
+      },
+      {
+        "address": "billing@biraea.com",
+        "confidence": "high",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "und within 14 days of your purchase , for any reason. Email billing@biraea.com from the address on your account. We do not require a reaso"
+      },
+      {
+        "address": "copyright@biraea.com",
+        "confidence": "high",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nt, please send a written notice to our designated agent at copyright@biraea.com containing: A description of the copyrighted work you claim"
+      },
+      {
+        "address": "support@biraea.com",
+        "confidence": "high",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ccordance with applicable consumer protection laws. Contact support@biraea.com for physical product returns. 15.4 Cash Fund Contributions."
+      }
+    ],
+    "role_emails": [
+      "abuse@biraea.com",
+      "billing@biraea.com",
+      "copyright@biraea.com",
+      "legal@biraea.com",
+      "privacy@biraea.com",
+      "support@biraea.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.heirloom@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "biraea.heirloom@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "biraea@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "biraea_heirloom@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "biraeah@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.contributions@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.disputes@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cash.contributions@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cash@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cash_contributions@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cashc@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "content@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "contributions@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cash Fund Contributions",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "contributor.disputes@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "contributor@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "contributor_disputes@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "contributord@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "disputes@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Contributor Disputes",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gifts@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heirloom@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Biraea Heirloom",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.gifts@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal.gifts@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal_gifts@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personalg@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Gifts",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "responsibility@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.responsibility@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.section@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "section@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see.section@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see_section@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sees@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Section",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "site.responsibility@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "site@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "site_responsibility@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siter@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Site Data Responsibility",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.content@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "visitor.content@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "visitor@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "visitor_content@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "visitorc@biraea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Visitor Content",
+        "person_title": "Owner",
+        "source_url": "https://biraea.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://biraea.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biraea.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create beautiful baby announcement websites. Share your joy with event pages, RSVP management, gift registries, and more.",
+    "source_urls": [
+      "https://biraea.com/privacy",
+      "https://biraea.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ditocoffee.com",
+    "company_name": "Dito Coffee (Madcap)",
+    "website": "https://ditocoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ditocoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ditocoffee.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Madcap Coffee exists to reveal the craftsmanship and human connection behind every cup, transforming a daily ritual into something more intentional. Based in Michigan, we roast and serve specialty coffee in Grand Rapids and Detroit while partnering with cafes, restaurants, and markets through our wh",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 138,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "eramotionstudios.com",
+    "company_name": "ERA MOTION STUDIOS",
+    "website": "https://eramotionstudios.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "getfamilyagent.com",
+    "company_name": "FAMILY AGENT",
+    "website": "https://getfamilyagent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getfamilyagent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfamilyagent.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From school schedules and doctor appointments to meal planning and carpools \u2014 FamilyAgent keeps your household running smoothly so you can focus on making memories.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "horsenly.com",
+    "company_name": "HORSENLY",
+    "website": "https://horsenly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@horsenly.com",
+        "confidence": "highest",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "delete your account, write to us from Help & contact or at legal@horsenly.com . We will confirm it is you and tell you what will be remov"
+      },
+      {
+        "address": "support@horsenly.com",
+        "confidence": "highest",
+        "source_url": "https://horsenly.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u2019re here to help. support@horsenly.com We usually reply within a day."
+      }
+    ],
+    "role_emails": [
+      "legal@horsenly.com",
+      "support@horsenly.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "agent@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.agent@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated.agent@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated_agent@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designateda@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "horsenly@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.horsenly@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if.horsenly@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if_horsenly@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ifh@horsenly.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If Horsenly",
+        "person_title": "Owner",
+        "source_url": "https://horsenly.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://horsenly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/find/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/host/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/login/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/login/?mode=signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/auth/google/?hzn_sso_start=1&redirect_to&hzn_cb=ZshHn2eTt2TQ",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/terms-of-service/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/reset/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/login/?hzn_mode=magic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/signup/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/auth/google/?hzn_sso_start=1&redirect_to&hzn_cb=EaKkFkH3ZnsG",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://horsenly.com/copyright",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Trail rides, lessons, and guided experiences -- explore authentic experiences hosted by trusted local partners.",
+    "source_urls": [
+      "https://horsenly.com/contact",
+      "https://horsenly.com/help",
+      "https://horsenly.com/pages/contact",
+      "https://horsenly.com/support/contact",
+      "https://horsenly.com/terms-of-service/",
+      "https://horsenly.com/privacy-policy/",
+      "https://horsenly.com/terms-of-service",
+      "https://horsenly.com/privacy-policy",
+      "https://horsenly.com/copyright"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "katicoffee.com",
+    "company_name": "Kati Coffee",
+    "website": "https://katicoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "careers@katicoffee.com",
+        "confidence": "high",
+        "source_url": "https://katicoffee.com/pages/careers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r applications. For career-related inquiries, contact us at careers@katicoffee.com More general questions? Contact us anytime."
+      },
+      {
+        "address": "info@katicoffee.com",
+        "confidence": "high",
+        "source_url": "https://katicoffee.com/pages/reviews",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-18",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "careers@katicoffee.com",
+      "info@katicoffee.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "r.rock@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rock@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round.rock@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round_rock@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roundr@katicoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Rock",
+        "person_title": "President",
+        "source_url": "https://katicoffee.com/pages/our-partners",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://katicoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/all-coffees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/luminous-lighter-roasts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/poised-medium-roasts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/robust-darker-roasts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/serene-decaf-coffees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/harmonic-blends",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/coffee-subscriptions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/give-with-intention",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/brew-day-essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/wholesale-inquiry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/blogs/brew-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/blogs/reflections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/mexico-huatusco",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/ethiopia-yirgacheffe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/papua-new-guinea-highlands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/minerva",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/colombia-andes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/tanzania-peaberry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/products/uganda-rwenzori",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/our-partners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/collections/subscriptions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/help-center",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/policies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katicoffee.com/pages/reviews",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-18"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://katicoffee.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://katicoffee.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://katicoffee.com/pages/wholesale-inquiry",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover freshly roasted specialty coffee beans crafted in Georgetown, TX. Shop whole bean coffee, curated subscriptions, gift sets, and wholesale options. Small-batch, responsibly sourced, roasted to order.",
+    "source_urls": [
+      "https://katicoffee.com/pages/careers",
+      "https://katicoffee.com/pages/reviews"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "loma.co",
+    "company_name": "LOMA",
+    "website": "https://loma.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@loma.co",
+        "confidence": "high",
+        "source_url": "https://loma.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@loma.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://loma.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-25"
+      },
+      {
+        "url": "https://loma.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-21"
+      },
+      {
+        "url": "https://loma.co/about-loma",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/photo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/explore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/explore/glass-etc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/explore/the-ridge-winchelsea-beach",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/directions-to-camber",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loma.co/termsandconditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://loma.co/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A large family home for 14 people by the beach in Camber, Rye, East Sussex.",
+    "source_urls": [
+      "https://loma.co",
+      "https://loma.co/contact",
+      "https://loma.co/about-loma",
+      "https://loma.co/cart",
+      "https://loma.co/photo",
+      "https://loma.co/explore",
+      "https://loma.co/",
+      "https://loma.co/explore/glass-etc",
+      "https://loma.co/explore/the-ridge-winchelsea-beach",
+      "https://loma.co/directions-to-camber",
+      "https://loma.co/termsandconditions"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mapthena.com",
+    "company_name": "MAPTHENA",
+    "website": "https://mapthena.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@mapthena.com",
+        "confidence": "high",
+        "source_url": "https://mapthena.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "deletion of their account and associated data by contacting support@mapthena.com. 7. Security We use industry-standard security measures inc"
+      }
+    ],
+    "role_emails": [
+      "support@mapthena.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "in@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.in@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see.in@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see_in@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seei@mapthena.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See It In",
+        "person_title": "Owner",
+        "source_url": "https://mapthena.com/sms-opt-in",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mapthena.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/map",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/claim",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/sms-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mapthena.com/sms-opt-in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Search real-time assisted living availability near you. Filter by Medicaid, memory care, room type, and more. Contact facilities directly.",
+    "source_urls": [
+      "https://mapthena.com/privacy",
+      "https://mapthena.com/sms-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "omnimarketcards.com",
+    "company_name": "OMNIMARKET CARDS",
+    "website": "https://omnimarketcards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@omnimarketcards.com",
+        "confidence": "high",
+        "source_url": "https://omnimarketcards.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ge constitutes acceptance of the updated terms. Questions: admin@omnimarketcards.com . See also our Privacy Policy . OmniMarket Terms Privacy O"
+      }
+    ],
+    "role_emails": [
+      "admin@omnimarketcards.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://omnimarketcards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://omnimarketcards.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Trading card market intelligence: raw vs graded comps, fee-aware profit and ROI, and live listing discovery.",
+    "source_urls": [
+      "https://omnimarketcards.com/terms",
+      "https://omnimarketcards.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rndi.com",
+    "company_name": "RNDI",
+    "website": "https://rndi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rndi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "RNDI.COM is available for sale.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "valgopak.com",
+    "company_name": "VALGOPAK",
+    "website": "https://valgopak.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "waystone.com",
+    "company_name": "WAYSTONE",
+    "website": "https://waystone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "clientsolutions@waystone.com",
+        "confidence": "high",
+        "source_url": "https://waystone.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "aburke@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "adanley@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "amlnotices@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://www.waystone.com/services/cayman-solutions/cayman-aml-services/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "andrew.smith@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dharty@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "diarmuid.ryan@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "djohnson@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "echow@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jallis@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "karl.midl@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mkazemi@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ngenesan@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "npasea@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nwheeler@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "pervaiz.panjwani@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "proche@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "prudential@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "richard.larnder@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "rwheeler@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ssawhney@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wtas-investorservices@waystone.com",
+        "confidence": "medium",
+        "source_url": "https://waystone.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aburke@waystone.com",
+      "adanley@waystone.com",
+      "amlnotices@waystone.com",
+      "andrew.smith@waystone.com",
+      "clientsolutions@waystone.com",
+      "dharty@waystone.com",
+      "diarmuid.ryan@waystone.com",
+      "djohnson@waystone.com",
+      "echow@waystone.com",
+      "jallis@waystone.com",
+      "karl.midl@waystone.com",
+      "mkazemi@waystone.com",
+      "ngenesan@waystone.com",
+      "npasea@waystone.com",
+      "nwheeler@waystone.com",
+      "pervaiz.panjwani@waystone.com",
+      "proche@waystone.com",
+      "prudential@waystone.com",
+      "richard.larnder@waystone.com",
+      "rwheeler@waystone.com",
+      "ssawhney@waystone.com",
+      "wtas-investorservices@waystone.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.delaney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "delaney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek.delaney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek_delaney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derekd@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Delaney",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heffernan@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lewis@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.lewis@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nancy.lewis@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nancy@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nancy_lewis@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nancyl@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nancy Lewis",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.positions@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open.positions@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open_positions@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "openp@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.heffernan@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul.heffernan@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul_heffernan@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paulh@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Heffernan",
+        "person_title": "Ceo",
+        "source_url": "https://waystone.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "positions@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Positions",
+        "person_title": "President",
+        "source_url": "https://www.waystone.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.sawhney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sanjiv.sawhney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sanjiv@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sanjiv_sawhney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sanjivs@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sawhney@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sanjiv Sawhney",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://waystone.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.jamie@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waystone.jamie@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waystone@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waystone_jamie@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waystonej@waystone.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Waystone Announces Jamie",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://waystone.com/media",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://waystone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waystone.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/locations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/aifm-ucits-management-co-solutions/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/uae-management-company/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/risk-management-regulatory-reporting/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/our-funds/waystone-management-uk-limited/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/board-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/c/articles-press-releases/articles/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/c/articles-press-releases/press-releases/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/news-events/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/#submenu-european-solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/administration-solutions/#submenu-administration-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/regulatory-compliance-solutions/#submenu-regulatory-compliance-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/#submenu-cayman-solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/waystone-etfs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/uk-authorised-corporate-director-acd-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/investment-servicing-trade-execution/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/mifid-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/swiss-fund-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/distribution/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/european-solutions/distribution-2/investment-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/esg-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/our-funds/waystone-managed-funds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/independent-fund-directors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/cayman-platform/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/cayman-private-funds-law-2020/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/cayman-aml-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.waystone.com/services/cayman-solutions/corporate-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://waystone.com/contact",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://waystone.com/contact-us",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://waystone.com/contactus",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://waystone.com/pages/contact",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://waystone.com/pages/contact-us",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://waystone.com/support/contact",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.waystone.com/contact-us/",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.waystone.com/services/european-solutions/aifm-ucits-management-co-solutions/",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.waystone.com/services/european-solutions/uk-authorised-corporate-director-acd-services/",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Waystone is a leading global asset-servicing solutions provider of institutional governance, administration, risk and compliance services.",
+    "source_urls": [
+      "https://waystone.com",
+      "https://waystone.com/contact",
+      "https://waystone.com/support",
+      "https://waystone.com/about",
+      "https://waystone.com/team",
+      "https://waystone.com/contact-us",
+      "https://waystone.com/contactus",
+      "https://waystone.com/about-us",
+      "https://waystone.com/our-team",
+      "https://waystone.com/meet-the-team",
+      "https://waystone.com/leadership",
+      "https://waystone.com/people",
+      "https://waystone.com/press",
+      "https://waystone.com/media",
+      "https://waystone.com/help",
+      "https://waystone.com/pages/contact",
+      "https://waystone.com/pages/contact-us",
+      "https://waystone.com/support/contact",
+      "https://www.waystone.com/locations/",
+      "https://www.waystone.com/people/",
+      "https://www.waystone.com/about-us/",
+      "https://www.waystone.com/contact-us/",
+      "https://www.waystone.com/services/european-solutions/aifm-ucits-management-co-solutions/",
+      "https://www.waystone.com/services/european-solutions/uae-management-company/",
+      "https://www.waystone.com/services/european-solutions/risk-management-regulatory-reporting/",
+      "https://www.waystone.com/our-funds/waystone-management-uk-limited/",
+      "https://www.waystone.com/services/cayman-solutions/board-support/",
+      "https://www.waystone.com/c/articles-press-releases/articles/",
+      "https://www.waystone.com/c/articles-press-releases/press-releases/",
+      "https://www.waystone.com/",
+      "https://www.waystone.com/news-events/",
+      "https://www.waystone.com/careers/",
+      "https://www.waystone.com/services/european-solutions/#submenu-european-solutions",
+      "https://www.waystone.com/services/administration-solutions/#submenu-administration-services",
+      "https://www.waystone.com/services/regulatory-compliance-solutions/#submenu-regulatory-compliance-services",
+      "https://www.waystone.com/services/cayman-solutions/#submenu-cayman-solutions",
+      "https://www.waystone.com/services/waystone-etfs/",
+      "https://www.waystone.com/services/european-solutions/uk-authorised-corporate-director-acd-services/",
+      "https://www.waystone.com/services/european-solutions/investment-servicing-trade-execution/",
+      "https://www.waystone.com/services/european-solutions/mifid-services/",
+      "https://www.waystone.com/services/european-solutions/swiss-fund-solutions/",
+      "https://www.waystone.com/services/european-solutions/distribution/",
+      "https://www.waystone.com/services/european-solutions/distribution-2/investment-solutions/",
+      "https://www.waystone.com/services/esg-solutions/",
+      "https://www.waystone.com/our-funds/waystone-managed-funds/",
+      "https://www.waystone.com/services/cayman-solutions/independent-fund-directors/",
+      "https://www.waystone.com/services/cayman-solutions/cayman-platform/",
+      "https://www.waystone.com/services/cayman-solutions/cayman-private-funds-law-2020/",
+      "https://www.waystone.com/services/cayman-solutions/cayman-aml-services/",
+      "https://www.waystone.com/services/cayman-solutions/corporate-services/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
