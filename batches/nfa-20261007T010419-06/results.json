@@ -1,0 +1,1804 @@
+[
+  {
+    "company_domain": "apphelia.com",
+    "company_name": "Xiscan Limited",
+    "website": "http://www.apphelia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "appliedballisticsllc.com",
+    "company_name": "Applied Ballistics Media Inc",
+    "website": "http://www.appliedballisticsllc.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@appliedballisticsllc.com",
+        "confidence": "highest",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@appliedballisticsllc.com",
+        "confidence": "highest",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bryan.litz@appliedballisticsllc.com",
+        "confidence": "high",
+        "source_url": "http://www.appliedballisticsllc.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-29",
+        "context_snippet": "Contact Ballistics Questions - bryan.litz@appliedballisticsllc.com Sales/Dealer Info/Website - jennifer.litz@appliedballisti"
+      },
+      {
+        "address": "jennifer.litz@appliedballisticsllc.com",
+        "confidence": "high",
+        "source_url": "http://www.appliedballisticsllc.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-29",
+        "context_snippet": "litz@appliedballisticsllc.com Sales/Dealer Info/Website - jennifer.litz@appliedballisticsllc.com \u00a9 2013 | All rights reserved."
+      }
+    ],
+    "role_emails": [
+      "bryan.litz@appliedballisticsllc.com",
+      "info@appliedballisticsllc.com",
+      "jennifer.litz@appliedballisticsllc.com",
+      "orders@appliedballisticsllc.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "hodnett@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.hodnett@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "t.website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisw@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "todd.hodnett@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "todd@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "todd_hodnett@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "toddh@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Todd Hodnett",
+        "person_title": "President",
+        "source_url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "address": "u.states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united.states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united_states@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uniteds@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website@appliedballisticsllc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "http://www.appliedballisticsllc.com/policies/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.appliedballisticsllc.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-24"
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-08"
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-29"
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-23"
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/consulting/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/mobile-lab/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/education/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/ab-quantum/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/policies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.appliedballisticsllc.com/newsletter-signup/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.appliedballisticsllc.com/contact-us",
+        "action": "https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHr00000BD3Vv",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.appliedballisticsllc.com/contact-us/",
+        "action": "https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8&orgId=00DHr00000BD3Vv",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Introducing Applied Ballistics Quantum\u2122, a state-of-the-art platform integrating the most complete ballistics solver and profile management tool for long-range shooting. Featuring an all new user-interface and available for IOS and Android, AB Quantum\u2122 includes a host of new tools and features that ",
+    "source_urls": [
+      "http://www.appliedballisticsllc.com/about-us",
+      "http://www.appliedballisticsllc.com/policies/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "brainbit.com",
+    "company_name": "BRAINBIT INC.",
+    "website": "https://www.brainbit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brainbit.com",
+        "confidence": "highest",
+        "source_url": "https://www.brainbit.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "am Free SDK Order Now info@brainbit.com +1-888-979-2724 BrainBit: Scalable Solut"
+      }
+    ],
+    "role_emails": [
+      "info@brainbit.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brainbit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainbit.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainbit.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainbit.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/brainbit-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainbit.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/brainbit-headband/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/brainbit-flex/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/mindo-headband/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/callibri-sensors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/brainbit-headphones/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/dragoneeg/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/brainbit-flex8/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/hardware-solutions-brainbit-headband-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/callibri-baseball-cap/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/hardware-solutions/custom-solution/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/software-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/software-solutions/neurofit-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/software-solutions/neurorec/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/software-solutions/eeg-waves-app/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/software-solutions/neurofeedback-app/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/solutions/21-channel-eeg-qeeg-software-bundle/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/solutions/brainassistant-brainbit-bundle/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/solutions/attune-brainbit-headband/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/neurofeedback-for-professionals/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/white-label/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/for-developers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/technology/neurofeedback-2-0-ai-ontology-graph-platform/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/technology/neurofeedback-biofeedback-games/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/technology/eeg-dry-electrode-patent/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/areas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/meditation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/sleep/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/education/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/business/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/areas/application-development-performance-coaching/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/areas/neurotechnology-for-psychotherapists/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/other/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/?tag=neurofeedback#am-child-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/?tag=meditation#am-child-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/neurofeedback-for-meditation/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/?tag=neurotechnology#am-child-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/?tag=neuroscience#am-child-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainbit.com/blog/?tag=News#am-child-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brainbit.com",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com",
+        "action": "/Umbraco/surface/feedback/SendContactForm",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/contact-us",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brainbit.com/contactus",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/contactus",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brainbit.com/about-us",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/about-us",
+        "action": "/Umbraco/surface/feedback/SendContactForm",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/about-us/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/about-us/",
+        "action": "/Umbraco/surface/feedback/SendContactForm",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/contact-us/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/contact-us/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brainbit.com/brainbit-team/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brainbit.com/",
+        "action": "/Umbraco/surface/feedback/SendContactForm",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/brainbit-headband/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/brainbit-headband/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/brainbit-flex/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/mindo-headband/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/callibri-sensors/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/brainbit-headphones/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/dragoneeg/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/brainbit-flex8/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/hardware-solutions-brainbit-headband-pro/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/callibri-baseball-cap/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/hardware-solutions/custom-solution/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/software-solutions/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/software-solutions/neurofit-pro/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/software-solutions/neurorec/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/software-solutions/eeg-waves-app/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/software-solutions/neurofeedback-app/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/solutions/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/solutions/21-channel-eeg-qeeg-software-bundle/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/solutions/brainassistant-brainbit-bundle/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/solutions/attune-brainbit-headband/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/neurofeedback-for-professionals/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/white-label/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/for-developers/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/technology/neurofeedback-2-0-ai-ontology-graph-platform/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/technology/neurofeedback-biofeedback-games/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/technology/eeg-dry-electrode-patent/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/areas/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/meditation/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/sleep/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/education/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/business/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/areas/application-development-performance-coaching/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/areas/neurotechnology-for-psychotherapists/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/other/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/?tag=neurofeedback#am-child-blog",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/?tag=meditation#am-child-blog",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/neurofeedback-for-meditation/",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/?tag=neurotechnology#am-child-blog",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/?tag=neuroscience#am-child-blog",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brainbit.com/blog/?tag=News#am-child-blog",
+        "action": "/Umbraco/surface/feedback/SendMailJson",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "EEG, EMG & ECG devices, Software and free SDKs for neuro/biofeedback, wellness & neuroscience R&D. For developers, researchers & specialists. Custom B2B solutions",
+    "source_urls": [
+      "https://www.brainbit.com",
+      "https://www.brainbit.com/contact-us",
+      "https://www.brainbit.com/contactus",
+      "https://www.brainbit.com/about-us",
+      "https://brainbit.com/about-us/",
+      "https://brainbit.com/contact-us/",
+      "https://brainbit.com/brainbit-team/",
+      "https://www.brainbit.com/",
+      "https://brainbit.com/hardware-solutions/",
+      "https://brainbit.com/hardware-solutions/brainbit-headband/",
+      "https://brainbit.com/hardware-solutions/brainbit-flex/",
+      "https://brainbit.com/hardware-solutions/mindo-headband/",
+      "https://brainbit.com/hardware-solutions/callibri-sensors/",
+      "https://brainbit.com/hardware-solutions/brainbit-headphones/",
+      "https://brainbit.com/hardware-solutions/dragoneeg/",
+      "https://brainbit.com/hardware-solutions/brainbit-flex8/",
+      "https://brainbit.com/hardware-solutions/hardware-solutions-brainbit-headband-pro/",
+      "https://brainbit.com/hardware-solutions/callibri-baseball-cap/",
+      "https://brainbit.com/hardware-solutions/custom-solution/",
+      "https://brainbit.com/software-solutions/",
+      "https://brainbit.com/software-solutions/neurofit-pro/",
+      "https://brainbit.com/software-solutions/neurorec/",
+      "https://brainbit.com/software-solutions/eeg-waves-app/",
+      "https://brainbit.com/software-solutions/neurofeedback-app/",
+      "https://brainbit.com/solutions/",
+      "https://brainbit.com/solutions/21-channel-eeg-qeeg-software-bundle/",
+      "https://brainbit.com/solutions/brainassistant-brainbit-bundle/",
+      "https://brainbit.com/solutions/attune-brainbit-headband/",
+      "https://brainbit.com/neurofeedback-for-professionals/",
+      "https://brainbit.com/white-label/",
+      "https://brainbit.com/for-developers/",
+      "https://brainbit.com/technology/neurofeedback-2-0-ai-ontology-graph-platform/",
+      "https://brainbit.com/technology/neurofeedback-biofeedback-games/",
+      "https://brainbit.com/technology/eeg-dry-electrode-patent/",
+      "https://brainbit.com/areas/",
+      "https://brainbit.com/meditation/",
+      "https://brainbit.com/sleep/",
+      "https://brainbit.com/education/",
+      "https://brainbit.com/business/",
+      "https://brainbit.com/areas/application-development-performance-coaching/",
+      "https://brainbit.com/areas/neurotechnology-for-psychotherapists/",
+      "https://brainbit.com/other/",
+      "https://brainbit.com/blog/",
+      "https://brainbit.com/blog/?tag=neurofeedback#am-child-blog",
+      "https://brainbit.com/blog/?tag=meditation#am-child-blog",
+      "https://brainbit.com/blog/neurofeedback-for-meditation/",
+      "https://brainbit.com/blog/?tag=neurotechnology#am-child-blog",
+      "https://brainbit.com/blog/?tag=neuroscience#am-child-blog",
+      "https://brainbit.com/blog/?tag=News#am-child-blog"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 73,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "codeqrdesingsd.com",
+    "company_name": "Xian Far Vision Network Technology Co., Ltd.",
+    "website": "https://zcui.codeqrdesingsd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "doodlegod.com",
+    "company_name": "JoyBits Co Ltd.",
+    "website": "http://www.doodlegod.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ee-toolkit.com",
+    "company_name": "Thomas Gruber",
+    "website": "http://www.ee-toolkit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "explosiveapps.com",
+    "company_name": "Cannonball Consulting",
+    "website": "http://www.explosiveapps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "fanatee.com",
+    "company_name": "Fanatee, Inc.",
+    "website": "http://fanatee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@fanatee.com",
+        "confidence": "highest",
+        "source_url": "http://fanatee.com/cookies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ding us an e-mail or alternatively calling +55 41 1234-5678 contact@fanatee.com Fanatee is a global game studio. We build games for life"
+      },
+      {
+        "address": "hello@fanatee.com",
+        "confidence": "highest",
+        "source_url": "http://fanatee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ontact Get in touch hello@fanatee.com Fanatee is a global game studio. We build games for"
+      },
+      {
+        "address": "privacy@fanatee.com",
+        "confidence": "high",
+        "source_url": "http://fanatee.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ta Luz Advogados Representative: Fernando Bousso E-mail: privacy@fanatee.com 9. Other Provisions We are constantly trying to improve"
+      }
+    ],
+    "role_emails": [
+      "contact@fanatee.com",
+      "hello@fanatee.com",
+      "privacy@fanatee.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://fanatee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/#games",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/#careers",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/engineering",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/product",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/marketing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/human-resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/monetization",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/data",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/quality-assurance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/community",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/content",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/finance-and-administration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/careers/internship-program",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fanatee.com/games/letroca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/cookies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://fanatee.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fanatee.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://fanatee.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fanatee is a global game development studio, founded in Brazil in 2013. We are the creators of CodyCross Crossword Puzzles and Stop Categories Game.",
+    "source_urls": [
+      "http://fanatee.com",
+      "http://fanatee.com/contact",
+      "http://fanatee.com/about",
+      "http://fanatee.com/about-us",
+      "http://fanatee.com/",
+      "http://fanatee.com/#games",
+      "http://fanatee.com/#careers",
+      "http://fanatee.com/careers/engineering",
+      "http://fanatee.com/careers/product",
+      "http://fanatee.com/careers/art",
+      "http://fanatee.com/careers/marketing",
+      "http://fanatee.com/careers/human-resources",
+      "http://fanatee.com/careers/monetization",
+      "http://fanatee.com/careers/data",
+      "http://fanatee.com/careers/quality-assurance",
+      "http://fanatee.com/careers/community",
+      "http://fanatee.com/careers/content",
+      "http://fanatee.com/careers/finance-and-administration",
+      "http://fanatee.com/careers/internship-program",
+      "https://fanatee.com/games/letroca",
+      "http://fanatee.com/cookies",
+      "http://fanatee.com/privacy-policy",
+      "https://fanatee.com/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "nothingai.app",
+    "company_name": "GoinOn, LLC",
+    "website": "https://nothingai.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "onthr.ee",
+    "company_name": "Andre Nitz",
+    "website": "https://onthr.ee/limer/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "palslt.com",
+    "company_name": "mohamed lemine limam",
+    "website": "https://palslt.com/terms.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "phephe.com",
+    "company_name": "phephe.com",
+    "website": "https://phephe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "careers@phephe.com",
+        "confidence": "highest",
+        "source_url": "https://phephe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@phephe.com",
+        "confidence": "highest",
+        "source_url": "https://phephe.com/policies/shipping-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "is through our withdrawal request portal , or by emailing customerservice@phephe.com with your order number and a clear statement that you wish"
+      }
+    ],
+    "role_emails": [
+      "careers@phephe.com",
+      "customerservice@phephe.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://phephe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/products/phe-phe-gift-card",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/pages/shipping-return-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phephe.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "phe phe is a twin-founded fashion brand born in Tribeca, NYC, offering chic essentials, and effortless pieces you\u2019ll wear on repeat. Discover tops, bottoms, and accessories made for everyday style.",
+    "source_urls": [
+      "https://phephe.com",
+      "https://phephe.com/policies/shipping-policy",
+      "https://phephe.com/",
+      "https://phephe.com/products/phe-phe-gift-card",
+      "https://phephe.com/policies/terms-of-service",
+      "https://phephe.com/pages/shipping-return-policy",
+      "https://phephe.com/pages/privacy-policy",
+      "https://phephe.com/pages/faq"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
