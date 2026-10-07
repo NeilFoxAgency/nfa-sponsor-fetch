@@ -1,0 +1,4323 @@
+[
+  {
+    "company_domain": "firn.com",
+    "company_name": "FIRN",
+    "website": "https://firn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@firn.com",
+        "confidence": "highest",
+        "source_url": "https://firn.com/pages/cgv",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uivants du Code de la consommation en adressant un email \u00e0 care@firn.com en indiquant les informations suivantes : n\u00b0 de commande,"
+      },
+      {
+        "address": "contact@firn.com",
+        "confidence": "highest",
+        "source_url": "https://firn.com/pages/cgv",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00e0 : FIRN \u2013 35 rue de Courcelles \u2013 75008 Paris Email : contact@firn.com En cas de r\u00e9clamation, le Client peut saisir la CNIL (Com"
+      },
+      {
+        "address": "sacha@firn.com",
+        "confidence": "highest",
+        "source_url": "https://firn.com/pages/conditions-utilisation",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u2013 75008 Paris Responsable publication : Sacha Bostoni \u2013 sacha@firn.com Le responsable publication est une personne physique. W"
+      }
+    ],
+    "role_emails": [
+      "care@firn.com",
+      "contact@firn.com",
+      "sacha@firn.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.stabenrath@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clmence.stabenrath@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clmence@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clmence_stabenrath@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clmences@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stabenrath@firn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cl\u00e9mence de Stabenrath",
+        "person_title": null,
+        "source_url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://firn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/diagnostique_selection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/boutiques",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/customer_authentication/redirect?locale=fr\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/creme-riche-longevite-cellulaire-nad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/charly-salvator-x-firn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/nouveautes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/vitamine-c",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/routines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/cheveux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/cremes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/serums",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/maquillage-soin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/nettoyants-et-lotions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/masque-et-gommage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/contour-des-yeux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/routine-repulpante-contour-des-levres",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/corps-et-cheveux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/complements-alimentaires",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/solaires",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/tous-les-produits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/rides-et-ridules",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/teint-terne",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/taches-et-marques",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/peau-seche-et-deshydratee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/peau-grasse-et-imperfections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/blogs/journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/biotechnologie-stm30",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/dr-zulli",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/notre-histoire",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/one-percent-for-farming",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/diagnostic-boutiques",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/blogs/journal/article-piliers-de-la-longevite-interview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/collections/tous-les-soins-visage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/creme-riche-longevite-cellulaire-nad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/creme-regenerante-multi-corrective",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-bonne-mine-unifiant-medium",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-bonne-mine-unifiant-fair",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-bonne-mine-unifiant-light",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-bonne-mine-unifiant-light-medium",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-unifiant-bonne-mine-medium-gold",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/products/lait-unifiant-bonne-mine-medium-dark",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/cgv",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/conditions-utilisation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/politique-de-confidentialite",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firn.com/pages/politique-de-retours-et-livraison",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://firn.com/pages/contact",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Les soins FIRN augmentent la capacit\u00e9 naturelle de la peau \u00e0 se r\u00e9g\u00e9n\u00e9rer gr\u00e2ce au STM30\u00ae, un actif biotechnologique d\u00e9velopp\u00e9 par le Dr. Fred Z\u00fclli.",
+    "source_urls": [
+      "https://firn.com/pages/faq",
+      "https://firn.com/pages/cgv",
+      "https://firn.com/pages/conditions-utilisation",
+      "https://firn.com/pages/politique-de-confidentialite",
+      "https://firn.com/pages/politique-de-retours-et-livraison"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "frequency.com",
+    "company_name": "FREQUENCY",
+    "website": "https://frequency.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@frequency.com",
+        "confidence": "highest",
+        "source_url": "https://frequency.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ructions included in those emails, or you can contact us at privacy@frequency.com. Information obtained regarding third parties If you provid"
+      },
+      {
+        "address": "support@frequency.com",
+        "confidence": "highest",
+        "source_url": "https://frequency.com/news-local",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@frequency.com",
+      "support@frequency.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.frequency@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Frequency",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "advertising@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at.frequency@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Frequency",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Frequency",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at_frequency@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Frequency",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "atf@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Frequency",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.discusses@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison Discusses",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.harrison@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "black@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blair.discusses@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison Discusses",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blair.harrison@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blair@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blair_discusses@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison Discusses",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blair_harrison@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blaird@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison Discusses",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blairh@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.strategy@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief.strategy@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief_strategy@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chiefs@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Distribution Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.media@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.pelliccione@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "damian.pelliccione@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "damian@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "damian_pelliccione@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "damianp@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "discusses@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison Discusses",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "distribution.cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Distribution Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "distribution@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Distribution Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "distribution_cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Distribution Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "distributionc@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Distribution Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dyn.media@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dyn@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dyn_media@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dynm@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.up@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.vice@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "efficiently.up@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "efficiently@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "efficiently_up@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "efficientlyu@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eskandani@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "event@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive.vice@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive_vice@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executivev@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.studio@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.videos@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fargo@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "february@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frequency.studio@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frequency@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frequency_studio@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frequencys@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "funniest.videos@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "funniest@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "funniest_videos@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "funniestv@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrison@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blair Harrison",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "higgins@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "intelligence@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Intelligence",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "it@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.fargo@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.higgins@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason.higgins@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason_higgins@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jasonh@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Higgins",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jesse.fargo@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jesse@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jesse_fargo@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jessef@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jesse Fargo",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon.cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon_cohen@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonc@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Cohen",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keating@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.black@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.february@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "last.february@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "last@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "last_february@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lastf@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Last February",
+        "person_title": "Business Development",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa.black@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa_black@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisab@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Black",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.eskandani@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.event@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "main.event@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "main@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "main_event@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maine@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Main Event",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "media@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dyn Media",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mori.eskandani@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mori@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mori_eskandani@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morie@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mori Eskandani",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pelliccione@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Damian Pelliccione",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.keating@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger.keating@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger_keating@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rogerk@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Keating",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.advertising@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.intelligence@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Intelligence",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scene.advertising@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scene.intelligence@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Intelligence",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scene@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scene_advertising@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scene_intelligence@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Intelligence",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scenea@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Advertising",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scenei@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scene Intelligence",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strategy@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Strategy",
+        "person_title": "Business Development",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "studio@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frequency Studio",
+        "person_title": "Co-Founder",
+        "source_url": "https://frequency.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "up@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Efficiently Set Up",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "videos@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Funniest Videos",
+        "person_title": "Founder",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.you@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "We Got You",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "we.you@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "We Got You",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "we@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "We Got You",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "we_you@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "We Got You",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wey@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "We Got You",
+        "person_title": "Ceo",
+        "source_url": "https://frequency.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.it@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "you.it@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "you@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "you_it@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "youi@frequency.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "You Want It",
+        "person_title": "Ceo",
+        "source_url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://frequency.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frequency.com/news/frequency-launches-managed-channel-services-to-support-rights-holders-and-brands-creating-premium-fast-channels",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frequency.com/news/frequency-launches-in-scene-advertising-to-accelerate-stream-tv-monetization",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/channel-creation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/global-distribution-network",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/live-sports-programming",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/news-local",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/managed-channel-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/studio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/ingest",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/manage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/schedule",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/graphics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/live",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/analyze",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/distributors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/aws-partnership",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frequency.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frequency.com/news/pokergo-turns-to-frequency-to-expand-fast-channel-presence",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Frequency builds enterprise software and services for operating and monetizing linear and live streaming channels across FAST, OTT, and CTV platforms.",
+    "source_urls": [
+      "https://frequency.com/news-local",
+      "https://frequency.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "frontrank.com",
+    "company_name": "FRONTRANK",
+    "website": "https://frontrank.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@frontrank.com",
+        "confidence": "highest",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@frontrank.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "agency@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.agency@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.agency@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_agency@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitala@frontrank.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Agency",
+        "person_title": "Owner",
+        "source_url": "https://frontrank.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://frontrank.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-08-12"
+      },
+      {
+        "url": "https://frontrank.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/signin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/blog?featured=true",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frontrank.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "FrontRank automatically researches keywords, writes SEO-optimized articles, and publishes them to your site daily \u2014 helping you build topical authority and get cited by ChatGPT, Claude, Gemini, and Perplexity.",
+    "source_urls": [
+      "https://frontrank.com",
+      "https://frontrank.com/",
+      "https://frontrank.com/privacy",
+      "https://frontrank.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getkneel.com",
+    "company_name": "KNEEL",
+    "website": "https://getkneel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@getkneel.com",
+        "confidence": "high",
+        "source_url": "https://getkneel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@kneel.app",
+        "confidence": "high",
+        "source_url": "https://getkneel.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@kneel.app",
+        "confidence": "high",
+        "source_url": "https://getkneel.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@getkneel.com",
+      "legal@kneel.app",
+      "privacy@kneel.app"
+    ],
+    "email_candidates": [
+      {
+        "address": "al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holvoet et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holvoet.al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holvoet et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holvoet@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holvoet et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holvoet_al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holvoet et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holvoeta@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holvoet et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.play@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pet.play@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pet@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pet_play@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "petp@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "play@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pet Play",
+        "person_title": "Owner",
+        "source_url": "https://getkneel.com/blog/types-of-bdsm",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sagarin.al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sagarin@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sagarin_al@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sagarina@getkneel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sagarin et al.",
+        "person_title": null,
+        "source_url": "https://getkneel.com/blog/what-is-flr",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://getkneel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/secure-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/#features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/#download",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/rituals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/permission-requests",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/tasks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/wellness",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/consequences",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/points-accountability",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/chastity-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/hidden-release-date",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/locktober",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/contracts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/mantras",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/shared-notes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/instant-requests",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/scheduled-check-ins",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/hard-self-lock",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/release-photo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/pause-mode",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/multiple-dynamics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/solo-mode",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/guide/data-export",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/types-of-dominants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/chaster-app-review",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/chastisafe-review",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/obedience-alternative",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/femdom-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/what-is-flr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/types-of-bdsm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/bdsm-terms-glossary",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/submissive-training-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/best-ds-relationship-apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/blog/how-to-structure-your-flr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getkneel.com/delete-account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Tasks, rituals, chastity, consequences, and contracts. The daily structure of a D/s dynamic, in one private app. Solo or with a partner. Free for iOS & Android.",
+    "source_urls": [
+      "https://getkneel.com",
+      "https://getkneel.com/support",
+      "https://getkneel.com/about",
+      "https://getkneel.com/guide/secure-media",
+      "https://getkneel.com/",
+      "https://getkneel.com/#features",
+      "https://getkneel.com/#pricing",
+      "https://getkneel.com/#faq",
+      "https://getkneel.com/guide",
+      "https://getkneel.com/blog",
+      "https://getkneel.com/privacy",
+      "https://getkneel.com/#download",
+      "https://getkneel.com/guide/rituals",
+      "https://getkneel.com/guide/permission-requests",
+      "https://getkneel.com/guide/tasks",
+      "https://getkneel.com/guide/wellness",
+      "https://getkneel.com/guide/consequences",
+      "https://getkneel.com/guide/points-accountability",
+      "https://getkneel.com/chastity-app",
+      "https://getkneel.com/guide/hidden-release-date",
+      "https://getkneel.com/locktober",
+      "https://getkneel.com/guide/contracts",
+      "https://getkneel.com/guide/mantras",
+      "https://getkneel.com/guide/shared-notes",
+      "https://getkneel.com/guide/instant-requests",
+      "https://getkneel.com/guide/scheduled-check-ins",
+      "https://getkneel.com/guide/hard-self-lock",
+      "https://getkneel.com/guide/release-photo",
+      "https://getkneel.com/guide/pause-mode",
+      "https://getkneel.com/guide/multiple-dynamics",
+      "https://getkneel.com/guide/solo-mode",
+      "https://getkneel.com/guide/data-export",
+      "https://getkneel.com/blog/types-of-dominants",
+      "https://getkneel.com/blog/chaster-app-review",
+      "https://getkneel.com/blog/chastisafe-review",
+      "https://getkneel.com/obedience-alternative",
+      "https://getkneel.com/blog/femdom-guide",
+      "https://getkneel.com/blog/what-is-flr",
+      "https://getkneel.com/blog/types-of-bdsm",
+      "https://getkneel.com/blog/bdsm-terms-glossary",
+      "https://getkneel.com/blog/submissive-training-guide",
+      "https://getkneel.com/blog/best-ds-relationship-apps",
+      "https://getkneel.com/blog/how-to-structure-your-flr",
+      "https://getkneel.com/terms",
+      "https://getkneel.com/delete-account"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getmokd.com",
+    "company_name": "MOKD",
+    "website": "https://getmokd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@getmokd.com",
+        "confidence": "high",
+        "source_url": "https://getmokd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@getmokd.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getmokd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "mokd is the custom order platform for t-shirt makers. Request, proof, approval, payment, production and delivery in one place. Join the waitlist for founding pricing.",
+    "source_urls": [
+      "https://getmokd.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getripstand.com",
+    "company_name": "RIP STAND",
+    "website": "https://getripstand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getripstand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/pages/about-rip-stand",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/products/rip-stand-surfboard-repair-stand",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getripstand.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getripstand.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getripstand.com/pages/about-rip-stand",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Rip Stand",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getvaliantai.com",
+    "company_name": "VALIANT AI",
+    "website": "https://getvaliantai.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "r.sprint@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review.sprint@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "review_sprint@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reviews@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sprint@getvaliantai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Review Generation Sprint",
+        "person_title": "Owner",
+        "source_url": "https://getvaliantai.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://getvaliantai.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getvaliantai.com",
+        "action": "https://formspree.io/f/xeenzjzd",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We build end-to-end client acquisition systems for service-based businesses. Delivered in 14 days. You own it forever.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "harborhaus.com",
+    "company_name": "HARBOR HAUS",
+    "website": "https://harborhaus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "gifts@harborhaus.com",
+        "confidence": "highest",
+        "source_url": "https://harborhaus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "gifts@harborhaus.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.harri@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.harri@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_harri@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danh@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harri@harborhaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Harri",
+        "person_title": "Owner",
+        "source_url": "https://harborhaus.com/events.php",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://harborhaus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborhaus.com/index.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborhaus.com/wine.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborhaus.com/events.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborhaus.com/bed-breakfast.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Without a doubt, the most frequently asked question in the restaurant is ''Can we have a table with a view?'' Fortunately, that's an easy request to fill. The numerous picture windows provide each guest with a beautiful view of Lake Superior and marine traffic in the harbor.",
+    "source_urls": [
+      "https://harborhaus.com",
+      "https://harborhaus.com/index.php"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "havo.com",
+    "company_name": "HAVO",
+    "website": "https://havo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "i.scheepmaker@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dse markt Ilona spreekt Engels, Nederlands en Duits e. i.scheepmaker@havo.com t. +31 (0)341 741 358 Wijnan"
+      },
+      {
+        "address": "info@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+31 (0)341 560 854 info@havo.com nl en de fr Sharepoint Vaca"
+      },
+      {
+        "address": "j.klooster@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ge markten Jan spreekt Engels, Nederlands en Duits e. j.klooster@havo.com t. +31 (0)341 741 312 Ilona Sc"
+      },
+      {
+        "address": "l.guerin@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "p.vanderhaar@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "markten Peter spreekt Engels, Nederlands en Spaans e. p.vanderhaar@havo.com t. +31 (0)341 741 364 Jan va"
+      },
+      {
+        "address": "r.vankampen@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "arkt Rob spreekt Engels, Frans, Nederlands en Duits e. r.vankampen@havo.com t. +31 (0)341 741 321 Anienk"
+      },
+      {
+        "address": "ra@havo.com",
+        "confidence": "highest",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "iksmaterialen Anienke spreekt Engels en Nederlands e. ra@havo.com t. +31 (0)341 741 352 Havo b."
+      },
+      {
+        "address": "w.grootkoerkamp@havo.com",
+        "confidence": "high",
+        "source_url": "https://havo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "markten Wijnand spreekt Engels, Nederlands en Duits e. w.grootkoerkamp@havo.com t. +31 (06) 51039669 Rob va"
+      }
+    ],
+    "role_emails": [
+      "i.scheepmaker@havo.com",
+      "info@havo.com",
+      "j.klooster@havo.com",
+      "l.guerin@havo.com",
+      "p.vanderhaar@havo.com",
+      "r.vankampen@havo.com",
+      "ra@havo.com",
+      "w.grootkoerkamp@havo.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "journal@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.journal@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sustainability.journal@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sustainability@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sustainability_journal@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sustainabilityj@havo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sustainability Journal",
+        "person_title": "Ceo",
+        "source_url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://havo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/milieumanagement/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/de/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/sharepoint/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/vacatures/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/assortiment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/assortiment/private-label/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/assortiment/creall/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/wetgeving/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/duurzaamheid/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/klanten/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/aankomende-wetswijzigingen-eu-wetten/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/brainstormdag-duurzaamheid/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/cepe-over-conserveermiddelen/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/creall-fingerpaint-getest-door-oko-test/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/creall-wordt-conserveermiddelvrij-/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/duurzame-verpakking-creall-eco-color/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/feestelijke-opening-nieuwe-vleugel-havo-b-v-/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/havo-b-v-in-rabo-co-magazine/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/havo-medewerkers-blijven-een-leven-lang-leren/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/havo-statement-on-coronavirus/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/havo-wint-duurzaamheid-award/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/hoe-veganistisch-zijn-creatieve-producten-/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/kijkje-achter-de-schermen/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/let-op-verandering-wetgeving/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/lid-van-sedex/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/speelzand-geproduceerd-door-havo-is-veilig/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/sustainability-journal-over-2023/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/sustainability-journal-over-2024/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/sustainable-development-goals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/trends-en-ontwikkelingen-2024/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/trends-hobby-en-scholenmarkt-2021/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/trends-hobby-en-scholenmarkt-2022/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/verandering-eu-wetgeving/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/over-ons/nieuws/verschil-nordic-swan-ecolabel-en-conserveermiddelvrij/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://havo.com/nl/privacy-en-cookieverklaring/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stel een passend school of hobby assortiment samen. Onder eigen merknaam of met Creall creatieve producten. Voor internationale discounters, retailers en schoolleveranciers.",
+    "source_urls": [
+      "https://havo.com",
+      "https://havo.com/contact",
+      "https://havo.com/nl/over-ons/nieuws/milieumanagement/",
+      "https://havo.com/nl/contact/",
+      "https://havo.com/nl/",
+      "https://havo.com/en/",
+      "https://havo.com/de/",
+      "https://havo.com/fr/",
+      "https://havo.com/nl/sharepoint/",
+      "https://havo.com/nl/vacatures/",
+      "https://havo.com/nl/assortiment/",
+      "https://havo.com/nl/assortiment/private-label/",
+      "https://havo.com/nl/assortiment/creall/",
+      "https://havo.com/nl/wetgeving/",
+      "https://havo.com/nl/duurzaamheid/",
+      "https://havo.com/nl/over-ons/",
+      "https://havo.com/nl/over-ons/klanten/",
+      "https://havo.com/nl/over-ons/nieuws/",
+      "https://havo.com/nl/over-ons/nieuws/aankomende-wetswijzigingen-eu-wetten/",
+      "https://havo.com/nl/over-ons/nieuws/brainstormdag-duurzaamheid/",
+      "https://havo.com/nl/over-ons/nieuws/cepe-over-conserveermiddelen/",
+      "https://havo.com/nl/over-ons/nieuws/creall-fingerpaint-getest-door-oko-test/",
+      "https://havo.com/nl/over-ons/nieuws/creall-wordt-conserveermiddelvrij-/",
+      "https://havo.com/nl/over-ons/nieuws/duurzame-verpakking-creall-eco-color/",
+      "https://havo.com/nl/over-ons/nieuws/feestelijke-opening-nieuwe-vleugel-havo-b-v-/",
+      "https://havo.com/nl/over-ons/nieuws/havo-b-v-in-rabo-co-magazine/",
+      "https://havo.com/nl/over-ons/nieuws/havo-medewerkers-blijven-een-leven-lang-leren/",
+      "https://havo.com/nl/over-ons/nieuws/havo-publiceert-sustainability-journal-2025/",
+      "https://havo.com/nl/over-ons/nieuws/havo-statement-on-coronavirus/",
+      "https://havo.com/nl/over-ons/nieuws/havo-wint-duurzaamheid-award/",
+      "https://havo.com/nl/over-ons/nieuws/hoe-veganistisch-zijn-creatieve-producten-/",
+      "https://havo.com/nl/over-ons/nieuws/kijkje-achter-de-schermen/",
+      "https://havo.com/nl/over-ons/nieuws/let-op-verandering-wetgeving/",
+      "https://havo.com/nl/over-ons/nieuws/lid-van-sedex/",
+      "https://havo.com/nl/over-ons/nieuws/speelzand-geproduceerd-door-havo-is-veilig/",
+      "https://havo.com/nl/over-ons/nieuws/sustainability-journal-over-2023/",
+      "https://havo.com/nl/over-ons/nieuws/sustainability-journal-over-2024/",
+      "https://havo.com/nl/over-ons/nieuws/sustainable-development-goals/",
+      "https://havo.com/nl/over-ons/nieuws/trends-en-ontwikkelingen-2024/",
+      "https://havo.com/nl/over-ons/nieuws/trends-hobby-en-scholenmarkt-2021/",
+      "https://havo.com/nl/over-ons/nieuws/trends-hobby-en-scholenmarkt-2022/",
+      "https://havo.com/nl/over-ons/nieuws/verandering-eu-wetgeving/",
+      "https://havo.com/nl/over-ons/nieuws/verschil-nordic-swan-ecolabel-en-conserveermiddelvrij/",
+      "https://havo.com/nl/faq/",
+      "https://havo.com/nl/privacy-en-cookieverklaring/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "herism.com",
+    "company_name": "HERISM",
+    "website": "https://herism.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@herism.com",
+        "confidence": "highest",
+        "source_url": "https://herism.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "formulate for the thousand nights, not the single morning. hello@herism.com Text updates Sign up I agree to receive recurring automated"
+      }
+    ],
+    "role_emails": [
+      "hello@herism.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://herism.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/glp-wellness",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/text-alerts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/#science",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/policies#sms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/policies#privacy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/policies#terms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/policies#shipping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://herism.com/policies#returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://herism.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premium skincare on a longer horizon: four formulas built for the barrier, the matrix, and the thousand nights that compound.",
+    "source_urls": [
+      "https://herism.com",
+      "https://herism.com/contact",
+      "https://herism.com/about",
+      "https://herism.com/",
+      "https://herism.com/shop",
+      "https://herism.com/journal",
+      "https://herism.com/glp-wellness",
+      "https://herism.com/text-alerts",
+      "https://herism.com/cart",
+      "https://herism.com/#science",
+      "https://herism.com/policies#sms",
+      "https://herism.com/policies#privacy",
+      "https://herism.com/policies#terms",
+      "https://herism.com/policies#shipping",
+      "https://herism.com/policies#returns"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "highthere.com",
+    "company_name": "HIGH THERE!",
+    "website": "https://highthere.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "app.support@highthere.com",
+        "confidence": "medium",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacyofficer@highthere.com",
+        "confidence": "medium",
+        "source_url": "https://highthere.com/policy/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eprivacyofficer@highthere.com",
+        "confidence": "medium",
+        "source_url": "https://highthere.com/policy/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "app.support@highthere.com",
+      "privacyofficer@highthere.com",
+      "u003eprivacyofficer@highthere.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.clifford@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.innovation@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.state@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "california@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "callaghan.innovation@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "callaghan@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "callaghan_innovation@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "callaghani@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.clifford@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_clifford@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrisc@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clifford@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Clifford",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colorado.state@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colorado@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colorado_state@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colorados@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.there@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high.there@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high_there@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hight@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hyer@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innovation@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Callaghan Innovation",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.pharm@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ora.pharm@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ora@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ora_pharm@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "orap@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.hyer@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pen.hyer@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pen@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pen_hyer@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "penh@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pen Hyer",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pharm@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ora Pharm",
+        "person_title": "Ceo",
+        "source_url": "https://highthere.com/company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.california@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southern.california@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southern@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southern_california@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southernc@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Southern California",
+        "person_title": "Founder",
+        "source_url": "https://highthere.com/og-kush",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "state@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colorado State",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/pets-and-cbd",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "there@highthere.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High There",
+        "person_title": "Owner",
+        "source_url": "https://highthere.com/policy/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://highthere.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/learn/beginners/contact-high-real-thing",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/pets-and-cbd",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/cannabis-and-pets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/cannabis-beauty-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/coffee-and-cannabis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/cannabis-law",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/the-munchies-explained",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/og-kush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/cannabis-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/appetite-thc-glp1s",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/policy/affiliate-disclosure",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/news/legalization/delaware-passes-cannabis-legalization",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/news/cbd-water-sales-surge-142-two-years",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/learn/how-to/detox-from-thc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/products/get-lifted-new-g-pen-hyer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/policy/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/policy/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/policy/cookies-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://highthere.com/policy/privacy-policy#sell-data",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://highthere.com/contact-us",
+        "action": "#",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Modern Cannabis Culture Resource",
+    "source_urls": [
+      "https://highthere.com/policy/privacy-policy",
+      "https://highthere.com/policy/terms-of-service",
+      "https://highthere.com/policy/cookies-policy",
+      "https://highthere.com/policy/privacy-policy#sell-data"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "honeyp.com",
+    "company_name": "HONEYP",
+    "website": "https://honeyp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://honeyp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "honeyp.com is for sale on Spaceship. Secure checkout and quick transfer. See all purchase options. No hidden fees.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 25
+  }
+]
