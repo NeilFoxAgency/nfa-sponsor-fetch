@@ -1,0 +1,2987 @@
+[
+  {
+    "company_domain": "arche.com",
+    "company_name": "ARCH-E",
+    "website": "https://arche.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bienvenue@arche.com",
+        "confidence": "medium",
+        "source_url": "https://www.arche.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03",
+        "context_snippet": ""
+      },
+      {
+        "address": "myarche@arche.com",
+        "confidence": "medium",
+        "source_url": "https://www.arche.com/world_en/",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-08",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bienvenue@arche.com",
+      "myarche@arche.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.arche.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      },
+      {
+        "url": "https://www.arche.com/contacts",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-26"
+      },
+      {
+        "url": "https://www.arche.com/world_en/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-08"
+      },
+      {
+        "url": "https://www.arche.com/us_en/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-16"
+      },
+      {
+        "url": "https://www.arche.com/fr_fr/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-08"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.arche.com/contacts",
+        "action": "https://www.arche.com/recaptcha/index/save/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "D\u00e9couvrez la nouvelle collection de chaussures arche pour femme et homme. \u2713 Livraison gratuite d\u00e8s 250\u20ac \u2713 Retrait en boutique \u2713 Un savoir-faire fran\u00e7ais depuis 1968",
+    "source_urls": [
+      "https://www.arche.com",
+      "https://www.arche.com/world_en/",
+      "https://www.arche.com/us_en/",
+      "https://www.arche.com/fr_fr/"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 38
+  },
+  {
+    "company_domain": "biatech.com",
+    "company_name": "BIATECH",
+    "website": "https://biatech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@biatech.com",
+        "confidence": "highest",
+        "source_url": "https://biatech.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he form sends your submitted details by email to BiaTech at info@biatech.com. The website does not store pilot form submissions in an ap"
+      }
+    ],
+    "role_emails": [
+      "info@biatech.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "hartwig@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.hartwig@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathaniel.hartwig@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathaniel@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathaniel_hartwig@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathanielh@biatech.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathaniel Hartwig",
+        "person_title": "Founder",
+        "source_url": "https://biatech.com/company/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://biatech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "url": "https://biatech.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/company/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/company/team",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/platform",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/smart-facilities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/drilling-intelligence",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/asset-integrity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/pilot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biatech.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://biatech.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://biatech.com/pilot",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BiaTech\u2019s BiaSense platform helps facility, drilling, and asset-integrity teams turn existing operating data into physics-grounded decisions.",
+    "source_urls": [
+      "https://biatech.com",
+      "https://biatech.com/company",
+      "https://biatech.com/company/about",
+      "https://biatech.com/company/team",
+      "https://biatech.com/",
+      "https://biatech.com/platform",
+      "https://biatech.com/smart-facilities",
+      "https://biatech.com/drilling-intelligence",
+      "https://biatech.com/asset-integrity",
+      "https://biatech.com/how-it-works",
+      "https://biatech.com/pilot",
+      "https://biatech.com/blog",
+      "https://biatech.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "counterwell.co",
+    "company_name": "COUNTERWELL",
+    "website": "https://counterwell.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@counterwell.ai",
+        "confidence": "highest",
+        "source_url": "https://counterwell.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@counterwell.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://counterwell.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/research",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/marketplace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/local",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/offer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/auto",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://counterwell.co/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Everyone you buy from negotiates for a living. Now you do too. Screenshot a listing and Counterwell writes the exact message to send \u2014 with the number in it, the reasoning behind it, and every offer tracked against the limit you set.",
+    "source_urls": [
+      "https://counterwell.co",
+      "https://counterwell.co/research",
+      "https://counterwell.co/marketplace",
+      "https://counterwell.co/local",
+      "https://counterwell.co/auto",
+      "https://counterwell.co/privacy.html",
+      "https://counterwell.co/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "drydenwatchco.com",
+    "company_name": "Dryden Watch Co",
+    "website": "https://drydenwatchco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@drydenwatchco.com",
+        "confidence": "high",
+        "source_url": "https://drydenwatchco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@drydenwatchco.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.friday@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "black.friday@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "black@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "black_friday@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blackf@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.diver@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrono.diver@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrono@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrono_diver@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chronod@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "co@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Co",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.co@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Co",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.company@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diver@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chrono Diver",
+        "person_title": "Owner",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dryden.co@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Co",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dryden.company@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dryden@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dryden_co@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Co",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dryden_company@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "drydenc@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dryden Watch Company",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "friday@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Friday",
+        "person_title": "President",
+        "source_url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.show@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heartland.show@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heartland@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heartland_show@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heartlands@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "show@drydenwatchco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heartland Watch Show",
+        "person_title": "Founder",
+        "source_url": "https://drydenwatchco.com/blogs/the-journal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://drydenwatchco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/about-dryden-watch-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/media-requests",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/dryden-watches",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/dryden-heartlander-automatic-field-watch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/dryden-pathfinder-automatic-diver-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/dryden-chrono-diver",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/dryden-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/leather-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/nylon-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/wool-watch-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/rubber-watch-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/canvas-watch-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/field-watch-band",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/18mm-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/20mm-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/22mm-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/collections/watch-straps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-velocity-rally-leather-watch-band-italian-pueblo-veg-tan-racing-strap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-vintage-taper-leather-watch-band-oil-waxed-cowhide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/reviews",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/schedule-a-visit-kansas-city",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/blogs/the-journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/pages/dryden-upcoming-events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/account/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-prairie-green",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-prairie-green?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-black-gold",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-black-gold?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-sunburst",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-sunburst?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-autumn-rust",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-autumn-rust?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-gunmetal-gray",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-gunmetal-gray?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-full-lume",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-full-lume?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-38mm-automatic-field-watch-goldfinch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-38mm-automatic-field-watch-goldfinch?section_id=quick-view",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-polar-vintage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://drydenwatchco.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Dryden Watch Co. creates classic watches for modern adventures. Proudly based in Kansas City and assembled in the USA. Explore our automatic and solar collections today.",
+    "source_urls": [
+      "https://drydenwatchco.com",
+      "https://drydenwatchco.com/pages/contact-us",
+      "https://drydenwatchco.com/pages/about-dryden-watch-company",
+      "https://drydenwatchco.com/pages/media-requests",
+      "https://drydenwatchco.com/search",
+      "https://drydenwatchco.com/",
+      "https://drydenwatchco.com/collections/dryden-watches",
+      "https://drydenwatchco.com/pages/dryden-heartlander-automatic-field-watch",
+      "https://drydenwatchco.com/collections/dryden-heartlander-solar-collection",
+      "https://drydenwatchco.com/pages/dryden-pathfinder-automatic-diver-collection",
+      "https://drydenwatchco.com/collections/dryden-chrono-diver",
+      "https://drydenwatchco.com/pages/dryden-watch-bands",
+      "https://drydenwatchco.com/collections/leather-straps",
+      "https://drydenwatchco.com/collections/nylon-straps",
+      "https://drydenwatchco.com/collections/wool-watch-straps",
+      "https://drydenwatchco.com/collections/rubber-watch-straps",
+      "https://drydenwatchco.com/collections/canvas-watch-straps",
+      "https://drydenwatchco.com/collections/field-watch-band",
+      "https://drydenwatchco.com/collections/18mm-watch-bands",
+      "https://drydenwatchco.com/collections/20mm-watch-bands",
+      "https://drydenwatchco.com/collections/22mm-watch-bands",
+      "https://drydenwatchco.com/collections/watch-straps",
+      "https://drydenwatchco.com/products/dryden-velocity-rally-leather-watch-band-italian-pueblo-veg-tan-racing-strap",
+      "https://drydenwatchco.com/products/dryden-vintage-taper-leather-watch-band-oil-waxed-cowhide",
+      "https://drydenwatchco.com/pages/reviews",
+      "https://drydenwatchco.com/pages/schedule-a-visit-kansas-city",
+      "https://drydenwatchco.com/blogs/the-journal",
+      "https://drydenwatchco.com/pages/dryden-upcoming-events",
+      "https://drydenwatchco.com/account",
+      "https://drydenwatchco.com/account/login",
+      "https://drydenwatchco.com/account/register",
+      "https://drydenwatchco.com/cart",
+      "https://drydenwatchco.com/products/dryden-chrono-diver-gen-2-pvd-vintage",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-prairie-green",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-black-gold",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-sunburst",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-autumn-rust",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-blue-crimson",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-gunmetal-gray",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-full-lume",
+      "https://drydenwatchco.com/products/dryden-heartlander-38mm-automatic-field-watch-goldfinch",
+      "https://drydenwatchco.com/products/dryden-heartlander-automatic-field-watch-polar-vintage"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "qaraahfilms.com",
+    "company_name": "QARAAH FILMS",
+    "website": "https://qaraahfilms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "qaraah@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.qaraah@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yash.qaraah@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yash@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yash_qaraah@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yashq@qaraahfilms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yash Qaraah",
+        "person_title": "Founder",
+        "source_url": "https://qaraahfilms.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://qaraahfilms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/index.php/home/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/browse/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/watch-live/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/register/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/profile/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/login/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qaraahfilms.com/index.php/register/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://qaraahfilms.com/pages/contact",
+        "action": "https://qaraahfilms.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://qaraahfilms.com/support/contact",
+        "action": "https://qaraahfilms.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "(note:) Please avoid sharing passwords this will cause issues with your account!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "queencityaesthetics.com",
+    "company_name": "QUEEN CITY AESTHETICS",
+    "website": "https://queencityaesthetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "m.the@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.the@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_the@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meett@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@queencityaesthetics.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet The",
+        "person_title": "Founder",
+        "source_url": "https://queencityaesthetics.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://queencityaesthetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://queencityaesthetics.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/treatments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/blank",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/payment-plans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.queencityaesthetics.com/accessibility-statement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://queencityaesthetics.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://queencityaesthetics.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/treatments",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/blank",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/blog",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/payment-plans",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/privacy-policy",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/terms-conditions",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/refund-policy",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/shipping-policy",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.queencityaesthetics.com/accessibility-statement",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience luxury aesthetics services in Buffalo, NY, at Queen City Aesthetics. Offering advanced skincare treatments, non-surgical solutions, and personalized beauty plans to help you look and feel your best",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "quickset.com",
+    "company_name": "QUICKSET",
+    "website": "https://quickset.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@quickset.com",
+        "confidence": "medium",
+        "source_url": "https://quickset.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@quickset.com",
+        "confidence": "medium",
+        "source_url": "https://quickset.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@quickset.com",
+      "service@quickset.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.quickset@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.technologies@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "defense.technologies@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "defense@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "defense_technologies@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "defenset@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "does.quickset@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "does@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "does_quickset@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doesq@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quickset@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Does Quickset",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/technical-support/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technologies@quickset.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Defense Technologies",
+        "person_title": "Business Development",
+        "source_url": "https://www.quickset.com/careers/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://quickset.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/technical-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/technical-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/camera-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/ogi-camera-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/pan-tilt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/tracking-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/tripods/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/poles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/markets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/resource-library/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/technologies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/tradeshows/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/markets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.quickset.com/products/camera-systems/gemini-foresight-surveillance-system/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quickset.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://quickset.com/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://quickset.com/pages/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.quickset.com/contact-us/",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://quickset.com/contact-us/",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Precision pan tilt positioners, CUAS systems and OGI cameras engineered for defense and critical infrastructure. Trusted by CBP, DHS, and NASA",
+    "source_urls": [
+      "https://quickset.com/contact-us",
+      "https://quickset.com/pages/contact-us",
+      "https://www.quickset.com/technical-support/",
+      "https://www.quickset.com/contact-us/",
+      "https://quickset.com/technical-support/",
+      "https://quickset.com/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopaventine.com",
+    "company_name": "AVENTINE",
+    "website": "https://shopaventine.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "shopmutuals.com",
+    "company_name": "MUTUALS",
+    "website": "https://shopmutuals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@mutuals.com",
+        "confidence": "highest",
+        "source_url": "https://shopmutuals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t you know the moment it's live. Notify me \u00a9 2026 mutuals hello@mutuals.com"
+      }
+    ],
+    "role_emails": [
+      "hello@mutuals.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopmutuals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "mutuals is coming soon.",
+    "source_urls": [
+      "https://shopmutuals.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shoptuve.com",
+    "company_name": "TUVE+",
+    "website": "https://shoptuve.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shoptuve.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/t/contact_us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/t/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/t/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoptuve.com/new",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop b\u00e1n \u0111\u1ed3 t\u1ef1 v\u1ec7 uy t\u00edn s\u1ed1 1 VN !!#Shoptuvehttps://SHOPTUVE.NETHotline/Zalo:  0819.090.845  (Telegram: @shoptuve)",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sundayclub.com",
+    "company_name": "SUNDAY CLUB CO.",
+    "website": "https://sundayclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@sundayclub.com",
+        "confidence": "highest",
+        "source_url": "https://sundayclub.com/pages/newsstand",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ADDRESS: E 14th St & 3rd Ave New York, NY 10003 EMAIL: hello@sundayclub.com Bulle"
+      },
+      {
+        "address": "help@sundayclub.com",
+        "confidence": "highest",
+        "source_url": "https://sundayclub.com/policies/shipping-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or believe something is missing or delayed, contact us at help@sundayclub.com with your order number and we'll be happy to help."
+      },
+      {
+        "address": "partnerships@sundayclub.com",
+        "confidence": "high",
+        "source_url": "https://sundayclub.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@sundayclub.com",
+      "help@sundayclub.com",
+      "partnerships@sundayclub.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "blossom@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.blossom@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira.blossom@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira_blossom@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irab@sundayclub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Blossom",
+        "person_title": "Founder",
+        "source_url": "https://sundayclub.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sundayclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/season-3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/issues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/subscribe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/bundles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/collections/apparel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/blogs/bulletin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/blogs/games",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/blogs/solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/newsstand",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/wholesale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/season-3-issue-03",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/season-3-issue-02",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/season-3-issue-01",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/sunday-club-signature-crew-neck",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/sunday-club-signature-hoodie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/sunday-club-dad-cap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/all-games-no-news-tote",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/sunday-club-tote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/products/issue-no-01-search-find-print-18-x-24",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/store-locator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/season-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/season-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/work-with-us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/policies/subscription-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayclub.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All Games \u2022 No News",
+    "source_urls": [
+      "https://sundayclub.com",
+      "https://sundayclub.com/contact",
+      "https://sundayclub.com/press",
+      "https://sundayclub.com/our-story",
+      "https://sundayclub.com/pages/contact",
+      "https://sundayclub.com/pages/press",
+      "https://sundayclub.com/pages/season-3",
+      "https://sundayclub.com/collections/issues",
+      "https://sundayclub.com/pages/subscribe",
+      "https://sundayclub.com/collections/bundles",
+      "https://sundayclub.com/collections/gifts",
+      "https://sundayclub.com/collections/accessories",
+      "https://sundayclub.com/collections/art",
+      "https://sundayclub.com/collections/apparel",
+      "https://sundayclub.com/blogs/bulletin",
+      "https://sundayclub.com/blogs/games",
+      "https://sundayclub.com/blogs/solutions",
+      "https://sundayclub.com/pages/newsstand",
+      "https://sundayclub.com/pages/faq",
+      "https://sundayclub.com/pages/wholesale",
+      "https://sundayclub.com/",
+      "https://sundayclub.com/search",
+      "https://sundayclub.com/cart",
+      "https://sundayclub.com/products/season-3-issue-03",
+      "https://sundayclub.com/products/season-3-issue-02",
+      "https://sundayclub.com/products/season-3-issue-01",
+      "https://sundayclub.com/policies/shipping-policy",
+      "https://sundayclub.com/products/sunday-club-signature-crew-neck",
+      "https://sundayclub.com/products/sunday-club-signature-hoodie",
+      "https://sundayclub.com/products/sunday-club-dad-cap",
+      "https://sundayclub.com/products/all-games-no-news-tote",
+      "https://sundayclub.com/products/sunday-club-tote",
+      "https://sundayclub.com/products/issue-no-01-search-find-print-18-x-24",
+      "https://sundayclub.com/pages/store-locator",
+      "https://sundayclub.com/pages/our-story",
+      "https://sundayclub.com/pages/season-1",
+      "https://sundayclub.com/pages/season-2",
+      "https://sundayclub.com/pages/work-with-us",
+      "https://sundayclub.com/policies/privacy-policy",
+      "https://sundayclub.com/policies/subscription-policy",
+      "https://sundayclub.com/policies/terms-of-service",
+      "https://sundayclub.com/pages/data-sharing-opt-out"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 66,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryvyra.com",
+    "company_name": "VYRA",
+    "website": "https://tryvyra.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryvyra.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryvyra.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vyra VIP Onboarding \u2014 built on Replit. Update this description to reflect the app.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
