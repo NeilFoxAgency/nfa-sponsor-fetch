@@ -1,0 +1,3274 @@
+[
+  {
+    "company_domain": "stuut.ai",
+    "company_name": "Stuut",
+    "website": "https://stuut.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@stuut.ai",
+        "confidence": "highest",
+        "source_url": "https://stuut.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 days.\u201d Jeff Martini CFO @ Bishop Lifting Rather email us? sales@stuut.ai About Case Studies Blog Careers Partnerships Arcade Trust C"
+      },
+      {
+        "address": "laurence@stuut.co",
+        "confidence": "high",
+        "source_url": "https://stuut.ai/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bierner, Data Protection Officer & Head of Security Email: laurence@stuut.co You may contact our DPO with questions regarding this priva"
+      },
+      {
+        "address": "legal@stuut.ai",
+        "confidence": "high",
+        "source_url": "https://stuut.ai/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "these Terms and Conditions. \u200d Contact for Legal Questions: legal@stuut.ai About Case Studies Blog Careers Partnerships Arcade Trust C"
+      },
+      {
+        "address": "legal@stuut.ai.this",
+        "confidence": "high",
+        "source_url": "https://stuut.ai/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r data and personal information, feel free to contact us at legal@stuut.ai.This policy is effective as of 30 January 2025. Updates to This"
+      }
+    ],
+    "role_emails": [
+      "laurence@stuut.co",
+      "legal@stuut.ai",
+      "legal@stuut.ai.this",
+      "sales@stuut.ai"
+    ],
+    "email_candidates": [
+      {
+        "address": "alaruri@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.winter@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ben.winter@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ben@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ben_winter@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benw@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bornstein@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.manshaem@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.rushe@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.manshaem@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_manshaem@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danm@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan.rushe@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan_rushe@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylanr@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.bornstein@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howard.bornstein@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howard@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howard_bornstein@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howardb@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Howard Bornstein",
+        "person_title": "President",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.jho@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason.jho@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason_jho@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jasonj@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jho@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Jho",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.mohsin@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manshaem@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Manshaem",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miraj.mohsin@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miraj@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miraj_mohsin@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mirajm@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohsin@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miraj Mohsin",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.shamdasani@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ritika.shamdasani@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ritika@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ritika_shamdasani@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ritikas@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rushe@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Rushe",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shamdasani@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ritika Shamdasani",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.alaruri@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tarek.alaruri@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tarek@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tarek_alaruri@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tareka@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tarek Alaruri",
+        "person_title": "Ceo",
+        "source_url": "https://stuut.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "winter@stuut.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ben Winter",
+        "person_title": null,
+        "source_url": "https://stuut.ai/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://stuut.ai",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.stuut.ai/blog/why-we-raised-series-b",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/case-studies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/product/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/product/cash-application",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/product/payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/product/disputes-deductions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/product/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/partnerships",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/dev-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/case-studies/zoominfo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/case-studies/bishop-lifting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/ai-phone-call",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/value-creation-calculator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stuut.ai/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stuut automates your entire order-to-cash process. Collect 40% more revenue with AI agents that actually do the work. Live and collecting cash in days.",
+    "source_urls": [
+      "https://stuut.ai/contact",
+      "https://stuut.ai/contact-us",
+      "https://stuut.ai/contactus",
+      "https://stuut.ai/get-in-touch",
+      "https://stuut.ai/demo",
+      "https://stuut.ai/ai-phone-call",
+      "https://stuut.ai/terms-of-service",
+      "https://stuut.ai/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "theoryofkombucha.com",
+    "company_name": "THEORY OF KOMBUCHA",
+    "website": "https://theoryofkombucha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@theoryofkombucha.com",
+        "confidence": "highest",
+        "source_url": "https://theoryofkombucha.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "el free to Contact Us. info@theoryofkombucha.com"
+      }
+    ],
+    "role_emails": [
+      "info@theoryofkombucha.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://theoryofkombucha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/apps/trackingmore/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theoryofkombucha.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/products/kombucha-energy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/products/kombucha-gut-health",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theoryofkombucha.com/pages/return-refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://theoryofkombucha.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Theory of Kombucha",
+    "source_urls": [
+      "https://theoryofkombucha.com",
+      "https://theoryofkombucha.com/pages/contact-us",
+      "https://theoryofkombucha.com/pages/about-us",
+      "https://theoryofkombucha.com/",
+      "https://theoryofkombucha.com/cart",
+      "https://theoryofkombucha.com/collections/all",
+      "https://theoryofkombucha.com/apps/trackingmore/",
+      "https://theoryofkombucha.com/pages/faq",
+      "https://theoryofkombucha.com/products/kombucha-energy",
+      "https://theoryofkombucha.com/products/kombucha-gut-health",
+      "https://theoryofkombucha.com/pages/terms-of-service",
+      "https://theoryofkombucha.com/pages/privacy-policy",
+      "https://theoryofkombucha.com/pages/shipping-policy",
+      "https://theoryofkombucha.com/pages/return-refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tonuvia.com",
+    "company_name": "TONUVIA",
+    "website": "https://tonuvia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tonuvia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/products/tunovia-glucose-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/auth/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/cravings-list",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tonuvia.com/shipping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tonuvia.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Tonuvia online store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryaquafy.com",
+    "company_name": "AQUAFY",
+    "website": "https://tryaquafy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@tryaquafy.com",
+        "confidence": "highest",
+        "source_url": "https://tryaquafy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "support@tryaquafy.com Instagram"
+      }
+    ],
+    "role_emails": [
+      "support@tryaquafy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryaquafy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/collections/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/collections/filters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/collections/refill",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/products/aquafy-shower-filter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/products/aquafy-filtered-shower-head-bali-edition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/collections/vendors?q=Aquafy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/products/refill-filter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/products/shower-head",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/products/refill-filter-rain-shower",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryaquafy.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tryaquafy.com/pages/contact",
+        "action": "/contact#ContactForm-template--27421747708232__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryaquafy.com/pages/faq",
+        "action": "/contact#contact_faq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Aquafy shower filter helps reduce chlorine, heavy metals and limescale in your shower water, for softer hair and calmer skin. Free shipping, delivered in 4 business days, 100-day money-back guarantee.",
+    "source_urls": [
+      "https://tryaquafy.com",
+      "https://tryaquafy.com/pages/contact",
+      "https://tryaquafy.com/pages/about-us",
+      "https://tryaquafy.com/",
+      "https://tryaquafy.com/collections/all-products",
+      "https://tryaquafy.com/collections/filters",
+      "https://tryaquafy.com/collections/refill",
+      "https://tryaquafy.com/search",
+      "https://tryaquafy.com/cart",
+      "https://tryaquafy.com/products/aquafy-shower-filter",
+      "https://tryaquafy.com/products/aquafy-filtered-shower-head-bali-edition",
+      "https://tryaquafy.com/collections/vendors?q=Aquafy",
+      "https://tryaquafy.com/products/refill-filter",
+      "https://tryaquafy.com/products/shower-head",
+      "https://tryaquafy.com/products/refill-filter-rain-shower",
+      "https://tryaquafy.com/collections/all",
+      "https://tryaquafy.com/pages/faq",
+      "https://tryaquafy.com/policies/shipping-policy",
+      "https://tryaquafy.com/policies/refund-policy",
+      "https://tryaquafy.com/policies/privacy-policy",
+      "https://tryaquafy.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryonyx.com",
+    "company_name": "ONYX",
+    "website": "https://tryonyx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@tryonyx.com",
+        "confidence": "highest",
+        "source_url": "https://tryonyx.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hr@tryonyx.com",
+        "confidence": "high",
+        "source_url": "https://tryonyx.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+1 (437)539-0714 EMAIL hr@tryonyx.com Name * Phone *"
+      }
+    ],
+    "role_emails": [
+      "hr@tryonyx.com",
+      "info@tryonyx.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryonyx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/project-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/technologies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/corporate/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/careers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/it-strategy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/web-development/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/mobile-app-development/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/qa-testing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/devops/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryonyx.com/services/crm/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tryonyx.com/contact",
+        "action": "/contact/#wpforms-1421",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryonyx.com/pages/contact",
+        "action": "/contact/#wpforms-1421",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryonyx.com/support/contact",
+        "action": "/contact/#wpforms-1421",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryonyx.com/contact/",
+        "action": "/contact/#wpforms-1421",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are modernization and innovation experts that understand and know how to solve unique federal challenges",
+    "source_urls": [
+      "https://tryonyx.com/contact",
+      "https://tryonyx.com/pages/contact",
+      "https://tryonyx.com/support/contact",
+      "https://tryonyx.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryreviola.com",
+    "company_name": "REVIOLA",
+    "website": "https://tryreviola.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@tryreviola.com",
+        "confidence": "high",
+        "source_url": "https://tryreviola.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Easy Returns - Not happy? Email our US support team at support@tryreviola.com within 90 days of your first order for a full refund."
+      }
+    ],
+    "role_emails": [
+      "support@tryreviola.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryreviola.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/products/soursop-graviola-softgels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/products/free-shipping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/products/health-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/products/mystery-gify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryreviola.com/products/soursop-gut",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tryreviola.com/pages/contact",
+        "action": "/contact#ContactForm-AZEwySzBLQmtLSThqN__contact_form_jWxXkm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryreviola.com/pages/contact-us",
+        "action": "/contact#ContactForm-AZEwySzBLQmtLSThqN__contact_form_jWxXkm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Reviola",
+    "source_urls": [
+      "https://tryreviola.com",
+      "https://tryreviola.com/pages/contact",
+      "https://tryreviola.com/pages/contact-us",
+      "https://tryreviola.com/products/soursop-graviola-softgels",
+      "https://tryreviola.com/policies/refund-policy",
+      "https://tryreviola.com/policies/shipping-policy",
+      "https://tryreviola.com/policies/privacy-policy",
+      "https://tryreviola.com/policies/terms-of-service",
+      "https://tryreviola.com/collections/all",
+      "https://tryreviola.com/products/free-shipping",
+      "https://tryreviola.com/products/health-guide",
+      "https://tryreviola.com/products/mystery-gify",
+      "https://tryreviola.com/products/soursop-gut"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "usetoday.io",
+    "company_name": "TODAY",
+    "website": "https://usetoday.io",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Michael Gackstatter",
+        "title": "Ceo",
+        "email": "michael@usetoday.io",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Michael Gackstatter",
+        "title": "Ceo",
+        "email": "michael@usetoday.io",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "michael@usetoday.io",
+        "confidence": "highest",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "unding Circle and Billie. Contact: Michael Gackstatter, michael@usetoday.io , Press Kit About HTGF - High-Tech Gr\u00fcnderfonds German"
+      },
+      {
+        "address": "privacy@usetoday.io",
+        "confidence": "highest",
+        "source_url": "https://usetoday.io/legal/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ichael Gackstatter Applebys Plads 7 1411 Copenhagen Denmark privacy@usetoday.io The entity responsible for processing in the context of usi"
+      },
+      {
+        "address": "tom+demo@usetoday.io",
+        "confidence": "high",
+        "source_url": "https://usetoday.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "at history Manage Calendar Account Settings AD Advisor Demo tom+demo@usetoday.io Conversations Call details Ask TODAY English Meeting"
+      },
+      {
+        "address": "u003emichael@usetoday.io",
+        "confidence": "high",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eprivacy@usetoday.io",
+        "confidence": "high",
+        "source_url": "https://usetoday.io/legal/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "michael@usetoday.io",
+      "privacy@usetoday.io",
+      "tom+demo@usetoday.io",
+      "u003emichael@usetoday.io",
+      "u003eprivacy@usetoday.io"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.demchenkov@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem.demchenkov@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem_demchenkov@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artemd@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "demchenkov@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Demchenkov",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "employee@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "f.employee@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "founding.employee@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "founding@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "founding_employee@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "foundinge@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founding Employee",
+        "person_title": "Cpo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "gackstatter@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "gateway@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.gateway@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "insurtech.gateway@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "insurtech@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "insurtech_gateway@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "insurtechg@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Insurtech Gateway",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lumley@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.gackstatter@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "michael.gackstatter@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "michael@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "michael_gackstatter@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "michaelg@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Gackstatter",
+        "person_title": "Ceo",
+        "source_url": "https://usetoday.io/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "address": "r.lumley@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert.lumley@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert_lumley@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robertl@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Lumley",
+        "person_title": "Co-Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.system@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales.system@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales_system@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saless@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "system@usetoday.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Operating System",
+        "person_title": "Founder",
+        "source_url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://usetoday.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-20"
+      },
+      {
+        "url": "https://usetoday.io/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/pricing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/success-stories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/simulations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/success-stories/koenigswege/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/legal/imprint/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/legal/terms-and-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usetoday.io/legal/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "TODAY coaches financial advisors along their own advisory logic, trains newcomers with simulations and writes the advisory documentation. Try it for free.",
+    "source_urls": [
+      "https://usetoday.io",
+      "https://usetoday.io/blog/today-secures-2-8m-seed-funding/",
+      "https://usetoday.io/",
+      "https://usetoday.io/legal/privacy-policy/"
+    ],
+    "reason": null,
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vesta.com",
+    "company_name": "Vesta",
+    "website": "https://vesta.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@usevesta.com",
+        "confidence": "highest",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24",
+        "context_snippet": "Inc 2021 Fillmore Street #1304 San Francisco, CA 94115 hello@usevesta.com (415) 216-0103 pages Home About Us Careers template Request"
+      },
+      {
+        "address": "hello@vesta.com",
+        "confidence": "highest",
+        "source_url": "https://vesta.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s, Inc 2021 Fillmore Street #1304 San Francisco, CA 94115 hello@vesta.com \u00b7 (415) 216-0103 \u00b7 \u00a9 Vesta Innovations, Inc Home Loan or"
+      },
+      {
+        "address": "privacy@vesta.com",
+        "confidence": "highest",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy or your personal information, please contact us at the privacy@vesta.com . If you have a complaint that we have breached these priva"
+      }
+    ],
+    "role_emails": [
+      "hello@usevesta.com",
+      "hello@vesta.com",
+      "privacy@vesta.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.spector@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.yang@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "david.spector@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_spector@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davids@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "devon.yang@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "devon@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "devon_yang@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "devony@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "m.yu@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "mike.yu@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "mike@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "mike_yu@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "mikey@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "policy@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spector@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Spector",
+        "person_title": "Ceo",
+        "source_url": "https://vesta.com/results",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.policy@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.policy@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_policy@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thep@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Policy",
+        "person_title": "Owner",
+        "source_url": "https://vesta.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yang@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Devon Yang",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "address": "yu@vesta.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Yu",
+        "person_title": "Co-Founder",
+        "source_url": "https://vesta.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://vesta.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-24"
+      },
+      {
+        "url": "https://vesta.com/blog/vesta-raises-30-million-to-scale-its-ai-agents-across-mortgage-lending",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/los",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/ai-agent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/results",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/integrations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/newsroom",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/ideas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/blog/how-lenders-are-running-real-loans-on-ai-agents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/partner-signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vesta.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vesta.com/demo",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://vesta.com/partner-signup",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Vesta is the AI-native mortgage LOS where your people and AI agents work loans together, automating operations from application to funding.",
+    "source_urls": [
+      "https://vesta.com",
+      "https://vesta.com/about",
+      "https://vesta.com/about-us",
+      "https://vesta.com/blog/vesta-raises-30-million-to-scale-its-ai-agents-across-mortgage-lending",
+      "https://vesta.com/",
+      "https://vesta.com/los",
+      "https://vesta.com/ai-agent",
+      "https://vesta.com/results",
+      "https://vesta.com/integrations",
+      "https://vesta.com/careers",
+      "https://vesta.com/newsroom",
+      "https://vesta.com/ideas",
+      "https://vesta.com/demo",
+      "https://vesta.com/blog/how-lenders-are-running-real-loans-on-ai-agents",
+      "https://vesta.com/partner-signup",
+      "https://vesta.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "voicelumaai.com",
+    "company_name": "VOICELUMA AI",
+    "website": "https://voicelumaai.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@voicelumaai.com",
+        "confidence": "high",
+        "source_url": "https://voicelumaai.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@voicelumaai.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://voicelumaai.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/ai-voice-generator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/voice-library",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voicelumaai.com/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VoiceLuma AI turns text into expressive AI voices for audiobooks and podcasts, with tools to manage voice profiles, favorites, and 30 pages.",
+    "source_urls": [
+      "https://voicelumaai.com",
+      "https://voicelumaai.com/contact",
+      "https://voicelumaai.com/support",
+      "https://voicelumaai.com/about",
+      "https://voicelumaai.com/team",
+      "https://voicelumaai.com/contact-us",
+      "https://voicelumaai.com/contactus",
+      "https://voicelumaai.com/about-us",
+      "https://voicelumaai.com/our-team",
+      "https://voicelumaai.com/meet-the-team",
+      "https://voicelumaai.com/leadership",
+      "https://voicelumaai.com/founders",
+      "https://voicelumaai.com/people",
+      "https://voicelumaai.com/staff",
+      "https://voicelumaai.com/press",
+      "https://voicelumaai.com/media",
+      "https://voicelumaai.com/help",
+      "https://voicelumaai.com/company",
+      "https://voicelumaai.com/who-we-are",
+      "https://voicelumaai.com/our-story",
+      "https://voicelumaai.com/our-mission",
+      "https://voicelumaai.com/get-in-touch",
+      "https://voicelumaai.com/reach-us",
+      "https://voicelumaai.com/enquiries",
+      "https://voicelumaai.com/impressum",
+      "https://voicelumaai.com/pages/contact",
+      "https://voicelumaai.com/pages/contact-us",
+      "https://voicelumaai.com/support/contact",
+      "https://voicelumaai.com/ai-voice-generator",
+      "https://voicelumaai.com/voice-library",
+      "https://voicelumaai.com/pricing",
+      "https://voicelumaai.com/blog",
+      "https://voicelumaai.com/login",
+      "https://voicelumaai.com/register"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "waterbreak.co",
+    "company_name": "WATERBREAK",
+    "website": "https://waterbreak.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "mount@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.mount@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "timothy.mount@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "timothy@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "timothy_mount@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "timothym@waterbreak.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Timothy Mount",
+        "person_title": "Founder",
+        "source_url": "https://waterbreak.co",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://waterbreak.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waterbreak.co/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://waterbreak.co/product/waterbreak-electrolyte-gummies/?flavor=sweet-cheeks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Time for a WaterBreak. Meet zero sugar electrolyte gummies in bold, playful flavors. Join the launch list and be first to hear when we drop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "woundaware.com",
+    "company_name": "WOUNDAWARE",
+    "website": "https://woundaware.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://woundaware.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/issue-5/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woundaware.com/sign-up",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Be Wound Aware is a national government funded campaign by Wounds Australia. We have one main goal \u2013 to raise awareness about wounds and wound care for people from all backgrounds, all over Australia. Almost half a million Australians have an unhealed wound, and the annual financial burden is over $",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "youbacklashbro.com",
+    "company_name": "YOU BACKLASH BRO",
+    "website": "https://youbacklashbro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://youbacklashbro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/mens-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/mens-hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/women",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/womens-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/womens-hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/kids",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/boys",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/boys-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/boys-hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/girls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/girls-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/girls-hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/you-backlash-bro-jumping-bass-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/you-backlash-bro-i-saw-that-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/you-can-backlash-a-cane-pole-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/bass-in-the-grass-boys-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/bass-in-the-grass-boys-tee-dark",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/bass-in-the-grass-girls-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://youbacklashbro.com/products/bass-in-the-grass-girls-tee-dark",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://youbacklashbro.com/pages/contact",
+        "action": "/contact#ContactForm-Ab1J3Wm9BbzIvL2JPR__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "You Backlash Bro",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
