@@ -1,0 +1,5415 @@
+[
+  {
+    "company_domain": "coursera.org",
+    "company_name": "coursera.org",
+    "website": "http://www.coursera.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "consumer-arbitration@coursera.org",
+        "confidence": "highest",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "an individualized written notice (\u201cNotice of Dispute\u201d) to consumer-arbitration@coursera.org that includes (1) your name, phone number, username (if ap"
+      },
+      {
+        "address": "copyright@coursera.org",
+        "confidence": "highest",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Camino Real, Suite 500, Mountain View, CA 94040 via email: copyright@coursera.org We suggest that you consult your legal advisor before filin"
+      },
+      {
+        "address": "press@coursera.org",
+        "confidence": "highest",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he Coursera blog. For press-related questions, e-mail press@coursera.org . For media assets, view our press kit ."
+      },
+      {
+        "address": "privacy@coursera.org",
+        "confidence": "highest",
+        "source_url": "https://www.coursera.org/about/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s of our Privacy Notice, please feel free to contact us at privacy@coursera.org . If you need to access this Privacy Notice in an alternat"
+      },
+      {
+        "address": "security@coursera.org",
+        "confidence": "highest",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "compromise or unauthorized use of your account by emailing security@coursera.org or submitting via HackerOne . 5. Third Party Content Thro"
+      },
+      {
+        "address": "eu-representative@coursera.org",
+        "confidence": "high",
+        "source_url": "https://www.coursera.org/about/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quest Schiphol Boulevard 195, 1118BG Schiphol Email: eu-representative@coursera.org Coursera UK Limited serves as the UK Representative for Cou"
+      }
+    ],
+    "role_emails": [
+      "consumer-arbitration@coursera.org",
+      "copyright@coursera.org",
+      "eu-representative@coursera.org",
+      "press@coursera.org",
+      "privacy@coursera.org",
+      "security@coursera.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.ng@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.policy@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.salcito@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.video@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acceptable.policy@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acceptable@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acceptable_policy@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acceptablep@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amazon.video@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amazon@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amazon_video@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amazonv@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.ng@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_ng@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewn@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony.salcito@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony_salcito@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthonys@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.maggioncalda@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.technology@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chairman@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "code@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "consumer.technology@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "consumer@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "consumer_technology@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "consumert@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coursera.maggioncalda@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coursera@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coursera_maggioncalda@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "courseram@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.chairman@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive.chairman@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive_chairman@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executivec@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chairman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "foley@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "furniturewala@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.hart@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.parsamyan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant.parsamyan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant_parsamyan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grantp@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg.hart@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greg_hart@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregh@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.code@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hart@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greg Hart",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "honor.code@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "honor@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "honor_code@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "honorc@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Honor Code",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "learners@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.foley@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.furniturewala@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.modica@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.stein@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maggioncalda@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Coursera Jeff Maggioncalda",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcelo.modica@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcelo@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcelo_modica@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcelom@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marni.stein@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marni@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marni_stein@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marnis@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike.foley@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike_foley@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikef@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Foley",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "modica@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcelo Modica",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mustafa.furniturewala@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mustafa@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mustafa_furniturewala@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mustafaf@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mustafa Furniturewala",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ng@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Ng",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.supanc@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parsamyan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Parsamyan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick.supanc@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick_supanc@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patricks@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "policy@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acceptable Use Policy",
+        "person_title": "Owner",
+        "source_url": "https://www.coursera.org/about/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q.learners@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatari.learners@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatari@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatari_learners@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qataril@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatari Learners",
+        "person_title": "Ceo",
+        "source_url": "https://www.coursera.org/about/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.sundararajan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramji.sundararajan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramji@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramji_sundararajan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramjis@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vice@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salcito@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Salcito",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "savage@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.vice@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_vice@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniorv@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stein@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marni Baker Stein",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sundararajan@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramji Sundararajan",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supanc@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Supanc",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.savage@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technology@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Consumer Technology",
+        "person_title": "Founder",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom.savage@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom_savage@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toms@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Savage",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "video@coursera.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amazon Prime Video",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.coursera.org/about/leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.coursera.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/professional-certificates/google-project-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/courses?query=product+management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/business/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/courses?query=project%20management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/professional-certificates/google-it-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/about/how-coursera-works/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/about/leadership",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/about/press",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/about/terms",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/about/privacy",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/about/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/about/affiliates",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/about/cookies-manage",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/business?utm_content=corp-to-home-for-enterprise&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/campus?utm_content=corp-to-landing-for-campus&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/government?utm_content=corp-to-landing-for-government&utm_campaign=website&utm_medium=coursera&utm_source=header&utm_term=b-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/degrees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/#authMode=login",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/#authMode=signup",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/explore/generative-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/google-career-certificates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/most-popular-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/new-on-coursera",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/generative-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/courseraplus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/google-career-certificates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/ibm-online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/microsoft-certificates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/partners/illinois",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/partners/openai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/partners/anthropic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/deep-learning-ai-online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/stanford-online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/university-of-pennsylvania-online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/explore/university-of-michigan-online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/career-academy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.coursera.org/business?utm_campaign=website&utm_content=bucket-from-B2C-home-try-business&utm_medium=coursera&utm_source=enterprise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/data-science",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/computer-science",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/information-technology",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/personal-development",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.coursera.org/browse/health",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Learn job-ready skills with online courses, Professional Certificates, Specializations, and degrees from Google, Meta, Anthropic, DeepLearning.AI, Stanford, and more. Start learning today.",
+    "source_urls": [
+      "https://www.coursera.org/about/press",
+      "https://www.coursera.org/about/terms",
+      "https://www.coursera.org/about/privacy",
+      "https://www.coursera.org/about/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 74,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "crispapp.co.uk",
+    "company_name": "crispapp.co.uk",
+    "website": "http://aesthetica.crispapp.co.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@crispapp.co.uk",
+        "confidence": "high",
+        "source_url": "http://aesthetica.crispapp.co.uk",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "u have provided via the Application, please contact them at contact@crispapp.co.uk and we will respond in a reasonable time. Please note that"
+      }
+    ],
+    "role_emails": [
+      "contact@crispapp.co.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://aesthetica.crispapp.co.uk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This privacy policy is applicable to the aesthetic background app (hereinafter referred to as \"Application\") for mobile devices, which was developed by Aesthetica (hereinafter referred to as \"Service Provider\") as a an Ad Supported service. This service is provided \"AS IS\".",
+    "source_urls": [
+      "http://aesthetica.crispapp.co.uk"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "cropwright.com",
+    "company_name": "CROPWRIGHT",
+    "website": "https://cropwright.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "customuse.com",
+    "company_name": "customuse.com",
+    "website": "https://customuse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@customuse.com",
+        "confidence": "highest",
+        "source_url": "https://customuse.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "g, 77 New Cavendish St, London, United Kingdom, W1W 6XB privacy@customuse.com Information We may collect from You We may collect and"
+      },
+      {
+        "address": "site-admin@customuse.com",
+        "confidence": "highest",
+        "source_url": "https://customuse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "contact@customuse.com",
+        "confidence": "high",
+        "source_url": "https://customuse.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "St, London, United Kingdom, W1W 6XB. You can contact us at contact@customuse.com. By using the Services, you agree to these Terms. If you"
+      },
+      {
+        "address": "content@customuse.com",
+        "confidence": "high",
+        "source_url": "https://customuse.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rough available in-product reporting tools or by contacting content@customuse.com with enough information for us to locate and review the con"
+      }
+    ],
+    "role_emails": [
+      "contact@customuse.com",
+      "content@customuse.com",
+      "privacy@customuse.com",
+      "site-admin@customuse.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "account@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.data@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "business.data@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "business@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "business_data@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "businessd@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Business Customer Data",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.account@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.account@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_account@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thea@customuse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Account",
+        "person_title": "Owner",
+        "source_url": "https://customuse.com/business-terms",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://customuse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/enterprise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com?modalName=login",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com?modalName=welcome",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/game-development-studios",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/roblox-developers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/animation-vfx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/interior-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/product-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/use-cases/architecture",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/what-is-customuse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/affiliates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/changelog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/free-tools/roblox-clothes-preview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/free-tools/roblox-clothes-maker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/free-tools/file-converter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/free-tools/file-viewer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/business-terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customuse.com/?modalName=manageCookies",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Customuse is a platform that enables users to create, share, and explore custom designs. Whether you are a designer, artist, or enthusiast, Customuse provides the tools and community to bring your ideas to life.",
+    "source_urls": [
+      "https://customuse.com",
+      "https://customuse.com/",
+      "https://customuse.com/enterprise",
+      "https://customuse.com/pricing",
+      "https://customuse.com?modalName=login",
+      "https://customuse.com?modalName=welcome",
+      "https://customuse.com/use-cases/game-development-studios",
+      "https://customuse.com/use-cases/roblox-developers",
+      "https://customuse.com/use-cases/animation-vfx",
+      "https://customuse.com/use-cases/interior-design",
+      "https://customuse.com/use-cases/ecommerce",
+      "https://customuse.com/use-cases/product-design",
+      "https://customuse.com/use-cases/architecture",
+      "https://customuse.com/what-is-customuse",
+      "https://customuse.com/affiliates",
+      "https://customuse.com/changelog",
+      "https://customuse.com/free-tools/roblox-clothes-preview",
+      "https://customuse.com/free-tools/roblox-clothes-maker",
+      "https://customuse.com/free-tools/file-converter",
+      "https://customuse.com/free-tools/file-viewer",
+      "https://customuse.com/privacy",
+      "https://customuse.com/terms",
+      "https://customuse.com/business-terms",
+      "https://customuse.com/?modalName=manageCookies"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dailyjoypro.com",
+    "company_name": "dailyjoypro.com",
+    "website": "https://dailyjoypro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "decai.ai",
+    "company_name": "decai.ai",
+    "website": "https://decai.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "invoice+statements@decai.ai",
+        "confidence": "highest",
+        "source_url": "https://decai.ai/pricing",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tripe, the invoice will be sent to your billing email from invoice+statements@decai.ai . If you purchase a plan through PayPal, you\u2019ll receive the"
+      }
+    ],
+    "role_emails": [
+      "invoice+statements@decai.ai"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.lewis@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanda.lewis@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanda@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanda_lewis@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amandal@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bellini@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bennett@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "evans@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hale@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.miller@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.rao@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason.miller@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason_miller@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jasonm@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "javi.rao@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "javi@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "javi_rao@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "javir@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lewis@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanda Lewis",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/furniture-cleanup",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.bellini@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.evans@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marco.bellini@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marco@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marco_bellini@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcob@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marco Bellini",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/style-transfer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mia.evans@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mia@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mia_evans@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miae@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mia Evans",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miller@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Miller",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/exterior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.bennett@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.hale@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver.bennett@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver_bennett@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliverb@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Bennett",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/garden-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia.hale@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia_hale@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliviah@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia Hale",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/wall-design",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rao@decai.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Javi Rao",
+        "person_title": "Owner",
+        "source_url": "https://decai.ai/interior-design",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://decai.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/app/home/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/interior-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/exterior-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/garden-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/furniture-replace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/furniture-cleanup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/wall-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/floor-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style-transfer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Airbnb",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Biophilic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Coastal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Farmhouse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Industrial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Japandi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Mediterranean",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Mid-Century",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Minimalist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Rustic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Scandinavian",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Tropical",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Vintage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Zen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/Halloween",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/style/No-Style",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/es",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/de",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/fr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/pt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/zh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/zh-TW",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/ja",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/ko",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/it",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/th",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/ms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/fil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/hi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/id",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/vi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/nl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/da",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/pl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/fi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://decai.ai/no",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://decai.ai/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/faqs",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/es",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/de",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/fr",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/pt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/zh",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/zh-TW",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/ja",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/ko",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/it",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/th",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/ms",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/fil",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/hi",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/id",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/vi",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/nl",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/da",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/pl",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/fi",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://decai.ai/no",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Design your dream home in secs with DecAI. Get instant interior design, exterior design & garden design in 30+ styles. Trusted by 41M+ users. Free try it now!",
+    "source_urls": [
+      "https://decai.ai/pricing"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "deepstash.com",
+    "company_name": "deepstash.com",
+    "website": "https://deepstash.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@deepstash.com",
+        "confidence": "medium",
+        "source_url": "https://deepstash.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-05",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@deepstash.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "e.summary@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "executive.summary@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "executive@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "executive_summary@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "executives@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "m.negotiation@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "most.negotiation@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "most@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "most_negotiation@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "mostn@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "negotiation@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Most Important Negotiation",
+        "person_title": "Owner",
+        "source_url": "https://deepstash.com/topic/motivationandinspiration",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "address": "summary@deepstash.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Summary",
+        "person_title": "Ceo",
+        "source_url": "https://deepstash.com/topic/health",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://deepstash.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-05"
+      },
+      {
+        "url": "https://deepstash.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-10-28"
+      },
+      {
+        "url": "https://deepstash.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-05"
+      },
+      {
+        "url": "https://deepstash.com/topic/motivationandinspiration",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "url": "https://deepstash.com/topic/health",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "url": "https://deepstash.com/topic/productivity",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stop doomscrolling. Start microlearning. Join 3M+ smart people like you.",
+    "source_urls": [
+      "https://deepstash.com",
+      "https://deepstash.com/",
+      "https://deepstash.com/topic/motivationandinspiration",
+      "https://deepstash.com/topic/health",
+      "https://deepstash.com/topic/productivity"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 72
+  },
+  {
+    "company_domain": "delt.com",
+    "company_name": "DELT",
+    "website": "https://delt.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "disneyplus.com",
+    "company_name": "disneyplus.com",
+    "website": "https://help.disneyplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "closedcaptioning@disneyplus.com",
+        "confidence": "high",
+        "source_url": "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=1ef1b30bdb986858b03cc58a13961965",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "closedcaptioning@disneyplus.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=1ef1b30bdb986858b03cc58a13961965",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=1ef1b30bdb986858b03cc58a13961965"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "dramabox.com",
+    "company_name": "dramabox.com",
+    "website": "https://www.dramabox.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Join Us: job@dramabox.com",
+        "title": null,
+        "email": "job@dramabox.com",
+        "source_url": "https://www.dramabox.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Join Us: job@dramabox.com",
+        "title": null,
+        "email": "job@dramabox.com",
+        "source_url": "https://www.dramabox.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "feedback@dramabox.com",
+        "confidence": "highest",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10",
+        "context_snippet": "lic Relations Community : Facebook Youtube Tiktok Email : feedback@dramabox.com \u00a9 DramaBox , All Rights Reserved STORYMATRIX PTE.LTD. A"
+      },
+      {
+        "address": "job@dramabox.com",
+        "confidence": "highest",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10",
+        "context_snippet": "re DPO About us Contact Us Business Collaborations Join Us: job@dramabox.com Media and Public Relations Community : Facebook Youtube Tik"
+      },
+      {
+        "address": "press@dramabox.com",
+        "confidence": "highest",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "feedback@dramabox.com",
+      "job@dramabox.com",
+      "press@dramabox.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.off@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "back.off@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "back@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "back_off@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "backo@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "beyond@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "c.identity@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "c.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "catch.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "catch@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "catch_me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "catchm@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "concealed.identity@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "concealed@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "concealed_identity@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "concealedi@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "d.movies@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "don@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "drama.movies@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "drama@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "drama_movies@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "dramam@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "f.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forbidden Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "female@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "forbidden.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forbidden Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "forbidden@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forbidden Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "forbidden_love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forbidden Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "forbiddenl@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forbidden Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "free@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "group@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "h.beyond@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "h.free@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "heart.free@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "heart@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "heart_free@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "heartf@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heart Set Free",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "her.beyond@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "her@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "her_beyond@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "herb@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Her Journey Beyond",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "housewife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Divorced Housewife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "identity@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Concealed Identity",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "l.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "l.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies For Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "ladies.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies For Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "ladies@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies For Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "ladies_me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies For Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "ladiesm@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ladies For Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lady@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "lost.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lost@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lost_love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lostl@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lost Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lover@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "lovers@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Lovers",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "m.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marriage Before Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "marriage.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marriage Before Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "marriage@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marriage Before Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "marriage_love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marriage Before Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "marriagel@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marriage Before Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Catch Me",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "memories@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "movies@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Drama Movies",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "n.york@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "new.york@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "new@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "new_york@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "newy@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "night@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "o.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Obey Me",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/267",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "o.night@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "obey.me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Obey Me",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/267",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "obey@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Obey Me",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/267",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "obey_me@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Obey Me",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/267",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "obeym@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Obey Me",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/267",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "off@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Back Off",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/249",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "address": "one.night@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "one@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "one_night@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "onen@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Night",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "p.don@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "please.don@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "please@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "please_don@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "pleased@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Please Don",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/161",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "r.female@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "reborn.female@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "reborn@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "reborn_female@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "rebornf@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reborn Female",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "address": "rejected@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "s.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sweet Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "s.lover@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "s.memories@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "s.wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "scented.memories@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "scented@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "scented_memories@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "scentedm@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scented Memories",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "secret.lover@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "secret@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "secret_lover@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "secretl@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Secret Lover",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/258",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "sexy.wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sexy Wife",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/265",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-14"
+      },
+      {
+        "address": "sexy@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sexy Wife",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/265",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-14"
+      },
+      {
+        "address": "sexy_wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sexy Wife",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/265",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-14"
+      },
+      {
+        "address": "sexyw@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sexy Wife",
+        "person_title": "President",
+        "source_url": "https://www.dramabox.com/browse/265",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-14"
+      },
+      {
+        "address": "substitute.wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "substitute@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "substitute_wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "substitutew@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "sweet.love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sweet Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "sweet@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sweet Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "sweet_love@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sweet Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "sweetl@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sweet Love",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "t.group@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "t.housewife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Divorced Housewife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "t.lady@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "t.lovers@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Lovers",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "t.rejected@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "t.tech@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "tech@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "the.housewife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Divorced Housewife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "the.lovers@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Lovers",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "the.rejected@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "the@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "the_housewife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Divorced Housewife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "the_lovers@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Lovers",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "the_rejected@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "theh@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Divorced Housewife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "thel@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Lovers",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/trending",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "address": "ther@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Hot Rejected",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/browse/269",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "address": "throne.tech@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "throne@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "throne_tech@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "thronet@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Throne Tech",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "thunder.lady@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "thunder@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "thunder_lady@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "thunderl@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thunder Lady",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "address": "titan.group@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "titan@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "titan_group@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "titang@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Titan Group",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "address": "wife@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Substitute Wife",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com/more/hidden-gems",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "address": "york@dramabox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Ceo",
+        "source_url": "https://www.dramabox.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.dramabox.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-02"
+      },
+      {
+        "url": "https://www.dramabox.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "url": "https://www.dramabox.com/download",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/184",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-12"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000014632/Virgin-Bride-Bound-to-the-Dragon-King",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000017882/Step-Back-Im-the-Hidden-King",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/258",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/161",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/261",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-21"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/249",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/269",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/266",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-13"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000016034/Doting-Snake-Lord",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/260",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/263",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-19"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000019214/Step-Aside-I-Am-the-True-Rap-King",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/181",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000019067/Reborn-to-be-the-Dragon-Queen",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/more/trending",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/498",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000012143/Lady-Diamonds-Lost-Heiress-Returns",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/563",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000015264/No-Escape-as-the-Dragon-Kings-Mate",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/256",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/42000010883/Think-Again-Im-the-Hidden-Boss-Mom",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-05"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/41000104164/Ascension-to-the-Lost-Throne",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-10"
+      },
+      {
+        "url": "https://www.dramabox.com/more/hidden-gems",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/275",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-20"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/267",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/265",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-14"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/41000102849/The-Unrivaled-Overlord",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/41000102472/Fortunes-Unveiled-My-Husband-Is-a-Big-Shot",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-31"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/189",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-22"
+      },
+      {
+        "url": "https://www.dramabox.com/drama/41000102839/A-Breath-Away-From-Forever",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-09"
+      },
+      {
+        "url": "https://www.dramabox.com/browse/254",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-17"
+      },
+      {
+        "url": "https://www.dramabox.com/business",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-16"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DramaBox APP's popular short dramas, a journey of continuous pursuit, wherever and whenever, laughter never stops! We carefully select a diverse range of short dramas for you, with continuous updates and always captivating stories to satisfy your viewing desires!",
+    "source_urls": [
+      "https://www.dramabox.com",
+      "https://www.dramabox.com/about-us",
+      "https://www.dramabox.com/",
+      "https://www.dramabox.com/browse",
+      "https://www.dramabox.com/download",
+      "https://www.dramabox.com/browse/184",
+      "https://www.dramabox.com/drama/42000014632/Virgin-Bride-Bound-to-the-Dragon-King",
+      "https://www.dramabox.com/drama/42000017882/Step-Back-Im-the-Hidden-King",
+      "https://www.dramabox.com/browse/258",
+      "https://www.dramabox.com/drama/42000013481/Silence-Boss-Lady-Speaks",
+      "https://www.dramabox.com/browse/161",
+      "https://www.dramabox.com/browse/261",
+      "https://www.dramabox.com/browse/249",
+      "https://www.dramabox.com/browse/269",
+      "https://www.dramabox.com/browse/266",
+      "https://www.dramabox.com/drama/42000016034/Doting-Snake-Lord",
+      "https://www.dramabox.com/browse/260",
+      "https://www.dramabox.com/browse/263",
+      "https://www.dramabox.com/drama/42000019214/Step-Aside-I-Am-the-True-Rap-King",
+      "https://www.dramabox.com/browse/181",
+      "https://www.dramabox.com/drama/42000019067/Reborn-to-be-the-Dragon-Queen",
+      "https://www.dramabox.com/more/trending",
+      "https://www.dramabox.com/browse/498",
+      "https://www.dramabox.com/drama/42000012143/Lady-Diamonds-Lost-Heiress-Returns",
+      "https://www.dramabox.com/browse/563",
+      "https://www.dramabox.com/drama/42000015264/No-Escape-as-the-Dragon-Kings-Mate",
+      "https://www.dramabox.com/browse/256",
+      "https://www.dramabox.com/drama/42000010883/Think-Again-Im-the-Hidden-Boss-Mom",
+      "https://www.dramabox.com/drama/41000104164/Ascension-to-the-Lost-Throne",
+      "https://www.dramabox.com/more/hidden-gems",
+      "https://www.dramabox.com/browse/275",
+      "https://www.dramabox.com/browse/267",
+      "https://www.dramabox.com/browse/265",
+      "https://www.dramabox.com/drama/41000102849/The-Unrivaled-Overlord",
+      "https://www.dramabox.com/drama/41000102472/Fortunes-Unveiled-My-Husband-Is-a-Big-Shot",
+      "https://www.dramabox.com/browse/189",
+      "https://www.dramabox.com/drama/41000102839/A-Breath-Away-From-Forever",
+      "https://www.dramabox.com/browse/254",
+      "https://www.dramabox.com/business"
+    ],
+    "reason": null,
+    "pages_fetched": 105,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "duolingo.com",
+    "company_name": "duolingo.com",
+    "website": "https://www.duolingo.com/help/support-request",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "store.support@duolingo.com",
+        "confidence": "high",
+        "source_url": "https://store-asia.duolingo.com/pages/contact-information",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "store.support@duolingo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.duolingo.com/help/support-request/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/press",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/media",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/impressum",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help/support-request/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duolingo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.duolingo.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store-asia.duolingo.com/pages/contact-information",
+        "page_type": "contact",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Please describe the issue you are experiencing in as much detail as possible. This will help us understand what\u2019s going on.",
+    "source_urls": [
+      "https://store-asia.duolingo.com/pages/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "dzinemedia.com",
+    "company_name": "dzinemedia.com",
+    "website": "https://www.dzinemedia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@dzinemedia.com",
+        "confidence": "highest",
+        "source_url": "https://www.dzinemedia.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2 320 1118899 +971 58 566 9906 info@dzinemedia.com Privacy Polic"
+      },
+      {
+        "address": "usman.shakoor@dzinemedia.com",
+        "confidence": "high",
+        "source_url": "https://www.dzinemedia.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r our customers' trust. Our CEO, Muhammad Usman Shakoor usman.shakoor@dzinemedia.com Contact Us Tailor-Made Soluti"
+      }
+    ],
+    "role_emails": [
+      "info@dzinemedia.com",
+      "usman.shakoor@dzinemedia.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.dzinemedia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/branding",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/uiux-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/web-development",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/mobile-development",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/digital-marketing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/services/e-commerce-solution",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/pos-shopify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/career",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dzinemedia.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.dzinemedia.com/contact-us",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/branding",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/uiux-design",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/web-development",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/mobile-development",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/digital-marketing",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dzinemedia.com/services/e-commerce-solution",
+        "action": "https://www.dzinemedia.com/mail",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Having a decade-long IT market exposure, we equip businesses with modern-day technologies and make digitalization super easy for them on budget.",
+    "source_urls": [
+      "https://www.dzinemedia.com",
+      "https://www.dzinemedia.com/contact-us",
+      "https://www.dzinemedia.com/about-us",
+      "https://www.dzinemedia.com/services/branding",
+      "https://www.dzinemedia.com/services/uiux-design",
+      "https://www.dzinemedia.com/services/web-development",
+      "https://www.dzinemedia.com/services/mobile-development",
+      "https://www.dzinemedia.com/services/digital-marketing",
+      "https://www.dzinemedia.com/services/e-commerce-solution",
+      "https://www.dzinemedia.com/pos-shopify",
+      "https://www.dzinemedia.com/blog",
+      "https://www.dzinemedia.com/career",
+      "https://www.dzinemedia.com/privacy-policy",
+      "https://www.dzinemedia.com/terms-and-conditions"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
