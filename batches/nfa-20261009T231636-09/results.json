@@ -1,0 +1,2350 @@
+[
+  {
+    "company_domain": "ease.com",
+    "company_name": "EASE",
+    "website": "https://ease.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "requestinfo@ease.com",
+        "confidence": "highest",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28",
+        "context_snippet": "0 Treat Ave, Suite 200 San Francisco, CA 94110 \u2013 Sales: requestinfo@ease.com Support: 1-702-800-2690 help.ease.com"
+      },
+      {
+        "address": "employeeinquiries@ease.com",
+        "confidence": "medium",
+        "source_url": "https://ease.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "peopleteam@ease.com",
+        "confidence": "medium",
+        "source_url": "https://ease.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@ease.com",
+        "confidence": "medium",
+        "source_url": "https://ease.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "employeeinquiries@ease.com",
+      "peopleteam@ease.com",
+      "privacy@ease.com",
+      "requestinfo@ease.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.reid@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "address": "david.reid@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "address": "david@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "address": "david_reid@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "address": "davidr@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "address": "reid@ease.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Reid",
+        "person_title": "Ceo",
+        "source_url": "https://ease.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ease.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-28"
+      },
+      {
+        "url": "https://ease.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-03-12"
+      },
+      {
+        "url": "https://ease.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/press/awards/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ease.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/brokers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/employers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/partners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/platform/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/platform/benefits-administration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/platform/hr-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/customer-success/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/security/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/partners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/partners/join-us/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/marketplace/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/resources/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/events/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/events/?categories=in-person",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/events/?categories=webinar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/events/?categories=ease",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/research/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/resources/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/brokers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/product/overview/employers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/legal/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/marketplace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/legal/saas-subscription-agreement/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ease.com/demo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ease.com/cdn-cgi/l/email-protection#e191848e918d849584808ca184809284cf828e8c",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-18"
+      },
+      {
+        "url": "https://ease.com/legal/saas-agreement/",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-22"
+      },
+      {
+        "url": "https://ease.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ease is a purpose-built benefits administration system making the enrollment experience easy from start to finish. Because benefits matter.",
+    "source_urls": [
+      "https://ease.com",
+      "https://ease.com/support",
+      "https://ease.com/about",
+      "https://ease.com/about-us",
+      "https://ease.com/press",
+      "https://ease.com/support/",
+      "https://ease.com/press/",
+      "https://ease.com/press/awards/",
+      "https://ease.com/about/",
+      "https://www.ease.com",
+      "https://ease.com/product/",
+      "https://ease.com/product/overview/",
+      "https://ease.com/product/overview/brokers/",
+      "https://ease.com/product/overview/employers/",
+      "https://ease.com/product/overview/partners/",
+      "https://ease.com/product/platform/",
+      "https://ease.com/product/platform/benefits-administration/",
+      "https://ease.com/product/platform/hr-solutions/",
+      "https://ease.com/product/customer-success/",
+      "https://ease.com/product/security/",
+      "https://ease.com/partners/",
+      "https://ease.com/partners/join-us/",
+      "https://ease.com/marketplace/",
+      "https://ease.com/resources/",
+      "https://ease.com/blog/",
+      "https://ease.com/events/",
+      "https://ease.com/events/?categories=in-person",
+      "https://ease.com/events/?categories=webinar",
+      "https://ease.com/events/?categories=ease",
+      "https://ease.com/research/",
+      "https://ease.com/resources/faq/",
+      "https://ease.com/product/overview/brokers",
+      "https://ease.com/product/overview/employers",
+      "https://ease.com/legal/",
+      "https://ease.com/pricing",
+      "https://ease.com/marketplace",
+      "https://ease.com/privacy",
+      "https://ease.com/terms",
+      "https://ease.com/legal/saas-subscription-agreement/",
+      "https://www.ease.com/demo/",
+      "https://ease.com/legal/saas-agreement/",
+      "https://ease.com/terms/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getstellarweb.com",
+    "company_name": "STELLARWEB",
+    "website": "https://getstellarweb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@getstellarweb.com",
+        "confidence": "high",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "admin@getstellarweb.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.detail@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apex.detail@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apex@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apex_detail@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apexd@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chen@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.chen@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.chen@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_chen@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidc@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Chen",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "detail@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apex Auto Detail",
+        "person_title": "Owner",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.rostova@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elena.rostova@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elena@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elena_rostova@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elenar@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.studio@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lumina.studio@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lumina@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lumina_studio@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luminas@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.vance@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus.vance@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus_vance@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcusv@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rostova@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elena Rostova",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "studio@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lumina Dental Studio",
+        "person_title": "Founder",
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vance@getstellarweb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Vance",
+        "person_title": null,
+        "source_url": "https://getstellarweb.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://getstellarweb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get a custom website + automation for local business, reviews & AI\u2014free 5-min app, zero commitment. Nationwide in the USA. Start with StellarWeb now!",
+    "source_urls": [
+      "https://getstellarweb.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jahston.com",
+    "company_name": "JAHSTON",
+    "website": "https://jahston.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jahston.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jahston.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "nenva.co",
+    "company_name": "NENVA",
+    "website": "https://nenva.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nenva.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/founder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/source",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nenva.co/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "nenva is personal AI for your Mac that keeps a household's bills, renewals, school forms, appointments and replies from slipping. It reads your email, calendar and texts, tells you what needs you before the deadline, and does nothing without your yes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "parse.com",
+    "company_name": "PARSE",
+    "website": "https://parse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@parseplatform.org",
+        "confidence": "high",
+        "source_url": "https://github.com/parse-community",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GitHub org parse-community public email"
+      }
+    ],
+    "role_emails": [
+      "hello@parseplatform.org"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://parse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/donations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/extensions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parse.com/extensions#community-projects",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Parse Platform is your complete backend solution for mobile and web applications. Deploy anywhere, scale infinitely, own your data.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "partykingusa.com",
+    "company_name": "PARTY KING USA",
+    "website": "https://partykingusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "e-mailsales@partykingusa.com",
+        "confidence": "high",
+        "source_url": "https://partykingusa.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@partykingusa.com",
+        "confidence": "high",
+        "source_url": "https://partykingusa.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(1-800-872-1991) FAX Order Lin e 1-888-868-8944 E-mail sales@partykingusa.com \u00a9 2026 Party King USA"
+      }
+    ],
+    "role_emails": [
+      "e-mailsales@partykingusa.com",
+      "sales@partykingusa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://partykingusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/party-kits-for-50-people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/party-kits-for-100-people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/party-kits-for-200-people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/shipping-returns/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/my-account-2/edit-account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/catalog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/new-products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-hats-tiaras/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-hats-tiaras/hats/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-hats-tiaras/tiaras/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-hats-tiaras/hny-eyeglasses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/noisemakers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/metallic-beads-leis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/metallic-beads-leis/metallic-beads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/metallic-beads-leis/hawaiian-poly-leis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/balloons-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/balloons-accessories/balloons/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/balloons-accessories/balloon-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/banners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/champagne-glasses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/confetti/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/decorations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/glow-necklaces-bracelets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/honeycomb-festooning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/liquor-pourers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/metallic-decorations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/party-poppers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/tickets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/party-supplies/wristbands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/holidays/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/holidays/birthday/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/holidays/mardi-gras/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/holidays/patriotic/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/holidays/st-patricks-day/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/gold-party-kits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/party-kits-by-color-multicolored/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/product-category/nye-party-kits/party-kits-by-color-silver/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partykingusa.com/home/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://partykingusa.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://partykingusa.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Gold Party Kits Shop Multicolor Party Kits Shop Silver Party Kits Shop All Now",
+    "source_urls": [
+      "https://partykingusa.com/contact",
+      "https://partykingusa.com/contact-us",
+      "https://partykingusa.com/pages/contact",
+      "https://partykingusa.com/pages/contact-us",
+      "https://partykingusa.com/support/contact",
+      "https://partykingusa.com/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "piranha.com",
+    "company_name": "PIRANHA",
+    "website": "https://piranha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@piranha.com",
+        "confidence": "medium",
+        "source_url": "https://piranha.com/prop-finder/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@piranha.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "p.stahl@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "address": "piranha.stahl@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "address": "piranha@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "address": "piranha_stahl@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "address": "piranhas@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "address": "stahl@piranha.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Piranha Brad Stahl",
+        "person_title": "President",
+        "source_url": "https://piranha.com/company",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://piranha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "url": "https://piranha.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2009-07-01"
+      },
+      {
+        "url": "https://piranha.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/prop-finder/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/shop-for-piranha-propellers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/product-category/propeller-blades/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/frequently-asked-questions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/dealers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/dealer-portal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piranha.com/es/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://piranha.com/contact",
+        "action": "/contact/#wpcf7-f8655-p5515-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://piranha.com/support",
+        "action": "sendmail.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://piranha.com/pages/contact",
+        "action": "/contact/#wpcf7-f8655-p5515-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://piranha.com/support/contact",
+        "action": "/contact/#wpcf7-f8655-p5515-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://piranha.com/contact/",
+        "action": "/contact/#wpcf7-f8655-p5515-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Piranha\u2019s Unique Hub Design Allows For Individual Blade Replacement. This Simple Process Saves You Time And Money!",
+    "source_urls": [
+      "https://piranha.com/prop-finder/",
+      "https://piranha.com/shop-for-piranha-propellers/",
+      "https://piranha.com/product-category/propeller-blades/",
+      "https://piranha.com/frequently-asked-questions/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "qtorium.com",
+    "company_name": "QTORIUM",
+    "website": "https://qtorium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@qtorium.com",
+        "confidence": "medium",
+        "source_url": "https://qtorium.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@qtorium.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://qtorium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qtorium.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover QTorium, an intelligent education and exam-preparation ecosystem launching first for nursing students, NCLEX candidates, educators and institutions.",
+    "source_urls": [
+      "https://qtorium.com",
+      "https://qtorium.com/contact",
+      "https://qtorium.com/support",
+      "https://qtorium.com/about",
+      "https://qtorium.com/team",
+      "https://qtorium.com/contact-us",
+      "https://qtorium.com/contactus",
+      "https://qtorium.com/about-us",
+      "https://qtorium.com/our-team",
+      "https://qtorium.com/meet-the-team",
+      "https://qtorium.com/leadership",
+      "https://qtorium.com/founders",
+      "https://qtorium.com/people",
+      "https://qtorium.com/staff",
+      "https://qtorium.com/press",
+      "https://qtorium.com/media",
+      "https://qtorium.com/help",
+      "https://qtorium.com/company",
+      "https://qtorium.com/who-we-are",
+      "https://qtorium.com/our-story",
+      "https://qtorium.com/our-mission",
+      "https://qtorium.com/get-in-touch",
+      "https://qtorium.com/reach-us",
+      "https://qtorium.com/enquiries",
+      "https://qtorium.com/impressum",
+      "https://qtorium.com/pages/contact",
+      "https://qtorium.com/pages/contact-us",
+      "https://qtorium.com/support/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "regulate.com",
+    "company_name": "REGULATE",
+    "website": "https://regulate.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://regulate.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Saw.com has successfully helped thousands of buyers acquire the perfect domain name. Interested in REGULATE.COM? Let's get started.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 20
+  },
+  {
+    "company_domain": "rimedy.com",
+    "company_name": "RIMEDY",
+    "website": "https://rimedy.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "serelle.co",
+    "company_name": "SERELLE",
+    "website": "https://serelle.co",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "shopnojal.com",
+    "company_name": "NOJAL",
+    "website": "https://shopnojal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopnojal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/site/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/mens-shopping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/subcategory/t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/womens-fashion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/gadgets-&-electronics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/home-decor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/watch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/women-clothing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/fashion-ladies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/baby-shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/ladies-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/kitchen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/health",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/category/book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/customer/order-track",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/customer/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/customer/checkout",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/prayer-seat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/washing-machine-cleaner-tablet-204",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/mini-portable-pocket-shaver-138",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/t900-ultra-smart-watch-code-:-4103-137",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/8-pieces-king-size-panel-bedcover-set-code-:-4078-136",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/%E0%A6%A6%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87-%E0%A6%9A%E0%A7%87%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%9C-%E0%A7%A7-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A6%96%E0%A6%BE-%E0%A6%8F%E0%A6%AE%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95-code-:-4820-135",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/t-shirt-%28eider-diner-kosai%29-for-eid-special-code-:-4817-133",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/bluetooth-speaker-&-fm-radio-with-wireless-mobile-charger,-led-table-lamp-color-changing-rechargeable-desk-lights-code-:-4147-132",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/hot-deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/pensly-hair-white",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/East-Moon-Beard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/new-tsa-lock-chest-bag-multi-function-travel-sling-shoulder-bag-backpack-usb-charging-waterproof-crossbody-bag-crossbody-bag-waterproof-anti-theft-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/back-pain-relief-belt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/modelling-comb-men-beard-and-hair-quick-straightener-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/south-moon-gynecomastia-farming-spray-30ml-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/beard-oil-204",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/foot-repair-cream-147",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%82-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-big-size-146",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/five-spring-tummy-trimmer-145",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/%E0%A6%B8%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B2-%E0%A6%B8%E0%A6%BF%E0%A6%AE-%E0%A6%B8%E0%A6%BE%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A1-%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%AB%E0%A7%8B%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0-144",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/episoft-hair-removal-inhibitor-serum---30ml-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/versatile-jewelry-cleaner-207",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/sweat-it-out-with-the-new-sweat-slim-belt-plus-for-men-and-women---stay-fit-and-trim-with-this-slim-belt---designed-for-easy-use-and-cleaning,-perfect-for-fitness-enthusiasts-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/slimming-belt-miss-waist-belt-instant-hourglass-shape-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/demo-product-12-152",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/demo-product-09-149",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/shoes-whitening-cleansing-gel,-shoe-stain-remover-148",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/hot-&-useful-ladies-air-sports-bra-%28color-black%29-140",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/6pcs-ear-pick-set-portable-ear-cleaner-set-stainless-steel-with-lather-case-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/infinity-cubes-fidget-toy-sensory-phasing-games---great-value---upscaled-quality-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/metal-wifi-router-stand-shelf-double-layer-wall-mounted-shelf-home-decorator-196",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopnojal.com/product/demo-product-10-150",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shopnojal.com/site/contact-us",
+        "action": "https://shopnojal.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Copyright \u00a9 2026 ShopnoJal | Online Shopping in BD. All rights reserved.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 79,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
