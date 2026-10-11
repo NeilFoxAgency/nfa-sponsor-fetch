@@ -1,0 +1,2614 @@
+[
+  {
+    "company_domain": "atris.com",
+    "company_name": "ATRIS",
+    "website": "https://atris.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "conduct@atris.com",
+        "confidence": "highest",
+        "source_url": "https://atris.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sales@atris.com General: info@atris.com Complaints: conduct@atris.com Get in Touch Name Company name"
+      },
+      {
+        "address": "info@atris.com",
+        "confidence": "highest",
+        "source_url": "https://atris.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(800) 393-1079 info@atris.com LinkedIn"
+      },
+      {
+        "address": "sales@atris.com",
+        "confidence": "highest",
+        "source_url": "https://atris.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l: (352) 331-3100 Toll free: (800) 393-1079 Sales: sales@atris.com General: info@atris.com Complaints: conduct@atris.com"
+      }
+    ],
+    "role_emails": [
+      "conduct@atris.com",
+      "info@atris.com",
+      "sales@atris.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "citizens.bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "citizens@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "citizens_bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "citizensb@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Citizens Bank",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financial@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.financial@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hof@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hogan.financial@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hogan@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hogan_financial@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hoganf@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hogan Financial",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.hof@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin.hof@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin_hof@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justinh@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Hof",
+        "person_title": "President",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.hogan@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Hogan",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken.hogan@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Hogan",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Hogan",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken_hogan@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Hogan",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kenh@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Hogan",
+        "person_title": "Founder",
+        "source_url": "https://www.atris.com/?feed=rss",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Surety Bank",
+        "person_title": "Ceo",
+        "source_url": "https://atris.com/services/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "surety.bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Surety Bank",
+        "person_title": "Ceo",
+        "source_url": "https://atris.com/services/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "surety@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Surety Bank",
+        "person_title": "Ceo",
+        "source_url": "https://atris.com/services/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "surety_bank@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Surety Bank",
+        "person_title": "Ceo",
+        "source_url": "https://atris.com/services/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suretyb@atris.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Surety Bank",
+        "person_title": "Ceo",
+        "source_url": "https://atris.com/services/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atris.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about/events/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about/connections/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about/privacy-statement/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/about/contact-2/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/how-much-should-my-it-support-cost/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atris.com/?feed=rss",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/teller-automation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/atris-technology-is-excited-to-announce-the-acquisition-of-hogan-financial-services-strengthening-our-nationwide-reach-and-introducing-new-products-and-technologies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/debit-card-processing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/id-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/msb-money-service-businesses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/remote-check-deposit/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/new-accounts-operations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/internet-banking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/telephone-banking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/services/services-carepack/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/services/siem-service/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/services/siem-architecture/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/services/siem-benefits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/it-compliance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/it-compliance/endpoint-protection/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/it-compliance/email-security/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/it-compliance/proactive-systems-monitoring/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/solutions/it-compliance/vulnerability-assessments/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/wp-content/uploads/2015/02/Atris-CarePack-Datasheet.pdf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/category/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/preparing-for-the-unexpected/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atris.com/atris-technology-extends-its-technology-offering-and-nationwide-reach-with-agreement-to-acquire-hogan-financial-systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atris.com/contact",
+        "action": "https://atris.com/about/contact-2/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://atris.com/about",
+        "action": "https://atris.com/about/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://atris.com/about/",
+        "action": "https://atris.com/about/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://atris.com/about/contact-2/",
+        "action": "https://atris.com/about/contact-2/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://atris.com/services/",
+        "action": "https://atris.com/services/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://atris.com/solutions/",
+        "action": "https://atris.com/solutions/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Automation solutions for financial institutions and IT managed services for data security and business continuity.",
+    "source_urls": [
+      "https://atris.com",
+      "https://atris.com/contact",
+      "https://atris.com/support",
+      "https://atris.com/about",
+      "https://atris.com/pages/contact",
+      "https://atris.com/support/contact",
+      "https://atris.com/about/",
+      "https://atris.com/about/events/",
+      "https://atris.com/about/connections/",
+      "https://atris.com/about/privacy-statement/",
+      "https://atris.com/support/",
+      "https://atris.com/about/contact-2/",
+      "https://atris.com/how-much-should-my-it-support-cost/",
+      "https://atris.com/",
+      "https://atris.com/solutions/teller-automation/",
+      "https://atris.com/atris-technology-is-excited-to-announce-the-acquisition-of-hogan-financial-services-strengthening-our-nationwide-reach-and-introducing-new-products-and-technologies/",
+      "https://atris.com/solutions/debit-card-processing/",
+      "https://atris.com/solutions/id-verification/",
+      "https://atris.com/msb-money-service-businesses/",
+      "https://atris.com/solutions/remote-check-deposit/",
+      "https://atris.com/solutions/new-accounts-operations/",
+      "https://atris.com/solutions/internet-banking/",
+      "https://atris.com/solutions/telephone-banking/",
+      "https://atris.com/services/",
+      "https://atris.com/services/services-carepack/",
+      "https://atris.com/services/siem-service/",
+      "https://atris.com/solutions/",
+      "https://atris.com/services/siem-architecture/",
+      "https://atris.com/services/siem-benefits/",
+      "https://atris.com/solutions/it-compliance/",
+      "https://atris.com/solutions/it-compliance/endpoint-protection/",
+      "https://atris.com/solutions/it-compliance/email-security/",
+      "https://atris.com/solutions/it-compliance/proactive-systems-monitoring/",
+      "https://atris.com/solutions/it-compliance/vulnerability-assessments/",
+      "https://atris.com/category/blog/",
+      "https://atris.com/preparing-for-the-unexpected/",
+      "https://atris.com/atris-technology-extends-its-technology-offering-and-nationwide-reach-with-agreement-to-acquire-hogan-financial-systems/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "darktree.com",
+    "company_name": "DARKTREE",
+    "website": "https://darktree.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://darktree.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gridimpacttoken.com",
+    "company_name": "GRID IMPACT TOKEN",
+    "website": "https://gridimpacttoken.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gridimpacttoken.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gridimpacttoken.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "hellonovum.com",
+    "company_name": "NOVUM",
+    "website": "https://hellonovum.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "covey@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.pawlan@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.yaffe@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Yaffe",
+        "person_title": "Co-Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.pawlan@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.yaffe@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Yaffe",
+        "person_title": "Co-Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_pawlan@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_yaffe@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Yaffe",
+        "person_title": "Co-Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidp@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidy@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Yaffe",
+        "person_title": "Co-Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.covey@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt.covey@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt_covey@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mattc@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Covey",
+        "person_title": "Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pawlan@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pawlan",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yaffe@hellonovum.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Yaffe",
+        "person_title": "Co-Founder",
+        "source_url": "https://hellonovum.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://hellonovum.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellonovum.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your Competitors Are Getting Recommended by AI. You're Not. We build editorial backlinks that get your brand cited by AI and respected by Google.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "neoball.co",
+    "company_name": "NEOBALL",
+    "website": "https://neoball.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://neoball.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neoball.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The world's best silent basketball - according to the kids. Play anytime, anywhere without the noise.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "paiserie.com",
+    "company_name": "PAISERIE",
+    "website": "https://paiserie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@paiserie.com",
+        "confidence": "highest",
+        "source_url": "https://paiserie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Paiserie Find something worth doing. Make it a plan. hello@paiserie.com Ambient sound Product Explore Meet Trips Pia Pricing"
+      }
+    ],
+    "role_emails": [
+      "hello@paiserie.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://paiserie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/business#contact",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/#explore",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/meet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/#trips",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/#pia",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/safety",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://paiserie.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://paiserie.com/business#contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://paiserie.com/business",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Paiserie is where you discover restaurants, events, dates and trips near you, decide with your people, and turn it into a plan everyone actually shows up to.",
+    "source_urls": [
+      "https://paiserie.com",
+      "https://paiserie.com/support",
+      "https://paiserie.com/about",
+      "https://paiserie.com/press",
+      "https://paiserie.com/business#contact",
+      "https://paiserie.com/",
+      "https://paiserie.com/#explore",
+      "https://paiserie.com/meet",
+      "https://paiserie.com/#trips",
+      "https://paiserie.com/#pia",
+      "https://paiserie.com/business",
+      "https://paiserie.com/#pricing",
+      "https://paiserie.com/safety",
+      "https://paiserie.com/privacy",
+      "https://paiserie.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rootedhonor.com",
+    "company_name": "ROOTED HONOR",
+    "website": "https://rootedhonor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rootedhonor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rootedhonor.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Self-guided workbooks for food freedom, binge eating, body image, mindset, and athlete fueling, plus professional guides. Created by a Registered Dietitian.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "roughinredlines.com",
+    "company_name": "ROUGH-IN REDLINES",
+    "website": "https://roughinredlines.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@roughinredlines.com",
+        "confidence": "highest",
+        "source_url": "https://roughinredlines.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "il when it launches. No spam. Want it early for your crew? support@roughinredlines.com Sheet E1.01 \u00b7 Lighting & Power Scale 1/4\" = 1'-0\""
+      }
+    ],
+    "role_emails": [
+      "support@roughinredlines.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://roughinredlines.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/#features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/#how",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/#windows",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/how-to.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/#notify",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://roughinredlines.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rough-In Redlines is an iPad, iPhone & Mac app for the trades: redline your prints with Apple Pencil, place trade symbols, count devices, compare revisions, build panel schedules and send the office a PDF they can open in Bluebeam.",
+    "source_urls": [
+      "https://roughinredlines.com",
+      "https://roughinredlines.com/support",
+      "https://roughinredlines.com/support.html",
+      "https://roughinredlines.com/",
+      "https://roughinredlines.com/#features",
+      "https://roughinredlines.com/#how",
+      "https://roughinredlines.com/#pricing",
+      "https://roughinredlines.com/#windows",
+      "https://roughinredlines.com/how-to.html",
+      "https://roughinredlines.com/#notify",
+      "https://roughinredlines.com/privacy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "squirrelybass.com",
+    "company_name": "SQUIRRELY BASS",
+    "website": "https://squirrelybass.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "synapbridge.com",
+    "company_name": "SYNAPBRIDGE",
+    "website": "https://synapbridge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dmca@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "urate and that you are authorized to act. Send notices to dmca@synapbridge.com or by mail to: DMCA Agent, Elevayt Ventures LLC, 980 N Mic"
+      },
+      {
+        "address": "legal@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/trust-center",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ivacy contact privacy@synapbridge.com Legal and procurement legal@synapbridge.com Synap Bridge Governance and institutional memory for your A"
+      },
+      {
+        "address": "press@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ecutive bios and press-ready headshots. Coverage inquiries: press@synapbridge.com. Platform Cost, compliance, threat, connectors. Industries"
+      },
+      {
+        "address": "privacy@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/trust-center",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Security contact security@synapbridge.com Privacy contact privacy@synapbridge.com Legal and procurement legal@synapbridge.com Synap Bridge Go"
+      },
+      {
+        "address": "sales@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/contact-sales",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "hours - not a marketing sequence. Prefer email? Write to sales@synapbridge.com . Same team, same response window. Talk to enterprise sales"
+      },
+      {
+        "address": "security@synapbridge.com",
+        "confidence": "highest",
+        "source_url": "https://synapbridge.com/trust-center",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "essor Register Reporting a vulnerability Send findings to security@synapbridge.com . Good faith research within the published scope will not b"
+      },
+      {
+        "address": "support@synapbridge.com",
+        "confidence": "high",
+        "source_url": "https://synapbridge.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": sales@synapbridge.com or the contact-sales form. Support: support@synapbridge.com (Business and above get priority support). Press: press@syn"
+      }
+    ],
+    "role_emails": [
+      "dmca@synapbridge.com",
+      "legal@synapbridge.com",
+      "press@synapbridge.com",
+      "privacy@synapbridge.com",
+      "sales@synapbridge.com",
+      "security@synapbridge.com",
+      "support@synapbridge.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://synapbridge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/contact-sales",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/company/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/company/careers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/company/customers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/company/brand",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/platform",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/platform/cost-governance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/platform/compliance-sovereignty",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/platform/threat-protection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/platform/connector-governance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries/healthcare",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries/finance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries/insurance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/industries/life-sciences",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources/docs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources/api-reference",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources/integrations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/resources/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/trust-center",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/legal/sub-processors",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://synapbridge.com/dpa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The AI governance plane for regulated industries. Multi-tenant, BYO-LLM, per-tenant isolated. Built for healthcare, financial services, legal, insurance, and life sciences.",
+    "source_urls": [
+      "https://synapbridge.com/contact",
+      "https://synapbridge.com/media",
+      "https://synapbridge.com/contact-sales",
+      "https://synapbridge.com/trust-center",
+      "https://synapbridge.com/legal/sub-processors",
+      "https://synapbridge.com/privacy",
+      "https://synapbridge.com/terms",
+      "https://synapbridge.com/dpa"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "veya.com",
+    "company_name": "VEYA",
+    "website": "https://veya.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://veya.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://veya.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://veya.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://veya.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "veya.com is available through LeaseToOwn.com on 12\u201360 month lease-to-own terms or a lease with an option to buy.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "x1racing.com",
+    "company_name": "X1RACING",
+    "website": "https://x1racing.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Mac McAlpine",
+        "title": null,
+        "email": "mac@x1racing.com",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment"
+      }
+    ],
+    "people": [
+      {
+        "name": "Mac McAlpine",
+        "title": null,
+        "email": "mac@x1racing.com",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@x1racing.com",
+        "confidence": "highest",
+        "source_url": "https://x1racing.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ress 11148 Treynorth Drive Suite A Cornelius NC 28031 Email info@x1racing.com Phone 1.704.327.8622 X1 RACING Accelerating the adoption of"
+      },
+      {
+        "address": "mac@x1racing.com",
+        "confidence": "highest",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Commerce Submitted by X1 Racing Mac McAlpine @realx1racing mac@x1racing.com Accelerator Window Closing Time remaining until 1/20/2029 8"
+      }
+    ],
+    "role_emails": [
+      "info@x1racing.com",
+      "mac@x1racing.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "accelerator@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolina@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.mcalpine@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.mcalpine@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_mcalpine@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnm@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mcalpine@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John McAlpine",
+        "person_title": null,
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobility@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.carolina@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north.carolina@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north_carolina@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northc@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.mobility@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal.mobility@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal_mobility@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personalm@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Air Mobility",
+        "person_title": "Founder",
+        "source_url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "semi@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "social@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.accelerator@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.semi@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.social@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesla.semi@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesla@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesla_semi@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teslas@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesla Semi",
+        "person_title": "Owner",
+        "source_url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trump.accelerator@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trump@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trump_accelerator@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trumpa@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trump Investment Accelerator",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "truth.social@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "truth@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "truth_social@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "truths@x1racing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Truth Social",
+        "person_title": "President",
+        "source_url": "https://x1racing.com/x-files",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://x1racing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/rule-book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/maximum-boost-strategic-investment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/x-files",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/files/Racing_to_Advanced_Air_Mobility_Project_MAXIMUM_BOOST.pdf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/x1racing-game",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/files/x1racing_project_maximum_boost_maximum_freedom.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/files/x1racing_strategic_argument_for_x1_hybrid_power.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_b.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "X1 Racing is the world's first professional flying car racing league: remote-piloted, SI (Super Intelligence)-augmented flying cars at 200+ mph. Home of Project MAXIMUM BOOST.",
+    "source_urls": [
+      "https://x1racing.com/contact",
+      "https://x1racing.com/maximum-boost-strategic-investment",
+      "https://x1racing.com/files/Racing_to_Advanced_Air_Mobility_Project_MAXIMUM_BOOST.pdf",
+      "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_a.html",
+      "https://x1racing.com/files/x1racing_project_maximum_boost_exhibit_b.html"
+    ],
+    "reason": null,
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
