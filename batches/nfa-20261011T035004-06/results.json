@@ -1,0 +1,1696 @@
+[
+  {
+    "company_domain": "love4apps.com",
+    "company_name": "Love 4 Apps LLC",
+    "website": "http://love4apps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aaron@love4apps.com",
+        "confidence": "highest",
+        "source_url": "http://love4apps.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24",
+        "context_snippet": "Name Position E-mail Aaron Designer / Producer aaron@love4apps.com Andrew Programmer / Developer andrew@love4apps.co"
+      },
+      {
+        "address": "products@love4apps.com",
+        "confidence": "highest",
+        "source_url": "http://love4apps.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24",
+        "context_snippet": "Support E-mail Addresses: Topic E-mail Products products@love4apps.com Technical Support support@love4apps.com Gener"
+      },
+      {
+        "address": "questions@love4apps.com",
+        "confidence": "highest",
+        "source_url": "http://love4apps.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24",
+        "context_snippet": "l Support support@love4apps.com General Questions questions@love4apps.com"
+      },
+      {
+        "address": "support@love4apps.com",
+        "confidence": "highest",
+        "source_url": "http://love4apps.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24",
+        "context_snippet": "Products products@love4apps.com Technical Support support@love4apps.com General Questions questions@love4apps.com"
+      },
+      {
+        "address": "andrew@love4apps.com",
+        "confidence": "high",
+        "source_url": "http://love4apps.com/support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24",
+        "context_snippet": "aaron@love4apps.com Andrew Programmer / Developer andrew@love4apps.com Support E-mail Addresses: Topic E-mail Pr"
+      },
+      {
+        "address": "info@love4apps.com",
+        "confidence": "high",
+        "source_url": "http://love4apps.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y questions about this Privacy Policy, please contact us at info@love4apps.com. \u00a9 2025 Love 4 Apps, LLC. All rights reserved."
+      }
+    ],
+    "role_emails": [
+      "aaron@love4apps.com",
+      "andrew@love4apps.com",
+      "info@love4apps.com",
+      "products@love4apps.com",
+      "questions@love4apps.com",
+      "support@love4apps.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.store@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app.store@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app_store@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apps@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store@love4apps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "President",
+        "source_url": "http://love4apps.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://love4apps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://love4apps.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://love4apps.com/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24"
+      },
+      {
+        "url": "http://love4apps.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-02-24"
+      },
+      {
+        "url": "http://love4apps.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://love4apps.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://love4apps.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://love4apps.com/contact",
+        "action": "send-email.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Love 4 Apps, LLC develops premium iOS applications. Discover my portfolio of innovative mobile apps available on the App Store.",
+    "source_urls": [
+      "http://love4apps.com/support",
+      "http://love4apps.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lukaszgonerski.com",
+    "company_name": "Orion Lukasz Gonerski",
+    "website": "http://orion.lukaszgonerski.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://orion.lukaszgonerski.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://orion.lukaszgonerski.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://orion.lukaszgonerski.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://orion.lukaszgonerski.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/apps-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/bomber-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/disco-lights-bulbs-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/eco-drive-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/lernkartei-fur-watch-private-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/moon-lander-for-watch-private-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/falling-blocks-for-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-tetris-app/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-compass-for-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-fiszki/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-flashcards-de-for-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-full-date-for-apple-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-lightsaber-for-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-storm-alert-for-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-time-friend-for-watch/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-2/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-voice-travel-guide/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/privacy-policy-znajdz-grob/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/przemienniki-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/stacje-meteo-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/feed/rss/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2026/04/27/przemienniki/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2020/12/17/disco-lights-bulbs-for-ipad-and-iphone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2019/11/30/rangefinder-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2019/11/30/moon-lander-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2019/06/12/time-friend-for-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2019/04/16/lightsaber-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2019/03/06/full-date-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2018/11/28/bomber-game-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2018/10/26/flaschcards-de-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2018/10/10/fiszki-na-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2018/07/18/tetris-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2018/03/19/facebook-likes-counter-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2017/11/03/storm-alert-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2017/04/12/compass-for-apple-watch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2016/10/20/znajdz-grob/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com/2016/10/20/eco-drive/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://orion.lukaszgonerski.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u00b7 \u00a9 2026 Orion \u0141ukasz Gonerski IOS Developer \u00b7 Powered by \u00b7 Designed with the Customizr theme \u00b7",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "maughold.com",
+    "company_name": "Maughold, LLC",
+    "website": "https://maughold.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://maughold.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://maughold.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Maughold offers top-notch app development services for iOS and web apps, ensuring quality and engagement for your business needs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mirack.app",
+    "company_name": "MIFKI PTY LTD",
+    "website": "https://mirack.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mishasoftwaresolutions.com",
+    "company_name": "Misha Software Solutions, LLC",
+    "website": "https://mishasoftwaresolutions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mishasoftwaresolutions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mishasoftwaresolutions.com/about-misha.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mishasoftwaresolutions.com/privacy-policy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "modernalchemistmx.com",
+    "company_name": "Michelle Helfner",
+    "website": "https://modernalchemistmx.com/modern-alchemist-mx-wellness-app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "msecm.at",
+    "company_name": "Martin Heger",
+    "website": "http://www.msecm.at",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "multideco.com",
+    "company_name": "HHS Software Corp.",
+    "website": "https://www.multideco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mx-tracks-app.com",
+    "company_name": "Christian Kaas",
+    "website": "http://www.mx-tracks-app.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "myzstudio.com",
+    "company_name": "Louis-Joseph Mayoraz",
+    "website": "http://www.myzstudio.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ntrack.com",
+    "company_name": "n-Track S.r.l.",
+    "website": "http://ntrack.com/ios.php",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ntrack.com",
+        "confidence": "highest",
+        "source_url": "http://ntrack.com/buy.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jobs@ntrack.com",
+        "confidence": "highest",
+        "source_url": "http://ntrack.com/work.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o background. To apply send your resume to jobs@ntrack.com Contacts | About | Press info"
+      },
+      {
+        "address": "press@ntrack.com",
+        "confidence": "highest",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email to press@ntrack.com for press related inquiries or to request an NFR copy of t"
+      },
+      {
+        "address": "matt@ntrack.com",
+        "confidence": "high",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ation, please visit ntrack.com, or contact Matt Thurtell at matt@ntrack.com NFR version available on request (please specify the plat"
+      },
+      {
+        "address": "privacy@ntrack.com",
+        "confidence": "high",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "pal 16, Rome, CF / VAT number IT15290211000, e-mail address privacy@ntrack.com, (hereafter referred to as \"Owner\" ), through the website"
+      },
+      {
+        "address": "support@ntrack.com",
+        "confidence": "high",
+        "source_url": "http://ntrack.com/buy.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@ntrack.com",
+      "jobs@ntrack.com",
+      "matt@ntrack.com",
+      "press@ntrack.com",
+      "privacy@ntrack.com",
+      "support@ntrack.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "antonioli@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.antonioli@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavio.antonioli@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavio@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavio_antonioli@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavioa@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavio Antonioli",
+        "person_title": "Founder",
+        "source_url": "http://ntrack.com/about.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.parties@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Parties",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interested.parties@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Parties",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interested.party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interested@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interested_parties@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Parties",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interested_party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "interestedp@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nepal@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parties@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Parties",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personal_data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "personald@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Such Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "srl@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Srl",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "studio@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "such.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Such Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "such@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Such Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "such_data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Such Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suchd@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Such Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.srl@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Srl",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.studio@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_data@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_party@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thed@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Personal Data",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thep@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Interested Party",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "track.srl@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Srl",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "track.studio@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "track@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "track_srl@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Srl",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "track_studio@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracks@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Track Studio",
+        "person_title": "Ceo",
+        "source_url": "http://ntrack.com/press.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.nepal@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "via.nepal@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "via@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "via_nepal@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vian@ntrack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Via Nepal",
+        "person_title": "Owner",
+        "source_url": "http://ntrack.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://ntrack.com/ios.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/support.php",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/about.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/contact.php",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/press.php",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/index.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/download.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/buy.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/upgrade.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/features.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/index.php#new-in-version-10",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios.php#tuner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/faq.php",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/manual.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/video-tutorials/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/shell.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/shell.php?action=mypurchases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ntrack.com/store.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/work.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/privacy-policy.php",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/store.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/ios-multitrack-studio.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://ntrack.com/android-multitrack-studio.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://ntrack.com/support.php",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "n-Track Studio is the free music studio recording app for iOS and Android. Tune your guitar, bass, ukulele or any other instrument with n-Track Tuner. Discover Songtree, a collaborative music creation platform. Practice your tempo and train to go faster with n-Track Metronome. Play two keyboards at ",
+    "source_urls": [
+      "http://ntrack.com/about.php",
+      "http://ntrack.com/press.php",
+      "http://ntrack.com/buy.php",
+      "http://ntrack.com/work.php",
+      "http://ntrack.com/privacy-policy.php"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "nycfirewire.net",
+    "company_name": "NYC Fire Wire Inc",
+    "website": "https://nycfirewire.net/app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@nycfirewire.net",
+        "confidence": "high",
+        "source_url": "https://nycfirewire.net/privacy",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@nycfirewire.net"
+    ],
+    "email_candidates": [
+      {
+        "address": "i.spring@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.spring@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_spring@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ins@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spring@nycfirewire.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Spring",
+        "person_title": "Founder",
+        "source_url": "https://nycfirewire.net/app/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://nycfirewire.net/app/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nycfirewire.net/app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nycfirewire.net/app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nycfirewire.net/app/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nycfirewire.net/privacy",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://nycfirewire.net/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 3
+  }
+]
