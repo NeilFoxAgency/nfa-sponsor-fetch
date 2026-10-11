@@ -1,0 +1,1545 @@
+[
+  {
+    "company_domain": "abstract.com",
+    "company_name": "ABSTRACT",
+    "website": "https://abstract.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "barkcheck.com",
+    "company_name": "BARKCHECK",
+    "website": "https://barkcheck.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@barkcheck.com",
+        "confidence": "highest",
+        "source_url": "https://barkcheck.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "app Questions Contact us Privacy Terms Delete your account support@barkcheck.com Every record, message, photograph and score shown on this s"
+      }
+    ],
+    "role_emails": [
+      "support@barkcheck.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://barkcheck.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/sitter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/sign-in?redirect_url=%2Fhome",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/start?role=owner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barkcheck.com/account-deletion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Every walk, meal, and dose confirmed as it happens, on a record you both keep. Ask for the BarkCheck\u2122.",
+    "source_urls": [
+      "https://barkcheck.com",
+      "https://barkcheck.com/contact",
+      "https://barkcheck.com/sitter",
+      "https://barkcheck.com/sign-in?redirect_url=%2Fhome",
+      "https://barkcheck.com/start?role=owner",
+      "https://barkcheck.com/faq",
+      "https://barkcheck.com/privacy",
+      "https://barkcheck.com/terms",
+      "https://barkcheck.com/account-deletion"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bondcontrols.com",
+    "company_name": "BONDCONTROLS",
+    "website": "https://bondcontrols.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "group@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Advisory Group",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hills@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investments@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.hills@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rochester.hills@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rochester@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rochester_hills@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rochesterh@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rochester Hills",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.group@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Advisory Group",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.investments@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoner.group@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Advisory Group",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoner.investments@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoner@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoner_group@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Advisory Group",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoner_investments@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stonerg@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Advisory Group",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stoneri@bondcontrols.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stoner Investments",
+        "person_title": "Owner",
+        "source_url": "https://bondcontrols.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bondcontrols.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/what-the-board-sees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/controls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/what-the-board-sees#overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/what-the-board-sees#certified-position",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/what-the-board-sees#exceptions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/what-the-board-sees#reports",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/accessibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bondcontrols.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bondcontrols.com/demo",
+        "action": "/api/request-demo",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "School bond financial controls and board reporting by Stoner Advisory Group: every district check tied to the penny, reported independently of the builder.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "clinthread.com",
+    "company_name": "CLINTHREAD",
+    "website": "https://clinthread.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@clinthread.com",
+        "confidence": "highest",
+        "source_url": "https://clinthread.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "th. Formerly EasyTheraNotes. HIPAA compliant \u00b7 BAA Contact admin@clinthread.com LinkedIn \u2197 Solutions AI SOAP notes for therapists TCM notes"
+      }
+    ],
+    "role_emails": [
+      "admin@clinthread.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://clinthread.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/prior-auth",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/docs/services.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/privacy-extension",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/hipaa.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/baa.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/ai-soap-notes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/tcm-notes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/psr-group-notes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/app?auth=signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clinthread.com/app?auth=login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "HIPAA-compliant AI clinical documentation for therapists, case managers and behavioral health providers. Note drafts in about 30 seconds, Prior Authorizations in about 2 minutes. 7-day free trial.",
+    "source_urls": [
+      "https://clinthread.com",
+      "https://clinthread.com/prior-auth",
+      "https://clinthread.com/docs/services.html",
+      "https://clinthread.com/privacy-extension",
+      "https://clinthread.com/hipaa.html",
+      "https://clinthread.com/baa.html",
+      "https://clinthread.com/ai-soap-notes",
+      "https://clinthread.com/tcm-notes",
+      "https://clinthread.com/psr-group-notes",
+      "https://clinthread.com/privacy.html",
+      "https://clinthread.com/terms.html",
+      "https://clinthread.com/app?auth=signup",
+      "https://clinthread.com/app?auth=login"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "saltymarshoutfitters.com",
+    "company_name": "SALTY MARSH OUTFITTERS",
+    "website": "https://saltymarshoutfitters.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://saltymarshoutfitters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://saltymarshoutfitters.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopaisle1.com",
+    "company_name": "AISLE 1",
+    "website": "https://shopaisle1.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopaisle1.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/customer_authentication/redirect?locale=en\u00aeion_country=US#recover",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopaisle1.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shopaisle1.com/pages/contact",
+        "action": "/contact#700976398409",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Expertly curated retail finds delivered to your door. We do the hunting so you don't have to. Shop verified electronics, home goods, and essentials today.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shophappyending.com",
+    "company_name": "HAPPY ENDING",
+    "website": "https://shophappyending.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@shophappyending.com",
+        "confidence": "high",
+        "source_url": "https://shophappyending.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Care +91 90562 79411 EMAIL US info@shophappyending.com Payment methods \u00a9 2026, Happy Endi"
+      }
+    ],
+    "role_emails": [
+      "info@shophappyending.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shophappyending.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/t-shirts-for-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/new-launch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/bestseller",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/hoodies-for-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/women",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/customer_authentication/redirect?locale=en\u00aeion_country=IN",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/new-releases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/collections/shop-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/after-hours-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/no-bad-endings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/free-bird",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/loved-by-angels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/bloom-boom-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/love-in-the-air",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/dont-f-with-me-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/aqua-angel-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/all-my-heart-blue-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/all-my-heart-brown-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/all-my-heart-red",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/products/all-my-hearts-grey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophappyending.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shophappyending.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Happy Ending",
+    "source_urls": [
+      "https://shophappyending.com",
+      "https://shophappyending.com/pages/contact",
+      "https://shophappyending.com/collections/all",
+      "https://shophappyending.com/collections/t-shirts-for-all",
+      "https://shophappyending.com/collections/new-launch",
+      "https://shophappyending.com/collections/bestseller",
+      "https://shophappyending.com/collections/hoodies-for-all",
+      "https://shophappyending.com/collections/men",
+      "https://shophappyending.com/collections/women",
+      "https://shophappyending.com/",
+      "https://shophappyending.com/cart",
+      "https://shophappyending.com/collections/new-releases",
+      "https://shophappyending.com/collections/shop-all",
+      "https://shophappyending.com/products/after-hours-tee",
+      "https://shophappyending.com/products/no-bad-endings",
+      "https://shophappyending.com/products/free-bird",
+      "https://shophappyending.com/products/loved-by-angels",
+      "https://shophappyending.com/products/bloom-boom-tee",
+      "https://shophappyending.com/products/love-in-the-air",
+      "https://shophappyending.com/products/dont-f-with-me-tee",
+      "https://shophappyending.com/products/aqua-angel-tee",
+      "https://shophappyending.com/products/all-my-heart-blue-1",
+      "https://shophappyending.com/products/all-my-heart-brown-1",
+      "https://shophappyending.com/products/all-my-heart-red",
+      "https://shophappyending.com/products/all-my-hearts-grey",
+      "https://shophappyending.com/policies/privacy-policy",
+      "https://shophappyending.com/policies/refund-policy",
+      "https://shophappyending.com/policies/shipping-policy",
+      "https://shophappyending.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 56,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopjoydrops.com",
+    "company_name": "JOYDROPS",
+    "website": "https://shopjoydrops.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.hair@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "degrees.hair@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "degrees@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "degrees_hair@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "degreesh@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "drops@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hair@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Degrees Natural Hair",
+        "person_title": "Founder",
+        "source_url": "https://www.shopjoydrops.com/thecreator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.drops@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joy.drops@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joy@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joy_drops@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joyd@shopjoydrops.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joy Drops",
+        "person_title": "Owner",
+        "source_url": "https://shopjoydrops.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://shopjoydrops.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/thecreator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/donate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/product-page/joy-drops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopjoydrops.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Joy Drops offers a powerful blend of herbs, essential vitamins, and nutrient rich plant oils that stimulate follicles, strengthen hair, and encourage new growth while conditioning strands and protecting natural hydration.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thecottoncactus.com",
+    "company_name": "THE COTTON CACTUS",
+    "website": "https://thecottoncactus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thecottoncactus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/shop?olsPage=cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/m/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/m/create-account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/m/orders",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/gallery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecottoncactus.com/license-plates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop quality custom apparel at The Cotton Cactus, your local source for unique cactus cotton designs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "uncanny.com",
+    "company_name": "UNCANNY",
+    "website": "https://uncanny.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://uncanny.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rap / Hip-hop music label from the Midwest.  Similar to Cash Money Records, No Limit Records, Roc-a-fella Records, Defjam, etc.  Artists are similar to Big Punisher, Nelly, Big L, Necro, Benefit, Non-Phixion, Jay-Z, Juvenile, DMX, 2Pac, etc.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vantix.com",
+    "company_name": "VANTIX",
+    "website": "https://vantix.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@vantixsystems.com",
+        "confidence": "highest",
+        "source_url": "https://vantix.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ble at all hours of the day every day of the year. Email: support@vantixsystems.com Phone: (780) 421-0499 Ext. 1 Hours: 8:00 \u2013 5:00 pm MST Mond"
+      },
+      {
+        "address": "info@vantix.com",
+        "confidence": "high",
+        "source_url": "https://vantix.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@vantixsystems.com",
+        "confidence": "high",
+        "source_url": "https://vantix.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "olutions to fit your events, programs and facility. Email: sales@vantixsystems.com Phone: (780) 421-0499 Address: 10119 97A Avenue Edmonton, A"
+      },
+      {
+        "address": "suppport@vantixsystems.com",
+        "confidence": "high",
+        "source_url": "https://vantix.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "on about these rights, or to submit a request, please email suppport@vantixsystems.com or use the Vantix contact form . Please note that in some"
+      }
+    ],
+    "role_emails": [
+      "info@vantix.com",
+      "sales@vantixsystems.com",
+      "support@vantixsystems.com",
+      "suppport@vantixsystems.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vantix.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/express-entry",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/why-vantix",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/online-ticketing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/self-serve-kiosk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/box-office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/mobile-pos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/recurring-billing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/reserved-seating",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/digital-signage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/products/camp-registration-portal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/museums-science-centres",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/zoos-aquariums",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/points-of-interest-tourism",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/athletic-events-sports-venues",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/arts-entertainment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/industries/festivals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/case-studies/royal-bc-museum",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/custom-solutions/mobile-wayfinding-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/custom-solutions/custom-reports",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantix.com/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vantix.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://vantix.com/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "From aquariums to sports to festivals\u2014sell your tickets, your way.",
+    "source_urls": [
+      "https://vantix.com/contact",
+      "https://vantix.com/support",
+      "https://vantix.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 53,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "xcum.com",
+    "company_name": "XCUM\u00c9",
+    "website": "https://xcum.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://xcum.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-04"
+      },
+      {
+        "url": "https://xcum.com/t/69-sex/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-06"
+      },
+      {
+        "url": "https://xcum.com/t/ass/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-30"
+      },
+      {
+        "url": "https://xcum.com/t/bbw/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-30"
+      },
+      {
+        "url": "https://xcum.com/t/big-ass/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-30"
+      },
+      {
+        "url": "https://xcum.com/t/big-black-cock/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-03"
+      },
+      {
+        "url": "https://xcum.com/t/big-dick/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-31"
+      },
+      {
+        "url": "https://xcum.com/t/big-tits/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-02"
+      },
+      {
+        "url": "https://xcum.com/t/blowjob/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-29"
+      },
+      {
+        "url": "https://xcum.com/t/brunette/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-10"
+      },
+      {
+        "url": "https://xcum.com/t/casting/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-11"
+      },
+      {
+        "url": "https://xcum.com/t/caught/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-08"
+      },
+      {
+        "url": "https://xcum.com/t/cfnm/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-19"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All our movies in HD resolution have scenes with anal sex with beautifull babes only and cumshots at the end. xCum publishes videos the same day they are released!",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 54
+  }
+]
