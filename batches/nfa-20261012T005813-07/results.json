@@ -1,0 +1,911 @@
+[
+  {
+    "company_domain": "phia.com",
+    "company_name": "Renaissanse Inc.",
+    "website": "https://phia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "promocut.com",
+    "company_name": "Dipper LLC",
+    "website": "https://promocut.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "saponicalc.com",
+    "company_name": "Joshua Henson",
+    "website": "https://saponicalc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "signingapp.com",
+    "company_name": "Vcom3D",
+    "website": "http://signingapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "skout.com",
+    "company_name": "Skout, Inc.",
+    "website": "http://www.skout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@skout.com",
+        "confidence": "highest",
+        "source_url": "https://www.skout.com/en/press/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact For all press inquiries, please contact us here: press@skout.com This address is for press or media inquiries only. Tech"
+      },
+      {
+        "address": "support@skout.com",
+        "confidence": "highest",
+        "source_url": "http://www.skout.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "c. 100 Union Square Drive New Hope, PA 18938, USA Email: support@skout.com Phone: (+1) (215) 862-1162 Managing Director Nicholas Her"
+      }
+    ],
+    "role_emails": [
+      "press@skout.com",
+      "support@skout.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "agent@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.agent@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.copyright@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated.agent@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designated_agent@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "designateda@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Designated Agent",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.copyright@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_copyright@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@skout.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.skout.com/en/termsandconditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.skout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.skout.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.skout.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/aboutus/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/de/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/es/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/it/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/nl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/pt-br/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/pt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/tr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/termsandconditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/communityguidelines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/compliance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/online-safety-code/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/consumer-health-data-privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/licenses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.skout.com/en/privacypolicy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Connect with people nearby or worldwide on Skout. Join now and chat, make friends, or meet authentic matches.",
+    "source_urls": [
+      "http://www.skout.com/contact",
+      "http://www.skout.com/about",
+      "https://www.skout.com/en/press/",
+      "https://www.skout.com/en/aboutus/",
+      "https://www.skout.com/en/termsandconditions/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "spruevault.com",
+    "company_name": "Collins Minyangadou",
+    "website": "https://spruevault.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "standardmediacompany.com",
+    "company_name": "Standard Media Company",
+    "website": "http://www.standardmediacompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.simonian@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.simonian@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_simonian@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrews@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "media@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.company@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.media@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "simonian@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Simonian",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standard.company@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standard.media@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standard@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standard_company@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standard_media@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standardc@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media Company",
+        "person_title": "Founder",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "standardm@standardmediacompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Standard Media",
+        "person_title": "President",
+        "source_url": "https://www.standardmediacompany.com/bio/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.standardmediacompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.standardmediacompany.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.standardmediacompany.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-13"
+      },
+      {
+        "url": "http://www.standardmediacompany.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.standardmediacompany.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/television/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/film/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/mobile/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/publishing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/consulting/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/bio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/credits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.standardmediacompany.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.standardmediacompany.com/tom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.standardmediacompany.com/bi-curious-george",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "When a shadowy figure instructs two different men to take out the same woman, they both end up at her home at the same time and must fight each other through absurd situations to be the one to complete the assignment. An award-winning, action-packed, R-Rated comedy produced for only $3,500.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "taprecorder.com",
+    "company_name": "John A. Damm, Jr. d/b/a Dimensional Software",
+    "website": "https://www.taprecorder.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "taximaxim.com",
+    "company_name": "PT. SISTEM INFORMASI TRANSPORTASI OTOMATIS",
+    "website": "https://taximaxim.com/country/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "vunyo.com",
+    "company_name": "VUNYO BILGI TEKNOLOJILERI LIMITED SIRKETI",
+    "website": "https://vunyo.com/apps/gluten",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@vunyo.app",
+        "confidence": "high",
+        "source_url": "https://vunyo.com/apps/gluten/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@vunyo.com",
+        "confidence": "high",
+        "source_url": "https://vunyo.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@vunyo.app",
+      "support@vunyo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vunyo.com/apps/gluten",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vunyo.com/apps/gluten/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vunyo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vunyo.com/apps/gluten/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vunyo.com/apps/gluten/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Gluten-Free Food Checker",
+    "source_urls": [
+      "https://vunyo.com/apps/gluten/support",
+      "https://vunyo.com/",
+      "https://vunyo.com/apps/gluten/privacy",
+      "https://vunyo.com/apps/gluten/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "withmono.app",
+    "company_name": "Aaron  McGuire",
+    "website": "https://withmono.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "zamalabs.com",
+    "company_name": "Zamalabs Yazilim ve Bilgi Teknolojileri Sanayi Ticaret Limited Sirketi",
+    "website": "https://www.zamalabs.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "scipio@zamalabs.com",
+        "confidence": "highest",
+        "source_url": "https://www.zamalabs.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s A User Friendly Alternative to Managing Your Life Contact scipio@zamalabs.com \u0130\u00e7erenk\u00f6y Mah. \u00c7etinkaya Sk. Prestij Plaza No:28/4 Ata\u015f"
+      }
+    ],
+    "role_emails": [
+      "scipio@zamalabs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.zamalabs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/fitsync",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/new-vocabulary-daily",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/japanese-vocabulary-builder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/cookie-editor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/font-space-for-cut-machines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/dewy-skincare-routine-journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.zamalabs.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.zamalabs.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.zamalabs.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover apps for your iOS devices developed by Zamalabs!",
+    "source_urls": [
+      "https://www.zamalabs.com/",
+      "https://www.zamalabs.com",
+      "https://www.zamalabs.com/fitsync",
+      "https://www.zamalabs.com/new-vocabulary-daily",
+      "https://www.zamalabs.com/japanese-vocabulary-builder",
+      "https://www.zamalabs.com/cookie-editor",
+      "https://www.zamalabs.com/font-space-for-cut-machines",
+      "https://www.zamalabs.com/dewy-skincare-routine-journal",
+      "https://www.zamalabs.com/blog"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
