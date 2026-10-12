@@ -1,0 +1,1785 @@
+[
+  {
+    "company_domain": "telegram.org",
+    "company_name": "telegram.org",
+    "website": "https://telegram.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abuse@telegram.org",
+        "confidence": "highest",
+        "source_url": "https://telegram.org/faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\ud6c4 \uc2e0\uace0 \ub97c \uc120\ud0dd\ud558\uc138\uc694. \uadf8\ub7f0 \ub2e4\uc74c \uc801\uc808\ud55c \uc774\uc720\ub97c \uc120\ud0dd\ud558\uba74 \ub429\ub2c8\ub2e4. \ub610\ud55c \uc790\ub3d9\ud654\ub41c \uc2e0\uace0 \uc774\uba54\uc77c \uc8fc\uc18c abuse@telegram.org \ub97c \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc774\uba54\uc77c\ub85c \uc0ad\uc81c \uc694\uccad\uc744 \ubcf4\ub0bc \ub54c\ub294 \ud154\ub808\uadf8\ub7a8\uc5d0\uc11c \uc8fc\ubaa9\ubc1b\uc544\uc57c \ud560 \ucf58\ud150\uce20\uc5d0 \ub300\ud55c \ub9c1\ud06c"
+      },
+      {
+        "address": "dmca@telegram.org",
+        "confidence": "highest",
+        "source_url": "https://telegram.org/faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\uac1c \ud50c\ub7ab\ud3fc\uc758 \uc77c\ubd80\uc778 \ubd07, \ucc44\ub110, \uc2a4\ud2f0\ucee4 \uc138\ud2b8 \ub610\ub294 \uae30\ud0c0 \ucf58\ud150\uce20\uac00 \uadc0\ud558\uc758 \uc800\uc791\uad8c\uc744 \uce68\ud574\ud558\uace0 \uc788\ub2e4\uace0 \uc0dd\uac01\ub418\uba74 dmca@telegram.org \ub85c \ubd88\ub9cc\uc744 \uc81c\ucd9c\ud574 \uc8fc\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4. \uc774\ub7ec\ud55c \uc694\uccad\uc740 \uc800\uc791\uad8c \uc18c\uc720\uc790 \ub610\ub294 \uc18c\uc720\uc790\ub97c \ub300\uc2e0\ud574 \uad8c\ud55c\uc744 \ubc1b\uc740 \ub300\ub9ac\uc778\ub9cc"
+      },
+      {
+        "address": "security@telegram.org",
+        "confidence": "highest",
+        "source_url": "https://telegram.org/faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\ub3c5\ub9bd\uc801\uc73c\ub85c \ud655\uc778\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc5b8\uc81c\ub4e0\uc9c0 \ubcf4\uc548 \uc804\ubb38\uac00\uac00 \uc800\ud76c \uc2dc\uc2a4\ud15c\uc744 \uac10\uc0ac\ud558\uace0 \ud53c\ub4dc\ubc31\uc744 \uc8fc\uc2e0\ub2e4\uba74, [security@telegram.org](mailto: security@telegram.org)\uc73c\ub85c \ubcf4\ub0b4\uc8fc\uc2dc\uba74 \uac10\uc0ac\ud558\uaca0\uc2b5\ub2c8\ub2e4. \ud154\ub808\uadf8\ub7a8\uc758 \uc8fc\uc694"
+      },
+      {
+        "address": "stopca@telegram.org",
+        "confidence": "highest",
+        "source_url": "https://telegram.org/safety",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ia automated takedown addresses : abuse@telegram.org stopCA@telegram.org The table lists the top four NGOs that submitted take"
+      }
+    ],
+    "role_emails": [
+      "abuse@telegram.org",
+      "dmca@telegram.org",
+      "security@telegram.org",
+      "stopca@telegram.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "durov@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.telegram@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.telegram@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_telegram@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meett@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.durov@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavel.durov@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavel@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavel_durov@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paveld@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavel Durov",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "telegram@telegram.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Telegram",
+        "person_title": "Founder",
+        "source_url": "https://telegram.org/press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://telegram.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=en",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=id",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=ms",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=de",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=es",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=fr",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=it",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=nl",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=uz",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=pl",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=pt-br",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=tr",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=be",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=ru",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=uk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org?setln=kk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/safety",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://telegram.org/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fast. Secure. Powerful.",
+    "source_urls": [
+      "https://telegram.org/faq",
+      "https://telegram.org/apps",
+      "https://telegram.org/safety"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ticket360.com.br",
+    "company_name": "ticket360.com.br",
+    "website": "https://www.ticket360.com.br",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "comercial@ticket360.com.br",
+        "confidence": "high",
+        "source_url": "https://www.ticket360.com.br/sobre",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "contato@ticket360.com.br",
+        "confidence": "high",
+        "source_url": "https://www.ticket360.com.br",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "faleconosco@ticket360.com.br",
+        "confidence": "high",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda/site-confiavel",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "analise@ticket360.com.br",
+        "confidence": "medium",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cancelamento@ticket360.com.br",
+        "confidence": "medium",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "garantia@ticket360.com.br",
+        "confidence": "medium",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacidade@ticket360.com.br",
+        "confidence": "medium",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "transferencia@ticket360.com.br",
+        "confidence": "medium",
+        "source_url": "https://www.ticket360.com.br/central-de-ajuda",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "analise@ticket360.com.br",
+      "cancelamento@ticket360.com.br",
+      "comercial@ticket360.com.br",
+      "contato@ticket360.com.br",
+      "faleconosco@ticket360.com.br",
+      "garantia@ticket360.com.br",
+      "privacidade@ticket360.com.br",
+      "transferencia@ticket360.com.br"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ticket360.com.br",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/artistas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/1/villa-country",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/2/audio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/772/vivo-rio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/1047/espaco-unimed",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/1377/tulum-beach-club",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/local/1499/juventus-live-hall",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/locais",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/sp/sao-paulo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/rj/rio-de-janeiro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/ba/marau",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/mg/leopoldina",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/sp/santo-andre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidade/sp/guaruja",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/cidades",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca?q=eventos+hoje",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca?q=eventos+amanh%C3%A3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca?q=eventos+esta+semana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca?q=eventos+neste+fim+de+semana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/busca?q=eventos+este+m%C3%AAs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda/site-confiavel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda/combate-cambismo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda/acessibilidade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda/meia-entrada",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/central-de-ajuda#contatos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/sobre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/ticket360-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/sobre/comercial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/conta/ingressos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/explore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/perfil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/32876/ingressos-para-palavra-cantada",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/34197/ingressos-para-tardezinha-do-brasas-com-heitor-santos-forro-medoin-e-brasas-do-forro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/31662/ingressos-para-the-gathering-in-concert",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33394/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33672/ingressos-para-rod-hanna-flashback",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33827/ingressos-para-cezar-e-paulinho",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33486/ingressos-para-jorge-aragao-e-fundo-de-quintal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33395/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/evento/33898/ingressos-para-uma-noite-em-buenos-aires-especial-50-anos-de-sucesso-com-tenor-martin-masiello",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/1/musica",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/126/eventos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/24/artes-e-teatro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/51/especiais",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/210/estados",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ticket360.com.br/categoria/281/turne",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Compre ingressos com seguran\u00e7a para os melhores eventos do Brasil. Shows, festivais, teatro, stand-up e muito mais.",
+    "source_urls": [
+      "https://www.ticket360.com.br",
+      "https://www.ticket360.com.br/",
+      "https://www.ticket360.com.br/artistas",
+      "https://www.ticket360.com.br/busca",
+      "https://www.ticket360.com.br/local/1/villa-country",
+      "https://www.ticket360.com.br/local/2/audio",
+      "https://www.ticket360.com.br/local/772/vivo-rio",
+      "https://www.ticket360.com.br/local/1047/espaco-unimed",
+      "https://www.ticket360.com.br/local/1377/tulum-beach-club",
+      "https://www.ticket360.com.br/local/1499/juventus-live-hall",
+      "https://www.ticket360.com.br/locais",
+      "https://www.ticket360.com.br/cidade/sp/sao-paulo",
+      "https://www.ticket360.com.br/cidade/rj/rio-de-janeiro",
+      "https://www.ticket360.com.br/cidade/ba/marau",
+      "https://www.ticket360.com.br/cidade/mg/leopoldina",
+      "https://www.ticket360.com.br/cidade/sp/santo-andre",
+      "https://www.ticket360.com.br/cidade/sp/guaruja",
+      "https://www.ticket360.com.br/cidades",
+      "https://www.ticket360.com.br/busca?q=eventos+hoje",
+      "https://www.ticket360.com.br/busca?q=eventos+amanh%C3%A3",
+      "https://www.ticket360.com.br/busca?q=eventos+esta+semana",
+      "https://www.ticket360.com.br/busca?q=eventos+neste+fim+de+semana",
+      "https://www.ticket360.com.br/busca?q=eventos+este+m%C3%AAs",
+      "https://www.ticket360.com.br/central-de-ajuda",
+      "https://www.ticket360.com.br/central-de-ajuda/site-confiavel",
+      "https://www.ticket360.com.br/central-de-ajuda/combate-cambismo",
+      "https://www.ticket360.com.br/central-de-ajuda/acessibilidade",
+      "https://www.ticket360.com.br/central-de-ajuda/meia-entrada",
+      "https://www.ticket360.com.br/central-de-ajuda#contatos",
+      "https://www.ticket360.com.br/sobre",
+      "https://www.ticket360.com.br/ticket360-ai",
+      "https://www.ticket360.com.br/sobre/comercial",
+      "https://www.ticket360.com.br/conta/ingressos",
+      "https://www.ticket360.com.br/explore",
+      "https://www.ticket360.com.br/perfil",
+      "https://www.ticket360.com.br/evento/32876/ingressos-para-palavra-cantada",
+      "https://www.ticket360.com.br/evento/34197/ingressos-para-tardezinha-do-brasas-com-heitor-santos-forro-medoin-e-brasas-do-forro",
+      "https://www.ticket360.com.br/evento/31662/ingressos-para-the-gathering-in-concert",
+      "https://www.ticket360.com.br/evento/33394/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour",
+      "https://www.ticket360.com.br/evento/33672/ingressos-para-rod-hanna-flashback",
+      "https://www.ticket360.com.br/evento/33827/ingressos-para-cezar-e-paulinho",
+      "https://www.ticket360.com.br/evento/33486/ingressos-para-jorge-aragao-e-fundo-de-quintal",
+      "https://www.ticket360.com.br/evento/33395/ingressos-para-dionne-warwick-over-and-out-a-farewell-tour",
+      "https://www.ticket360.com.br/evento/33898/ingressos-para-uma-noite-em-buenos-aires-especial-50-anos-de-sucesso-com-tenor-martin-masiello",
+      "https://www.ticket360.com.br/categoria/1/musica",
+      "https://www.ticket360.com.br/categoria/126/eventos",
+      "https://www.ticket360.com.br/categoria/24/artes-e-teatro",
+      "https://www.ticket360.com.br/categoria/51/especiais",
+      "https://www.ticket360.com.br/categoria/210/estados",
+      "https://www.ticket360.com.br/categoria/281/turne"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "turbo.az",
+    "company_name": "turbo.az",
+    "website": "https://turbo.az",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "turbo@turbo.az",
+        "confidence": "highest",
+        "source_url": "https://turbo.az",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-30",
+        "context_snippet": "\u0259m\u0259k \u00fc\u00e7\u00fcn kameran\u0131 QR-koda y\u00f6n\u0259ldin Reklam yerl\u0259\u015fdirin turbo@turbo.az (012) 526-47-47 Abarth (7) Acura (2) Alfa Romeo (7) Anyang Kinla"
+      }
+    ],
+    "role_emails": [
+      "turbo@turbo.az"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://turbo.az",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-30"
+      },
+      {
+        "url": "https://turbo.az/help",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-01-19"
+      },
+      {
+        "url": "https://turbo.az/help/popular_questions",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-16"
+      },
+      {
+        "url": "https://turbo.az/bookmarks",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-22"
+      },
+      {
+        "url": "https://turbo.az/autos",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-22"
+      },
+      {
+        "url": "https://turbo.az/avtosalonlar",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-20"
+      },
+      {
+        "url": "https://turbo.az/autos/new",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-02"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "S\u00fcr\u0259tli avtomobil al\u0131\u015f-sat\u0131\u015f\u0131. Yeni v\u0259 i\u015fl\u0259nmi\u015f avtomobill\u0259r, avtosalonlar v\u0259 f\u0259rdi elanlar. Turbo.az \u2013 Az\u0259rbaycan\u0131n \u0259n b\u00f6y\u00fck avtomobil portal\u0131.",
+    "source_urls": [
+      "https://turbo.az",
+      "https://turbo.az/help",
+      "https://turbo.az/bookmarks",
+      "https://turbo.az/autos",
+      "https://turbo.az/avtosalonlar",
+      "https://turbo.az/autos/new"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 95
+  },
+  {
+    "company_domain": "usezapay.com.br",
+    "company_name": "usezapay.com.br",
+    "website": "https://usezapay.com.br/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "meajuda@usezapay.com.br",
+        "confidence": "highest",
+        "source_url": "https://usezapay.com.br/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Consultar placa de ve\u00edculo gr\u00e1tis e pague em 12x! meajuda@usezapay.com.br Fale conosco: 11 3181-6136 Entrar A Zapay Lojas Blog Ajud"
+      }
+    ],
+    "role_emails": [
+      "meajuda@usezapay.com.br"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://usezapay.com.br/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/zapay-e-confiavel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/ipva",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/licenciamento",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/multas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/divida-ativa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/ipva",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/ipva/2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/detran",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/licenciamento/atrasado",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/ipva/atrasado",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/licenciamento",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/licenciamento/2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.usezapay.com.br/multas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/senatran",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/sefaz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/licenciamento/atrasado",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/licenciamento/2027",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/licenciamento/2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/despachante",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/calculadoras/ipva",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/seguros",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/ipva/2027",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/ipva/2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/ipva/atrasado",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/cupom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/df",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/mg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/pr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/sc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/pe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/ce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/ap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/ac",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/go",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/mt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/pa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/pi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/rr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/to",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/rj",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/sp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/rs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/rn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/ba",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/es",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/am",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/al",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usezapay.com.br/detran/ma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Consulte e puxe pela placa seus d\u00e9bitos de carro, moto e caminh\u00e3o. Pague em at\u00e9 12x, com mais rapidez e sem filas.",
+    "source_urls": [
+      "https://usezapay.com.br/",
+      "https://usezapay.com.br/zapay-e-confiavel",
+      "https://usezapay.com.br/ipva",
+      "https://usezapay.com.br/licenciamento",
+      "https://usezapay.com.br/multas",
+      "https://usezapay.com.br/divida-ativa",
+      "https://www.usezapay.com.br/ipva",
+      "https://www.usezapay.com.br/ipva/2026",
+      "https://www.usezapay.com.br/detran",
+      "https://www.usezapay.com.br/licenciamento/atrasado",
+      "https://www.usezapay.com.br/ipva/atrasado",
+      "https://www.usezapay.com.br/licenciamento",
+      "https://www.usezapay.com.br/licenciamento/2026",
+      "https://www.usezapay.com.br/multas",
+      "https://usezapay.com.br/detran",
+      "https://usezapay.com.br/senatran",
+      "https://usezapay.com.br/sefaz",
+      "https://usezapay.com.br/licenciamento/atrasado",
+      "https://usezapay.com.br/licenciamento/2027",
+      "https://usezapay.com.br/licenciamento/2026",
+      "https://usezapay.com.br/despachante",
+      "https://usezapay.com.br/calculadoras/ipva",
+      "https://usezapay.com.br/seguros",
+      "https://usezapay.com.br/ipva/2027",
+      "https://usezapay.com.br/ipva/2026",
+      "https://usezapay.com.br/ipva/atrasado",
+      "https://usezapay.com.br/cupom",
+      "https://usezapay.com.br/detran/df",
+      "https://usezapay.com.br/detran/mg",
+      "https://usezapay.com.br/detran/pr",
+      "https://usezapay.com.br/detran/sc",
+      "https://usezapay.com.br/detran/pe",
+      "https://usezapay.com.br/detran/ce",
+      "https://usezapay.com.br/detran/ap",
+      "https://usezapay.com.br/detran/ac",
+      "https://usezapay.com.br/detran/go",
+      "https://usezapay.com.br/detran/mt",
+      "https://usezapay.com.br/detran/pa",
+      "https://usezapay.com.br/detran/pi",
+      "https://usezapay.com.br/detran/rr",
+      "https://usezapay.com.br/detran/to",
+      "https://usezapay.com.br/detran/rj",
+      "https://usezapay.com.br/detran/sp",
+      "https://usezapay.com.br/detran/rs",
+      "https://usezapay.com.br/detran/rn",
+      "https://usezapay.com.br/detran/ba",
+      "https://usezapay.com.br/detran/es",
+      "https://usezapay.com.br/detran/am",
+      "https://usezapay.com.br/detran/al",
+      "https://usezapay.com.br/detran/ma"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vivavideo.tv",
+    "company_name": "vivavideo.tv",
+    "website": "https://www.vivavideo.tv/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@vivavideo.tv",
+        "confidence": "highest",
+        "source_url": "https://www.vivavideo.tv/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@vivavideo.tv"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.vivavideo.tv/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.vivavideo.tv/privacy-policy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.vivavideo.tv/terms-privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VivaVideo is a full-featured Video Editor for Android & IOS, with all video editing features: cut/ trim/ crop/ merge video, add music/ text/ transitions/ glitch effect...",
+    "source_urls": [
+      "https://www.vivavideo.tv/",
+      "https://www.vivavideo.tv/privacy-policy.html",
+      "https://www.vivavideo.tv/terms-privacy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vkontakte.ru",
+    "company_name": "vkontakte.ru",
+    "website": "https://m.vkontakte.ru/support?act=home&amp;source=gplay_vkontakte",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "This may cause VK to work slowly or\u00a0experience errors. Update your browser or\u00a0install one of\u00a0the\u00a0following:",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "vone.live",
+    "company_name": "vone.live",
+    "website": "https://vone.live",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vone.live",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vone.live/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "xplayer.info",
+    "company_name": "xplayer.info",
+    "website": "http://xplayer.info/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "yope.tv",
+    "company_name": "yope.tv",
+    "website": "https://www.yope.tv",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@yope.tv",
+        "confidence": "highest",
+        "source_url": "https://www.yope.tv",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "contacts@yope.app",
+        "confidence": "high",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ments or questions about these Terms. You may contact us at contacts@yope.app Last Updated on December 10 2025. \u200d Privacy Policy This Pr"
+      }
+    ],
+    "role_emails": [
+      "contacts@yope.app",
+      "support@yope.tv"
+    ],
+    "email_candidates": [
+      {
+        "address": "copyright@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.copyright@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.copyright@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_copyright@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@yope.tv",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://www.yope.tv/legal#terms",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.yope.tv",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.yope.tv/legal#terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.yope.tv/legal#privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Yope \u2014 the AI-native, friends-only photo app for your micro-communities. Snaps land straight on your friends' lock screens. No likes, no algorithm. 4.7\u2605.",
+    "source_urls": [
+      "https://www.yope.tv",
+      "https://www.yope.tv/legal#terms",
+      "https://www.yope.tv/legal#privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zig.fun",
+    "company_name": "zig.fun",
+    "website": "https://zig.fun",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "A solu\u00e7\u00e3o mais completa de gest\u00e3o de consumo para eventos, bares, restaurantes e casas noturnas de todos os portes. Conhe\u00e7a a Zig.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 78,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 3
+  }
+]
