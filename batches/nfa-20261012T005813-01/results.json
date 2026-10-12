@@ -1,0 +1,645 @@
+[
+  {
+    "company_domain": "100coaches.com",
+    "company_name": "Digital Farmstand LLC",
+    "website": "https://www.100coaches.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "432player.com",
+    "company_name": "Ophir Paz",
+    "website": "http://www.432player.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "a32xtools.com",
+    "company_name": "Adria Raventos ruiz",
+    "website": "https://www.a32xtools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "abc11.com",
+    "company_name": "Disney Electronic Content, Inc.",
+    "website": "https://abc11.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "afrinetpro.com",
+    "company_name": "AfriNetPro LLC",
+    "website": "http://afrinetpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@afrinetpro.com",
+        "confidence": "high",
+        "source_url": "https://afrinetpro.com/privacy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "not adhered to this Statement, please contact AfriNetPro at support@afrinetpro.com. We will use commercially reasonable efforts to promptly de"
+      }
+    ],
+    "role_emails": [
+      "support@afrinetpro.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://afrinetpro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://afrinetpro.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://afrinetpro.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://afrinetpro.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://afrinetpro.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/bindirgal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/terms-of-use/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://afrinetpro.com/bindirgal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrinetpro.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://afrinetpro.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://afrinetpro.com/pages/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://afrinetpro.com/support/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://afrinetpro.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bindirgal Pulaar is world first Pulaar mobile keyboard. It is Free!\nBindirgal Pulaar is a full mobile iOS keyboard.",
+    "source_urls": [
+      "https://afrinetpro.com/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aircraftstatus.com",
+    "company_name": "Assets Tech - Fzco",
+    "website": "https://aircraftstatus.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "airglow.no",
+    "company_name": "Remi-Andre Romsdal",
+    "website": "http://www.airglow.no",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "airportsapp.info",
+    "company_name": "Applicate Ltd",
+    "website": "http://airportsapp.info",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alpacatheapp.com",
+    "company_name": "Atmosphere Interactive LLC",
+    "website": "http://www.alpacatheapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "amanita-design.net",
+    "company_name": "Amanita Design s.r.o.",
+    "website": "http://amanita-design.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@amanita-design.net",
+        "confidence": "high",
+        "source_url": "http://amanita-design.net/privacy-policy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", Brno, Czech Republic Data privacy officer: Tomas Dvorak privacy@amanita-design.net Copyright \u00a9 Amanita Design All Ri"
+      }
+    ],
+    "role_emails": [
+      "privacy@amanita-design.net"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.design@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanita.design@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanita@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanita_design@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amanitad@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "design@amanita-design.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amanita Design",
+        "person_title": "Owner",
+        "source_url": "http://amanita-design.net/videopolicy.html",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://amanita-design.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/machinarium2.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/phonopolis.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/pilgrims-curious-adventures.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/pilgrims.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/happy.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/creaks.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/chuchel.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/samorost3.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/machinarium.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/botanicula.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/samorost-2.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/games/samorost-1.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/privacy-policy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://amanita-design.net/videopolicy.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Amanita Design, small independent game developing studio based in the Czech Republic",
+    "source_urls": [
+      "http://amanita-design.net/privacy-policy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "asiacell.com",
+    "company_name": "Asiacell communication LLC",
+    "website": "https://www.asiacell.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "business.channel@asiacell.com",
+        "confidence": "high",
+        "source_url": "https://asiacell.com/en/amali/support/contact-us",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "business.channel@asiacell.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.asiacell.com/personal/support/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about/about-asiacell/CSR",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about/about-asiacell/Investor-relations",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about/careers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/personal/support/FAQ",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/personal/support/device-conf",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/personal/support/storelocator",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about/contact-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about-us/facebook-privacy",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/about-us/terms-and-conditions",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/personal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/careers/overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asiacell.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asiacell.com/en/amali/support/contact-us",
+        "page_type": "contact",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asiacell.com/en/amali/business-solutions/landline-solutions",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u0625\u0643\u062a\u0634\u0641 \u062e\u062f\u0645\u0627\u062a \u0622\u0633\u064a\u0627\u0633\u064a\u0644 \u0644\u0644\u0645\u0648\u0628\u0627\u064a\u0644 \u0648\u0627\u0644\u0625\u0646\u062a\u0631\u0646\u062a \u0641\u064a \u062c\u0645\u064a\u0639 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0631\u0627\u0642. \u062a\u0645\u062a\u0639 \u0628\u0625\u062a\u0635\u0627\u0644 \u0633\u0631\u064a\u0639\u060c \u062a\u063a\u0637\u064a\u0629 \u0645\u0648\u062b\u0648\u0642\u0629 \u0648\u0628\u0627\u0642\u0627\u062a \u0645\u0631\u0646\u0629 \u0644\u0644\u0639\u0645\u0644 \u0648\u0627\u0644\u0645\u0646\u0632\u0644 \u0648\u0627\u0644\u0633\u0641\u0631.",
+    "source_urls": [
+      "https://asiacell.com/en/amali/support/contact-us",
+      "https://asiacell.com/en/amali/business-solutions/landline-solutions"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "atulgoel.me",
+    "company_name": "Cloven & Works Private Limited",
+    "website": "https://atulgoel.me/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
