@@ -1,0 +1,2551 @@
+[
+  {
+    "company_domain": "otomoto.pl",
+    "company_name": "otomoto.pl",
+    "website": "https://www.otomoto.pl",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "inspekcje@otomoto.pl",
+        "confidence": "highest",
+        "source_url": "https://www.otomoto.pl/inspekcja",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "og\u0119 si\u0119 skontaktowa\u0107? Mo\u017cesz do nas wys\u0142a\u0107 e-mail na adres inspekcje@otomoto.pl Regulamin Znajd\u017a nas Facebook Instagram YouTube TikTok Obs\u0142"
+      },
+      {
+        "address": "kontakt@otomotolease.pl",
+        "confidence": "highest",
+        "source_url": "https://www.otomoto.pl/otomotolease",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", 03-736 Warszawa Infolinia +48 22 221 04 00 Email kontakt@otomotolease.pl Grupa OLX Sp. z o.o. ul. Kr\u00f3lowej Jadwigi 43"
+      },
+      {
+        "address": "pomoc@otomoto.pl",
+        "confidence": "high",
+        "source_url": "https://www.otomoto.pl/osobowe",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "48 539 146 861 (od pn. do pt. w godz. 08:00 - 17:00) Email: pomoc@otomoto.pl (od pn. do nd. w godz. 08:00 - 20:00) Chat: (od pn. do pt."
+      }
+    ],
+    "role_emails": [
+      "inspekcje@otomoto.pl",
+      "kontakt@otomotolease.pl",
+      "pomoc@otomoto.pl"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.otomoto.pl",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=ciezarowe",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=maszyny-budowlane",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=dostawcze",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=motocykle-i-quady",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=przyczepy",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=maszyny-rolnicze",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=czesci",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/uzywane",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/nowe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_fuel_type=electric",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_financial_option=1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_leasing_concession=1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_string_vehicle_verification_status=1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/otomotolease",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/wycena-samochodu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/inspekcja",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news/strefa-marek",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/obserwowane",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/authentication?redirectUrl=%2Fmojekonto%2Fmessages",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=osobowe",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/?category=elektryczne",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&fallback_url=https%3A%2F%2Fwww.otomoto.pl%2Fosobowe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/nowe-ogloszenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/opcje-sprzedazy?from=postAdButton",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/promoted",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/ferrari-12cilindri-ID6Ih4H2.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/opel-astra-ID6IgkZj.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/chevrolet-orlando-ID6IbXTK.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/audi-a8-ID6Ih8b3.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/gwm-ora-5-ID6IgDii.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/toyota-avensis-ID6IhiXp.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/jeep-grand-cherokee-ID6HILtu.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/volvo-xc-40-ID6Ihg1W.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/oferta/skoda-kodiaq-ID6I6ZFf.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news?utm_source=otomotonews&utm_medium=banner&utm_campaign=SGotomoto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news/chery-tiggo-7-hev-pierwsza-jazda-oml?utm_source=otomotonews&utm_medium=banner&utm_campaign=SGotomoto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news/opel-astra-2026-lifting-jazda-oml?utm_source=otomotonews&utm_medium=banner&utm_campaign=SGotomoto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news/przeglad-najtanszych-pelnych-hybryd-na-rynku-oml?utm_source=otomotonews&utm_medium=banner&utm_campaign=SGotomoto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/news/uzywane-audi-a4-b6-opinie-usterki-jaki-silnik-wybrac?utm_source=otomotonews&utm_medium=banner&utm_campaign=SGotomoto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/kia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/kia/sportage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/hyundai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/hyundai/tucson",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/volvo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.otomoto.pl/osobowe/volvo/xc-60",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Szukasz samochodu lub motocykla? Przegl\u0105daj oferty nowych i u\u017cywanych pojazd\u00f3w w Otomoto.pl.",
+    "source_urls": [
+      "https://www.otomoto.pl/osobowe",
+      "https://www.otomoto.pl/osobowe/uzywane",
+      "https://www.otomoto.pl/osobowe/nowe",
+      "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_fuel_type=electric",
+      "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_financial_option=1",
+      "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_enum_leasing_concession=1",
+      "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&filter_string_vehicle_verification_status=1",
+      "https://www.otomoto.pl/otomotolease",
+      "https://www.otomoto.pl/inspekcja",
+      "https://www.otomoto.pl/obserwowane",
+      "https://www.otomoto.pl/homepage-advert-search-summary?category_id=29&fallback_url=https%3A%2F%2Fwww.otomoto.pl%2Fosobowe",
+      "https://www.otomoto.pl/opcje-sprzedazy?from=postAdButton",
+      "https://www.otomoto.pl/promoted",
+      "https://www.otomoto.pl/osobowe/kia",
+      "https://www.otomoto.pl/osobowe/kia/sportage",
+      "https://www.otomoto.pl/osobowe/hyundai",
+      "https://www.otomoto.pl/osobowe/hyundai/tucson",
+      "https://www.otomoto.pl/osobowe/volvo",
+      "https://www.otomoto.pl/osobowe/volvo/xc-60"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "outilsobdfacile.fr",
+    "company_name": "outilsobdfacile.fr",
+    "website": "https://www.outilsobdfacile.fr",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Nous sommes les sp\u00e9cialistes du l'OBD en France depuis plus de 15 ans.\n\tConsultez notre site pour tout savoir sur le diagnostic automobile OBD2 et les ELM327!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "petrolofisi.com.tr",
+    "company_name": "petrolofisi.com.tr",
+    "website": "https://www.petrolofisi.com.tr",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@petrolofisi.com.tr",
+        "confidence": "highest",
+        "source_url": "https://www.petrolofisi.com.tr/iletisim",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "info@petrolofisi.com.tr Haritada G\u00f6r"
+      }
+    ],
+    "role_emails": [
+      "info@petrolofisi.com.tr"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.petrolofisi.com.tr/iletisim",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "T\u00fcrkiye'nin lider akaryak\u0131t ve otogaz da\u011f\u0131t\u0131c\u0131s\u0131 Petrol Ofisi'nin avantajl\u0131 kampanyalar\u0131, g\u00fcncel benzin fiyatlar\u0131 ve en yak\u0131n istasyonlar\u0131 i\u00e7in hemen t\u0131klay\u0131n!",
+    "source_urls": [
+      "https://www.petrolofisi.com.tr/iletisim"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "popupapp.info",
+    "company_name": "popupapp.info",
+    "website": "https://www.popupapp.info/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "redtaxi.co.in",
+    "company_name": "redtaxi.co.in",
+    "website": "https://www.redtaxi.co.in",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersupport@redtaxi.co.in",
+        "confidence": "highest",
+        "source_url": "https://www.redtaxi.co.in/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "To address your complaint/grievance, mail us at customersupport@redtaxi.co.in Address Corporate Office Eagle Fle"
+      },
+      {
+        "address": "info@redtaxi.co.in",
+        "confidence": "highest",
+        "source_url": "https://www.redtaxi.co.in/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-17",
+        "context_snippet": "il for below id, we will quickly get back to you Email: info@redtaxi.co.in We\u2019d love to hear from you. Please make a call to this nu"
+      }
+    ],
+    "role_emails": [
+      "customersupport@redtaxi.co.in",
+      "info@redtaxi.co.in"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.sundaram@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dinesh.sundaram@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dinesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dinesh_sundaram@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dineshs@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.jesudoss@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jesudoss@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim.jesudoss@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim_jesudoss@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jimj@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "JIM JESUDOSS",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.travels@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kandhan.travels@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kandhan@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kandhan_travels@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kandhant@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.kumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohan.kumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohan@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohan_kumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohank@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohan Kumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.sampathkumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parkas@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pb.sampathkumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pb@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pb_sampathkumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pbs@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.tim@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.waran@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramesh.tim@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramesh_tim@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ramesht@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rvignesh.waran@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rvignesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rvignesh_waran@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rvigneshw@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.parkas@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vignesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sampathkumar@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PB Sampathkumar",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saran.vignesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saran@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saran_vignesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saranv@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siva.parkas@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siva@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siva_parkas@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sivap@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Siva Parkas",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sundaram@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dinesh Sundaram",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ramesh Tim",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "travels@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kandhan Travels",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vignesh@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saran Vignesh",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waran@redtaxi.co.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "r.vignesh waran",
+        "person_title": null,
+        "source_url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.redtaxi.co.in",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-17"
+      },
+      {
+        "url": "https://www.redtaxi.co.in/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/corporate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/corporate#trusted-brands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/cities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/coimbatore-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/chennai-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/trichy-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/madurai-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/erode-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/salem-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/tirupur-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/pollachi-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/karur-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-namakkal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-vellore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-hosur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-mettupalayam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-thanjavur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-dindigul",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-villupuram",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-krishnagiri",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-thoothukudi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-kanyakumari",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/taxi-services-in-nagercoil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/coimbatore-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/tirupur-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/trichy-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/salem-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/madurai-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/erode-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/tirunelveli-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/villupuram-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/vellore-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/thanjavur-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/pollachi-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/karur-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/mettupalayam-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/dindigul-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/krishnagiri-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/thoothukudi-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/namakkal-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/nagercoil-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.redtaxi.co.in/kanyakumari-bike-taxi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.redtaxi.co.in/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Book a Cab Online near your location. Red Taxi offers Tours, Taxi, Travels, Cabs, Car Rentals, Hire Services & Local or Outstation Packages at affordable prices",
+    "source_urls": [
+      "https://www.redtaxi.co.in",
+      "https://www.redtaxi.co.in/contact",
+      "https://www.redtaxi.co.in/support",
+      "https://www.redtaxi.co.in/contact-us",
+      "https://www.redtaxi.co.in/about-us",
+      "https://www.redtaxi.co.in/",
+      "https://www.redtaxi.co.in/corporate",
+      "https://www.redtaxi.co.in/corporate#trusted-brands",
+      "https://www.redtaxi.co.in/cities",
+      "https://www.redtaxi.co.in/coimbatore-cab-booking",
+      "https://www.redtaxi.co.in/chennai-cab-booking",
+      "https://www.redtaxi.co.in/trichy-cab-booking",
+      "https://www.redtaxi.co.in/madurai-cab-booking",
+      "https://www.redtaxi.co.in/erode-cab-booking",
+      "https://www.redtaxi.co.in/salem-cab-booking",
+      "https://www.redtaxi.co.in/tirupur-cab-booking",
+      "https://www.redtaxi.co.in/pollachi-cab-booking",
+      "https://www.redtaxi.co.in/karur-cab-booking",
+      "https://www.redtaxi.co.in/tirunelveli-cab-booking",
+      "https://www.redtaxi.co.in/taxi-services-in-namakkal",
+      "https://www.redtaxi.co.in/taxi-services-in-vellore",
+      "https://www.redtaxi.co.in/taxi-services-in-hosur",
+      "https://www.redtaxi.co.in/taxi-services-in-mettupalayam",
+      "https://www.redtaxi.co.in/taxi-services-in-thanjavur",
+      "https://www.redtaxi.co.in/taxi-services-in-dindigul",
+      "https://www.redtaxi.co.in/taxi-services-in-villupuram",
+      "https://www.redtaxi.co.in/taxi-services-in-krishnagiri",
+      "https://www.redtaxi.co.in/taxi-services-in-thoothukudi",
+      "https://www.redtaxi.co.in/taxi-services-in-kanyakumari",
+      "https://www.redtaxi.co.in/taxi-services-in-nagercoil",
+      "https://www.redtaxi.co.in/bike-taxi",
+      "https://www.redtaxi.co.in/coimbatore-bike-taxi",
+      "https://www.redtaxi.co.in/tirupur-bike-taxi",
+      "https://www.redtaxi.co.in/trichy-bike-taxi",
+      "https://www.redtaxi.co.in/salem-bike-taxi",
+      "https://www.redtaxi.co.in/madurai-bike-taxi",
+      "https://www.redtaxi.co.in/erode-bike-taxi",
+      "https://www.redtaxi.co.in/tirunelveli-bike-taxi",
+      "https://www.redtaxi.co.in/villupuram-bike-taxi",
+      "https://www.redtaxi.co.in/vellore-bike-taxi",
+      "https://www.redtaxi.co.in/thanjavur-bike-taxi",
+      "https://www.redtaxi.co.in/pollachi-bike-taxi",
+      "https://www.redtaxi.co.in/karur-bike-taxi",
+      "https://www.redtaxi.co.in/mettupalayam-bike-taxi",
+      "https://www.redtaxi.co.in/dindigul-bike-taxi",
+      "https://www.redtaxi.co.in/krishnagiri-bike-taxi",
+      "https://www.redtaxi.co.in/thoothukudi-bike-taxi",
+      "https://www.redtaxi.co.in/namakkal-bike-taxi",
+      "https://www.redtaxi.co.in/nagercoil-bike-taxi",
+      "https://www.redtaxi.co.in/kanyakumari-bike-taxi"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 73,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shell.com.br",
+    "company_name": "shell.com.br",
+    "website": "http://www.shell.com.br/shellbox",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.shell.com.br/shellbox",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Facilitar a sua vida \u00e9 s\u00f3 um dos benef\u00edcios do Shell Box, o app de pagamentos dos Postos Shell.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "tango.me",
+    "company_name": "tango.me",
+    "website": "https://business.tango.me/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@tango.me",
+        "confidence": "high",
+        "source_url": "https://business.tango.me/business/reseller",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@tango.me"
+    ],
+    "email_candidates": [
+      {
+        "address": "inc@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raz@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.inc@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tango.inc@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tango@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tango_inc@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tangoi@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tango Inc",
+        "person_title": "Ceo",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.raz@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uri.raz@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uri@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uri_raz@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "urir@business.tango.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uri Raz",
+        "person_title": "Founder",
+        "source_url": "https://business.tango.me/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://business.tango.me/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://business.tango.me/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://business.tango.me/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://business.tango.me/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://business.tango.me/business/reseller",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://business.tango.me/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Tango for Business: the #1 Live-Streaming and Video Chat App, Empowering Creators and Users Worldwide with Live Video, Content Moderation, and more.",
+    "source_urls": [
+      "https://business.tango.me/business/reseller"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "tatneft.ru",
+    "company_name": "tatneft.ru",
+    "website": "https://tatneft.ru",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 3
+  },
+  {
+    "company_domain": "taxsee.ru",
+    "company_name": "taxsee.ru",
+    "website": "http://taxsee.ru/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Modern technologies that allow you to organize your work, facilitate communications and expand your business.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 19
+  },
+  {
+    "company_domain": "videoshowapp.com",
+    "company_name": "videoshowapp.com",
+    "website": "https://videoshowapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://videoshowapp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://videoshowapp.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://videoshowapp.com/product.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Biggest Mobile Video Contest Community,Contest with million youtubers !",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "vivacut.com",
+    "company_name": "vivacut.com",
+    "website": "http://www.vivacut.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "corporation@vivacut.online",
+        "confidence": "high",
+        "source_url": "https://vivacut.com/statement",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "corporation@vivacut.online"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.notice@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright.notice@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright_notice@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyrightn@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "notice@vivacut.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Notice",
+        "person_title": "Owner",
+        "source_url": "http://www.vivacut.com/legal-statement",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.vivacut.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/#home",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/#intro",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/#features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/legal-statement",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.vivacut.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vivacut.com/statement",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.vivacut.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.vivacut.com/#contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.vivacut.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.vivacut.com/#home",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.vivacut.com/#intro",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.vivacut.com/#features",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "VivaCut is a video editor with all the professional editing tools you need! It is the perfect editorfor cutting, trimming and splitting long videos into short video clips. You may also use its multi-layertimeline to create beautiful collages or videos for the social medias. Or merge clips and add te",
+    "source_urls": [
+      "https://vivacut.com/statement"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "wondershare.com",
+    "company_name": "wondershare.com",
+    "website": "https://filmora.wondershare.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "affiliate@wondershare.com",
+        "confidence": "high",
+        "source_url": "https://recoverit.wondershare.com/contact-us.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "media@wondershare.com",
+        "confidence": "high",
+        "source_url": "https://recoverit.wondershare.com/contact-us.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@wondershare.com",
+        "confidence": "high",
+        "source_url": "https://recoverit.wondershare.com/contact-us.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "affiliate@wondershare.com",
+      "media@wondershare.com",
+      "support@wondershare.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ecommerce.business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ecommerce@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ecommerce_business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ecommerceb@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ecommerce Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/video-filters.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma.rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma_rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emmar@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.lee@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james.lee@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james_lee@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamesl@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Lee",
+        "person_title": "Marketing Manager",
+        "source_url": "https://filmora.wondershare.com/video-template.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/animated-charts.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike.rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/animated-charts.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/animated-charts.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike_rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/animated-charts.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miker@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/animated-charts.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rodriguez@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Rodriguez",
+        "person_title": "Marketing Director",
+        "source_url": "https://filmora.wondershare.com/auto-caption.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Small Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "small.business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Small Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "small@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Small Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "small_business@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Small Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smallb@filmora.wondershare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Small Business",
+        "person_title": "Owner",
+        "source_url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://filmora.wondershare.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/other-media-videos/facebook-video-editor.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/stock-media.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-compressor.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/store/buy-business.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-editor/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-editor-mac/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/filmora-ai-video-editing-app/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/filmora-ai-video-editing-app-android/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-editor-for-ipad.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/timeline-video-editor.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/screen-recorder.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/camera-tracking.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/color-correction.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/silence-detection.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/auto-beat-sync.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/audio-ducking.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/audio-sync.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/add-text-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/auto-caption.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/text-animation.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/title-editing.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/filmora-features.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-effect.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-template.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/video-filters.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/audio-library.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/animated-charts.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/creative-assets.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-editing.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-text-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-image-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-extender.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-image.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/text-to-speech.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-music-generator.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/audio-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-sound-effect-generator.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-idea-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-script-to-video.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-copywriting.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-storyboard-generator.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-object-remover.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-enhancer.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-interpolation.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-video-analysis.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-audio-enhancer.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/voice-changer.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-vocal-remover.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://filmora.wondershare.com/ai-audio-denoise.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://recoverit.wondershare.com/contact-us.html",
+        "page_type": "contact",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://filmora.wondershare.com/store/buy-business.html",
+        "action": "https://go.pardot.com/l/285052/2020-02-25/8vscjy",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Wondershare Filmora 16 is AI-powered video editing software for desktop and mobile. Edit videos with intuitive timeline tools, AI features, effects, captions, audio, and more.",
+    "source_urls": [
+      "https://recoverit.wondershare.com/contact-us.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 3
+  }
+]
