@@ -1,0 +1,1350 @@
+[
+  {
+    "company_domain": "aisle-grocery.com",
+    "company_name": "Ian mclein",
+    "website": "https://www.aisle-grocery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "allertapp.com",
+    "company_name": "Jacques Hoebee",
+    "website": "https://allertapp.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ananketech.net",
+    "company_name": "Ananke Tech LLC",
+    "website": "https://www.ananketech.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ananketech.net",
+        "confidence": "high",
+        "source_url": "https://www.ananketech.net/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uggestions about our Privacy Policy, please contact us at: support@ananketech.net Form: Fill in the contact form via the \"Support and Contac"
+      }
+    ],
+    "role_emails": [
+      "support@ananketech.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ananketech.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ananketech.net/support-and-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ananketech.net/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ananketech.net/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ananketech.net/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Ananke Tech\nOur mission is to design clean, purposeful applications that fit perfectly into your life and elevate your daily routine. We believe mobile software should make life more interesting, simple and solve real-world needs.\nFrom productivity tools to make things easier to games to",
+    "source_urls": [
+      "https://www.ananketech.net/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "angelapplications.co.uk",
+    "company_name": "Angel App Publishing Ltd.",
+    "website": "https://angelapplications.co.uk/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@angelapplications.co.uk",
+        "confidence": "highest",
+        "source_url": "https://angelapplications.co.uk/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy Terms of Use Contact Email: contact@angelapplications.co.uk \u00a9 2026 Angel App Publishing Ltd. All rights reserved."
+      }
+    ],
+    "role_emails": [
+      "contact@angelapplications.co.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://angelapplications.co.uk/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angelapplications.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-11-28"
+      },
+      {
+        "url": "https://angelapplications.co.uk/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-11-28"
+      },
+      {
+        "url": "https://angelapplications.co.uk/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angelapplications.co.uk/terms-of-use/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angelapplications.co.uk/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angelapplications.co.uk/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://angelapplications.co.uk/contact",
+        "action": "/contact/#wpcf7-f28-p9-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Since 2010, our apps have been downloaded by millions of people worldwide",
+    "source_urls": [
+      "https://angelapplications.co.uk/",
+      "https://angelapplications.co.uk/contact",
+      "https://angelapplications.co.uk/about",
+      "https://angelapplications.co.uk/privacy-policy/",
+      "https://angelapplications.co.uk/terms-of-use/",
+      "https://angelapplications.co.uk/privacy-policy",
+      "https://angelapplications.co.uk/terms-of-use"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "appnerds.net",
+    "company_name": "AppNerds LLC",
+    "website": "https://appnerds.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://appnerds.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://appnerds.net/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AppNerds builds custom websites, web applications, and mobile apps with AI integration. Creators of EventLYNQ.ai.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "ballai.app",
+    "company_name": "Automatic AI, Inc",
+    "website": "https://www.ballai.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bangogolf.com",
+    "company_name": "Paratrooper Labs, Inc.",
+    "website": "https://bangogolf.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gov.br",
+    "company_name": "gov.br",
+    "website": "https://empregabrasil.mte.gov.br/%20",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "jus.br",
+    "company_name": "jus.br",
+    "website": "https://www.tse.jus.br",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cge@tse.jus.br",
+        "confidence": "highest",
+        "source_url": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "egedorias (PJeCor) ou encaminhar a documenta\u00e7\u00e3o ao e-mail cge@tse.jus.br ou, ainda, pela via postal (Tribunal Superior Eleitoral -"
+      },
+      {
+        "address": "estatistica@tse.jus.br",
+        "confidence": "highest",
+        "source_url": "https://www.tse.jus.br/eleicoes/estatisticas/estatisticas",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "D\u00favidas e sugest\u00f5es devem ser encaminhadas para estatistica@tse.jus.br . Visite tamb\u00e9m Estat\u00edstic"
+      },
+      {
+        "address": "jurisprudencia@tse.jus.br",
+        "confidence": "highest",
+        "source_url": "https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ria de Jurisprud\u00eancia e Legisla\u00e7\u00e3o, pelo e-mail jurisprudencia@tse.jus.br ."
+      },
+      {
+        "address": "segedoc@tse.jus.br",
+        "confidence": "highest",
+        "source_url": "https://www.tse.jus.br/jurisprudencia/perguntas-frequentes",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00e3o tenha sucesso na busca, solicite a decis\u00e3o pelo e-mail segedoc@tse.jus.br Como \u00e9 realizado o atendimento ao p\u00fablico externo?"
+      },
+      {
+        "address": "asepa@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/eleicoes/contas-eleitorais/contas-eleitorais-normas-e-regulamentos",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dae@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/eleicoes/estatisticas/estatisticas",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "gabcojur@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/jurisprudencia/jurisprudencia-da-justica-eleitoral",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "gabdg@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/transparencia-e-prestacao-de-contas/informacoes-exigidas-por-lei/acesso-a-informacao/acesso-a-informacao",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "diretor(a)-geral (telefone: (61) 3030-7375 / e-mail: gabdg@tse.jus.br). Informa\u00e7\u00f5es n\u00e3o dispon\u00edveis abaixo podem ser obti"
+      },
+      {
+        "address": "gabsti@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/eleicoes/historia/eleicoes-historia",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "imprensa@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/comunicacao",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(61) 3030-7077 / 7080 / imprensa@tse.jus.br Quem somos"
+      },
+      {
+        "address": "ngdap@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/partidos/federacoes-registradas-no-tse/federacoes-partidarias-registradas-no-tse",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ouv@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "secad@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/servicos-eleitorais/local-de-votacao-zonas-eleitorais",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "secinp@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/sistema-de-candidaturas-modulo-externo-candex-2026",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "seint@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/partidos/criacao-de-partido/apresentacao",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sesam@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "setot@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sgic@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/jurisprudencia/julgados-historicos/julgados-historicos",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sgweb+p@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/acessibilidades-tse/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sgweb@tse.jus.br",
+        "confidence": "high",
+        "source_url": "https://www.tse.jus.br/transparencia-e-prestacao-de-contas/informacoes-exigidas-por-lei/acesso-a-informacao/acesso-a-informacao",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "asepa@tse.jus.br",
+      "cge@tse.jus.br",
+      "dae@tse.jus.br",
+      "estatistica@tse.jus.br",
+      "gabcojur@tse.jus.br",
+      "gabdg@tse.jus.br",
+      "gabsti@tse.jus.br",
+      "imprensa@tse.jus.br",
+      "jurisprudencia@tse.jus.br",
+      "ngdap@tse.jus.br",
+      "ouv@tse.jus.br",
+      "secad@tse.jus.br",
+      "secinp@tse.jus.br",
+      "segedoc@tse.jus.br",
+      "seint@tse.jus.br",
+      "sesam@tse.jus.br",
+      "setot@tse.jus.br",
+      "sgic@tse.jus.br",
+      "sgweb+p@tse.jus.br",
+      "sgweb@tse.jus.br"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.tse.jus.br/acessibilidades-tse/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/transparencia-e-prestacao-de-contas/informacoes-exigidas-por-lei/acesso-a-informacao/acesso-a-informacao",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/eleitorado-no-exterior/votacao-no-exterior",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/justificativa-eleitoral/justificativa-eleitoral",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/local-de-votacao-zonas-eleitorais",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/quitacao-de-multas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/titulo-e-local-de-votacao/titulo-eleitoral-faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral/autoatendimento-eleitoral-titulo-net",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/biometria/biometria",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/contas-eleitorais/contas-eleitorais-normas-e-regulamentos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-plebiscitos-e-referendos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/estatisticas/estatisticas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/historia/eleicoes-historia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/sistema-de-candidaturas-modulo-externo-candex-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/contas-partidarias/contas-partidarias",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/criacao-de-partido/apresentacao",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/federacoes-registradas-no-tse/federacoes-partidarias-registradas-no-tse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/filiacao-partidaria/filiacao-partidaria",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/registrados-no-tse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/propaganda-partidaria/propaganda-partidaria",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/comunicacao",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/julgados-historicos/julgados-historicos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/jurisprudencia-da-justica-eleitoral",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/jurisprudencia-por-assunto",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/perguntas-frequentes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/pesquisa-de-jurisprudencia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/revista-de-jurisprudencia-do-tse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tse.jus.br/jurisprudencia/decisoes/pesquisa-por-e-mail-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.tse.jus.br/acessibilidades-tse/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/transparencia-e-prestacao-de-contas/informacoes-exigidas-por-lei/acesso-a-informacao/acesso-a-informacao",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/eleitorado-no-exterior/votacao-no-exterior",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/justificativa-eleitoral/justificativa-eleitoral",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/local-de-votacao-zonas-eleitorais",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/quitacao-de-multas",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/titulo-e-local-de-votacao/titulo-eleitoral-faq",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral/autoatendimento-eleitoral-titulo-net",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/biometria/biometria",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/contas-eleitorais/contas-eleitorais-normas-e-regulamentos",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/eleicoes-plebiscitos-e-referendos",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/estatisticas/estatisticas",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/historia/eleicoes-historia",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/sistema-de-candidaturas-modulo-externo-candex-2026",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/contas-partidarias/contas-partidarias",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/criacao-de-partido/apresentacao",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/federacoes-registradas-no-tse/federacoes-partidarias-registradas-no-tse",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/filiacao-partidaria/filiacao-partidaria",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/registrados-no-tse",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/propaganda-partidaria/propaganda-partidaria",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/comunicacao",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/julgados-historicos/julgados-historicos",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/jurisprudencia-da-justica-eleitoral",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/jurisprudencia-por-assunto",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/perguntas-frequentes",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/pesquisa-de-jurisprudencia",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/revista-de-jurisprudencia-do-tse",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/decisoes/pesquisa-por-e-mail-2",
+        "action": "https://www.tse.jus.br/jurisprudencia/decisoes/pesquisa-por-e-mail-2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.tse.jus.br/jurisprudencia/decisoes/pesquisa-por-e-mail-2",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Sistema eletr\u00f4nico de produ\u00e7\u00e3o e gest\u00e3o de documentos e processos administrativos do Tribunal Superior Eleitoral",
+    "source_urls": [
+      "https://www.tse.jus.br/acessibilidades-tse/",
+      "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+      "https://www.tse.jus.br/transparencia-e-prestacao-de-contas/informacoes-exigidas-por-lei/acesso-a-informacao/acesso-a-informacao",
+      "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+      "https://www.tse.jus.br/servicos-eleitorais/eleitorado-no-exterior/votacao-no-exterior",
+      "https://www.tse.jus.br/servicos-eleitorais/justificativa-eleitoral/justificativa-eleitoral",
+      "https://www.tse.jus.br/servicos-eleitorais/local-de-votacao-zonas-eleitorais",
+      "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/quitacao-de-multas",
+      "https://www.tse.jus.br/servicos-eleitorais/titulo-e-local-de-votacao/titulo-eleitoral-faq",
+      "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes",
+      "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral/autoatendimento-eleitoral/autoatendimento-eleitoral-titulo-net",
+      "https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo",
+      "https://www.tse.jus.br/eleicoes/biometria/biometria",
+      "https://www.tse.jus.br/eleicoes/contas-eleitorais/contas-eleitorais-normas-e-regulamentos",
+      "https://www.tse.jus.br/eleicoes/eleicoes-plebiscitos-e-referendos",
+      "https://www.tse.jus.br/eleicoes/estatisticas/estatisticas",
+      "https://www.tse.jus.br/eleicoes/historia/eleicoes-historia",
+      "https://www.tse.jus.br/eleicoes/resultados-eleicoes",
+      "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/sistema-de-candidaturas-modulo-externo-candex-2026",
+      "https://www.tse.jus.br/partidos/contas-partidarias/contas-partidarias",
+      "https://www.tse.jus.br/partidos/criacao-de-partido/apresentacao",
+      "https://www.tse.jus.br/partidos/federacoes-registradas-no-tse/federacoes-partidarias-registradas-no-tse",
+      "https://www.tse.jus.br/partidos/filiacao-partidaria/filiacao-partidaria",
+      "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/registrados-no-tse",
+      "https://www.tse.jus.br/partidos/propaganda-partidaria/propaganda-partidaria",
+      "https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3",
+      "https://www.tse.jus.br/comunicacao",
+      "https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse",
+      "https://www.tse.jus.br/jurisprudencia/julgados-historicos/julgados-historicos",
+      "https://www.tse.jus.br/jurisprudencia/jurisprudencia-da-justica-eleitoral",
+      "https://www.tse.jus.br/jurisprudencia/jurisprudencia-por-assunto",
+      "https://www.tse.jus.br/jurisprudencia/perguntas-frequentes",
+      "https://www.tse.jus.br/jurisprudencia/pesquisa-de-jurisprudencia",
+      "https://www.tse.jus.br/jurisprudencia/revista-de-jurisprudencia-do-tse",
+      "https://www.tse.jus.br/legislacao/codigo-eleitoral/sumulas"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "musicdonna.com",
+    "company_name": "musicdonna.com",
+    "website": "https://www.musicdonna.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@musicdonna.com",
+        "confidence": "high",
+        "source_url": "https://musicdonna.com/billing-terms/upnok",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@musicdonna.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://musicdonna.com/billing-terms/upnok",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://musicdonna.com/billing-terms/codenue",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create original songs with AI. Describe a mood, a memory, or a lyric idea and Donna writes, sings, and produces a complete track in minutes \u2014 no instruments, no experience needed.",
+    "source_urls": [
+      "https://musicdonna.com/billing-terms/upnok",
+      "https://musicdonna.com/billing-terms/codenue"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "short.gy",
+    "company_name": "short.gy",
+    "website": "https://fifamobile.short.gy/helpAndroidFOA",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "sympla.com.br",
+    "company_name": "sympla.com.br",
+    "website": "http://www.sympla.com.br",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  }
+]
