@@ -1,0 +1,4479 @@
+[
+  {
+    "company_domain": "k-sauce.com",
+    "company_name": "About Us",
+    "website": "https://k-sauce.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "kingnewspress.com",
+    "company_name": "Global Study Reveals Dramatic Regional Differences in Energy Drink Ingredients",
+    "website": "https://kingnewspress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "kingstonsnacks.com",
+    "company_name": "Kingston Craft Snacks | Handcrafted Micro-Batch Pretzels",
+    "website": "https://kingstonsnacks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@kingstonsnacks.com",
+        "confidence": "highest",
+        "source_url": "https://kingstonsnacks.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "on we collect, please don't hesitate to reach out to us at info@kingstonsnacks.com . By using our website or purchasing our products, you cons"
+      },
+      {
+        "address": "orders@kingstonsnacks.com",
+        "confidence": "highest",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ave questions about an order, our products, please contact orders@kingstonsnacks.com . As the founder and snackmaker behind Kingston, I person"
+      },
+      {
+        "address": "hello@kingstonsnacks.com",
+        "confidence": "high",
+        "source_url": "https://kingstonsnacks.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "bably out making snacks. Thanks for your patience. Email: hello@kingstonsnacks.com Looking for Something Bigger? Need snacks for an event, bus"
+      }
+    ],
+    "role_emails": [
+      "hello@kingstonsnacks.com",
+      "info@kingstonsnacks.com",
+      "orders@kingstonsnacks.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "koster@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maker@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.koster@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick.koster@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick_koster@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrickk@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Koster",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.maker@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snack.maker@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snack@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snack_maker@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snackm@kingstonsnacks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Snack Maker",
+        "person_title": "Founder",
+        "source_url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://kingstonsnacks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/the-signature-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/the-fire-batch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/the-sweet-batch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/half-pound-extras",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/collections/seasoned-cheese-puffs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/pages/meet-the-snackmaker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/dill-ranch-half-pound-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/spicy-pickle-half-pound-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/sicilian-pizza-half-pound-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/tools/sitemap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/birthday-cake-white-chocolate-artisan-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/birthday-cake-half-pound-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/buffalo-ranch-artisan-pretzels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kingstonsnacks.com/products/buffalo-ranch-seasoned-cheese-puffs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://kingstonsnacks.com/pages/contact",
+        "action": "/contact#ContactForm-AYjBoWU5LYmtIV3oyT__contact_form_bVhXic",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover handcrafted micro-batch pretzels made by one snack maker. Fresh batches, bold flavors, real ingredients, and limited availability.",
+    "source_urls": [
+      "https://kingstonsnacks.com/pages/contact",
+      "https://kingstonsnacks.com/policies/contact-information",
+      "https://kingstonsnacks.com/policies/privacy-policy",
+      "https://kingstonsnacks.com/policies/terms-of-service",
+      "https://kingstonsnacks.com/policies/shipping-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "kiow.com",
+    "company_name": "Former Belmond Resident Brings The Sanity Stash to Bloemke Pharmacy",
+    "website": "https://kiow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "koreajoongangdaily.com",
+    "company_name": "Emart\u2019s Peacock HMR brand introduces a new \u2018meal kit\u2019",
+    "website": "https://koreajoongangdaily.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "laitimes.com",
+    "company_name": "&quot;Natural and Healthy New Snacks&quot; Meets the Quintessence of Peking Opera IP New Year&#039;s Gifts and Good Prod",
+    "website": "https://laitimes.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "landonbuford.com",
+    "company_name": "Kim Kardashian Becomes Co-Founder of UPDATE Energy Drink, Launches in 4,000 Walmart Stores",
+    "website": "https://landonbuford.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "leadiq.com",
+    "company_name": "HEATONIST Company Overview, Contact Details & Competitors | LeadIQ",
+    "website": "https://leadiq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@leadiq.com",
+        "confidence": "highest",
+        "source_url": "https://leadiq.com/legal/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ough our Privacy Center https://privacy.leadiq.com or at privacy@leadiq.com and we will add you to our suppression list. By not exerci"
+      },
+      {
+        "address": "sales@leadiq.com",
+        "confidence": "highest",
+        "source_url": "https://leadiq.com/c/company-search",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "IQ vs. Champify Contact 1-888-653-2347 support@leadiq.com sales@leadiq.com \u00a9 LeadIQ, Inc. All rights reserved."
+      },
+      {
+        "address": "support@leadiq.com",
+        "confidence": "highest",
+        "source_url": "https://leadiq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dIQ vs. Usergems LeadIQ vs. Champify Contact 1-888-653-2347 support@leadiq.com sales@leadiq.com \u00a9 LeadIQ, Inc. All rights reserved."
+      }
+    ],
+    "role_emails": [
+      "privacy@leadiq.com",
+      "sales@leadiq.com",
+      "support@leadiq.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.banayote@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.j@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.zukoski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron.zukoski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron_zukoski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaronz@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian_m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrianm@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ahmed@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander.h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexander_h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexanderh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexander H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alicia.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alicia@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alicia_b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aliciab@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allen.h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allen@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allen_h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allenh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony.banayote@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthony_banayote@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anthonyb@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arushi.j@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arushi@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arushi_j@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arushij@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.juliano@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brendan M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alicia B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "banayote@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anthony Banayote",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brendan.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brendan M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brendan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brendan M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brendan_m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brendan M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brendanm@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brendan M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bryan.juliano@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bryan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bryan_juliano@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bryanj@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.cottle@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.specter@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.walsh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carli.cottle@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carli@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carli_cottle@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlic@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "casey.walsh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "casey@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "casey_walsh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "caseyw@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad_m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chadm@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coleman@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colin.h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colin.specter@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colin@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colin_h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colin_specter@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colinh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colins@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cottle@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carli Cottle",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.science@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.villegas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniela.villegas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniela@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniela_villegas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danielav@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data.science@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data_science@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "datas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Evin K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "episode@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "evin.k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Evin K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "evin@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Evin K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "evin_k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Evin K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "evink@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Evin K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Fan",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://leadiq.com/success-stories/workato",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harout V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allen H.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harout.v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harout V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harout@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harout V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harout_v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harout V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "haroutv@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harout V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.episode@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ignacio.v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ignacio@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ignacio_v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ignaciov@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.episode@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_episode@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ine@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In Episode",
+        "person_title": "Cmo",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.kosakowski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.n@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.o@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arushi J.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack.kosakowski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack_kosakowski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jackk@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james_b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamesb@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jessica.n@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jessica@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jessica_n@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jessican@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.o@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_o@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johno@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juliano@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bryan Juliano",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enterprise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.coleman@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kosakowski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Kosakowski",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin.w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin_w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristinw@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle.coleman@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle_coleman@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kylec@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle Coleman",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://leadiq.com/success-stories/clari",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "like@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.d@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.fan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Fan",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://leadiq.com/success-stories/workato",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.p@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael P.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.street@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "market.street@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "market@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "market_street@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markets@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "micah.k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Micah K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "micah@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Micah K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "micah_k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Micah K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "micahk@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Micah K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.fan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Fan",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://leadiq.com/success-stories/workato",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.p@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael P.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_fan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Fan",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://leadiq.com/success-stories/workato",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_k@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_p@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael P.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelf@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Fan",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://leadiq.com/success-stories/workato",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelk@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael K.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelp@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael P.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel.d@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel_d@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "migueld@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel D.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica_b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monicab@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.ahmed@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.f@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jessica N.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nabeel.ahmed@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nabeel@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nabeel_ahmed@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nabeela@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nabeel Ahmed",
+        "person_title": "President",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicholas.f@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicholas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicholas_f@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicholasf@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nicholas F.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John O.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael P.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.like@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.quan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.r@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.subramanian@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah.b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah_b@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarahb@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah B.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "science@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Data Science",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sell.like@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sell@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sell_like@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "selll@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sell Like",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha.subramanian@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha_subramanian@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snehas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "specter@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colin Specter",
+        "person_title": "Founder",
+        "source_url": "https://leadiq.com/podcast",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stanton.quan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stanton@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stanton_quan@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stantonq@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stanton Quan",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/our-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "street@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Market Street",
+        "person_title": "Ceo",
+        "source_url": "https://leadiq.com/legal/terms-of-use",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "subramanian@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Subramanian",
+        "person_title": "Co-Founder",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sydney.r@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sydney@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sydney_r@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sydneyr@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sydney R.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.s@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tyler W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor.m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor_m@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylorm@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor M.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas.s@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas_s@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomass@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/identify-prospect-data",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tyler.w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tyler W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tyler@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tyler W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tyler_w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tyler W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tylerw@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tyler W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.user@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ignacio V.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/enrichment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified.user@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified_user@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verifiedu@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified User",
+        "person_title": "Marketing Manager",
+        "source_url": "https://leadiq.com/compare/overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "villegas@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniela Villegas",
+        "person_title": "Marketing Lead",
+        "source_url": "https://leadiq.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kristin W.",
+        "person_title": null,
+        "source_url": "https://leadiq.com/track-sales-triggers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walsh@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Casey Walsh",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/ebooks-and-webinars",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zukoski@leadiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Zukoski",
+        "person_title": "Business Development",
+        "source_url": "https://leadiq.com/success-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://leadiq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-02"
+      },
+      {
+        "url": "https://leadiq.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/c/company-search",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/lando-table",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://leadiq.com/universal-credits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/prospecting-hub",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/data-hub",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/leadiq-mcp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/lando-agent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/chrome-extension",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/integrations/overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/compare/overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/book-a-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/podcast",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/ebooks-and-webinars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/privacy-center",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/partner-program",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/enterprise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/track-sales-triggers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/enrichment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/identify-prospect-data",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/walkme",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/optimizely",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/workato",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/smartly",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/clari",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/stream",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/greenhouse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/success-stories/leandata",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/integrations/gong",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/scribe-generative-ai-for-sales",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/enrich-salesforce-data",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/data-community",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/our-data",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/legal/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/legal/cookie-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/legal/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/compare/leadiq-vs-zoominfo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/compare/leadiq-vs-apollo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/compare/leadiq-vs-lusha",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leadiq.com/compare/leadiq-vs-cognism",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "LeadIQ is a platform of B2B sales prospecting tools. Find prospect data, track buying signals, & personalize cold outreach for outbound prospecting.",
+    "source_urls": [
+      "https://leadiq.com",
+      "https://leadiq.com/contact",
+      "https://leadiq.com/support",
+      "https://leadiq.com/contact-us",
+      "https://leadiq.com/press",
+      "https://leadiq.com/c/company-search",
+      "https://leadiq.com/lando-table",
+      "http://leadiq.com/universal-credits",
+      "https://leadiq.com/",
+      "https://leadiq.com/prospecting-hub",
+      "https://leadiq.com/data-hub",
+      "https://leadiq.com/leadiq-mcp",
+      "https://leadiq.com/lando-agent",
+      "https://leadiq.com/chrome-extension",
+      "https://leadiq.com/integrations/overview",
+      "https://leadiq.com/compare/overview",
+      "https://leadiq.com/book-a-demo",
+      "https://leadiq.com/success-stories",
+      "https://leadiq.com/blog",
+      "https://leadiq.com/podcast",
+      "https://leadiq.com/ebooks-and-webinars",
+      "https://leadiq.com/careers",
+      "https://leadiq.com/privacy-center",
+      "https://leadiq.com/partner-program",
+      "https://leadiq.com/pricing",
+      "https://leadiq.com/enterprise",
+      "https://leadiq.com/track-sales-triggers",
+      "https://leadiq.com/enrichment",
+      "https://leadiq.com/identify-prospect-data",
+      "https://leadiq.com/success-stories/walkme",
+      "https://leadiq.com/success-stories/optimizely",
+      "https://leadiq.com/success-stories/workato",
+      "https://leadiq.com/success-stories/smartly",
+      "https://leadiq.com/success-stories/clari",
+      "https://leadiq.com/success-stories/stream",
+      "https://leadiq.com/success-stories/greenhouse",
+      "https://leadiq.com/success-stories/leandata",
+      "https://leadiq.com/integrations/gong",
+      "https://leadiq.com/scribe-generative-ai-for-sales",
+      "https://leadiq.com/enrich-salesforce-data",
+      "https://leadiq.com/data-community",
+      "https://leadiq.com/our-data",
+      "https://leadiq.com/legal/privacy-policy",
+      "https://leadiq.com/legal/cookie-policy",
+      "https://leadiq.com/legal/terms-of-use",
+      "https://leadiq.com/compare/leadiq-vs-zoominfo",
+      "https://leadiq.com/compare/leadiq-vs-apollo",
+      "https://leadiq.com/compare/leadiq-vs-lusha",
+      "https://leadiq.com/compare/leadiq-vs-cognism"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 72,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lemonsnlyme.com",
+    "company_name": "My Favorite (Pre-Packaged) AIP Snacks & Treats",
+    "website": "https://lemonsnlyme.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "lifeponds.com",
+    "company_name": "Fnu Najibullah Arian Expands Eagle Energy Drink Across Global Markets",
+    "website": "https://lifeponds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "lifestylereviewer.com",
+    "company_name": "Best Meal Kits UK 2026: 7 Top Boxes Actually Worth Your Money | Lifestyle Reviewer",
+    "website": "https://lifestylereviewer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.osei@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amara.osei@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amara@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amara_osei@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amarao@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "baxter@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.baxter@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe.baxter@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe_baxter@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloeb@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe Baxter",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.whitfield@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.whitfield@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_whitfield@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danw@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.faulkner@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "editorial@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma.faulkner@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma_faulkner@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emmaf@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "faulkner@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma Faulkner",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hartwell@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hussain@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.editorial@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lifestyle.editorial@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lifestyle@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lifestyle_editorial@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lifestylee@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lifestyle Reviewer Editorial",
+        "person_title": null,
+        "source_url": "https://lifestylereviewer.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.webb@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus.webb@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcus_webb@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marcusw@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nash@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.nash@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver.nash@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver_nash@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivern@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Nash",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "osei@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amara Osei",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.hartwell@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie.hartwell@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie_hartwell@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophieh@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Hartwell",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "webb@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marcus Webb",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whitfield@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Whitfield",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.hussain@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zara.hussain@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zara@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zara_hussain@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zarah@lifestylereviewer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zara Hussain",
+        "person_title": null,
+        "source_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://lifestylereviewer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lifestylereviewer.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/meet-the-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/real-vs-artificial-christmas-tree-uk-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/health-beauty/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/advice/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/food/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/entertainment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/fashion-style/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/health/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/tech/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/featured/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/lifestyle/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/author/emmafaulkner/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/author/olivernash/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/health-beauty/fitness/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/author/amaraosei/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/berberine-for-weight-loss-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/ashwagandha-for-stress-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/how-much-protein-do-you-need-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/pearl-jewellery-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/italian-summer-style-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/best-stand-mixer-under-150/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/best-pizza-oven-under-300/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/fibremaxxing-uk-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/outdoor-pizza-ovens-uk-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/gnocchi-recipes-uk-weeknight-dinners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/editors-pick/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/category/trending/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/turner-prize-2026/#respond",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/author/marcuswebb/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lifestylereviewer.com/author/danwhitfield/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://lifestylereviewer.com/contact",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://lifestylereviewer.com/contact-us",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://lifestylereviewer.com/pages/contact",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://lifestylereviewer.com/pages/contact-us",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://lifestylereviewer.com/support/contact",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/contact-us/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/sculptural-accent-chair-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/hearsay-liberty-x-tour-tickets-2027/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/japanese-walking-workout-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/real-vs-artificial-christmas-tree-uk-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/turner-prize-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/energy-saving-gadgets-that-actually-work/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/berberine-for-weight-loss-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/ashwagandha-for-stress-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/how-much-protein-do-you-need-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/maxi-skirt-outfits-uk-summer-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/tailored-shorts-summer-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/pearl-jewellery-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/italian-summer-style-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/best-stand-mixer-under-150/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/best-pizza-oven-under-300/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/fibremaxxing-uk-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/elderflower-recipes-uk-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/outdoor-pizza-ovens-uk-2026/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/gnocchi-recipes-uk-weeknight-dinners/",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.lifestylereviewer.com/turner-prize-2026/#respond",
+        "action": "https://www.lifestylereviewer.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Honest reviews for modern living - covering beauty, wellness, lifestyle products and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "lipstickalley.com",
+    "company_name": "Mondelez, Nestle, Lindt, Mars invested in cell-based cocoa (ex:1-2 cocoa bean will produce 2 tons of cocoa butter)",
+    "website": "https://lipstickalley.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  }
+]
