@@ -1,0 +1,798 @@
+[
+  {
+    "company_domain": "theovia.app",
+    "company_name": "ZenFiture Limited",
+    "website": "https://theovia.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thevun.com",
+    "company_name": "The Virtually Unlimited Corp",
+    "website": "https://thevun.com/apps/news/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thirdreefsw.com",
+    "company_name": "Third Reef Software LLC",
+    "website": "https://thirdreefsw.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thirdreefsw.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "App for navigating in open waters without GPS, sextant, or internet connection. The camera is used to make sightings with the results plotted as running fixes on a latitude/longitude grid for easy navigation.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "toni-hoffmann.com",
+    "company_name": "Toni Dominik Hoffmann",
+    "website": "https://www.toni-hoffmann.com/apps/curve-tracker",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact Me",
+        "title": null,
+        "email": "kontakt@toni-hoffmann.com",
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact Me",
+        "title": null,
+        "email": "kontakt@toni-hoffmann.com",
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "kontakt@toni-hoffmann.com",
+        "confidence": "highest",
+        "source_url": "https://www.toni-hoffmann.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "kontakt@toni-hoffmann.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "hoffmann@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.hoffmann@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni.hoffmann@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni_hoffmann@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tonih@toni-hoffmann.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Hoffmann",
+        "person_title": null,
+        "source_url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/curve-tracker/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/landscapes/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/moody/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/winterlandscapes/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/cityscapes/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/subways/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/photography/products/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/apps/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/development/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/music/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/imprint/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/data-privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.toni-hoffmann.com/api/flickr/?clearcache=true",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Curve Tracker for Motorbike Mobile App for iOS, iPhone, iPad and macOS, Developed by Toni Hoffmann from Munich, Bavaria, Germany",
+    "source_urls": [
+      "https://www.toni-hoffmann.com/contact/",
+      "https://www.toni-hoffmann.com/photography/landscapes/1/",
+      "https://www.toni-hoffmann.com/photography/moody/1/",
+      "https://www.toni-hoffmann.com/photography/winterlandscapes/1/",
+      "https://www.toni-hoffmann.com/photography/cityscapes/1/",
+      "https://www.toni-hoffmann.com/photography/subways/1/",
+      "https://www.toni-hoffmann.com/photography/products/1/",
+      "https://www.toni-hoffmann.com/development/",
+      "https://www.toni-hoffmann.com/imprint/",
+      "https://www.toni-hoffmann.com/data-privacy/"
+    ],
+    "reason": null,
+    "pages_fetched": 43,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "turtlebeachstudio.com",
+    "company_name": "TURTLE BEACH STUDIO LLC",
+    "website": "http://turtlebeachstudio.com/5bx",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://turtlebeachstudio.com/5bx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://turtlebeachstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://turtlebeachstudio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://turtlebeachstudio.com/mathowl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://turtlebeachstudio.com/mathcam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://turtlebeachstudio.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://turtlebeachstudio.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "I have to say that the one star review is a bit misleading. If you understand what the 5BX workout is (i.e. the \u201cfive basic exercises\u201d workout developed by the Canadian Air Force in the 60\u2019s), this App is a perfect guide/log. The App is intuitive, works well, and is easy to follow. Is the App the pe",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "uconnhuskies.com",
+    "company_name": "IMG College, LLC",
+    "website": "https://uconnhuskies.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "unicornapps.com",
+    "company_name": "Ronan Stark",
+    "website": "https://unicornapps.com/Black/Black.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "virtualbuoys.com",
+    "company_name": "Dennis Smith",
+    "website": "http://www.virtualbuoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "watchanythingapp.com",
+    "company_name": "Marc Hofmann",
+    "website": "https://www.watchanythingapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "wonderapps.se",
+    "company_name": "WonderApps AB",
+    "website": "http://www.wonderapps.se/atracker",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.wonderapps.se/atracker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ATracker Time Tracker | Daily habit + Goal + Routine. ATracker is a simple yet very powerful time tracking app and productivity tool that allows you to use it with minimal setup.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "yonac.com",
+    "company_name": "Yonac Inc.",
+    "website": "http://www.yonac.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@yonac.com",
+        "confidence": "medium",
+        "source_url": "http://www.yonac.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "press@yonac.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.yonac.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.yonac.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.yonac.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.yonac.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/tonestackx/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/tonestackpro/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/valkure/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/roxsyn/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/steelguitarpro/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/kingb/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/trooper/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/magellan2/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/galileo2/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/kauldron/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/kaspar/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/Thereminator2/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/zAries/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/zTaurus/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/zGemini/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/zodiakecho/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/newsletter.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yonac.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Creators of professional music apps for iOS (iPad and iPhone) including ToneStack, Roxsyn, KASPAR, Kauldron, Magellan Synth, Galileo Organ, Steel Guitar, and miniSynth",
+    "source_urls": [
+      "http://www.yonac.com/about",
+      "https://yonac.com/about.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zenitystudio.cloud",
+    "company_name": "Vu Thi Hanh",
+    "website": "https://zenitystudio.cloud/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
