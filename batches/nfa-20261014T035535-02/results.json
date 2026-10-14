@@ -1,0 +1,4423 @@
+[
+  {
+    "company_domain": "actuallyasked.com",
+    "company_name": "Actually Asked",
+    "website": "https://actuallyasked.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@actuallyasked.com",
+        "confidence": "highest",
+        "source_url": "https://actuallyasked.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mpany Pricing FAQ Guides Privacy policy Terms hello@actuallyasked.com \u00a9 2026 Actually Asked"
+      },
+      {
+        "address": "no-reply@actuallyasked.com",
+        "confidence": "high",
+        "source_url": "https://actuallyasked.com/features/weekly-gap-report",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions this week, 9 without an answer From Actually Asked <no-reply@actuallyasked.com> To you@fernandfield.com Date Mon 28 Sep, 07:00"
+      }
+    ],
+    "role_emails": [
+      "hello@actuallyasked.com",
+      "no-reply@actuallyasked.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.team@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "claude.team@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "claude@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "claude_team@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "claudet@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@actuallyasked.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Claude Team",
+        "person_title": "Owner",
+        "source_url": "https://actuallyasked.com/mcp/claude",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://actuallyasked.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations/wordpress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/inline-faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/highlight-to-ask",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/self-improving-faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/weekly-gap-report",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/leads",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/features/shopify-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/use-cases/online-stores",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/use-cases/saas-and-apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/use-cases/travel-and-hospitality",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/use-cases/services-and-clinics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations/webflow",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations/framer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations/squarespace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations/website",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/integrations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/shopify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/claude",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/chatgpt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/claude-code",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/cursor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/mcp/codex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/gap-finder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/faq-schema-generator",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/llms-txt-generator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/sitemap-validator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/refund-policy-generator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools/shipping-policy-generator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/users/sign_in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/users/sign_up",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/compare/tidio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/compare/elfsight",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/compare/ai-chatbots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/compare/shopify-knowledge-base",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actuallyasked.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://actuallyasked.com/tools/refund-policy-generator",
+        "action": "/tools/refund-policy-generator",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "An AI FAQ app for your website or Shopify store. It answers visitors from your site, help center and files, and adds the questions they ask most on its own.",
+    "source_urls": [
+      "https://actuallyasked.com",
+      "https://actuallyasked.com/integrations/wordpress",
+      "https://actuallyasked.com/",
+      "https://actuallyasked.com/features/inline-faq",
+      "https://actuallyasked.com/features/highlight-to-ask",
+      "https://actuallyasked.com/features/self-improving-faq",
+      "https://actuallyasked.com/features/weekly-gap-report",
+      "https://actuallyasked.com/features/leads",
+      "https://actuallyasked.com/features/shopify-app",
+      "https://actuallyasked.com/mcp",
+      "https://actuallyasked.com/use-cases/online-stores",
+      "https://actuallyasked.com/use-cases/saas-and-apps",
+      "https://actuallyasked.com/use-cases/travel-and-hospitality",
+      "https://actuallyasked.com/use-cases/services-and-clinics",
+      "https://actuallyasked.com/integrations/webflow",
+      "https://actuallyasked.com/integrations/framer",
+      "https://actuallyasked.com/integrations/squarespace",
+      "https://actuallyasked.com/integrations/website",
+      "https://actuallyasked.com/integrations",
+      "https://actuallyasked.com/mcp/shopify",
+      "https://actuallyasked.com/mcp/claude",
+      "https://actuallyasked.com/mcp/chatgpt",
+      "https://actuallyasked.com/mcp/claude-code",
+      "https://actuallyasked.com/mcp/cursor",
+      "https://actuallyasked.com/mcp/codex",
+      "https://actuallyasked.com/tools/gap-finder",
+      "https://actuallyasked.com/tools/faq-schema-generator",
+      "https://actuallyasked.com/tools/llms-txt-generator",
+      "https://actuallyasked.com/tools/sitemap-validator",
+      "https://actuallyasked.com/tools/refund-policy-generator",
+      "https://actuallyasked.com/tools/shipping-policy-generator",
+      "https://actuallyasked.com/tools",
+      "https://actuallyasked.com/pricing",
+      "https://actuallyasked.com/compare/tidio",
+      "https://actuallyasked.com/compare/elfsight",
+      "https://actuallyasked.com/compare/ai-chatbots",
+      "https://actuallyasked.com/compare/shopify-knowledge-base",
+      "https://actuallyasked.com/faq",
+      "https://actuallyasked.com/guides",
+      "https://actuallyasked.com/privacy",
+      "https://actuallyasked.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "alertsonchain.com",
+    "company_name": "Alertsonchain Com",
+    "website": "https://alertsonchain.com/?utm_source=indiehackers&amp;utm_medium=directory&amp;utm_campaign=launch-2026",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@alertsonchain.com",
+        "confidence": "highest",
+        "source_url": "https://alertsonchain.com/roadmap",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sing something? Tell us which alert you want Write to us at contact@alertsonchain.com. Every request is read, and it shapes what comes next. Tell"
+      }
+    ],
+    "role_emails": [
+      "contact@alertsonchain.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alertsonchain.com/?utm_source=indiehackers&amp;utm_medium=directory&amp;utm_campaign=launch-2026",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/roadmap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/alerts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=wallet&template=incoming-payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=wallet&template=protect-my-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=wallet&template=big-moves-only",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=my-wallet-activity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=my-wallet-incoming-payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=my-wallet-large-outflows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/alerts/wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=contract&template=nft-mints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=contract&template=nft-sales",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=contract&template=nft-activity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=bayc-ownership-changes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=mayc-ownership-changes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?alert=azuki-ownership-changes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/alerts/nft",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alertsonchain.com/dashboard/add?source=contract&template=admin-method-called",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blockchain alerts for NFT mints and sales, Ethereum wallet transactions and smart contract events, within seconds of confirmation. Free Beta, no card needed.",
+    "source_urls": [
+      "https://alertsonchain.com/roadmap"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chartgaze.live",
+    "company_name": "Chartgaze",
+    "website": "https://chartgaze.live",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@chartgaze.live",
+        "confidence": "highest",
+        "source_url": "https://chartgaze.live",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "res Pricing FAQ Docs Connect AI Contact sales Privacy Terms support@chartgaze.live AI Market Access for Claude, ChatGPT & Grok | ChartGaze Giv"
+      }
+    ],
+    "role_emails": [
+      "support@chartgaze.live"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chartgaze.live",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/contact-sales",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/docs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/agents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/auth/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/docs#sdks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/mcp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chartgaze.live/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://chartgaze.live/contact-sales",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Give Claude, ChatGPT and Grok live market information, price alerts and authorized MT4, MT5, cTrader or crypto account access. Trading is optional and controlled by you.",
+    "source_urls": [
+      "https://chartgaze.live",
+      "https://chartgaze.live/contact-sales",
+      "https://chartgaze.live/",
+      "https://chartgaze.live/features",
+      "https://chartgaze.live/pricing",
+      "https://chartgaze.live/faq",
+      "https://chartgaze.live/docs",
+      "https://chartgaze.live/agents",
+      "https://chartgaze.live/auth/login",
+      "https://chartgaze.live/docs#sdks",
+      "https://chartgaze.live/mcp",
+      "https://chartgaze.live/privacy",
+      "https://chartgaze.live/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "circlesaasboard.com",
+    "company_name": "Circlesaas",
+    "website": "https://circlesaasboard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@circlesaasboard.com",
+        "confidence": "highest",
+        "source_url": "https://circlesaasboard.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t a tile, billing, or anything else? We read every message. support@circlesaasboard.com"
+      }
+    ],
+    "role_emails": [
+      "support@circlesaasboard.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "intents@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.intents@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "social.intents@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "social@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "social_intents@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sociali@circlesaasboard.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Social Intents",
+        "person_title": "Owner",
+        "source_url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://circlesaasboard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/#leaderboard",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/#faqs",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/tools/listing-copy-generator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/tools/link-checker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/tools/launch-page-grader",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?selectTile=1#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/refund",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/disclaimer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/zenmanage-56e711?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0267d55d55eca01cda#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/docflow-0286dd?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237b#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/pinpals-003f07?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca03404#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/valda-1f0040?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02bb6#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/fxf-b8b2e8?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e44#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/alesian-security-64f5cc?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e21#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/behabitual-9edfa3?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca029f1#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/trendshiftlabs-884666?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237c#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/nabe-01bfb5?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035a7#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/teasertrack-c323cc?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035a8#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/behabitual-e7c411?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035ab#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/social-intents-ad33a3?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237d#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/assingly-dbb4c6?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02363#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/neurodivergent-synergy-0ab57f?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0307a#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/yourcals-12ab83?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02362#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/startup/cryptogramly-2b271e?src=directory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e2c#board",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Thousands of tiles arranged in concentric rings. Claim one, drop your logo, get discovered. The closer to the center, the bigger the spotlight.",
+    "source_urls": [
+      "https://circlesaasboard.com",
+      "https://circlesaasboard.com/contact",
+      "https://circlesaasboard.com/about",
+      "https://circlesaasboard.com/",
+      "https://circlesaasboard.com/#leaderboard",
+      "https://circlesaasboard.com/#how-it-works",
+      "https://circlesaasboard.com/#pricing",
+      "https://circlesaasboard.com/#faqs",
+      "https://circlesaasboard.com/#board",
+      "https://circlesaasboard.com/?selectTile=1#board",
+      "https://circlesaasboard.com/privacy",
+      "https://circlesaasboard.com/terms",
+      "https://circlesaasboard.com/refund",
+      "https://circlesaasboard.com/disclaimer",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0267d55d55eca01cda#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237b#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca03404#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02bb6#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e44#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e21#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca029f1#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237c#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035a7#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035a8#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca035ab#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0237d#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02363#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca0307a#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02362#board",
+      "https://circlesaasboard.com/?justClaimed=6ab35b0367d55d55eca02e2c#board"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "creepycalendar.com",
+    "company_name": "Creepy Calendar",
+    "website": "https://creepycalendar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@creepycalendar.com",
+        "confidence": "high",
+        "source_url": "https://creepycalendar.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Connect contact@creepycalendar.com Question? Comment? Send a Message. Name Email Message Submi"
+      }
+    ],
+    "role_emails": [
+      "contact@creepycalendar.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://creepycalendar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/new-horror-movies-october-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/new-horror-movies-november-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/new-horror-movies-december-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/new-horror-movies-january-2027",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/new-horror-movies-march-2027",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://creepycalendar.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://creepycalendar.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Creepy Calendar is your number one source for new and upcoming horror movies. Discover all of the best new horror movies in an easy-to-read calendar format.",
+    "source_urls": [
+      "https://creepycalendar.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "doorhunter.ai",
+    "company_name": "Doorhunter",
+    "website": "https://doorhunter.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://doorhunter.ai",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/extension",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/learn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/login?mode=signup&redirectTo=/dashboard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/akron-oh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Akron%2C%20OH",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/albuquerque-nm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Albuquerque%2C%20NM",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/allentown-pa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Allentown%2C%20PA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/anchorage-ak",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Anchorage%2C%20AK",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/arlington-tx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Arlington%2C%20TX",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/athens-ga",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Athens%2C%20GA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/atlanta-ga",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Atlanta%2C%20GA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/augusta-ga",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Augusta%2C%20GA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/aurora-co",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Aurora%2C%20CO",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/austin-tx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Austin%2C%20TX",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/baton-rouge-la",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Baton%20Rouge%2C%20LA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/bentonville-ar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Bentonville%2C%20AR",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/birmingham-al",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Birmingham%2C%20AL",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/boise-id",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Boise%2C%20ID",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/buffalo-ny",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Buffalo%2C%20NY",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/charlotte-nc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Charlotte%2C%20NC",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/chattanooga-tn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Chattanooga%2C%20TN",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/chicago-il",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Chicago%2C%20IL",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/cincinnati-oh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/deals?search=Cincinnati%2C%20OH",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://doorhunter.ai/markets/clarksville-tn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://doorhunter.ai/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find and analyze rental properties with DoorHunter. Compare markets, estimate rental cash flow, and test financing, rehab costs, and investment returns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "entityrise.ai",
+    "company_name": "Entityrise",
+    "website": "https://www.entityrise.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "billing@entityrise.ai",
+        "confidence": "highest",
+        "source_url": "https://www.entityrise.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ise.ai products, partnerships, press and general questions. billing@entityrise.ai invoices, payments, VAT numbers, refunds. careers@entityris"
+      },
+      {
+        "address": "careers@entityrise.ai",
+        "confidence": "highest",
+        "source_url": "https://www.entityrise.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing@entityrise.ai invoices, payments, VAT numbers, refunds. careers@entityrise.ai hiring updates. Company information EntityRise is operated"
+      },
+      {
+        "address": "contact@entityrise.ai",
+        "confidence": "highest",
+        "source_url": "https://www.entityrise.ai",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ness day Contact form Your site, the topic and the question contact@entityrise.ai Products, partnerships and press Before you write Common qu"
+      },
+      {
+        "address": "contact@entityrise.com",
+        "confidence": "high",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Inc. is the data controller. Contact for privacy matters: contact@entityrise.com. 2. What we collect Account data: name, email address, pass"
+      }
+    ],
+    "role_emails": [
+      "billing@entityrise.ai",
+      "careers@entityrise.ai",
+      "contact@entityrise.ai",
+      "contact@entityrise.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "area@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.area@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "european.area@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "european@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "european_area@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "europeana@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "European Economic Area",
+        "person_title": "President",
+        "source_url": "https://www.entityrise.ai/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inc@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.inc@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smophy.inc@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smophy@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smophy_inc@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smophyi@entityrise.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Smophy Labs Inc",
+        "person_title": "Founder",
+        "source_url": "https://www.entityrise.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.entityrise.ai",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/contact#write",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/contact#faq",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/app/audits/new",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/ai-visibility-and-seo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/ai-visibility-strategy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/what-is-ai-visibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/geo-aeo-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/ai-visibility-statistics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/ai-instructions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/glossary",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-saas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-local",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-b2b-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/for-marketing-leaders",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/sample-report",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/methodology",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/security-and-data",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/app/expert-audit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/implementation-sprint",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/growth-service",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/agencies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/methodology#limits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services#visibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/pl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/ai-visibility-audit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-profound",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-peec",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-semrush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-otterly",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-scrunch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/technical-accessibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/geo-ai-search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/content-strategy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/services/authority-digital-pr",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-brand-radar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-hubspot-aeo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.entityrise.ai/vs-writesonic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.entityrise.ai/contact",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/media",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/contact#write",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/contact#faq",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/services",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/agencies",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.entityrise.ai/services#visibility",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "EntityRise measures how ChatGPT, Claude, Gemini, Grok and Perplexity describe and recommend your company, then implements the fixes. $49 USD.",
+    "source_urls": [
+      "https://www.entityrise.ai",
+      "https://www.entityrise.ai/contact",
+      "https://www.entityrise.ai/about",
+      "https://www.entityrise.ai/media",
+      "https://www.entityrise.ai/for-founders",
+      "https://www.entityrise.ai/contact#write",
+      "https://www.entityrise.ai/contact#faq",
+      "https://www.entityrise.ai/",
+      "https://www.entityrise.ai/#how-it-works",
+      "https://www.entityrise.ai/services",
+      "https://www.entityrise.ai/pricing",
+      "https://www.entityrise.ai/ai-visibility-and-seo",
+      "https://www.entityrise.ai/ai-visibility-strategy",
+      "https://www.entityrise.ai/blog",
+      "https://www.entityrise.ai/what-is-ai-visibility",
+      "https://www.entityrise.ai/geo-aeo-guide",
+      "https://www.entityrise.ai/ai-visibility-statistics",
+      "https://www.entityrise.ai/ai-instructions",
+      "https://www.entityrise.ai/glossary",
+      "https://www.entityrise.ai/for-ecommerce",
+      "https://www.entityrise.ai/for-saas",
+      "https://www.entityrise.ai/for-local",
+      "https://www.entityrise.ai/for-b2b-services",
+      "https://www.entityrise.ai/for-marketing-leaders",
+      "https://www.entityrise.ai/sample-report",
+      "https://www.entityrise.ai/methodology",
+      "https://www.entityrise.ai/security-and-data",
+      "https://www.entityrise.ai/services/implementation-sprint",
+      "https://www.entityrise.ai/services/growth-service",
+      "https://www.entityrise.ai/agencies",
+      "https://www.entityrise.ai/methodology#limits",
+      "https://www.entityrise.ai/privacy",
+      "https://www.entityrise.ai/terms",
+      "https://www.entityrise.ai/services#visibility",
+      "https://www.entityrise.ai/pl",
+      "https://www.entityrise.ai/ai-visibility-audit",
+      "https://www.entityrise.ai/vs-profound",
+      "https://www.entityrise.ai/vs-peec",
+      "https://www.entityrise.ai/vs-semrush",
+      "https://www.entityrise.ai/vs-otterly",
+      "https://www.entityrise.ai/vs-scrunch",
+      "https://www.entityrise.ai/services/technical-accessibility",
+      "https://www.entityrise.ai/services/geo-ai-search",
+      "https://www.entityrise.ai/services/content-strategy",
+      "https://www.entityrise.ai/services/authority-digital-pr",
+      "https://www.entityrise.ai/vs-brand-radar",
+      "https://www.entityrise.ai/vs-hubspot-aeo",
+      "https://www.entityrise.ai/vs-writesonic"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 74,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ipkeep.net",
+    "company_name": "Ipkeep",
+    "website": "https://ipkeep.net/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abuse@ipkeep.net",
+        "confidence": "highest",
+        "source_url": "https://ipkeep.net/abuse",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e. You do not need an account to report a problem. Contact abuse@ipkeep.net or use the form below. Submit a report Our abuse pol"
+      }
+    ],
+    "role_emails": [
+      "abuse@ipkeep.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ipkeep.net/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/downloads",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/downloads#windows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/downloads#linux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/downloads#docker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/windows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/linux",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/router",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/router-api",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/rfc2136",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/web-dashboard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/troubleshooting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/abuse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/rfc2136#failover",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/web-dashboard#dashboard-setup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/troubleshooting#diagnostic-history",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ipkeep.net/troubleshooting#monitoring",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ipkeep.net/abuse",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Simple dynamic DNS with independent nameservers in Europe and the US. Keep IPv4 and IPv6 current with Windows, Linux, Docker, compatible routers, or the web dashboard.",
+    "source_urls": [
+      "https://ipkeep.net/abuse",
+      "https://ipkeep.net/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jig.md",
+    "company_name": "Flow 11",
+    "website": "https://flow.jig.md",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://flow.jig.md",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/overview.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/for-agents.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/start",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/spec/invocation-contracts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/spec/package-format",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/understand",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/concepts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/markdown#run-the-composition-on-jig",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/skills",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/spec/run-protocol",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/for-agents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/typescript",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flow.jig.md/guide/python",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "FLOW turns Agent instructions into composable methods that software can call, combine, and compound - in Markdown, TypeScript, or Python, behind one shared interface.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lyks.ai",
+    "company_name": "Lyks Ai",
+    "website": "https://lyks.ai/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lyks.ai/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/#features",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lyks.ai/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI-generated UGC and cinematic product videos from your Shopify store. 9:16, ready for TikTok & Reels. First video free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "nisse-sec.com",
+    "company_name": "Winransomprotect",
+    "website": "https://www.nisse-sec.com/winransomprotect.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pecia.app",
+    "company_name": "Pecia",
+    "website": "https://pecia.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hola@pecia.app",
+        "confidence": "highest",
+        "source_url": "https://pecia.app/acerca/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "un fallo\u2014 o simplemente darnos tu opini\u00f3n, escribe. Escribe hola@pecia.app Se contesta a todo pecia El sistema con el que las universi"
+      },
+      {
+        "address": "hello@pecia.app",
+        "confidence": "high",
+        "source_url": "https://pecia.app/en/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@pecia.app",
+      "hola@pecia.app"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.saintexupry@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.vallejo@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antoine.saintexupry@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antoine@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antoine_saintexupry@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antoines@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antonio.vallejo@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antonio@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antonio_vallejo@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antoniov@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.graham@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.montes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "baroja@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benjamin.graham@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benjamin@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benjamin_graham@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benjaming@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boyne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Boyne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brbara.montes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brbara@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brbara_montes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brbaram@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "byrne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.zafn@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos.zafn@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos_zafn@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlosz@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cervantes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dahl@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "delibes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Delibes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.gombrich@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.moreno@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eh.gombrich@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eh@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eh_gombrich@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ehg@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eloy.moreno@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eloy@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eloy_moreno@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eloym@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.gmez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.lorca@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.rojas@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando de Rojas",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federico.lorca@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federico@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federico_lorca@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federicol@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernando.gmez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernando.rojas@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando de Rojas",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernando@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernando_gmez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernando_rojas@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando de Rojas",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernandog@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fernandor@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando de Rojas",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.mrquez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel.mrquez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel_mrquez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabrielm@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gallego@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gmez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando Fern\u00e1n G\u00f3mez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gombrich@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "E.H. Gombrich",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benjamin Graham",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gray@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.jackson@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly.jackson@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly_jackson@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hollyj@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.boyne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Boyne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.gray@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.kinney@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jackson@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly Jackson",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.kinney@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_kinney@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffk@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.boyne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Boyne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.gray@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_boyne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Boyne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_gray@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnb@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Boyne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johng@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Gray",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kinney@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Kinney",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.gallego@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laura.gallego@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laura@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laura_gallego@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurag@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laura Gallego",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lorca@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federico Garc\u00eda Lorca",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.cervantes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.delibes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Delibes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel.cervantes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel.delibes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Delibes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel_cervantes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel_delibes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Delibes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguelc@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel de Cervantes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "migueld@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Delibes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montes@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "B\u00e1rbara Montes",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moreno@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eloy Moreno",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mrquez@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.baroja@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "po.baroja@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "po@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "po_baroja@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pob@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "P\u00edo Baroja",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.byrne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.dahl@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.sharma@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda.byrne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda_byrne@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhondab@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Byrne",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roald.dahl@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roald@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roald_dahl@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roaldd@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roald Dahl",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robin.sharma@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robin@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robin_sharma@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robins@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rojas@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fernando de Rojas",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saintexupry@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antoine De Saint-Exup\u00e9ry",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shakespeare@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sharma@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robin Sharma",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vallejo@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Antonio Buero Vallejo",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.shakespeare@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william.shakespeare@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william_shakespeare@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "williams@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Shakespeare",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zafn@pecia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Ruiz Zaf\u00f3n",
+        "person_title": null,
+        "source_url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://pecia.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/entrar/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/#notify",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/biblioteca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/la-casa-de-bernarda-alba-federico-garcia-lorca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-monje-que-vendio-su-ferrari-robin-sharma/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/los-hombres-son-de-marte-las-mujeres-son-de-venus-john-gray/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/esp-historia-del-arte-16-ed-e-h-gombrich-rtc-e-h-gombrich/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/las-bicicletas-son-para-el-verano-fernando-fernan-gomez/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/diario-de-greg-1-un-pringao-total-jeff-kinney/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/asesinato-para-principiantes-holly-jackson/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/amanda-black-1-una-herencia-peligrosa-barbara-montes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/diferente-eloy-moreno/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-secreto-rhonda-byrne/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/cronica-de-una-muerte-anunciada-gabriel-garcia-marquez/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-principito-antoine-de-saint-exupery/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/la-celestina-fernando-de-rojas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-camino-miguel-delibes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-arbol-de-la-ciencia-pio-baroja/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/la-sombra-del-viento-carlos-ruiz-zafon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/historia-de-una-escalera-antonio-buero-vallejo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/charlie-y-la-fabrica-de-chocolate-roald-dahl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/lista-de-goodreads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/convertir-pdf-a-epub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/pecia-sync/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/pecia-vault/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/validar-epub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/compatibilidad-ebook/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/herramientas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/bodas-de-sangre-federico-garcia-lorca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-lider-que-no-tenia-cargo-robin-sharma/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/cien-anos-de-soledad-gabriel-garcia-marquez/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-nino-con-el-pijama-de-rayas-john-boyne/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/mafalda-todas-las-tiras-quino/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/romeo-y-julieta-william-shakespeare/#videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/el-inversor-inteligente-benjamin-graham/#videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/la-hija-de-la-noche-laura-gallego/#videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/don-quijote-de-la-mancha-miguel-de-cervantes/#videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/privacidad/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/acerca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/autores/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/por-menos-de-5-euros/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pecia.app/libros/por-menos-de-10-euros/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Guarda lo que has le\u00eddo y lo que quieres leer. Pecia vigila el precio de segunda mano de los libros de su cat\u00e1logo en Espa\u00f1a, en cualquier edici\u00f3n y con el env\u00edo sumado.",
+    "source_urls": [
+      "https://pecia.app",
+      "https://pecia.app/",
+      "https://pecia.app/en/",
+      "https://pecia.app/#notify",
+      "https://pecia.app/privacidad/",
+      "https://pecia.app/acerca/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
