@@ -1,0 +1,3637 @@
+[
+  {
+    "company_domain": "barnesandnoble.com",
+    "company_name": "Baby Boutique, Toys, 0 - 2 Years",
+    "website": "https://barnesandnoble.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bealls.com",
+    "company_name": "Shop MODERN BABY Online - Bealls",
+    "website": "https://bealls.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Guest Services",
+        "title": null,
+        "email": "guestservices@bealls.com",
+        "source_url": "https://bealls.com/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Guest Services",
+        "title": null,
+        "email": "guestservices@bealls.com",
+        "source_url": "https://bealls.com/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "guestservices@bealls.com",
+        "confidence": "highest",
+        "source_url": "https://bealls.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bealls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/shipping-delivery/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/track-order-status/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-beauty/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-handbags/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-home/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-juniors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-kids/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-mens/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-shoes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-women/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/new/new-arrivals-womens-plus/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/trending/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/seasonal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/seasonal/harvest",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/seasonal/halloween/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/seasonal/game-day/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/seasonal/vacation-shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/christmas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/gift-cards/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/new-arrivals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops/knit-tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops/wear-to-work-tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops/long-sleeve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops/blouses-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/tops/graphic-tees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/trending/basic-tops/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/trending/modest-tops/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/trending/womens-dressy-tops/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/sweaters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/sweaters/cardigans-kimonos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/sweaters/pullover-sweaters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/sweaters/hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/dresses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/dresses/casual-dresses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/dresses/work-dresses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/dresses/jumpsuits-rompers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/bottoms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/bottoms/pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bealls.com/c/women/bottoms/jeans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop bealls for clothing, shoes, home d\u00e9cor, and gifts. Enjoy trendy, affordable fashion for the whole family with easy online and in-store shopping.",
+    "source_urls": [
+      "https://bealls.com/contact-us",
+      "https://bealls.com/contact-us/"
+    ],
+    "reason": null,
+    "pages_fetched": 73,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "beringea.com",
+    "company_name": "Papier | Beringea",
+    "website": "https://beringea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beringea.co.uk",
+        "confidence": "highest",
+        "source_url": "https://beringea.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Farmington Hills, MI 48334 See on Google Maps Beringea U.K. info@beringea.co.uk +44 (0) 207 845 7820 55 Drury Lane, Covent Garden London, W"
+      },
+      {
+        "address": "info@beringea.com",
+        "confidence": "highest",
+        "source_url": "https://beringea.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Portfolio Funds & services News Team Contact Beringea U.S. info@beringea.com +1 248 489 9000 32330 West 12 Mile Road Farmington Hills, M"
+      },
+      {
+        "address": "ebiasiolo@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hphilipson@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jmoss@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kkim@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nzahid@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "pgorton@beringea.co.uk",
+        "confidence": "high",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ebiasiolo@beringea.co.uk",
+      "hphilipson@beringea.co.uk",
+      "info@beringea.co.uk",
+      "info@beringea.com",
+      "jmoss@beringea.co.uk",
+      "kkim@beringea.co.uk",
+      "nzahid@beringea.co.uk",
+      "pgorton@beringea.co.uk"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.beringea@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.georgiou@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron.georgiou@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron_georgiou@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aarong@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at.beringea@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at_beringea@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "atb@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "atighetchi@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barbara@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "beringea@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Beringea",
+        "person_title": "Cmo",
+        "source_url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bhanot@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.perazzo@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.rothstein@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charles.rothstein@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charles@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charles_rothstein@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charlesr@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cynthia.perazzo@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cynthia@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cynthia_perazzo@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cynthiap@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiou@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Georgiou",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gorton@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.thomas@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry.thomas@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry_thomas@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harryt@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "herras@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.herras@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin.herras@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin_herras@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevinh@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Herras",
+        "person_title": "Ceo",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.shipley@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie.shipley@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie_shipley@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslies@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.gorton@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick.gorton@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick_gorton@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrickg@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Gorton",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "perazzo@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cynthia Perazzo",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "petersmarck@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "petkova@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.van@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rothstein@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charles Rothstein",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ruben.van@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ruben@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ruben_van@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rubenv@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.barbara@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.petersmarck@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "santa.barbara@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "santa@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "santa_barbara@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "santab@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Santa Barbara",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com/portfolio/sovato-health",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah.petersmarck@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarah_petersmarck@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarahp@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sarah Petersmarck",
+        "person_title": "Marketing Manager",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shipley@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leslie Shipley",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.atighetchi@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.petkova@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taymoor.atighetchi@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taymoor@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taymoor_atighetchi@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taymoora@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taymoor Atighetchi",
+        "person_title": "Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teodora.petkova@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teodora@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teodora_petkova@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teodorap@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Teodora Petkova",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Thomas",
+        "person_title": "Business Development",
+        "source_url": "https://beringea.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.bhanot@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "van@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ruben Van",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "varun.bhanot@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "varun@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "varun_bhanot@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "varunb@beringea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Varun Bhanot",
+        "person_title": "Co-Founder",
+        "source_url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beringea.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/funds-and-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio/investnext",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio/gorilla",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio/litta",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio/sovato-health",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/portfolio/papier",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/news/in-the-news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/news/in-the-news/beringea-leads-magic-ai-s-gbp8m-series-b-to-scale-ai-fitness-mirror-across-the-us",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/news/insights",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/news/insights/why-we-invested-in-kord-unifying-regulated-transactions-into-a-single-secure-workflow",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/us-disclaimer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/uk-disclaimer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beringea.com/privacy-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beringea is an international investor in high growth US & UK businesses. With expertise in multiple sectors we are at the forefront of emerging trends.",
+    "source_urls": [
+      "https://beringea.com/contact",
+      "https://beringea.com/team",
+      "https://beringea.com/privacy-notice"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "best2buy.reviews",
+    "company_name": "Stationery Sets Review: Practical Desk Essentials for Everyday Work",
+    "website": "https://best2buy.reviews",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://best2buy.reviews",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://best2buy.reviews/page/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-12"
+      },
+      {
+        "url": "https://best2buy.reviews/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-12"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our AI-assisted analysis of verified reviews helps you confidently find top-quality products. Get expert recommendations for informed purchase decisions.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 64
+  },
+  {
+    "company_domain": "bestagentyiwu.com",
+    "company_name": "Top 10 Stationery Manufacturers in the World 2026 - Union Chance",
+    "website": "https://bestagentyiwu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bestazy.com",
+    "company_name": "10 Safe and Solid Baby Crib Reviews \u2014 Let Your Bundle of Joy Sleep Soundly in",
+    "website": "https://bestazy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bestbabygearoutlet.com",
+    "company_name": "About Us - Best Baby Gear",
+    "website": "https://bestbabygearoutlet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bestbabygearoutlet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/gift-guide/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/orbit-baby/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/4moms/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/7-am/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/workman-publishing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/alex/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/milton-goose/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/angel-dear/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/hachette-book-group/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/avent/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/axkid/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bebe-bask/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bibs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bob/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/boppy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/babiators/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/baby-banana/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/baby-jogger/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/baby-ktan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/baby-trend/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/babybjorn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/babyletto/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/babyark/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/stokke/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bamboo-little/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/banwood/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bebe-au-lait/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/beco-baby/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bentley/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/blabla-kids/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bokee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bombol/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/boon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/britax/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bugaboo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bumbleride/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bumprider/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/bundle-of-dreams/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/busy-baby/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/calico-critters/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/capstone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/charlie-crane/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestbabygearoutlet.com/product-category/shop-by-brand/shop-by-brand-shop-by-brand/chicco/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop High-Quality Products For Every Step Of Your Parenting Journey, From Nursery Furniture And Decor To To Play Room Essentials And More .",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bestbabykit.com",
+    "company_name": "Top 9 Toy Safety Picks for U.S. Families: Expert-Backed Choices for Peace of Mind (2025)",
+    "website": "https://bestbabykit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bestpickhub.org",
+    "company_name": "Best Journaling Supplies and Aesthetic Stationery | Complete Kit Guide",
+    "website": "https://bestpickhub.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "danny@bestpickhub.org",
+        "confidence": "high",
+        "source_url": "https://bestpickhub.org",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "danny@bestpickhub.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "collins@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.copyright@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.priest@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.priest@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_priest@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidp@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.copyright@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_copyright@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://bestpickhub.org/dmca/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elliott@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.elliott@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah.elliott@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah_elliott@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannahe@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah Elliott",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.collins@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meg.collins@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meg@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meg_collins@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "megc@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meg Collins",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "priest@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Priest",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.patrick@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda.patrick@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhonda_patrick@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhondap@bestpickhub.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhonda Patrick",
+        "person_title": null,
+        "source_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestpickhub.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/tools/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/home-office/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/kitchen/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/home-climate/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/garden/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/pets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/affiliate-disclosure/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-jewelry-apple-watch-bands/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-comic-book-gifts-under-25/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-comic-omnibus-collected-editions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-tesla-model-y-juniper-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-lego-light-kits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-st-christopher-surf-necklaces/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-gaming-laptop-chargers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/best-hard-water-stain-remover-for-glass-shower-doors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/home-gym/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/home-cleaning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/category/automotive/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/how-we-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/editorial-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/terms-of-service/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestpickhub.org/dmca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestpickhub.org/best-non-lego-building-block-sets/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-enclosed-cat-beds/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-jewelry-apple-watch-bands/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-comic-book-gifts-under-25/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-comic-omnibus-collected-editions/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-tesla-model-y-juniper-accessories/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-lego-light-kits/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-st-christopher-surf-necklaces/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-meta-quest-3-accessories/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-gaming-laptop-chargers/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestpickhub.org/best-hard-water-stain-remover-for-glass-shower-doors/",
+        "action": "https://bestpickhub.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Independent reviews and buying guides for tools, home office, kitchen, and home gear. We publish our criteria on every roundup.",
+    "source_urls": [
+      "https://bestpickhub.org",
+      "https://bestpickhub.org/contact",
+      "https://bestpickhub.org/about",
+      "https://bestpickhub.org/contact-us",
+      "https://bestpickhub.org/about-us",
+      "https://bestpickhub.org/pages/contact",
+      "https://bestpickhub.org/pages/contact-us",
+      "https://bestpickhub.org/support/contact",
+      "https://bestpickhub.org/about-us/",
+      "https://bestpickhub.org/contact-us/",
+      "https://bestpickhub.org/",
+      "https://bestpickhub.org/category/tools/",
+      "https://bestpickhub.org/category/home-office/",
+      "https://bestpickhub.org/category/kitchen/",
+      "https://bestpickhub.org/category/home-climate/",
+      "https://bestpickhub.org/category/garden/",
+      "https://bestpickhub.org/category/pets/",
+      "https://bestpickhub.org/category/blog/",
+      "https://bestpickhub.org/affiliate-disclosure/",
+      "https://bestpickhub.org/best-non-lego-building-block-sets/",
+      "https://bestpickhub.org/best-enclosed-cat-beds/",
+      "https://bestpickhub.org/best-jewelry-apple-watch-bands/",
+      "https://bestpickhub.org/best-comic-book-gifts-under-25/",
+      "https://bestpickhub.org/best-comic-omnibus-collected-editions/",
+      "https://bestpickhub.org/best-tesla-model-y-juniper-accessories/",
+      "https://bestpickhub.org/best-lego-light-kits/",
+      "https://bestpickhub.org/best-st-christopher-surf-necklaces/",
+      "https://bestpickhub.org/best-meta-quest-3-accessories/",
+      "https://bestpickhub.org/best-gaming-laptop-chargers/",
+      "https://bestpickhub.org/best-anime-energy-drinks-for-gaming/",
+      "https://bestpickhub.org/best-hard-water-stain-remover-for-glass-shower-doors/",
+      "https://bestpickhub.org/category/home-gym/",
+      "https://bestpickhub.org/category/home-cleaning/",
+      "https://bestpickhub.org/category/automotive/",
+      "https://bestpickhub.org/how-we-review/",
+      "https://bestpickhub.org/editorial-policy/",
+      "https://bestpickhub.org/privacy-policy/",
+      "https://bestpickhub.org/terms-of-service/",
+      "https://bestpickhub.org/dmca/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 59,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "besttoyshub.com",
+    "company_name": "Best Toys for Kids 2026 | Expert Reviews & Buying Guides",
+    "website": "https://besttoyshub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://besttoyshub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find the best toys for kids of all ages. Honest reviews, buying guides & top picks for 2026. What kind of toy are you looking for?\u2502Fun?\u2502Edu..",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 26
+  },
+  {
+    "company_domain": "bestvoy.com",
+    "company_name": "Discover the Best Kids Products for Play, Learning & Gifting",
+    "website": "https://bestvoy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bestvoy.com",
+        "confidence": "highest",
+        "source_url": "https://bestvoy.com/page/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email For any inquiries, please email us at support@bestvoy.com . Phone You can also reach us by phone"
+      },
+      {
+        "address": "u003esupport@bestvoy.com",
+        "confidence": "high",
+        "source_url": "https://bestvoy.com/page/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@bestvoy.com",
+      "u003esupport@bestvoy.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "chen@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.chen@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rui.chen@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rui@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rui_chen@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ruic@bestvoy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RUI CHEN",
+        "person_title": "Founder",
+        "source_url": "https://bestvoy.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestvoy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/all-reviews",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/order-tracking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/collections/new-arrivals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/879",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/1088",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/1258",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/1311",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/1329",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/880",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/848",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/1279",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/listing/963",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/sitemap.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/payment-method",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/cookie-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/return-refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/order-changes-and-cancellations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestvoy.com/page/review-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bestvoy offers a curated selection of safe and stylish products for children aged 0\u201312. Discover toys, clothing, and accessories designed to inspire play, learning, and joyful moments for your little ones.",
+    "source_urls": [
+      "https://bestvoy.com",
+      "https://bestvoy.com/page/about-us",
+      "https://bestvoy.com/page/contact-us",
+      "https://bestvoy.com/",
+      "https://bestvoy.com/all-products",
+      "https://bestvoy.com/all-reviews",
+      "https://bestvoy.com/blog",
+      "https://bestvoy.com/order-tracking",
+      "https://bestvoy.com/collections/best-sellers",
+      "https://bestvoy.com/collections/new-arrivals",
+      "https://bestvoy.com/listing/879",
+      "https://bestvoy.com/listing/1088",
+      "https://bestvoy.com/listing/1258",
+      "https://bestvoy.com/listing/1311",
+      "https://bestvoy.com/listing/1329",
+      "https://bestvoy.com/listing/880",
+      "https://bestvoy.com/listing/848",
+      "https://bestvoy.com/listing/1279",
+      "https://bestvoy.com/listing/963",
+      "https://bestvoy.com/sitemap.html",
+      "https://bestvoy.com/page/payment-method",
+      "https://bestvoy.com/page/terms-of-service",
+      "https://bestvoy.com/page/privacy-policy",
+      "https://bestvoy.com/page/cookie-policy",
+      "https://bestvoy.com/page/shipping-policy",
+      "https://bestvoy.com/page/return-refund-policy",
+      "https://bestvoy.com/page/order-changes-and-cancellations",
+      "https://bestvoy.com/page/review-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "biologiq.com",
+    "company_name": "Plant-Based Play: Companies are Leading the Way in Sustainable Toy Design - BioLogiQ",
+    "website": "https://biologiq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@biologiq.com",
+        "confidence": "highest",
+        "source_url": "https://biologiq.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "want us to process your data anymore, please contact us at info@biologiq.com . Privacy policy updates We reserve the right to modi"
+      }
+    ],
+    "role_emails": [
+      "info@biologiq.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.partners@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "capital.partners@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "capital@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "capital_partners@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "capitalp@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corporation@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.industrial@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "early.industrial@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "early@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "early_industrial@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "earlyi@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.juergens@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank.juergens@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank_juergens@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frankj@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.corporation@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hirata.corporation@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hirata@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hirata_corporation@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hiratac@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hirata Corporation",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "industrial@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Early Light Industrial",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juergens@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Juergens",
+        "person_title": "Business Development",
+        "source_url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.kramer@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken.kramer@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken_kramer@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kenk@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kramer@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Kramer",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laboratory@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.laboratory@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miura@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musashino.laboratory@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musashino@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musashino_laboratory@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musashinol@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Musashino Chemical Laboratory",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "partners@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Capital Partners",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.sourcing@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "responsible.sourcing@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "responsible@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "responsible_sourcing@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "responsibles@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.miura@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.sherman@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sherman@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shigenobu.miura@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shigenobu@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shigenobu_miura@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shigenobum@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shigenobu Miura",
+        "person_title": "President",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sourcing@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Responsible Sourcing",
+        "person_title": "President",
+        "source_url": "https://www.biologiq.com/about/management-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven.sherman@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven_sherman@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevens@biologiq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Sherman",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://biologiq.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://biologiq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/about/management-team/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/about/management-team/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/make/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/sell/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/applications/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/certified-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/sustainability/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/make/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/sell",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/2026/09/biologiq-and-reifenhauser-demonstrate-direct-dry-blending-of-nuplastiq-and-lldpe-on-5-layer-blown-film-line/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biologiq.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biologiq.com/zh/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://biologiq.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://biologiq.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://biologiq.com/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.biologiq.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Powered by Plants, So There\u2019s Less Pollution BioLogiQ has innovative plant-based solutions to promote better sustainability. Most of us do our best to recycle, but let\u2019s face it \u2014 our waterways, ocean and landscapes are still filling up with plastic waste. We want to give plastic a second life by re",
+    "source_urls": [
+      "https://biologiq.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
