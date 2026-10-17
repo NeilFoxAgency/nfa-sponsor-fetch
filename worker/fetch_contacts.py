@@ -1638,8 +1638,17 @@ def discover_one(
         home_source = "live"
         home_snapshot: str | None = None
         home_reason: str | None = None
+        # robots.txt is checked BEFORE any live URL is fetched (homepage
+        # variants, probed contact endpoints, and discovered links alike);
+        # honoring it "for every live URL fetched" is a hard line of this
+        # worker. Parsed robots rules are cached per origin (see
+        # _ROBOTS_PARSERS) so the checks cost one robots.txt fetch per site.
         for variant in website_variants(website):
             _check_budget()
+            if not robots_allows(variant, session, user_agent):
+                base["status"] = "error"
+                base["reason"] = "robots_disallowed"
+                return base
             result = fetch_page_for_target(session, renderer, variant)
             base["pages_fetched"] += 1
             if result["ok"]:
@@ -1689,6 +1698,10 @@ def discover_one(
             if url in seen_urls:
                 continue
             probed += 1
+            if not robots_allows(url, session, user_agent):
+                # Disallowed endpoint: never fetched, same as disallowed
+                # discovered links in try_add_page.
+                continue
             # Cheap single-attempt probe; archive fallback still applies.
             result = fetch_page_for_target(session, renderer, url)
             base["pages_fetched"] += 1
