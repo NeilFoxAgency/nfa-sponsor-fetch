@@ -1,0 +1,1204 @@
+[
+  {
+    "company_domain": "getsleepover.com",
+    "company_name": "SLEEP OVER",
+    "website": "https://getsleepover.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "glimette.com",
+    "company_name": "GLIMETTE",
+    "website": "https://glimette.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@glimette.com",
+        "confidence": "high",
+        "source_url": "https://glimette.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Information: Email: info@glimette.com Store Policy Store Policy"
+      }
+    ],
+    "role_emails": [
+      "info@glimette.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://glimette.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glimette.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glimette.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glimette.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://glimette.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://glimette.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://glimette.com/pages/contact",
+        "action": "/contact#ContactForm-AR0x4OC92UVo2bThhN__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://glimette.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://glimette.com/pages/contact-us",
+        "action": "/contact#ContactForm-AR0x4OC92UVo2bThhN__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://glimette.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Glimette",
+    "source_urls": [
+      "https://glimette.com",
+      "https://glimette.com/pages/contact",
+      "https://glimette.com/pages/contact-us",
+      "https://glimette.com/pages/about-us"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 29
+  },
+  {
+    "company_domain": "gotflesh.com",
+    "company_name": "GOT FLESH !?!",
+    "website": "https://gotflesh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@gotflesh.com",
+        "confidence": "high",
+        "source_url": "https://gotflesh.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@gotflesh.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gotflesh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gotflesh.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brian Sipe, owner of Gamut Studios, Got Flesh and specialty makeup artist, creates prosthetic transfers for film and television. Store sells professional grade transfers for zombies, vampires, fighter, and many other uses.",
+    "source_urls": [
+      "https://gotflesh.com",
+      "https://gotflesh.com/contact"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 27
+  },
+  {
+    "company_domain": "gustonapoletano.com",
+    "company_name": "GUSTO NAPOLETANO",
+    "website": "https://gustonapoletano.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "chef@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.chef@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive.chef@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive_chef@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executivec@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Chef",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "magazine@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "menu@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.magazine@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pizza.magazine@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pizza@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pizza_magazine@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pizzam@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pizza Magazine",
+        "person_title": "Owner",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.menu@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see.menu@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "see_menu@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seem@gustonapoletano.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "See Menu",
+        "person_title": "Founder",
+        "source_url": "https://gustonapoletano.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://gustonapoletano.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gustonapoletano.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://gustonapoletano.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Gusto Napoletano is the best Italian Restaurant and brings authentic Italian dining to Fayetteville, NC. Visit us for delicious Neapolitan specialties, fresh ingredients, and a warm welcome.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 28
+  },
+  {
+    "company_domain": "happuccinolife.com",
+    "company_name": "HAPPUCCINO LIFE",
+    "website": "https://happuccinolife.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://happuccinolife.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your Happiness is the pathway to Everything you want in this World",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 26
+  },
+  {
+    "company_domain": "harborsupplements.com",
+    "company_name": "HARBOR SUPPLEMENTS",
+    "website": "https://harborsupplements.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://harborsupplements.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harborsupplements.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Harbor Supplements, our faith shapes our purpose and science shapes our formulations.\r\n      We believe caring for the body you've been given is an act of stewardship.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "headturnerhatworks.com",
+    "company_name": "HEAD TURNER HAT WORKS",
+    "website": "https://headturnerhatworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://headturnerhatworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 28
+  },
+  {
+    "company_domain": "hockeymom.com",
+    "company_name": "HOCKEY MOM",
+    "website": "https://hockeymom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@hockeymom.com",
+        "confidence": "highest",
+        "source_url": "https://hockeymom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "WORTHY TO BE CROSS CHECKED BY HOCKEYMOM.COM EMAIL US AT: info@hockeymom.com HockeyMom.Com new online store is open featuring our own ex"
+      }
+    ],
+    "role_emails": [
+      "info@hockeymom.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "j.serowik@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.serowik@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_serowik@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffs@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.silver@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "serowik@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Serowik",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/12-defensive-tips",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silver@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.silver@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_silver@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steves@hockeymom.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Silver",
+        "person_title": "Founder",
+        "source_url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://hockeymom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/copy-of-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/hockey-team-fundraising-ideas",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/teamsnap-ice-hockey-team-website-",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/online-store",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/hockey-mom-advice-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/goalie-parent-the-toughest-job-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/get-rid-of-the-hockey-odor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/hockey-locker-room-songs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/how-to-get-more-ice-time",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/travel-ice-hockey-vs-house-league",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/ice-hockey-game-day-meal-plan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/12-defensive-tips",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/music-can-improve-your-game",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/10-tips-for-youth-hockey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/hockey-101",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/ice-hockey-coachs-attriutes-of-a-winner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/fans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/knockeys-knee-hockey-pants-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/messier-helmet-by-cascade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hockeymom.com/join_us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hockeymom.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.hockeymom.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.hockeymom.com/fans",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Growing\u00a0\u00a0up on the frozen covered track in Sault Ste. Marie, Ontario, I was skating soon after I learned to walk.\u00a0I was always the outdoorsy type. Hockey, fishing, swimming, snowmobiles, pretty much anything that kept me outside trying new and crazy things. You wouldn\u2019t find me inside playing video ",
+    "source_urls": [
+      "https://hockeymom.com",
+      "https://www.hockeymom.com",
+      "https://www.hockeymom.com/join_us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "hype.com",
+    "company_name": "HYPE",
+    "website": "https://hype.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@hype.com",
+        "confidence": "highest",
+        "source_url": "https://hype.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": +971 444 356 27 PRESS: press@hype.com OTHER INQUIRIES: info@hype.com HEAD OFFICE \u2013 DUBAI Jumeirah Lake Towers, JBC 2, Cluster V,"
+      },
+      {
+        "address": "press@hype.com",
+        "confidence": "highest",
+        "source_url": "https://hype.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ld blank. \u0394 CONTACT US TEL: +971 444 356 27 PRESS: press@hype.com OTHER INQUIRIES: info@hype.com HEAD OFFICE \u2013 DUBAI Jumeira"
+      }
+    ],
+    "role_emails": [
+      "info@hype.com",
+      "press@hype.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hype.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hype.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hype.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Explore our range of premium energy drinks, nutrition, protein bars & powders, crafted for the active healthy and adrenaline fuelled life.",
+    "source_urls": [
+      "https://hype.com/contact"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 25
+  },
+  {
+    "company_domain": "ilution.com",
+    "company_name": "ILUTION",
+    "website": "https://ilution.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@ilution.com",
+        "confidence": "high",
+        "source_url": "https://ilution.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". (808) none admin@ilution.com 364 S. King Street Honolulu, HI 96813"
+      }
+    ],
+    "role_emails": [
+      "admin@ilution.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ilution.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ilution.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/pokemon-go/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ilution.com/author/churavis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to my world Latest in.. Connect with us Contact us None of this contact us info is real. That's right, its all made up. you can try to contact or go to that address. I wont be there. You've been warned. (808) none",
+    "source_urls": [
+      "https://ilution.com",
+      "https://www.ilution.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "invinciblefoods.com",
+    "company_name": "INVINCIBLE FOODS",
+    "website": "https://invinciblefoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://invinciblefoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 26
+  },
+  {
+    "company_domain": "itsybitsypantry.com",
+    "company_name": "ITSY-BITSY PANTRY",
+    "website": "https://itsybitsypantry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://itsybitsypantry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 27
+  }
+]
