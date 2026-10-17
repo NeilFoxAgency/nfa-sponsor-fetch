@@ -1,0 +1,1235 @@
+[
+  {
+    "company_domain": "a2z-life.com",
+    "company_name": "ABOUT US",
+    "website": "https://a2z-life.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "allegiant-health.com",
+    "company_name": "HealthA2Z Over The Counter Pharmaceuticals & Nutritional Supplements",
+    "website": "https://allegiant-health.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bayer.com",
+    "company_name": "One A Day\u00ae Unveils New Brand Identity",
+    "website": "https://bayer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "nutritionbybre.com",
+    "company_name": "3rd-Party Tested Supplements (2025): Dietitian\u2019s List of NSF/USP-Verified Picks",
+    "website": "https://nutritionbybre.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "nvt.lt",
+    "company_name": "Home",
+    "website": "https://nvt.lt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "watersound.com",
+    "company_name": "WATERSOUND",
+    "website": "https://watersound.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://watersound.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/events/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/area-map/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/getting-here/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/lifestyle/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://watersound.com/lifestyle/beaches/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://watersound.com/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://watersound.com/pages/contact",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://watersound.com/pages/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://watersound.com/support/contact",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://watersound.com/contact-us/",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Explore the Watersound collection of hotels, resorts, residential communities, and experiences along Northwest Florida's Gulf Coast.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 35
+  },
+  {
+    "company_domain": "weareallheart.com",
+    "company_name": "WE ARE ALL HEART",
+    "website": "https://weareallheart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@weareallheart.com",
+        "confidence": "highest",
+        "source_url": "https://weareallheart.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tional All Heart SMS program. Questions can be directed to admin@weareallheart.com . Event-specific terms and separately accepted participant"
+      },
+      {
+        "address": "aruba@weareallheart.com",
+        "confidence": "highest",
+        "source_url": "https://weareallheart.com/tournaments/aruba-holiday-classic-2026",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00b7 August 2026 Registration questions Contact the Aruba team aruba@weareallheart.com (646) 476-0337 Divisions Grades 2\u20133 Team spots open \u00b7 Pla"
+      },
+      {
+        "address": "jared@weareallheart.com",
+        "confidence": "highest",
+        "source_url": "https://weareallheart.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "trations, inquiries, and the optional SMS program. Contact jared@weareallheart.com with privacy questions. 1. Information collected Depending"
+      }
+    ],
+    "role_emails": [
+      "admin@weareallheart.com",
+      "aruba@weareallheart.com",
+      "jared@weareallheart.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://weareallheart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/tournaments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/code",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/foundation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/tournaments/halloween-classic-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/register/halloween-classic-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/tournaments/turkey-burn-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/tournaments/aruba-holiday-classic-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/register/aruba-holiday-classic-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/tournaments/hamptons-back-from-camp-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.weareallheart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://weareallheart.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Heart over hype. Talent gets attention, heart earns respect. Register for ALL HEART flag football tournaments.",
+    "source_urls": [
+      "https://weareallheart.com/tournaments/aruba-holiday-classic-2026",
+      "https://weareallheart.com/terms",
+      "https://weareallheart.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "wildbranch.com",
+    "company_name": "WILDBRANCH",
+    "website": "https://wildbranch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@wildbranch.com",
+        "confidence": "highest",
+        "source_url": "https://wildbranch.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rmont Serving Vermont and remote engagements in New Mexico. contact@wildbranch.com About Services Apple-Centric Support Co"
+      }
+    ],
+    "role_emails": [
+      "contact@wildbranch.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wildbranch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/apple-centric",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wildbranch.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://wildbranch.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://wildbranch.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://wildbranch.com/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Wild Branch Solutions Thoughtful IT systems, device management that scales, and technology that flows naturally with how people work. Why Partner With Wild Branch Solutions? We help K\u201312 teams plan, deploy, and support Apple environments that are secure, scalable, and practical to operate. Apple Exp",
+    "source_urls": [
+      "https://wildbranch.com",
+      "https://wildbranch.com/contact",
+      "https://wildbranch.com/support",
+      "https://wildbranch.com/about",
+      "https://wildbranch.com/pages/contact",
+      "https://wildbranch.com/support/contact",
+      "https://wildbranch.com/support/",
+      "https://wildbranch.com/services",
+      "https://wildbranch.com/apple-centric",
+      "https://wildbranch.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "wirelessgearguide.com",
+    "company_name": "Best Wireless Phone Accessories 2026: Cases & Mounts",
+    "website": "https://wirelessgearguide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wirelessgearguide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wirelessgearguide.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wirelessgearguide.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wirelessgearguide.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wirelessgearguide.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wirelessgearguide.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/wireless-audio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/wireless-charging/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/wifi-networking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/comparisons/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/category/how-to-fixes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-smartwatch-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-wireless-gaming-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-wireless-phone-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-smart-home-wireless-accessories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/wi-fi-6-vs-wi-fi-6e-vs-wi-fi-7/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/how-to-fix-slow-wi-fi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-wireless-keyboard-and-mouse-combo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/improve-wifi-signal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/mesh-wifi-vs-router/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/wifi-extender-vs-mesh/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-wireless-earbuds-under-50/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/best-wireless-earbuds-2026/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wirelessgearguide.com/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://wirelessgearguide.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://wirelessgearguide.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://wirelessgearguide.com/support/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/contact/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-smartwatch-accessories/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-wireless-gaming-accessories/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-wireless-phone-accessories/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-smart-home-wireless-accessories/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/wi-fi-6-vs-wi-fi-6e-vs-wi-fi-7/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/how-to-fix-slow-wi-fi/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-wireless-keyboard-and-mouse-combo/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/improve-wifi-signal/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/mesh-wifi-vs-router/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/wifi-extender-vs-mesh/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-wireless-earbuds-under-50/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.wirelessgearguide.com/best-wireless-earbuds-2026/",
+        "action": "https://www.wirelessgearguide.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Reviews and analysis of wireless gear including audio devices, WiFi equipment & charging accessories, based on real-world use and objective testing.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "yodersdutchdelights.com",
+    "company_name": "YODER'S DUTCH DELIGHTS",
+    "website": "https://yodersdutchdelights.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://yodersdutchdelights.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yodersdutchdelights.com/menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Yoder's Dutch Delights in Manassas Park, VA serves fresh donuts and traditional Dutch bakery favorites including pastries, baked goods, and sweet treats. Try the Glazed Donuts, Cream-Filled Donuts, or Dutch Apple Fritters, plus cookies and homemade desserts. Perfect for breakfast stops, coffee break",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "yourdesignjuice.com",
+    "company_name": "11+ Best Phone Stands for Recording Art and More (2026) ~ YDJ Blog",
+    "website": "https://yourdesignjuice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "zahlam.com",
+    "company_name": "ZAHLAM",
+    "website": "https://zahlam.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zahlam.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/long-bubus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/short-bubus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/two-piece",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/asooke-akwete-cargo-pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/ankara-plain-and-cargo-pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/adire-pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/african-polos-and-tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/jackets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/turbans-and-headwraps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/kids-wear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/pages/size-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/adire-crepe-pants-women-african-tie-dye-wide-leg-trousers-handmade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/african-ankara-palazzo-pants-high-waist-wide-leg-wax-print-trousers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/african-ankara-palazzo-pants-high-waist-wide-leg-wax-print-trousers-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/akwete-pants-african-print-wide-leg-trousers-nigerian-style",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/ankara-aso-oke-bubu-dress-african-print-maxi-gown-pink-nigerian-traditional-wear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/ankara-asooke-cargo-pants-african-print-trouser-comfortable-fit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/ankara-bubu-dress-with-aso-oke-accents-african-print-maxi-gown",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/products/ankara-bubu-dress-with-aso-oke-accents-black-and-white-african-print-maxi-gown",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/collections/women",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zahlam.com/policies/legal-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://zahlam.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Zahlam",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 66,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
