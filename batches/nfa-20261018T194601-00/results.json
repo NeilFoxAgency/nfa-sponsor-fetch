@@ -1,0 +1,2881 @@
+[
+  {
+    "company_domain": "abanotes.com",
+    "company_name": "ABANOTES",
+    "website": "https://abanotes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@abanotes.com",
+        "confidence": "highest",
+        "source_url": "https://abanotes.com/pricing",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@abanotes.ai",
+        "confidence": "highest",
+        "source_url": "https://abanotes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Clinical Operational Pricing Contact Log In info@abanotes.ai Terms of Service Privacy Policy HIPAA BAA Securit"
+      },
+      {
+        "address": "billing@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l Notices and Questions legal@abanotes.ai Billing billing@abanotes.ai Compliance compliance@abanotes.ai Accepta"
+      },
+      {
+        "address": "compliance@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s.ai Billing billing@abanotes.ai Compliance compliance@abanotes.ai Acceptance Language for Registration, Trial, or I"
+      },
+      {
+        "address": "legal@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "opment Website https://abanotes.com Legal Contact legal@abanotes.ai Related Documents Master Subscription Agreement; Bu"
+      },
+      {
+        "address": "privacy@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nd Account Assistance support@abanotes.ai Privacy privacy@abanotes.ai Security Reports security@abanotes.ai Legal N"
+      },
+      {
+        "address": "security@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or unauthorized activity to the Customer administrator and security@abanotes.ai; and cooperate with reasonable security-verification and"
+      },
+      {
+        "address": "support@abanotes.ai",
+        "confidence": "high",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "administered account through available account controls or support@abanotes.ai. If your account is controlled by a Customer, contact the C"
+      }
+    ],
+    "role_emails": [
+      "billing@abanotes.ai",
+      "compliance@abanotes.ai",
+      "hello@abanotes.com",
+      "info@abanotes.ai",
+      "legal@abanotes.ai",
+      "privacy@abanotes.ai",
+      "security@abanotes.ai",
+      "support@abanotes.ai"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.user@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "authorized.user@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "authorized@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "authorized_user@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "authorizedu@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user@abanotes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Authorized User",
+        "person_title": "Owner",
+        "source_url": "https://abanotes.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://abanotes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/clinical",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/operational",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/pricing#start",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/operational#administrative",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/baa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abanotes.com/ai-use-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ABA Notes brings the full clinical, operational, and administrative lifecycle of an ABA practice into one system \u2014 from assessment and session documentation to progress monitoring, supervision, and billing.",
+    "source_urls": [
+      "https://abanotes.com",
+      "https://abanotes.com/contact",
+      "https://abanotes.com/",
+      "https://abanotes.com/clinical",
+      "https://abanotes.com/operational",
+      "https://abanotes.com/pricing",
+      "https://abanotes.com/pricing#start",
+      "https://abanotes.com/operational#administrative",
+      "https://abanotes.com/terms",
+      "https://abanotes.com/privacy",
+      "https://abanotes.com/baa",
+      "https://abanotes.com/security",
+      "https://abanotes.com/ai-use-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "abasto.com",
+    "company_name": "Lessons from Las Vegas: What the NACS Show 2026 Offers Hispanic Food Retailers",
+    "website": "https://abasto.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "adrivant.com",
+    "company_name": "ADRIVANT",
+    "website": "https://adrivant.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contactus@adrivant.com",
+        "confidence": "highest",
+        "source_url": "https://adrivant.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer sign in \u2197 (opens in a new tab) ContactUs@adrivant.com \u00a9 2026 Adrivant Inc. All rights reserved."
+      }
+    ],
+    "role_emails": [
+      "contactus@adrivant.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.kale@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aruna.kale@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aruna@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aruna_kale@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arunak@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kale@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aruna Kale",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.rewatkar@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manoj.rewatkar@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manoj@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manoj_rewatkar@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manojr@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parks@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rewatkar@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Manoj Rewatkar",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vante@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vice@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.vice@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_vice@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniorv@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steward.vante@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steward@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steward_vante@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stewardv@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.parks@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universal.parks@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universal@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universal_parks@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universalp@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universal Parks",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vante@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steward Vante",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@adrivant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "Founder",
+        "source_url": "https://adrivant.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adrivant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/about/#leadership",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/neuralvantage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/steward-vante/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/neuralvantage/#capabilities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrivant.com/neuralvantage/#governance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adrivant.com/contact",
+        "action": "/ContactUsForm.aspx",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adrivant.com/contact/",
+        "action": "/ContactUsForm.aspx",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Adrivant builds and sells NeuralVantage, the enterprise AI orchestration and operations platform, and Steward Vante, its governed platform advisor.",
+    "source_urls": [
+      "https://adrivant.com",
+      "https://adrivant.com/contact",
+      "https://adrivant.com/support",
+      "https://adrivant.com/about",
+      "https://adrivant.com/team",
+      "https://adrivant.com/contact-us",
+      "https://adrivant.com/contactus",
+      "https://adrivant.com/about-us",
+      "https://adrivant.com/our-team",
+      "https://adrivant.com/meet-the-team",
+      "https://adrivant.com/leadership",
+      "https://adrivant.com/founders",
+      "https://adrivant.com/people",
+      "https://adrivant.com/staff",
+      "https://adrivant.com/press",
+      "https://adrivant.com/media",
+      "https://adrivant.com/help",
+      "https://adrivant.com/company",
+      "https://adrivant.com/who-we-are",
+      "https://adrivant.com/our-story",
+      "https://adrivant.com/our-mission",
+      "https://adrivant.com/get-in-touch",
+      "https://adrivant.com/reach-us",
+      "https://adrivant.com/enquiries",
+      "https://adrivant.com/impressum",
+      "https://adrivant.com/pages/contact",
+      "https://adrivant.com/pages/contact-us",
+      "https://adrivant.com/support/contact",
+      "https://adrivant.com/about/",
+      "https://adrivant.com/contact/",
+      "https://adrivant.com/about/#leadership",
+      "https://adrivant.com/",
+      "https://adrivant.com/neuralvantage/",
+      "https://adrivant.com/steward-vante/",
+      "https://adrivant.com/neuralvantage/#capabilities",
+      "https://adrivant.com/neuralvantage/#governance"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aicos.com",
+    "company_name": "AICOS",
+    "website": "https://aicos.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aicos.com",
+        "confidence": "highest",
+        "source_url": "https://aicos.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "act Sandweg 46 CH-4123 Allschwil +41 61 686 98 77 info@aicos.com Contact Us Copyright"
+      },
+      {
+        "address": "allschwilswitzerlandinfo@aicos.com",
+        "confidence": "high",
+        "source_url": "https://aicos.com/impressum",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "allschwilswitzerlandinfo@aicos.com",
+      "info@aicos.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "p.solot@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe.solot@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe_solot@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippes@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solot@aicos.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Solot",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://aicos.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aicos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/people",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2003-03-16"
+      },
+      {
+        "url": "https://aicos.com/company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2006-05-13"
+      },
+      {
+        "url": "https://aicos.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/impressum/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/knowledge",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com/de/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com/blog/2026/09/30/free-webinar-smart-doe-process-product-optimization/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicos.com/blog/2026/07/02/new-web-page/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/design-of-experiments-doe/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/stavex/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/six-sigma/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/quality-assurance-and-process-optimization/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/data-visualization-and-analysis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/knowledge/quality-by-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/quality-assurance-and-process-optimization/statistical-quality-and-process-control/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/easystat/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/data-analysis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/easystat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/data-mining-machine-learning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/simbax/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/stavex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/simbax",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/software/custom-statistical-software/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/data-mining-machine-learning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/training/material-flow-analysis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/data-analysis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/design-of-experiments-doe/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/quality-engineering/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/production-logistics/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/consulting/logistics-simulation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicos.com/data-privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aicos.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aicos.com/pages/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aicos.com/support/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aicos.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aicos.com/blog/2026/09/30/free-webinar-smart-doe-process-product-optimization/",
+        "action": "https://www.aicos.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aicos.com/blog/2026/07/02/new-web-page/",
+        "action": "https://www.aicos.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "User-friendly software solutions and applied training and consulting for easy process optimization, quality assurance and data analysis in the process industry.",
+    "source_urls": [
+      "https://aicos.com",
+      "https://aicos.com/contact",
+      "https://aicos.com/about",
+      "https://aicos.com/impressum",
+      "https://aicos.com/pages/contact",
+      "https://aicos.com/support/contact",
+      "https://aicos.com/contact/",
+      "https://aicos.com/impressum/",
+      "https://www.aicos.com",
+      "https://aicos.com/software",
+      "https://aicos.com/training",
+      "https://www.aicos.com/",
+      "https://www.aicos.com/fr/",
+      "https://www.aicos.com/de/",
+      "https://aicos.com/software/",
+      "https://aicos.com/training/",
+      "https://www.aicos.com/blog/2026/09/30/free-webinar-smart-doe-process-product-optimization/",
+      "https://www.aicos.com/blog/2026/07/02/new-web-page/",
+      "https://aicos.com/training/design-of-experiments-doe/",
+      "https://aicos.com/software/stavex/",
+      "https://aicos.com/training/six-sigma/",
+      "https://aicos.com/training/quality-assurance-and-process-optimization/",
+      "https://aicos.com/training/data-visualization-and-analysis/",
+      "https://aicos.com/training/quality-assurance-and-process-optimization/statistical-quality-and-process-control/",
+      "https://aicos.com/training/data-mining-machine-learning",
+      "https://aicos.com/software/stavex",
+      "https://aicos.com/training/data-mining-machine-learning/",
+      "https://aicos.com/training/material-flow-analysis/",
+      "https://aicos.com/data-privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aktionspreis.de",
+    "company_name": "Effect Energy Drink Metro Angebote - 0,5l Dose | Aktionspreis.de",
+    "website": "https://aktionspreis.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aktionspreis.de",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/registrierung",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/agb",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/datenschutz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospektangebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/alle-prospekte",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/haendler",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/produktuebersicht/kat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/produktuebersicht/name",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/hersteller",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/heinz-sauce-400ml",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/durstloescher-0-5l",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/weihenstephan-butter-250g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/zott-joghurt-140-150g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/mueller-milchreis-180-200g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/ferrero-kuesschen-172-190g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/sorte/red-bull-winter-edition-pistachio-berries-0-25l-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/rockstar-mocktail-0-33l",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/sorte/baileys-lebkuchen-0-5l-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/ferrero-mon-cheri-157g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/sorte/maggi-fix-ofen-kuerbis-26-92g-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/angebote/ferrero-die-besten-215-230g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/sorte/maggi-fix-air-fryer-pommes-26-92g-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/kaufland-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/v-markt-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/hit-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/handelshof-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/cc-grossmarkt-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/selgros-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/citti-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/rewe-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/action-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/alldrink-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/benz-getraenkemarkt-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/edeka-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/finkbeiner-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/fraenky-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/fressnapf-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/getraenkeland-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/lidlde-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/metro-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/metro-gastro-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/mytimede-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/nah-und-gut-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/nahkauf-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/orterer-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aktionspreis.de/prospekt/posten-boerse-angebote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aktionspreis.de/angebote/heinz-sauce-400ml",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/durstloescher-0-5l",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/weihenstephan-butter-250g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/zott-joghurt-140-150g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/mueller-milchreis-180-200g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/ferrero-kuesschen-172-190g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/sorte/red-bull-winter-edition-pistachio-berries-0-25l-angebote",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/rockstar-mocktail-0-33l",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/sorte/baileys-lebkuchen-0-5l-angebote",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/ferrero-mon-cheri-157g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/sorte/maggi-fix-ofen-kuerbis-26-92g-angebote",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/angebote/ferrero-die-besten-215-230g",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aktionspreis.de/sorte/maggi-fix-air-fryer-pommes-26-92g-angebote",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Auf Aktionspreis.de finden Sie die aktuellen Verkaufspreise Deutschlands gr\u00f6\u00dfter Superm\u00e4rkte und Discounter.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "allaboutgame.blog",
+    "company_name": "Red Bull vs Rockstar: Sugar, Caffeine, Calories, Taste, and Ingredients Compared - allaboutgame.blog",
+    "website": "https://allaboutgame.blog",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.game@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all.game@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all_game@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allg@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "game@allaboutgame.blog",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All About Game",
+        "person_title": "Owner",
+        "source_url": "https://allaboutgame.blog/disclaimer/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allaboutgame.blog",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/affiliate-disclosure/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/cookie-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/disclaimer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/editorial-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/category/comparison/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/reign-vs-monster/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/author/ajskakalalmxnxqwertgmail-com/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/category/uncategorized/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/pedialyte-vs-lmnt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/instant-hydration-vs-lmnt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/ghost-vs-celsius/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/electrolit-vs-bodyarmor/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/lmnt-vs-ultima/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/100plus-vs-pocari-sweat/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/nos-vs-monster/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/tailwind-vs-skratch/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/drip-drop-vs-pedialyte/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/page/2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaboutgame.blog/page/19/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allaboutgame.blog/reign-vs-monster/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/pedialyte-vs-lmnt/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/instant-hydration-vs-lmnt/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/ghost-vs-celsius/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/electrolit-vs-bodyarmor/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/lmnt-vs-ultima/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/100plus-vs-pocari-sweat/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/nos-vs-monster/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/tailwind-vs-skratch/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaboutgame.blog/drip-drop-vs-pedialyte/",
+        "action": "https://allaboutgame.blog/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Reign and Monster look like rivals on the shelf, but they come from the same company. Both are made by [\u2026]",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "apalohera.com",
+    "company_name": "APALOHERA",
+    "website": "https://apalohera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://apalohera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/products/existing-oil-label?variant=44306311741519",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/products/koroneiki-organic-extra-virgin-olive-oil?variant=44311301783631",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/products/existing-oil-label",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apalohera.com/products/koroneiki-organic-extra-virgin-olive-oil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://apalohera.com/pages/contact",
+        "action": "/contact#ContactForm-AeDlYWWEwQW12dE9ze__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Apalohera",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "appetitomagazine.com",
+    "company_name": "Italian-Inspired NA Cocktail #6: Oasis Vibe Prickly Pear Punch",
+    "website": "https://appetitomagazine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "arcvella.com",
+    "company_name": "ARCVELLA",
+    "website": "https://arcvella.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://arcvella.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcvella.com/products/3-in-1-hidden-camera-tracker-detector",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arcvella.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://arcvella.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://arcvella.com/",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Arcvella",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ariaatelier.com",
+    "company_name": "ARIA ATELIER",
+    "website": "https://ariaatelier.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mail@ariaatelier.com",
+        "confidence": "high",
+        "source_url": "https://ariaatelier.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "mail@ariaatelier.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ariaatelier.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/masterplanning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/hospitality",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/institutional",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/residential",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/commercial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/interiors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/research",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/innovation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/innovation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/residential/kanwar-residence",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/hospitality/the-roseate-house",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/institutional/gita-dham-world-religion-center-india",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ariaatelier.com/projects/commercial/parth-republic-lucknow",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ariaatelier.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aria Atelier creates iconic architecture blending innovation, research & sustainability\u2014delivering award-winning projects in India & worldwide.",
+    "source_urls": [
+      "https://ariaatelier.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "auures.com",
+    "company_name": "AUURES",
+    "website": "https://auures.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@auures.com",
+        "confidence": "high",
+        "source_url": "https://auures.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need Help? Please email us hello@auures.com if you have any questions or need help. Policies"
+      }
+    ],
+    "role_emails": [
+      "hello@auures.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://auures.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/collections/shop-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/track-your-order",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auures.com/pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://auures.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://auures.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://auures.com/",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "auures",
+    "source_urls": [
+      "https://auures.com",
+      "https://auures.com/pages/contact",
+      "https://auures.com/pages/about-us",
+      "https://auures.com/collections/shop-all",
+      "https://auures.com/",
+      "https://auures.com/pages/track-your-order",
+      "https://auures.com/cart",
+      "https://auures.com/collections/all",
+      "https://auures.com/pages/privacy-policy",
+      "https://auures.com/pages/refund-policy",
+      "https://auures.com/pages/shipping-policy",
+      "https://auures.com/pages/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "axyn.com",
+    "company_name": "AXYN",
+    "website": "https://axyn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.technology@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "axyn.technology@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "axyn@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "axyn_technology@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "axynt@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technology@axyn.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Axyn Technology",
+        "person_title": "Owner",
+        "source_url": "https://axyn.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://axyn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/wordpress/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/portfolio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/products/ecwid/demo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://axyn.com/products/ecwid/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://axyn.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://axyn.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "This website uses cookies. By continuing to browse the website you agree to our terms & conditions and to our privacy policy .",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
