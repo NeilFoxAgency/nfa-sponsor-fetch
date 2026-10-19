@@ -1,0 +1,701 @@
+[
+  {
+    "company_domain": "dispatchit.com",
+    "company_name": "DispatchIt, Inc.",
+    "website": "https://www.dispatchit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@dispatchit.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatchit.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d marketing materials, and more. Get in touch Press contact pr@dispatchit.com Company logos and brand assets Executive interviews Media o"
+      }
+    ],
+    "role_emails": [
+      "pr@dispatchit.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.dispatchit.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatchit.com/company/dispatch-pressroom",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dispatch combines AI-powered orchestration with a nationwide driver network, giving enterprises full control, visibility, and reliability across the last mile.",
+    "source_urls": [
+      "https://www.dispatchit.com/press",
+      "https://www.dispatchit.com/company/dispatch-pressroom"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 66,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dreamtunelabs.com",
+    "company_name": "i built dreamtune so your agent can research, write and make audio with one api key",
+    "website": "https://dreamtunelabs.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email us.",
+        "title": null,
+        "email": "yash@dreamtunelabs.com",
+        "source_url": "https://dreamtunelabs.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email us.",
+        "title": null,
+        "email": "yash@dreamtunelabs.com",
+        "source_url": "https://dreamtunelabs.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "yash@dreamtunelabs.com",
+        "confidence": "highest",
+        "source_url": "https://dreamtunelabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2026 Dreamtune Marketplace coming soon Blog Privacy Terms yash@dreamtunelabs.com Back to top \u2191"
+      }
+    ],
+    "role_emails": [
+      "yash@dreamtunelabs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dreamtunelabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/blog/deepseek-v4-1-flash-1017-release/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/login/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=compute",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/pricing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/affiliate/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/dashboard/usage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/signup/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=haiku",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?q=higgsfield",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=elevenlabs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=firecrawl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=fluxsearch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=higgsfield",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=openai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=anthropic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?q=gemini",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=deepseek",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=exa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=browserbase",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=apify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=tools&q=dataforseo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=qwen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=mistral",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=meta-llama",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=grok",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/catalog/?category=models&q=moonshotai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/marketplace/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamtunelabs.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Access supported AI models, developer tools and GPU compute with one Dreamtune account, API key and prepaid balance. Pay as you go. We manage provider access.",
+    "source_urls": [
+      "https://dreamtunelabs.com",
+      "https://dreamtunelabs.com/blog/deepseek-v4-1-flash-1017-release/",
+      "https://dreamtunelabs.com/",
+      "https://dreamtunelabs.com/login/",
+      "https://dreamtunelabs.com/catalog/",
+      "https://dreamtunelabs.com/catalog/?category=models",
+      "https://dreamtunelabs.com/catalog/?category=tools",
+      "https://dreamtunelabs.com/catalog/?category=compute",
+      "https://dreamtunelabs.com/pricing/",
+      "https://dreamtunelabs.com/affiliate/",
+      "https://dreamtunelabs.com/blog/",
+      "https://dreamtunelabs.com/dashboard/usage/",
+      "https://dreamtunelabs.com/signup/",
+      "https://dreamtunelabs.com/catalog/?category=models&q=haiku",
+      "https://dreamtunelabs.com/catalog/?q=higgsfield",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=elevenlabs",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=firecrawl",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=fluxsearch",
+      "https://dreamtunelabs.com/catalog/?category=models&q=higgsfield",
+      "https://dreamtunelabs.com/catalog/?category=models&q=openai",
+      "https://dreamtunelabs.com/catalog/?category=models&q=anthropic",
+      "https://dreamtunelabs.com/catalog/?q=gemini",
+      "https://dreamtunelabs.com/catalog/?category=models&q=deepseek",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=exa",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=browserbase",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=apify",
+      "https://dreamtunelabs.com/catalog/?category=tools&q=dataforseo",
+      "https://dreamtunelabs.com/catalog/?category=models&q=qwen",
+      "https://dreamtunelabs.com/catalog/?category=models&q=mistral",
+      "https://dreamtunelabs.com/catalog/?category=models&q=meta-llama",
+      "https://dreamtunelabs.com/catalog/?category=models&q=grok",
+      "https://dreamtunelabs.com/catalog/?category=models&q=moonshotai",
+      "https://dreamtunelabs.com/marketplace/",
+      "https://dreamtunelabs.com/privacy/",
+      "https://dreamtunelabs.com/terms/"
+    ],
+    "reason": null,
+    "pages_fetched": 62,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "flyladypremium.com",
+    "company_name": "FLY Premium Services, inc.",
+    "website": "http://flyladypremium.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "getvolumes.app",
+    "company_name": "I built Volumes - a free app that keeps track of every book on your shelves",
+    "website": "https://getvolumes.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getvolumes.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getvolumes.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getvolumes.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getvolumes.app/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Volumes catalogues your shelves across iPhone, iPad and Mac, remembers who borrowed what, and keeps the quotes worth rereading.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gog-eyewear.com",
+    "company_name": "IBC",
+    "website": "https://gog-eyewear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "howtovideogame.com",
+    "company_name": "25 Best Games of 2026 (So Far)",
+    "website": "https://howtovideogame.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "humo.golf",
+    "company_name": "Humo LLC",
+    "website": "https://www.humo.golf",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@humo.golf",
+        "confidence": "highest",
+        "source_url": "https://www.humo.golf/contact-7",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-11",
+        "context_snippet": ", etc. Humo Golf 100 Research Blvd. S tarkville, MS 39759 info@humo.golf First Name Last Name Email Message Send Thanks for submitti"
+      }
+    ],
+    "role_emails": [
+      "info@humo.golf"
+    ],
+    "email_candidates": [
+      {
+        "address": "golf@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "address": "h.golf@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "address": "humo.golf@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "address": "humo@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "address": "humo_golf@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "address": "humog@humo.golf",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Humo Golf",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.humo.golf/plans-pricing",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.humo.golf",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-18"
+      },
+      {
+        "url": "https://www.humo.golf/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-09"
+      },
+      {
+        "url": "https://www.humo.golf/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-18"
+      },
+      {
+        "url": "https://www.humo.golf/about-4",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-16"
+      },
+      {
+        "url": "https://www.humo.golf/contact-7",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-11"
+      },
+      {
+        "url": "https://www.humo.golf/plans-pricing",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "url": "https://www.humo.golf/privacy",
+        "page_type": "legal",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-18"
+      },
+      {
+        "url": "https://www.humo.golf/gift-card",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-18"
+      },
+      {
+        "url": "https://www.humo.golf/shop",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-11"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.humo.golf/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.humo.golf/contact-7",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.humo.golf/shop",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "I started The KINETIQ GOLF LAB at the University of Central Oklahoma to unlock the best way to control the golf club and develop training and coaching protocols to help every type of golfer play better.",
+    "source_urls": [
+      "https://www.humo.golf/contact-7"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "igigbook.com",
+    "company_name": "Black & White Software LLC",
+    "website": "http://www.igigbook.com/i-gig-book-mobile.aspx",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ipgiraffe.com",
+    "company_name": "Domain Validation",
+    "website": "https://ipgiraffe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jimscomputerprogramming.com",
+    "company_name": "James Coates",
+    "website": "http://www.jimscomputerprogramming.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "k-robo.com",
+    "company_name": "Kitchen Robotics\u2122",
+    "website": "https://k-robo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "rooto.app",
+    "company_name": "I turned Arabic roots into a slot machine-style learning game",
+    "website": "https://rooto.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
