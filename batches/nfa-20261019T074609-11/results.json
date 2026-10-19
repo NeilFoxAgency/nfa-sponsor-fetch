@@ -1,0 +1,3581 @@
+[
+  {
+    "company_domain": "companycam.com",
+    "company_name": "CompanyCam, Inc",
+    "website": "http://companycam.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Casey Wurst",
+        "title": "Marketing Manager",
+        "email": "casey.wurst@companycam.com",
+        "source_url": "http://companycam.com/press"
+      },
+      {
+        "name": "Partner With Us",
+        "title": null,
+        "email": "integrations@companycam.com",
+        "source_url": "http://companycam.com/integrations"
+      }
+    ],
+    "people": [
+      {
+        "name": "Casey Wurst",
+        "title": "Marketing Manager",
+        "email": "casey.wurst@companycam.com",
+        "source_url": "http://companycam.com/press"
+      },
+      {
+        "name": "Partner With Us",
+        "title": null,
+        "email": "integrations@companycam.com",
+        "source_url": "http://companycam.com/integrations"
+      }
+    ],
+    "emails": [
+      {
+        "address": "casey.wurst@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "haley.gonzales@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "integrations@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com/integrations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jobs@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "atures and integrations. support@companycam.com press@companycam.com Product Core Features Advanced Featur"
+      },
+      {
+        "address": "support@companycam.com",
+        "confidence": "highest",
+        "source_url": "http://companycam.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n actively growing list of features and integrations. support@companycam.com press@companycam.com Product Core Fea"
+      },
+      {
+        "address": "doug.mcclure@companycam.com",
+        "confidence": "high",
+        "source_url": "http://companycam.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "doug.mcclure@companycam.com",
+      "haley.gonzales@companycam.com",
+      "jobs@companycam.com",
+      "press@companycam.com",
+      "support@companycam.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.eagle@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.market@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam.eagle@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam_eagle@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adame@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "advantage@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app.market@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app_market@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "appm@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.equity@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.workplaces@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best.workplaces@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best_workplaces@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bestw@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blueprint.equity@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blueprint@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blueprint_equity@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blueprinte@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boyd@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.boyd@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "curt.boyd@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "curt@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "curt_boyd@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "curtb@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Curt Boyd",
+        "person_title": "President",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eagle@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Eagle",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "equity@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blueprint Equity",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exteriors@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.painting@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five.painting@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five_painting@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fivep@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.guys@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grounds.guys@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grounds@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grounds_guys@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "groundsg@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guys@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grounds Guys",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/small-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.advantage@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hansen@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "homefield.advantage@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "homefield@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "homefield_advantage@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "homefielda@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Homefield Advantage",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.king@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "king@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "koran@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle.king@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kyle_king@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kylek@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kyle King",
+        "person_title": "Marketing Director",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.hansen@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke.hansen@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke_hansen@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lukeh@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Hansen",
+        "person_title": "Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.exteriors@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.koran@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mapco.exteriors@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mapco@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mapco_exteriors@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mapcoe@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mapco Exteriors",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/medium-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "market@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Market",
+        "person_title": "Business Development",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt.koran@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matt_koran@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mattk@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matt Koran",
+        "person_title": "President",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nelson@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.tuesday@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on.tuesday@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on_tuesday@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ont@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "painting@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Five Star Painting",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/franchise",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patent@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pecher@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pillar@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.pecher@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.roofing@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reliant.roofing@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reliant@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reliant_roofing@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reliantr@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert.pecher@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert_pecher@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robertp@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Pecher",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roofing@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reliant Roofing",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/who-we-serve/enterprise-business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.nelson@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.patent@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.pillar@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.valley@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "said.nelson@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "said@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "said_nelson@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saidn@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Said Richard Nelson",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam.pillar@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam_pillar@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samp@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Pillar",
+        "person_title": "Co-Founder",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon.valley@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon_valley@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siliconv@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startup.patent@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startup@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startup_patent@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startupp@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Startup Wins Patent",
+        "person_title": "Owner",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tuesday@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On Tuesday",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valley@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workplaces@companycam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Workplaces",
+        "person_title": "Ceo",
+        "source_url": "http://companycam.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://companycam.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/who-we-serve/small-business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/who-we-serve/medium-business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/who-we-serve/enterprise-business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/who-we-serve/franchise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/general",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/hvac",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/landscaping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/restoration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/roofing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/industries/solar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/reviews",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/photo-and-video-capture",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/galleries-timelines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/annotations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/in-app-communication",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/tags-labels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/project-feed",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/features/documents-reports",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features#document-job-site",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features/#track-job-progress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features/#share-updates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features#build-workflow",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/ai-features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations/acculynx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations/jobber",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations/jobnimbus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations/jobtread",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://companycam.com/integrations/leap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/integrations/quickbooks-online",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/advanced-features/payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/marketing-suite",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/pricing#faq",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://companycam.com/resources/classes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://companycam.com/resources/classes/documents-overview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Capture work, track job progress, and stay connected from the field to the office with photo documentation and AI tools that keep work moving.",
+    "source_urls": [
+      "http://companycam.com",
+      "http://companycam.com/about",
+      "http://companycam.com/team",
+      "http://companycam.com/leadership",
+      "http://companycam.com/press",
+      "http://companycam.com/",
+      "http://companycam.com/who-we-serve/small-business",
+      "http://companycam.com/who-we-serve/medium-business",
+      "http://companycam.com/who-we-serve/enterprise-business",
+      "http://companycam.com/who-we-serve/franchise",
+      "http://companycam.com/industries",
+      "http://companycam.com/industries/general",
+      "http://companycam.com/industries/hvac",
+      "http://companycam.com/industries/landscaping",
+      "http://companycam.com/industries/restoration",
+      "http://companycam.com/industries/roofing",
+      "http://companycam.com/industries/solar",
+      "http://companycam.com/demo",
+      "http://companycam.com/reviews",
+      "http://companycam.com/download",
+      "http://companycam.com/features",
+      "http://companycam.com/features/photo-and-video-capture",
+      "http://companycam.com/features/galleries-timelines",
+      "http://companycam.com/features/annotations",
+      "http://companycam.com/features/in-app-communication",
+      "http://companycam.com/features/tags-labels",
+      "http://companycam.com/features/project-feed",
+      "http://companycam.com/features/documents-reports",
+      "http://companycam.com/integrations",
+      "http://companycam.com/advanced-features",
+      "http://companycam.com/advanced-features#document-job-site",
+      "http://companycam.com/advanced-features/#track-job-progress",
+      "http://companycam.com/advanced-features/#share-updates",
+      "http://companycam.com/advanced-features#build-workflow",
+      "http://companycam.com/ai-features",
+      "http://companycam.com/integrations/acculynx",
+      "http://companycam.com/integrations/jobber",
+      "http://companycam.com/integrations/jobnimbus",
+      "http://companycam.com/integrations/jobtread",
+      "https://companycam.com/integrations/leap",
+      "http://companycam.com/integrations/quickbooks-online",
+      "http://companycam.com/advanced-features/payments",
+      "http://companycam.com/marketing-suite",
+      "http://companycam.com/pricing",
+      "http://companycam.com/pricing#faq",
+      "http://companycam.com/faq",
+      "http://companycam.com/resources/classes",
+      "https://companycam.com/resources/classes/documents-overview"
+    ],
+    "reason": null,
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "conceptkicks.com",
+    "company_name": "Modern Vice Interview - ConceptKicks",
+    "website": "https://conceptkicks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@conceptkicks.com",
+        "confidence": "high",
+        "source_url": "https://conceptkicks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@conceptkicks.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.shoe@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "car.shoe@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "car@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "car_shoe@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cars@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fire@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.fire@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mallo.fire@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mallo@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mallo_fire@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mallof@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mallo Fire",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shoe@conceptkicks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Car Shoe",
+        "person_title": "Founder",
+        "source_url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://conceptkicks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-12-04"
+      },
+      {
+        "url": "https://conceptkicks.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/design/introducing-terra-cotta",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/design/martin-sallieres",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/sole-systems-resoling-z42f8",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/paris-fashion-week-fw26-xa2cg-bzssh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/martin-sallieres-p8kdh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/surface-tension-part-3-4pzkn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/feature/surface-tension-part-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://conceptkicks.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://conceptkicks.com/contact-us",
+        "action": "http://conceptkicks.com/wp-content/themes/clipboard/send.php?set=16",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "CONCEPTKICKS\u00ae is an independent innovation platform dedicated to showcasing the latest developments in the footwear industry - from sketches, renderings and samples to inspirational imagery and tutorials. We choose to spotlight talent regardless of brand or affiliation.",
+    "source_urls": [
+      "https://conceptkicks.com",
+      "https://conceptkicks.com/contact",
+      "https://conceptkicks.com/about",
+      "https://conceptkicks.com/cart",
+      "https://conceptkicks.com/",
+      "https://conceptkicks.com/design",
+      "https://conceptkicks.com/design/introducing-terra-cotta",
+      "https://conceptkicks.com/design/martin-sallieres",
+      "https://conceptkicks.com/feature/sole-systems-resoling-z42f8",
+      "https://conceptkicks.com/feature/sole-systems-driving-shoes-9xn9b",
+      "https://conceptkicks.com/feature/paris-fashion-week-fw26-xa2cg-bzssh",
+      "https://conceptkicks.com/feature/martin-sallieres-p8kdh",
+      "https://conceptkicks.com/feature/surface-tension-part-3-4pzkn",
+      "https://conceptkicks.com/feature/surface-tension-part-2",
+      "https://conceptkicks.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dealdog.app",
+    "company_name": "Best Backpacks Deals \u2014 Up to 80% Off | Deal Dog",
+    "website": "https://dealdog.app",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "designgood.com",
+    "company_name": "9 Indie Shoe Designers You Should Be Supporting",
+    "website": "https://designgood.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "dlfootwear.com",
+    "company_name": "DL One Family Brands \u2013 Safety Footwear Partners",
+    "website": "https://dlfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dlfootwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DL One Family Brands represents trusted industrial footwear across the U.S. We partner with retailers, reps, and distributors to deliver high-performance work and safety footwear that customers rely on every day.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "elizeeshoes.com",
+    "company_name": "The Most Comfortable High Heels Our Editors Actually Swear By",
+    "website": "https://elizeeshoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "eu-tailwind.com",
+    "company_name": "ENGO: Funding, Rounds and Investors | eu-tailwind",
+    "website": "https://eu-tailwind.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "b.kisner@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.library@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bednarik@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benedikt.kisner@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benedikt@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benedikt_kisner@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "benediktk@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "british.library@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "british@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "british_library@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "britishl@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "european@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.european@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "its.european@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "its@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "its_european@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "itse@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Its European",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kisner@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Benedikt Kisner",
+        "person_title": "Founder",
+        "source_url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "library@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "British Library",
+        "person_title": "Owner",
+        "source_url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.bednarik@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roman.bednarik@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roman@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roman_bednarik@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "romanb@eu-tailwind.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roman Bednarik",
+        "person_title": "Co-Founder",
+        "source_url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://eu-tailwind.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/fundraises",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/investors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/sovereign-tech",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/navvis-spatial-data-physical-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/omilia-enterprise-voice-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/naked-energy-solar-thermal-factory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/mila-health-doctor-led-online-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/safehire-digital-risk-screening",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/mironid-adpkd-kidney-treatment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/seetrue-miniature-eye-tracking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/conmeet-construction-operating-system",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/fuvex-long-range-dual-use-drones",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/stories/helsing-series-e-defence-platform",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/northvolt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/helsing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/stegra",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/mistral-ai",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/nscale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/isomorphic-labs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/sumup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/wayve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/adevinta",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/celonis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/gorillas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/companies/klarna",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/?subscribe=1",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/biggest-european-ai-rounds",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/most-active-seed-investors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/sectors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/europe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eu-tailwind.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Independent reporting on the rise of European tech. The fundraises that matter, straight to your inbox.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 65,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "europaeye.com",
+    "company_name": "Europa Eyewear | Independent eyewear: glasses, optical frames and sunwear",
+    "website": "https://europaeye.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ar@europaeye.com",
+        "confidence": "highest",
+        "source_url": "https://europaeye.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ar@europaeye.com"
+      },
+      {
+        "address": "contact@europaeye.com",
+        "confidence": "highest",
+        "source_url": "https://europaeye.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 | F: 847.821.6903 https://europaeye.com contact@europaeye.com Get Directions"
+      },
+      {
+        "address": "customerservice@europaeye.com",
+        "confidence": "highest",
+        "source_url": "https://europaeye.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "customerservice@europaeye.com"
+      },
+      {
+        "address": "marketing@europaeye.com",
+        "confidence": "highest",
+        "source_url": "https://europaeye.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "marketing@europaeye.com Send us your Messa"
+      }
+    ],
+    "role_emails": [
+      "ar@europaeye.com",
+      "contact@europaeye.com",
+      "customerservice@europaeye.com",
+      "marketing@europaeye.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.skitmore@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy.skitmore@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy_skitmore@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andys@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "skitmore@europaeye.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Skitmore",
+        "person_title": "President",
+        "source_url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://europaeye.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-22"
+      },
+      {
+        "url": "https://europaeye.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products?brand=coco-and-breezy&sort_by=date_desc&per-page=25&mode=grid",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products?brand=state",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products?brand=scott-harris&q=shd&sort_by=date_desc&per-page=25&mode=grid",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/scott-harris",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/american-optical",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/state",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/coco-and-breezy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/michael-ryen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/db4k",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/cinzia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/cote-dazur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/invu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/adin-thomas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/brands/elements",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/SHD003154-19",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/MRX106155-16",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/WRT150-25",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/SHD001149-21",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/MRX102153-16",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products/MRX110153-17",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/sign-up-for-a-europa-e-account-today",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/the-wait-is-over-the-new-coco-and-breezy-collection-has-arrived",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/state-chicago-design-global-craft-summer-2026",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/europa-expands-luxury-portfolio-through-new-partnership-with-cutler-and-gross",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/meet-eyebobs-premium-readers-with-personality",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/coco-and-breezy-eyewear-joins-the-europa-portfolio",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/introducing-scott-harris-district",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/american-optical-featured-on-abc-world-news-tonight",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/michael-ryen-sport-available-for-preorder",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/we-have-a-design-duel-winner",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/news/design-excellence-winner",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://europaeye.com/products?featured_filter=my_favorites",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://europaeye.com/contact",
+        "action": "https://europaeye.com/contact/send",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Europa is an eyewear company which is proud to craft products and policies focused on supporting likeminded, independent eye care professionals",
+    "source_urls": [
+      "https://europaeye.com/contact",
+      "https://europaeye.com/news/coco-and-breezy-eyewear-joins-the-europa-portfolio"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 65,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "foottechlubbock.com",
+    "company_name": "Shop FootTech",
+    "website": "https://foottechlubbock.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://foottechlubbock.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/content/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/content/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/content/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31958/men-s-footwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31975/120-mens-athletic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31973/160-mens-boots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31977/110-mens-casual",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31986/100-mens-dress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31974/130-mens-functional",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31959/140-mens-sandals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31980/121-mens-trail",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/giftcard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31956/women-s-footwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31976/220-womens-athletic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31978/260-womens-boots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31972/210-womens-casual",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foottechlubbock.com/category/31967/200-womens-dress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://foottechlubbock.com/giftcard",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our expert fittings include a gait analysis and interactive 3D foot scan to find you the best fit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "framesixty.com",
+    "company_name": "10 Best Smart Glasses in 2026: AI & AR Glasses Compared",
+    "website": "https://framesixty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gaimo.com",
+    "company_name": "Gaimo | Brand | Espadrilles | Handcrafted Tradition",
+    "website": "https://gaimo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "canaldedenuncias@gaimo.com",
+        "confidence": "highest",
+        "source_url": "https://www.gaimo.com/canal-de-denuncias/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rmulario de denuncia a la direcci\u00f3n electr\u00f3nica siguiente: canaldedenuncias@gaimo.com . Buz\u00f3n de correo postal. Remitiendo el formulario de den"
+      },
+      {
+        "address": "gaimo@gaimo.com",
+        "confidence": "highest",
+        "source_url": "https://gaimo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "on by contacting Calzados Gaimo, tel. 941 381 378, e-mail: gaimo@gaimo.com . You may also request additional detailed information on o"
+      },
+      {
+        "address": "paloma@gaimo.com",
+        "confidence": "highest",
+        "source_url": "https://www.gaimo.com/agentes/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Paloma Sabate Tel: (0034) 913512681/ (0034) 655147047 paloma@gaimo.com Francia. Contacto: Sacha Bertoletto Tel: +33 61"
+      },
+      {
+        "address": "shop@gaimo.com",
+        "confidence": "highest",
+        "source_url": "https://gaimo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", 56, C.P. 26580 Arnedo (La Rioja, Spain). By e-mail to: shop@gaimo.com . Por tel\u00e9fono (+34) 941 381 378 en horario de lunes a vi"
+      }
+    ],
+    "role_emails": [
+      "canaldedenuncias@gaimo.com",
+      "gaimo@gaimo.com",
+      "paloma@gaimo.com",
+      "shop@gaimo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gaimo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gaimo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gaimo.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gaimo.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-09-05"
+      },
+      {
+        "url": "https://gaimo.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-09-25"
+      },
+      {
+        "url": "https://gaimo.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gaimo.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/formulario-de-contacto/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/formulario-de-contacto/puntos-de-venta/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/coleccion/otono-invierno/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/bailarinas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/zapatos-planos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/zapatos-de-tacon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/botas-y-botines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/barefoot/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/bolsos-de-invierno/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/calcetines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/mujer/rebajas-ss26/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/coleccion/primavera-verano/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/bolsos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/bandanas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/hombre/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/editorial-ss26-the-dogwalk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/editorial-ss26-un-verano-en-el-pueblo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/editorial-fw25-al-ritmo-de-la-ciudad/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/editorial-ss25-save-the-date/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/marca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/fabricacion-made-in-spain/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/colaboraciones/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/mi-cuenta/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/bolsos-de-invierno/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/alpargatas/accesorios/calcetines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/envios/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/cambios-y-devoluciones/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/aviso-legal/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/politica-de-cookies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/politica-de-proteccion-de-datos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/condiciones-de-uso-y-compra/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/canal-de-denuncias/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/ferias/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/agentes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gaimo.com/energia-renovable/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://gaimo.com/contact",
+        "action": "https://www.gaimo.com/en/contact-form/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://gaimo.com/pages/contact",
+        "action": "https://www.gaimo.com/en/contact-form/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://gaimo.com/support/contact",
+        "action": "https://www.gaimo.com/en/contact-form/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.gaimo.com/formulario-de-contacto/",
+        "action": "https://www.gaimo.com/formulario-de-contacto/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.gaimo.com/formulario-de-contacto/puntos-de-venta/",
+        "action": "https://www.gaimo.com/formulario-de-contacto/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Descubre la nueva colecci\u00f3n Gaimo FW26 | Bailarinas, zapatos planos, botas, botines y m\u00e1s. Fabricadas a mano en Espa\u00f1a. Env\u00edo y devoluci\u00f3n gratis. \u00a1Compra online!",
+    "source_urls": [
+      "https://gaimo.com/contact",
+      "https://gaimo.com/about-us",
+      "https://gaimo.com/press",
+      "https://gaimo.com/pages/contact",
+      "https://gaimo.com/support/contact",
+      "https://www.gaimo.com/formulario-de-contacto/",
+      "https://www.gaimo.com/formulario-de-contacto/puntos-de-venta/",
+      "https://www.gaimo.com/envios/",
+      "https://www.gaimo.com/cambios-y-devoluciones/",
+      "https://www.gaimo.com/aviso-legal/",
+      "https://www.gaimo.com/politica-de-proteccion-de-datos/",
+      "https://www.gaimo.com/condiciones-de-uso-y-compra/",
+      "https://www.gaimo.com/canal-de-denuncias/",
+      "https://www.gaimo.com/agentes/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 66,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getshitdone.io",
+    "company_name": "Effective Steps to Brand Mission: How Motivational Streetwear Brands Can Dominate DTC",
+    "website": "https://getshitdone.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
