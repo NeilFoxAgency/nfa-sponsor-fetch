@@ -1,0 +1,5128 @@
+[
+  {
+    "company_domain": "2heartsin1.com",
+    "company_name": "2HEARTSIN1",
+    "website": "https://2heartsin1.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://2heartsin1.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2heartsin1.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2heartsin1.com/collections/frontpage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://2heartsin1.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "2HeartsIn1",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "2tactic.com",
+    "company_name": "2TACTIC",
+    "website": "https://2tactic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@2tactic.com",
+        "confidence": "highest",
+        "source_url": "https://2tactic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "10 Balcones Dr #100, Austin, TX 78731, United States Email: support@2tactic.com Powered by GoBeyond Media \u2013 Official Media Partner"
+      }
+    ],
+    "role_emails": [
+      "support@2tactic.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.arrington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.hess@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.lorenzo@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.silveri@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acklen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "albert.silveri@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "albert@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "albert_silveri@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alberts@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alvarez@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy.hess@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy_hess@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amyh@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "angela.arrington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "angela@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "angela_arrington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "angelaa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ariadna.lorenzo@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ariadna@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ariadna_lorenzo@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ariadnal@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arrington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Angela Arrington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "austin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "banach@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "briggs@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Briggs",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "browne@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "buning@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.marino@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.ross@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.vanosdol@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.wetherington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.woodward@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cannalito@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos.marino@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos_marino@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlosm@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol.wetherington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol_wetherington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolw@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christina.ross@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christina@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christina_ross@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christinar@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christopher.vanosdol@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christopher@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christopher_vanosdol@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christopherv@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cindy.woodward@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cindy@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cindy_woodward@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cindyw@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cook@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cooper@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corleto@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cox@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cushwa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Cushwa",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.cox@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.cushwa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Cushwa",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.durkin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.jones@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.snyder@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.white@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.wiltpschirer@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.windhausen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dale.snyder@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dale@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dale_snyder@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dales@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darrin.cox@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darrin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darrin_cox@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darrinc@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darrin Cox",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daune.windhausen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daune@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daune_windhausen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daunew@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.cushwa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Cushwa",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.white@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_cushwa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Cushwa",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_white@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidc@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Cushwa",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidw@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debbie.jones@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debbie@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debbie_jones@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debbiej@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debra.durkin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debra@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debra_durkin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "debrad@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dian.wiltpschirer@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dian@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dian_wiltpschirer@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane.edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane_edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dianee@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dianw@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dishman@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "durkin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debra Durkin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.browne@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane Edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eileen.browne@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eileen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eileen_browne@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eileenb@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eileen Browne",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ferguson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.briggs@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Briggs",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.nastali@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.santiago@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.stephens@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary.briggs@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Briggs",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary.santiago@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary_briggs@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Briggs",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary_santiago@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garyb@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Briggs",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garys@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gordana.nastali@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gordana@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gordana_nastali@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gordanan@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory.stephens@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory_stephens@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregorys@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.muller@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heath.muller@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heath@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heath_muller@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heathm@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hess@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Hess",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hucks@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.acklen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.cooper@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.slangerup@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerome.cooper@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerome@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerome_cooper@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeromec@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerome Cooper",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeter@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe.acklen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe_acklen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joea@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Acklen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jones@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Debbie Jones",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin.slangerup@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justin_slangerup@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "justins@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.corleto@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.musgrave@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaila.musgrave@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaila@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaila_musgrave@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kailam@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katherine.corleto@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katherine@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katherine_corleto@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katherinec@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Corleto",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.cook@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "larry edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.t@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "larry.edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "larry edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "larry@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "larry edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "larry_edwards@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "larry edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "larrye@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "larry edwards",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leena.t@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leena@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leena_t@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leenat@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "linda.cook@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "linda@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "linda_cook@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lindac@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Linda Cook",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lorenzo@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariadna Lorenzo",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.buning@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.hucks@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.torres@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marino@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Marino",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "martin.buning@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "martin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "martin_buning@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "martinb@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Martin Buning",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary.hucks@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary_hucks@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maryh@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Hucks",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel.torres@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguel_torres@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miguelt@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muller@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heath Muller",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musgrave@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaila Musgrave",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nastali@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gordana Nastali",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "powell@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.alvarez@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.ferguson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.schmid@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.young@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard.alvarez@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard_alvarez@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richarda@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Alvarez",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert.schmid@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert_schmid@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roberts@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rodney.ferguson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rodney@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rodney_ferguson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rodneyf@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "RODNEY FERGUSON",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger.young@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roger_young@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rogery@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ross@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christina Ross",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.dishman@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.powell@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.swersky@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sampson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "santiago@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Santiago",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saundra.dishman@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saundra@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saundra_dishman@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saundrad@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saundra Dishman",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schmid@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert Schmid",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shannon.powell@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shannon@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shannon_powell@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shannonp@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shannon Powell",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silveri@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Albert Silveri",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "slangerup@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Justin Slangerup",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snyder@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dale Snyder",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stephens@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Stephens",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.swersky@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_swersky@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steves@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "swersky@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Swersky",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.austin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.jeter@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.johnson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leena T.",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tanya.johnson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tanya@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tanya_johnson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tanyaj@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tanya Johnson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theresa.austin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theresa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theresa_austin@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theresaa@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Theresa Austin",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni.jeter@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toni_jeter@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tonij@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Toni Jeter",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "torres@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Miguel Torres",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vanosdol@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christopher Vanosdol",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-shadow-sling",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.banach@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.cannalito@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.sampson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wayne.cannalito@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wayne@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wayne_cannalito@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waynec@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wayne Cannalito",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy.sampson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy_sampson@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendys@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy Sampson",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wetherington@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Wetherington",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "white@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David White",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wilma.banach@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wilma@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wilma_banach@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wilmab@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wilma Banach",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/ghost-curve",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wiltpschirer@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dian WILT-PSCHIRER",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "windhausen@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daune Windhausen",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "woodward@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cindy Woodward",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/2tac-ghost-grace",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "young@2tactic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roger Young",
+        "person_title": null,
+        "source_url": "https://2tactic.com/products/sload",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://2tactic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/sale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/review",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/payment-order",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/pages/dmca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/concealed-carry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/hunting-gear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/tactical-vest",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/bags-packs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/collections/acessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/22",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2t",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-elite-universal-owb",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-shadow-sling",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-shadow-sling?variant=46152321794282",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-shadow-sling?variant=46152321827050",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-shadow-sling?variant=46152321859818",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-tee?variant=45864250179818",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-tee?variant=45864250409194",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-grace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-grace?variant=46147353477354",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-grace?variant=46147353673962",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2tac-ghost-brief",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/ghost-curve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/ghost-curve?variant=46122577821930",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/ghost-curve?variant=46122577985770",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/belly2-0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/hls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2belt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/bullseye-2-0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/sight",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/belly",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/2uni",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/sload",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/bullseye",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/box",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/jack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2tactic.com/products/jack?variant=44537185992938",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://2tactic.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://2tactic.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "2Tactic offers premium tactical apparel and gear. Our collection includes tactical pants, combat shirts, rain gear, camouflage, tactical vests and a lot more.",
+    "source_urls": [
+      "https://2tactic.com",
+      "https://2tactic.com/pages/contact",
+      "https://2tactic.com/pages/contact-us",
+      "https://2tactic.com/pages/about-us",
+      "https://2tactic.com/",
+      "https://2tactic.com/collections",
+      "https://2tactic.com/collections/sale",
+      "https://2tactic.com/pages/review",
+      "https://2tactic.com/apps/parcelpanel",
+      "https://2tactic.com/pages/privacy-policy",
+      "https://2tactic.com/pages/refund-policy",
+      "https://2tactic.com/pages/shipping-policy",
+      "https://2tactic.com/pages/terms-of-service",
+      "https://2tactic.com/pages/payment-order",
+      "https://2tactic.com/pages/dmca",
+      "https://2tactic.com/collections/concealed-carry",
+      "https://2tactic.com/collections/hunting-gear",
+      "https://2tactic.com/collections/tactical-vest",
+      "https://2tactic.com/collections/bags-packs",
+      "https://2tactic.com/collections/acessories",
+      "https://2tactic.com/products/22",
+      "https://2tactic.com/products/2t",
+      "https://2tactic.com/products/2tac-elite-universal-owb",
+      "https://2tactic.com/products/2tac-shadow-sling",
+      "https://2tactic.com/products/2tac-shadow-sling?variant=46152321794282",
+      "https://2tactic.com/products/2tac-shadow-sling?variant=46152321827050",
+      "https://2tactic.com/products/2tac-shadow-sling?variant=46152321859818",
+      "https://2tactic.com/products/2tac-ghost-tee",
+      "https://2tactic.com/products/2tac-ghost-tee?variant=45864250179818",
+      "https://2tactic.com/products/2tac-ghost-tee?variant=45864250409194",
+      "https://2tactic.com/products/2tac-ghost-grace",
+      "https://2tactic.com/products/2tac-ghost-grace?variant=46147353477354",
+      "https://2tactic.com/products/2tac-ghost-grace?variant=46147353673962",
+      "https://2tactic.com/products/2tac-ghost-brief",
+      "https://2tactic.com/products/ghost-curve",
+      "https://2tactic.com/products/ghost-curve?variant=46122577821930",
+      "https://2tactic.com/products/ghost-curve?variant=46122577985770",
+      "https://2tactic.com/products/belly2-0",
+      "https://2tactic.com/products/hls",
+      "https://2tactic.com/products/2belt",
+      "https://2tactic.com/products/bullseye-2-0",
+      "https://2tactic.com/products/sight",
+      "https://2tactic.com/products/belly",
+      "https://2tactic.com/products/2uni",
+      "https://2tactic.com/products/sload",
+      "https://2tactic.com/products/bullseye",
+      "https://2tactic.com/products/box",
+      "https://2tactic.com/products/jack",
+      "https://2tactic.com/products/jack?variant=44537185992938"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "7bigstarskingdom.com",
+    "company_name": "7BIGSTARS KINGDOM",
+    "website": "https://7bigstarskingdom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7bigstars.com",
+        "confidence": "highest",
+        "source_url": "https://7bigstarskingdom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "604 E. Franklin St, Monroe. 28112 NC info@7bigstars.com +1 980-339-9167 Follow Us Subsc"
+      },
+      {
+        "address": "support@7bigstars.com",
+        "confidence": "high",
+        "source_url": "https://7bigstarskingdom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@7bigstars.com",
+      "support@7bigstars.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://7bigstarskingdom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7bigstarskingdom.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At 7BigStars Kingdom Socks, we bring together the craftsmanship of trusted Turkish manufacturers and the comfort expectations of the American market. As a family-owned company, we believe that true quality is built on long-term partnerships, attention to detail, and pride in every product we deliver",
+    "source_urls": [
+      "https://7bigstarskingdom.com",
+      "https://7bigstarskingdom.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 101,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aaronreedphotography.com",
+    "company_name": "Great Big Canvas Reviews: The Pros and Cons of Cheap Wall Art",
+    "website": "https://aaronreedphotography.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "abbysadventures.com",
+    "company_name": "ABBY'S ADVENTURES",
+    "website": "https://abbysadventures.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "abidehaus.com",
+    "company_name": "ABIDE HAUS",
+    "website": "https://abidehaus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hausmateinfo@abidehaus.com",
+        "confidence": "highest",
+        "source_url": "https://abidehaus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "onday-Friday and 9am-6pm EST Saturday. Reach out today! Hausmateinfo@abidehaus.com Contact Us"
+      }
+    ],
+    "role_emails": [
+      "hausmateinfo@abidehaus.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ava K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ava.k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ava K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ava@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ava K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ava_k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ava K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "avak@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ava K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe.p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloe_p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chloep@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.b@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.l@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.n@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella.n@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella_n@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ellan@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emily.b@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emily@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emily_b@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emilyb@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emily B.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma.l@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emma_l@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emmal@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.h@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grace.h@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grace@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grace_h@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graceh@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.v@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grace H.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah.p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah.v@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah_p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannah_v@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannahp@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hannahv@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "isabella.r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "isabella@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "isabella_r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "isabellar@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.kasprytzki@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kasprytzki@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "krystal.kasprytzki@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "krystal@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "krystal_kasprytzki@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "krystalk@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Krystal Kasprytzki",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.c@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emma L.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren.d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren_d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurend@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lily.c@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lily@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lily_c@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lilyc@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lily C.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella N.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.s@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia.r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia.s@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia_r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivia_s@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliviar@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olivias@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chloe P.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Isabella R.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel.k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel_k@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachelk@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel K.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.a@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.m@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olivia S.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scarlett.a@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scarlett@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scarlett_a@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scarletta@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scarlett A.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophia.m@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophia@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophia_m@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophiam@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophia M.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hannah V.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zoe.d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zoe@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zoe_d@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zoed@abidehaus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zoe D.",
+        "person_title": null,
+        "source_url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://abidehaus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/collections/lipsticks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/collections/glitters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/collections/primer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/collections/brush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-lip-glitter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/pages/wholesale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-dust-brush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-lip-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abidehaus.com/products/abide-haus-primer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abidehaus.com/pages/contact",
+        "action": "/contact#ContactForm-AcXpndzlVaE52Y2F0N__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Abide Haus",
+    "source_urls": [
+      "https://abidehaus.com",
+      "https://abidehaus.com/pages/contact",
+      "https://abidehaus.com/pages/about-us",
+      "https://abidehaus.com/",
+      "https://abidehaus.com/collections/all",
+      "https://abidehaus.com/collections/lipsticks",
+      "https://abidehaus.com/collections/glitters",
+      "https://abidehaus.com/collections/primer",
+      "https://abidehaus.com/collections/brush",
+      "https://abidehaus.com/pages/faqs",
+      "https://abidehaus.com/products/abide-haus-lip-glitter?variant=52109860045111",
+      "https://abidehaus.com/products/abide-haus-lip-glitter",
+      "https://abidehaus.com/products/abide-haus-matte-lipstick-copy?variant=52109734773047",
+      "https://abidehaus.com/products/abide-haus-lip-kit?variant=52109825376567",
+      "https://abidehaus.com/products/abide-haus-dust-brush?variant=52109689618743",
+      "https://abidehaus.com/products/abide-haus-primer?variant=52109685522743",
+      "https://abidehaus.com/policies/terms-of-service",
+      "https://abidehaus.com/policies/privacy-policy",
+      "https://abidehaus.com/pages/wholesale",
+      "https://abidehaus.com/policies/refund-policy",
+      "https://abidehaus.com/policies/shipping-policy",
+      "https://abidehaus.com/products/abide-haus-dust-brush",
+      "https://abidehaus.com/products/abide-haus-lip-kit",
+      "https://abidehaus.com/products/abide-haus-primer"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "achieversroll.com",
+    "company_name": "ACHIEVERS ROLL",
+    "website": "https://achieversroll.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@achieversroll.com",
+        "confidence": "high",
+        "source_url": "https://achieversroll.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "of the rights available to you, please call or email us at info@achieversroll.com or contact us at 1 Alhambra Plaza, PH Floor, Coral Gables F"
+      }
+    ],
+    "role_emails": [
+      "info@achieversroll.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://achieversroll.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/collections/hats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/collections/poster",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/products/achievers-hat-black-with-gold-letters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/products/achievers-roll-hat-black-with-white-letters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/products/poster-life-can-be-good-when-you-do-what-you-should",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://achieversroll.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://achieversroll.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ACHIEVERS ROLL",
+    "source_urls": [
+      "https://achieversroll.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aerotoss.com",
+    "company_name": "AEROTOSS",
+    "website": "https://aerotoss.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aerotoss.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aerotoss.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aerotoss.com/shop?olsPage=cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aerotoss.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Tournament Use\nComposite Soft Cork\nHigh Quality Goose Feather\nGood Hit Feel",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "alltallownobull.com",
+    "company_name": "ALL TALLOW NO BULL",
+    "website": "https://alltallownobull.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@alltallownobull.com",
+        "confidence": "high",
+        "source_url": "https://alltallownobull.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "studios that value quality over volume. Contact Information hello@alltallownobull.com @alltallownobull Lancaster, PA Shop Name Location Inquiry M"
+      }
+    ],
+    "role_emails": [
+      "hello@alltallownobull.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alltallownobull.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltallownobull.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "100% organic, grass-fed tallow skin care products, hand-rendered in Lancaster, PA. Wholesale information for boutiques, apothecaries, and wellness spaces.",
+    "source_urls": [
+      "https://alltallownobull.com",
+      "https://alltallownobull.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "amazon.eg",
+    "company_name": "\u0637\u0628\u0642 \u0645\u0633\u0637\u062d \u0645\u0646 \u0627\u0644\u0645\u064a\u0644\u0627\u0645\u064a\u0646 \u0645\u0646 \u0645\u0648\u0645\u0646\u062a\u0633\u060c \u0645\u0642\u0627\u0633 27 \u0633\u0645\u060c \u0644\u0648\u0646 \u0623\u0633\u0648\u062f : Amazon.eg: \u0627\u0644\u0645\u0646\u0632\u0644 \u0648\u0627\u0644\u0645\u0637\u0628\u062e",
+    "website": "https://amazon.eg",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "api-services-support@amazon.com",
+        "confidence": "high",
+        "source_url": "https://amazon.eg",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "api-services-support@amazon.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://amazon.eg",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazon.eg/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazon.eg/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazon.eg/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazon.eg/gp/help/customer/display.html?ie=UTF8&nodeId=201909000",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazon.eg/gp/help/customer/display.html?ie=UTF8&nodeId=201909010",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://amazon.eg"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "anywhererips.com",
+    "company_name": "ANYWHERE RIPS",
+    "website": "https://anywhererips.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://anywhererips.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhererips.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AnyWhere Rips",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "artisanhaus.uk",
+    "company_name": "Plants for Pots: 25 Best Outdoor & Evergreen Options (UK)",
+    "website": "https://artisanhaus.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
