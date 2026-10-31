@@ -1,0 +1,3389 @@
+[
+  {
+    "company_domain": "happilygrey.com",
+    "company_name": "HAPPILY GREY",
+    "website": "https://happilygrey.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mary@happilygrey.com",
+        "confidence": "highest",
+        "source_url": "https://happilygrey.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-16",
+        "context_snippet": "llaborations, media, and general inquiries please contact: mary@happilygrey.com"
+      },
+      {
+        "address": "shop@happilygrey.com",
+        "confidence": "high",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uest deactivation of your Company account by emailing us at shop@happilygrey.com. If we terminate your access to the Property or you request"
+      }
+    ],
+    "role_emails": [
+      "mary@happilygrey.com",
+      "shop@happilygrey.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "america@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.america@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "good.america@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "good@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "good_america@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gooda@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Good Morning America",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grey@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "h.grey@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "happily.grey@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "happily@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "happily_grey@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "happilyg@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Happily Grey",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "lee@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "m.lee@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "mary.lee@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "mary@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "mary_lee@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "maryl@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary Lawless Lee",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "address": "r.top@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round.top@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round_top@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roundt@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.user@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.user@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_user@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theu@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "top@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Round Top",
+        "person_title": "Founder",
+        "source_url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "user@happilygrey.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The User",
+        "person_title": "Owner",
+        "source_url": "https://happilygrey.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://happilygrey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-16"
+      },
+      {
+        "url": "https://happilygrey.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-02"
+      },
+      {
+        "url": "https://happilygrey.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2024-08-08"
+      },
+      {
+        "url": "https://happilygrey.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-25"
+      },
+      {
+        "url": "https://happilygrey.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/pages/about-me",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/motherhood",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/beauty",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/pages/shoppe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/pages/newsletter",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/shades-of-grey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/fall-shoes-under-200",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/goodbye-to-summer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/news/mll-x-tal",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/motherhood/indies-first-trip-to-nyc-%F0%9F%97%BD",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/beauty/the-art-of-less",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/motherhood/the-equestrian-in-us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/the-chic-simplicity-of-fall-style",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/fall-sneakers-under-200",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/elevated-ease-the-varley-pieces-i-m-living-in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/beauty/live-from-new-york-nemah-on-gma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/the-french-dispatch-from-paris-to-provence",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/the-new-french-uniform-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/my-closet-makeover-with-the-home-edit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/home/round-top-round-two-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/merlot-moments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/blogs/fashion/the-cotswolds-are-calling",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/products/happily-grey-stories-souvenirs-everyday-wonders-from-the-life-in-between",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/products/happily-grey-candle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://happilygrey.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://happilygrey.com/contact",
+        "action": "/contact/#wpcf7-f14585-p97-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://happilygrey.com/team",
+        "action": "https://www.happilygrey.com/wp-comments-post.php?wpe-comment-post=happilygrey",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://happilygrey.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--18791633551603__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Happily Grey",
+    "source_urls": [
+      "https://happilygrey.com/contact",
+      "https://happilygrey.com/policies/terms-of-service",
+      "https://happilygrey.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "harakh.com",
+    "company_name": "HARAKH",
+    "website": "https://harakh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@harakh.com",
+        "confidence": "highest",
+        "source_url": "https://harakh.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "onal customers are welcome to contact us at info@harakh.com for assistance with orders, returns, exchange"
+      }
+    ],
+    "role_emails": [
+      "info@harakh.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "h.mehta@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harakh.mehta@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harakh@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harakh_mehta@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harakhm@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.india@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "incredible.india@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "incredible@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "incredible_india@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "incrediblei@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "india@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Incredible India",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/spirituality",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mehta@harakh.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harakh Mehta",
+        "person_title": "Founder",
+        "source_url": "https://harakh.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://harakh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-05"
+      },
+      {
+        "url": "https://harakh.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-12-08"
+      },
+      {
+        "url": "https://harakh.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-10"
+      },
+      {
+        "url": "https://harakh.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-06-19"
+      },
+      {
+        "url": "https://harakh.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-05-19"
+      },
+      {
+        "url": "https://harakh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/contact-us-connect-to-personal-shopper",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/press-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/sunlight",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/ghunghroo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/drops-of-joy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/mandala",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/frangipani",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/for-men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/harakh-solitaire-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/our-categories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/neckwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/rings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/earing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/collections/wrist-wear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/high-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/one-of-the-kind-high-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/unique-gemstones",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/bespoke",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/the-harakh-difference",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/spirituality",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/harakh-talkshow",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/the-harakh-jewelry-reports-by-gia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/pages/the-harakh-certificate-of-authentication",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-balance-drops-of-joy-colorless-diamond-encrusted-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-bliss-drops-of-joy-diamond-encrusted-pendant-for-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-prosperity-drops-of-joy-pendant-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-sunlight-auric-hemisphere-diamond-eternity-pendant-gia-jewelry-report",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-18-karat-gold-colorless-diamond-sun-shine-sunlight-ring",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-18-karat-yellow-gold-baguette-colorless-diamond-sunlight-collection-open-bangle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-sunlight-circle-of-light-baguette-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-sunlight-eternal-circles-twist-diamond-pendant",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/sunlight-soft-cut-full-eternity-colorless-diamond-band",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-auric-sphere-colorless-diamond-hoop-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://harakh.com/products/harakh-sunlight-intertwined-duo-link-bracelet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://harakh.com/contact",
+        "action": "https://harakh.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/contact-us",
+        "action": "https://www.harakh.com/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://harakh.com/pages/unique-gemstones",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/pages/bespoke",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-balance-drops-of-joy-colorless-diamond-encrusted-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-bliss-drops-of-joy-diamond-encrusted-pendant-for-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-prosperity-drops-of-joy-pendant-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-sunlight-auric-hemisphere-diamond-eternity-pendant-gia-jewelry-report",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-18-karat-gold-colorless-diamond-sun-shine-sunlight-ring",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-18-karat-yellow-gold-baguette-colorless-diamond-sunlight-collection-open-bangle",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-sunlight-circle-of-light-baguette-earrings",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-sunlight-eternal-circles-twist-diamond-pendant",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/sunlight-soft-cut-full-eternity-colorless-diamond-band",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-auric-sphere-colorless-diamond-hoop-earrings",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://harakh.com/products/harakh-sunlight-intertwined-duo-link-bracelet",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "HARAKH | High Fine Jewelry Crafted With Colorless Diamonds",
+    "source_urls": [
+      "https://harakh.com",
+      "https://harakh.com/contact",
+      "https://harakh.com/about-us",
+      "https://harakh.com/press",
+      "https://harakh.com/pages/contact",
+      "https://harakh.com/pages/contact-us",
+      "https://harakh.com/pages/about",
+      "https://harakh.com/pages/media",
+      "https://harakh.com/pages/contact-us-connect-to-personal-shopper",
+      "https://harakh.com/pages/contact-us-1",
+      "https://harakh.com/pages/press-inquiries",
+      "https://harakh.com/",
+      "https://harakh.com/collections",
+      "https://harakh.com/collections/sunlight",
+      "https://harakh.com/collections/ghunghroo",
+      "https://harakh.com/collections/drops-of-joy",
+      "https://harakh.com/collections/mandala",
+      "https://harakh.com/collections/frangipani",
+      "https://harakh.com/collections/for-men",
+      "https://harakh.com/collections/harakh-solitaire-collection",
+      "https://harakh.com/collections/our-categories",
+      "https://harakh.com/collections/neckwear",
+      "https://harakh.com/collections/rings",
+      "https://harakh.com/collections/earing",
+      "https://harakh.com/collections/wrist-wear",
+      "https://harakh.com/pages/high-jewelry",
+      "https://harakh.com/pages/one-of-the-kind-high-jewelry",
+      "https://harakh.com/pages/unique-gemstones",
+      "https://harakh.com/pages/bespoke",
+      "https://harakh.com/pages/the-harakh-difference",
+      "https://harakh.com/pages/spirituality",
+      "https://harakh.com/pages/harakh-talkshow",
+      "https://harakh.com/pages/the-harakh-jewelry-reports-by-gia",
+      "https://harakh.com/pages/the-harakh-certificate-of-authentication",
+      "https://harakh.com/policies/shipping-policy",
+      "https://harakh.com/products/harakh-balance-drops-of-joy-colorless-diamond-encrusted-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+      "https://harakh.com/products/harakh-bliss-drops-of-joy-diamond-encrusted-pendant-for-him-men-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+      "https://harakh.com/products/harakh-prosperity-drops-of-joy-pendant-18k-gold-charm-pendant-necklace-natural-colorless-diamonds-luxury-fine-jewelry-gifting-dailywear",
+      "https://harakh.com/products/harakh-sunlight-auric-hemisphere-diamond-eternity-pendant-gia-jewelry-report",
+      "https://harakh.com/products/harakh-18-karat-gold-colorless-diamond-sun-shine-sunlight-ring",
+      "https://harakh.com/products/harakh-18-karat-yellow-gold-baguette-colorless-diamond-sunlight-collection-open-bangle",
+      "https://harakh.com/products/harakh-sunlight-circle-of-light-baguette-earrings",
+      "https://harakh.com/products/harakh-sunlight-eternal-circles-twist-diamond-pendant",
+      "https://harakh.com/products/sunlight-soft-cut-full-eternity-colorless-diamond-band",
+      "https://harakh.com/products/harakh-auric-sphere-colorless-diamond-hoop-earrings",
+      "https://harakh.com/products/harakh-sunlight-intertwined-duo-link-bracelet"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "heal360.com",
+    "company_name": "HEAL 360",
+    "website": "https://heal360.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@heal360.com",
+        "confidence": "highest",
+        "source_url": "https://heal360.com/locations/dfw/wylie",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "! Book Appointment Contact Us Call us 972-226-8900 Email us admin@heal360.com Location 2806 W FM 544 Rd, Wylie, TX 75098, USA Fax Number"
+      },
+      {
+        "address": "info@heal360.com",
+        "confidence": "highest",
+        "source_url": "https://heal360.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ease do not hesitate to email our dedicatedprivacy team at info@heal360.com or call (972)226-8900 Our knowledgeable staff isavailabl"
+      },
+      {
+        "address": "contact@heal360.com",
+        "confidence": "high",
+        "source_url": "https://heal360.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Have questions? We are ready to assist you (800) 316-0320 contact@heal360.com Name Email Address Phone Number LOcation Select one... Star"
+      }
+    ],
+    "role_emails": [
+      "admin@heal360.com",
+      "contact@heal360.com",
+      "info@heal360.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://heal360.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-28"
+      },
+      {
+        "url": "https://heal360.com/contactus",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-30"
+      },
+      {
+        "url": "https://heal360.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/locations/dfw/wylie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/locations/dfw/garland",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/about-practice",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/forms/contact-a-manager",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.heal360.com/#services",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/pay",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.heal360.com/laser-treatment#laser-form-section",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/primary-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/urgent-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/iv-vitamin-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/telemedicine",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/covid-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/weight-loss",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/doctors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/forms/refill-request",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/forms/lab-request",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/forms/lab-results-request",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/forms/referral-request",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heal360.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://heal360.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/contactus",
+        "action": "https://www.heal360.com/contactus/send",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/forms/contact-a-manager",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/forms/refill-request",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/forms/lab-request",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/forms/lab-results-request",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://heal360.com/forms/referral-request",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Leading provider of holistic urgent and primary care medicine with urgent care & family practices in Plano, Wylie, Allen, & Frisco TX. Heal 360 fills the gap between emergency rooms and primary physicians by providing comprehensive care without the need for an appointment.",
+    "source_urls": [
+      "https://heal360.com/contact",
+      "https://heal360.com/locations/dfw/wylie",
+      "https://heal360.com/locations/dfw/garland",
+      "https://www.heal360.com/laser-treatment#laser-form-section",
+      "https://heal360.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "hellobritton.com",
+    "company_name": "BRITTON",
+    "website": "https://hellobritton.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@hellobritton.com",
+        "confidence": "highest",
+        "source_url": "https://hellobritton.com/contact.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Please connect with me on LinkedIn or send a message to contact@hellobritton.com ."
+      }
+    ],
+    "role_emails": [
+      "contact@hellobritton.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hellobritton.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellobritton.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-26"
+      },
+      {
+        "url": "https://hellobritton.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellobritton.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellobritton.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hellobritton.com/projects.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://hellobritton.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jackieshairnewyork.com",
+    "company_name": "JACKIE'S HAIR NEW YORK",
+    "website": "https://jackieshairnewyork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jackieshairnewyork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jackieshairnewyork.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/deluxe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/beauty-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/cambodian",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/vietnamese",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/lao",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/burma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/blonde",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/wigs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/extensions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/bundle-deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/la-mer-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/miss-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/custom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/style-your-wig",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/color-your-wig",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/members",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/sezzle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jackieshairnewyork.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://jackieshairnewyork.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://jackieshairnewyork.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jackieshairnewyork.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.jackieshairnewyork.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Jackie's Hair New York | Luxurious raw virgin hair bundles. Our hair is true length; all bundles are super full from top to bottom and very healthy. You won't be disappointed and you will get the attention you deserve! Also offering professional made-to-order wigs!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "joeyhealy.com",
+    "company_name": "JOEY HEALY",
+    "website": "https://joeyhealy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@joeyhealy.com",
+        "confidence": "highest",
+        "source_url": "https://joeyhealy.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2.477.2444 Appointment Inquiries: info@joeyhealy.com Press Inquiries: media@joeyhealy.com Wholes"
+      },
+      {
+        "address": "media@joeyhealy.com",
+        "confidence": "highest",
+        "source_url": "https://joeyhealy.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Inquiries: info@joeyhealy.com Press Inquiries: media@joeyhealy.com Wholesale Inquiries: sales@joeyhealy.com"
+      },
+      {
+        "address": "sales@joeyhealy.com",
+        "confidence": "highest",
+        "source_url": "https://joeyhealy.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quiries: media@joeyhealy.com Wholesale Inquiries: sales@joeyhealy.com"
+      }
+    ],
+    "role_emails": [
+      "info@joeyhealy.com",
+      "media@joeyhealy.com",
+      "sales@joeyhealy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://joeyhealy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-08"
+      },
+      {
+        "url": "https://joeyhealy.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-17"
+      },
+      {
+        "url": "https://joeyhealy.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/the-complete-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/color",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/treatment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/find-your-shade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/products/gift-card",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/meet-joey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/video-tutorials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/wholesale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/wholesale-application",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/the-complete-collection/products/brow-renovation-serum",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/the-complete-collection/products/pro-sculpting-tweezer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/the-complete-collection/products/new-essential-tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/the-complete-collection/products/luxe-brow-powder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/products/luxe-brow-powder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/products/brow-renovation-serum",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/pages/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joeyhealy.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://joeyhealy.com/pages/contact",
+        "action": "/contact#contact--form__template--16938894164146__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Celebrity stylist Joey Healy is one of the most sought-after eyebrow specialists in the industry. Offering a range of products & services at his NYC brow bar including shaping, tinting & tweezing, he will craft your perfect arch & give you the tools to keep them in their best shape. Experience exper",
+    "source_urls": [
+      "https://joeyhealy.com",
+      "https://joeyhealy.com/contact",
+      "https://joeyhealy.com/press",
+      "https://joeyhealy.com/pages/contact",
+      "https://joeyhealy.com/cart",
+      "https://joeyhealy.com/collections/the-complete-collection",
+      "https://joeyhealy.com/collections/color",
+      "https://joeyhealy.com/collections/treatment",
+      "https://joeyhealy.com/collections/tools",
+      "https://joeyhealy.com/pages/find-your-shade",
+      "https://joeyhealy.com/products/gift-card",
+      "https://joeyhealy.com/pages/services",
+      "https://joeyhealy.com/pages/meet-joey",
+      "https://joeyhealy.com/pages/video-tutorials",
+      "https://joeyhealy.com/collections/wholesale",
+      "https://joeyhealy.com/pages/wholesale-application",
+      "https://joeyhealy.com/account/login",
+      "https://joeyhealy.com/",
+      "https://joeyhealy.com/collections/the-complete-collection/products/brow-renovation-serum",
+      "https://joeyhealy.com/collections/the-complete-collection/products/pro-sculpting-tweezer",
+      "https://joeyhealy.com/collections/the-complete-collection/products/new-essential-tools",
+      "https://joeyhealy.com/collections/the-complete-collection/products/luxe-brow-powder",
+      "https://joeyhealy.com/products/luxe-brow-powder",
+      "https://joeyhealy.com/products/brow-renovation-serum",
+      "https://joeyhealy.com/collections/all",
+      "https://joeyhealy.com/policies/refund-policy",
+      "https://joeyhealy.com/pages/privacy-policy",
+      "https://joeyhealy.com/pages/terms-conditions",
+      "https://joeyhealy.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jolt.com",
+    "company_name": "JOLT",
+    "website": "https://jolt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@jolt.com",
+        "confidence": "highest",
+        "source_url": "https://jolt.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e for guides and documentation. Jolt Support Email support@jolt.com Phone 877-396-4112 ext. 1 Portal support.jolt.com"
+      },
+      {
+        "address": "sales@jolt.com",
+        "confidence": "high",
+        "source_url": "https://jolt.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "53 Status status.smartsense.co Jolt Sales Email sales@jolt.com Phone 877-396-4112 ext. 2 Demo Request a demo S"
+      }
+    ],
+    "role_emails": [
+      "sales@jolt.com",
+      "support@jolt.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jolt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jolt.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jolt.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jolt.com/supplies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Jolt platform is now a SmartSense solution. Keep your login, data, and support, and see how Jolt products join SmartSense ONE.",
+    "source_urls": [
+      "https://jolt.com",
+      "https://jolt.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "kobihalperin.com",
+    "company_name": "KOBI HALPERIN",
+    "website": "https://kobihalperin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@kobihalperin.com",
+        "confidence": "highest",
+        "source_url": "https://kobihalperin.com/pages/faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions about tax on your order, please contact our team at: customercare@kobihalperin.com. SHIPPING & DELIVERY"
+      },
+      {
+        "address": "u003ecustomercare@kobihalperin.com",
+        "confidence": "high",
+        "source_url": "https://kobihalperin.com/pages/faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@kobihalperin.com",
+      "u003ecustomercare@kobihalperin.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kobihalperin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/the-coat-edit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/new-arrivals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/blouses-tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/knitwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/skirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/blazers-jacket-vests",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/outerwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/swimwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/view-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/sale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/shadow-florals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/jacquard-after-dark",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dressed-to-dream",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/lace-luxury",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/the-gold-standard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/faux-fur-edit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/evening-overtures/Fall-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/one-of-a-kind",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/lookbook-spring-summer-2027",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/lookbook-fall-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/lookbook-spring-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/kobis-world",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dressed-to-dream/products/kyan-long-dress-with-lace-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dressed-to-dream/products/ines-slip-dress-with-lace-ivory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dressed-to-dream/products/prima-mini-dress-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/dressed-to-dream/products/prima-mini-dress-ivory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/collections/faux-fur-edit?filter.p.m.custom.color_family=black&filter.p.m.custom.color_family=neutral",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/tami-jeweled-faux-fur-short-coat-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/libby-jeweled-long-faux-fur-coat-ecru",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/miranda-faux-shearling-coat-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/rosie-faux-fur-coat-oat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/libby-jeweled-long-faux-fur-coat-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/gillian-lurex-tweed-dress-black-multi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/rian-lurex-jacquard-long-dress-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/niosha-lurex-jacquard-blouse-black",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/products/jordan-lurex-tweed-jacket-black-multi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kobihalperin.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://kobihalperin.com/contact",
+        "action": "/contact#contact-template--28117020639468__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/pages/contact",
+        "action": "/contact#contact-template--28117020639468__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/collections/dressed-to-dream/products/kyan-long-dress-with-lace-black",
+        "action": "/contact#contact-contact_HrxpNr10317673791724",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/collections/dressed-to-dream/products/ines-slip-dress-with-lace-ivory",
+        "action": "/contact#contact-contact_HrxpNr10317673922796",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/collections/dressed-to-dream/products/prima-mini-dress-black",
+        "action": "/contact#contact-contact_HrxpNr15413266907372",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/collections/dressed-to-dream/products/prima-mini-dress-ivory",
+        "action": "/contact#contact-contact_HrxpNr10317673857260",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/tami-jeweled-faux-fur-short-coat-black",
+        "action": "/contact#contact-contact_HrxpNr10317673627884",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/libby-jeweled-long-faux-fur-coat-ecru",
+        "action": "/contact#contact-contact_HrxpNr10317673595116",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/miranda-faux-shearling-coat-black",
+        "action": "/contact#contact-contact_HrxpNr9414527811820",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/rosie-faux-fur-coat-oat",
+        "action": "/contact#contact-contact_HrxpNr9393880400108",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/libby-jeweled-long-faux-fur-coat-black",
+        "action": "/contact#contact-contact_HrxpNr10317673529580",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/gillian-lurex-tweed-dress-black-multi",
+        "action": "/contact#contact-contact_HrxpNr10317672972524",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/rian-lurex-jacquard-long-dress-black",
+        "action": "/contact#contact-contact_HrxpNr10317673005292",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/niosha-lurex-jacquard-blouse-black",
+        "action": "/contact#contact-contact_HrxpNr10317673070828",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://kobihalperin.com/products/jordan-lurex-tweed-jacket-black-multi",
+        "action": "/contact#contact-contact_HrxpNr10317672939756",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Kobi Halperin creates luxury dresses, gowns, blouses, and knits with signature hand-embroidery \u2014 beautifully made, effortless to wear, and designed for real life. Rooted in Eastern European heritage and modern femininity. Complimentary US shipping.",
+    "source_urls": [
+      "https://kobihalperin.com/pages/faq"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 73,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lasttrace.com",
+    "company_name": "LAST TRACE",
+    "website": "https://lasttrace.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lasttrace.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lasttrace.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://lasttrace.com",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/contact",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/support",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/about",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/team",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/contact-us",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/contactus",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/about-us",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/our-team",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/meet-the-team",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/leadership",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/founders",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/people",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/staff",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/press",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/media",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/help",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/company",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/who-we-are",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/our-story",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/our-mission",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/get-in-touch",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/reach-us",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/enquiries",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/impressum",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/pages/contact",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/pages/contact-us",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://lasttrace.com/support/contact",
+        "action": "/api/offer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "low-cost-fragrance.com",
+    "company_name": "buy cheap perfume online | discount perfume online",
+    "website": "https://low-cost-fragrance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "lunarcomfort.com",
+    "company_name": "LUNAR COMFORT",
+    "website": "https://lunarcomfort.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lunarcomfort.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lunarcomfort.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Lunar Comfort",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "maayan.com",
+    "company_name": "MA'AYAN",
+    "website": "https://maayan.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  }
+]
