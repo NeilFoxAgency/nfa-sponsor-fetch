@@ -1,0 +1,825 @@
+[
+  {
+    "company_domain": "consumer.es",
+    "company_name": "\u00bfEs cierto que el chocolate tiene metales pesados? |Consumer",
+    "website": "https://consumer.es",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@consumer.es",
+        "confidence": "high",
+        "source_url": "https://www.consumer.es/contacto",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@consumer.es"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://consumer.es",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/redondo-de-ternera-guisado-express-con-verduras-y-manzana.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/contacto",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/nutricion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/en-la-cocina",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/consumo-seguro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/alimentos-a-detalle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/riesgos-y-medidas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud/bienestar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud/problemas-de-salud",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/bebe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/bebe/embarazo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/bebe/bebes-y-etapas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/bebe/infancia-y-familia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/medio-ambiente-solidaridad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/medio-ambiente-solidaridad/medio-ambiente",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/medio-ambiente-solidaridad/solidaridad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/economia-domestica",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/motor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/viajes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/vivienda",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/tecnologia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/bricolaje",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/sociedad-consumo/educacion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/mascotas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/mascotas/tener-mascota",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/mascotas/cuidados",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/mascotas/convivencia-y-psicologia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://consumer.es/alimentacion/recetas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/guias",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://consumer.es/app/uploads/guias/es/obesidad_infantil.pdf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/infografias",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/monograficos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/halloween-ideas-sanas-para-saborear-el-miedo.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/como-elegir-buen-queso-lonchas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/novedades-sobre-saludable-es-zumo-naranja",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/alimentacion/son-beneficiosos-productos-enriquecidos-con-hierro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/comeremos-mismos-alimentos-hoy-futuro-20-anos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/es-verdad-chocolate-contaminado-con-metales-pesados-plomo-cadmio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/seguridad-alimentaria/pan-de-molde-dura-conservantes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud/plasma-sanguineo-que-es-para-que-sirve-y-como-se-puede-donar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud/reconocer-ictus-rapido-regla-fast-recuerda-senales-salvar-cerebro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/salud/sindrome-piernas-inquietas-ninos-sintomas-causas-tratamiento",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.consumer.es/bebe/cribado-diabetes-mellitus-tipo-1-infancia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Las \u00faltimas novedades y la actualidad m\u00e1s completa con informaci\u00f3n rigurosa y pr\u00e1ctica para el Consumidor en Alimentaci\u00f3n, Salud, Beb\u00e9, Mascotas, etc.",
+    "source_urls": [
+      "https://www.consumer.es/contacto"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dragees-girard.com",
+    "company_name": "Maison Girard : Chocolatier depuis 1920 - Maison Girard",
+    "website": "https://dragees-girard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dragees-girard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/content/7-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/mon-compte",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/64-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/16-ballotins-de-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/10-ballotin-chocolat-noir",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/9-ballotin-chocolat-noir-et-lait",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/12-ballotin-de-chocolat-pralines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/63-specialites",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/69-obus-de-verdun-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/185-orangettes-au-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/80-tablettes-de-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/184-truffes-au-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/85-les-coffrets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/62-coffrets-degustation-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/61-coffrets-prestige-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/64-chocolats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/191-chocolat-au-lait",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/189-chocolat-noir",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/194-chocolat-praline",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/192-ganache-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/193-praline-amande",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/190-praline-noisette",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/65-dragees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/14-dragees-amande",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/27-dragees-avola-princeline",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/28-dragees-avola-avolina",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/206-dragees-amande-la-parisienne",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/30-dragees-amande-platina",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/183-dragees-amande-1kg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/14-dragees-amandes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/15-dragees-chocolat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/31-dragees-chocolat-forme-amande",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/33-dragees-chocolat-petits-coeurs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/34-dragees-originales-et-decors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/92-dragees-caramel-au-beurre-sale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/93-dragees-fourrees-aux-fruits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/94-dragees-nougatine-noisette-et-pistache",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/96-dragees-pour-decoration",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/95-dragees-or-et-argent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/86-contenants-a-dragees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/35-emballages-dragees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/89-boite-personnalisable-100g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/42-contenant-dragees-bambou",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/179-contenant-dragees-bapteme",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/178-contenant-dragees-mariage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/41-contenant-dragees-plexi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/39-mini-boite-dragees-40g",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dragees-girard.com/fr/36-contenant-dragees-verre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chocolatier : Depuis 1920, la Maison Girard Girard propose des produits sp\u00e9cialis\u00e9s de fabrication artisanale. Le choix est vari\u00e9: drag\u00e9es, chocolats, calissons, marrons glac\u00e9s, p\u00e2te de fruit pur fruit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 79,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "estrepublicain.fr",
+    "company_name": "Valdahon. La Beaune Tablette, un univers chocolat\u00e9, vient d\u2019ouvrir",
+    "website": "https://estrepublicain.fr",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "harveyssupermarkets.com",
+    "company_name": "Celebrating Asian American and Pacific Islander Heritage Month",
+    "website": "https://harveyssupermarkets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "jeanpaulhevin.com",
+    "company_name": "NOS BOUTIQUES \u00c0 paris",
+    "website": "https://jeanpaulhevin.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "komonews.com",
+    "company_name": "From Seattle Chocolate to Maeve: How a mother-daughter team rebranded their beloved bars",
+    "website": "https://komonews.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "loire.fr",
+    "company_name": "Bertrand Chocolatier",
+    "website": "https://loire.fr",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "makezine.com",
+    "company_name": "Timothy and the Chocolate Factory",
+    "website": "https://makezine.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "perkpoint.com.au",
+    "company_name": "Untitled",
+    "website": "https://perkpoint.com.au",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tourisme-orleansmetropole.com",
+    "company_name": "Les chocolatiers \u00e0 Orl\u00e9ans Val de Loire",
+    "website": "https://tourisme-orleansmetropole.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "unboxfame.com",
+    "company_name": "50+ Chocolate Business Name Ideas & Naming Guide",
+    "website": "https://unboxfame.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "welcomeqatar.com",
+    "company_name": "Top 10: World&#8217;s Best Chocolate Shops",
+    "website": "https://welcomeqatar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
