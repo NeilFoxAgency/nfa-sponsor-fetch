@@ -1,0 +1,2125 @@
+[
+  {
+    "company_domain": "saltofthedead.com",
+    "company_name": "SALT OF THE DEAD",
+    "website": "https://saltofthedead.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "scarvex.com",
+    "company_name": "SCARVEX",
+    "website": "https://scarvex.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@scarvex.com",
+        "confidence": "highest",
+        "source_url": "https://scarvex.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subject Message contact@scarvex.com Zerif Lite powered by WordPress"
+      }
+    ],
+    "role_emails": [
+      "contact@scarvex.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scarvex.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/home/#contact-scarvex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/home/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/home/#offre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/fr/accueil-scarvex/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/es/portada/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/author/benjamin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/civil-protection-campsites-temporary-facilities/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scarvex.com/en/collaboration-with-astra-industrial-vehicles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://scarvex.com",
+        "action": "/en/home/#wpcf7-f278-p750-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/en/home/#contact-scarvex",
+        "action": "/en/home/#wpcf7-f278-p750-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/en/home/",
+        "action": "/en/home/#wpcf7-f278-p750-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/en/home/#offre",
+        "action": "/en/home/#wpcf7-f278-p750-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/fr/accueil-scarvex/",
+        "action": "/fr/accueil-scarvex/#wpcf7-f267-p502-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/es/portada/",
+        "action": "/es/portada/#wpcf7-f274-p747-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/en/civil-protection-campsites-temporary-facilities/",
+        "action": "/en/civil-protection-campsites-temporary-facilities/#wpcf7-f278-p223-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://scarvex.com/en/collaboration-with-astra-industrial-vehicles/",
+        "action": "/en/collaboration-with-astra-industrial-vehicles/#wpcf7-f278-p720-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [
+      "https://scarvex.com",
+      "https://scarvex.com/en/home/#contact-scarvex",
+      "https://scarvex.com/en/home/",
+      "https://scarvex.com/en/home/#offre",
+      "https://scarvex.com/fr/accueil-scarvex/",
+      "https://scarvex.com/es/portada/",
+      "https://scarvex.com/en/civil-protection-campsites-temporary-facilities/",
+      "https://scarvex.com/en/collaboration-with-astra-industrial-vehicles/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "scraplingstudio.com",
+    "company_name": "SCRAPLING STUDIO",
+    "website": "https://scraplingstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@scraplingstudio.com",
+        "confidence": "highest",
+        "source_url": "https://scraplingstudio.com/help",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s that don't line up, a typo or a wrong page number), email hello@scraplingstudio.com with the kit name and page number. A photo helps. We'll fix"
+      }
+    ],
+    "role_emails": [
+      "hello@scraplingstudio.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scraplingstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/free-fall-crafts.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/teachers.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/testers.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/free-winter-crafts.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/privacy.html#club",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/make-your-scrapling.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/pets-4-pack.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/find-your-fit.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/thanksgiving.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/learning-paths.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scraplingstudio.com/help.html#promise",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free fall crafts for kids through Nov 30! Calm, printable Layer-Up paper crafts for kids: animals, vehicles, letters, numbers and shapes.",
+    "source_urls": [
+      "https://scraplingstudio.com",
+      "https://scraplingstudio.com/help",
+      "https://scraplingstudio.com/free-fall-crafts.html",
+      "https://scraplingstudio.com/privacy.html#club",
+      "https://scraplingstudio.com/help.html#promise"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "securities.io",
+    "company_name": "Mondel\u0113z Agrees to Acquire Majority Stake in Undercover Snacks",
+    "website": "https://securities.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "seekingalpha.com",
+    "company_name": "Mondelez takes a majority stake in Undercover Snacks",
+    "website": "https://seekingalpha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "seekofamily.com",
+    "company_name": "SEEKO FAMILY",
+    "website": "https://seekofamily.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@seeko.toys",
+        "confidence": "high",
+        "source_url": "https://seekofamily.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in Touch hello@seeko.toys +1 (555) 012-3456 123 Play Street, Toy City bottom of page"
+      }
+    ],
+    "role_emails": [
+      "hello@seeko.toys"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://seekofamily.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com/portfolio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com/product-page/abu-hanan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com/product-page/bamba",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seekofamily.com/product-page/seeko",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Seeko Family, where creativity, fun, and imagination come together!",
+    "source_urls": [
+      "https://seekofamily.com",
+      "https://www.seekofamily.com",
+      "https://www.seekofamily.com/portfolio",
+      "https://www.seekofamily.com/category/all-products",
+      "https://www.seekofamily.com/product-page/abu-hanan",
+      "https://www.seekofamily.com/product-page/bamba",
+      "https://www.seekofamily.com/product-page/seeko"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "silkskin.com",
+    "company_name": "SILK+SKIN",
+    "website": "https://silkskin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@silkskin.com",
+        "confidence": "highest",
+        "source_url": "https://silkskin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lity FAQs Privacy Policy Terms of Service Support info@silkskin.com (888) 528-3928 Copyright \u00a9 2025 Sil"
+      },
+      {
+        "address": "davids@silkskin.com",
+        "confidence": "high",
+        "source_url": "https://silkskin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@silkskin.com",
+        "confidence": "high",
+        "source_url": "https://silkskin.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uestions about these Terms, please contact us at: Email : support@silkskin.com Address : Mylan Enterprises, 18653 Ventura Blvd., #272, Tar"
+      }
+    ],
+    "role_emails": [
+      "davids@silkskin.com",
+      "info@silkskin.com",
+      "support@silkskin.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://silkskin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-03"
+      },
+      {
+        "url": "https://silkskin.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-13"
+      },
+      {
+        "url": "https://silkskin.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-23"
+      },
+      {
+        "url": "https://silkskin.com/our-story",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-13"
+      },
+      {
+        "url": "https://silkskin.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/3-minute-skincare-system",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/wishlist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/silkskin-nightshift",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/silkskin-duomasque",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/account/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/collections/facial-anti-aging",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/silkskin-body-hydrator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/collections/frontpage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/blogs/blogs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/3-minute-skincare-system",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/moringa-oil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/homeopathy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/silkskin-ceramide-plus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/products/silkskin-lift-complex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/collections/vendors?q=silkskinnew",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/blogs/blogs/elevate-your-routine-exploring-the-benefits-of-effective-cleansers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/blogs/blogs/essential-skincare-tips-for-radiant-complexion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/blogs/blogs/top-tips-from-skincare-experts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/accessibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/return-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/sustainability",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/pages/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://silkskin.com/account/login#recover",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://silkskin.com/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://silkskin.com/pages/contact",
+        "action": "/contact#ContactForm-template--17562238288051__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Transform your skincare routine with SilkSkin\u2019s premium products. Tailored for all skin types, our formulas deliver smooth, radiant results. Shop now for healthy, glowing skin.",
+    "source_urls": [
+      "https://silkskin.com",
+      "https://silkskin.com/contact-us",
+      "https://silkskin.com/pages/contact",
+      "https://silkskin.com/pages/about-us",
+      "https://silkskin.com/pages/media",
+      "https://silkskin.com/",
+      "https://silkskin.com/products/3-minute-skincare-system",
+      "https://silkskin.com/pages/wishlist",
+      "https://silkskin.com/products/silkskin-nightshift",
+      "https://silkskin.com/products/silkskin-duomasque",
+      "https://silkskin.com/cart",
+      "https://silkskin.com/account/login",
+      "https://silkskin.com/account/register",
+      "https://silkskin.com/collections/all",
+      "https://silkskin.com/collections/facial-anti-aging",
+      "https://silkskin.com/products/silkskin-body-hydrator",
+      "https://silkskin.com/pages/our-story",
+      "https://silkskin.com/collections/frontpage",
+      "https://silkskin.com/blogs/blogs",
+      "https://silkskin.com/pages/3-minute-skincare-system",
+      "https://silkskin.com/pages/moringa-oil",
+      "https://silkskin.com/pages/homeopathy",
+      "https://silkskin.com/products/silkskin-ceramide-plus",
+      "https://silkskin.com/products/silkskin-lift-complex",
+      "https://silkskin.com/collections/vendors?q=silkskinnew",
+      "https://silkskin.com/blogs/blogs/elevate-your-routine-exploring-the-benefits-of-effective-cleansers",
+      "https://silkskin.com/blogs/blogs/essential-skincare-tips-for-radiant-complexion",
+      "https://silkskin.com/blogs/blogs/top-tips-from-skincare-experts",
+      "https://silkskin.com/pages/shipping-policy",
+      "https://silkskin.com/pages/accessibility",
+      "https://silkskin.com/pages/return-policy",
+      "https://silkskin.com/pages/sustainability",
+      "https://silkskin.com/pages/faqs",
+      "https://silkskin.com/pages/privacy-policy",
+      "https://silkskin.com/pages/terms-and-conditions",
+      "https://silkskin.com/account/login#recover"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "smartvai.com",
+    "company_name": "SMARTVAI",
+    "website": "https://smartvai.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "victoria@smartvai.com",
+        "confidence": "high",
+        "source_url": "https://smartvai.com/kontakt/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Kennenlerngespr\u00e4ch vereinbaren victoria@smartvai.com Name E-Mail (P"
+      }
+    ],
+    "role_emails": [
+      "victoria@smartvai.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://smartvai.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-24"
+      },
+      {
+        "url": "https://smartvai.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-24"
+      },
+      {
+        "url": "https://smartvai.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/impressum/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/money-maker-challenge/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/live-event/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/vai-academy-warteliste/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/ueber-victoria/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/kontakt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://smartvai.com/datenschutzerklaerung/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://smartvai.com/contact",
+        "action": "https://smartvai.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://smartvai.com/kontakt/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Victoria G\u00f6tz ist Virtuelle Assistentin f\u00fcr Onlinekurse und E-Mail-Marketing, begeisterte KI-Anwenderin, Mentorin f\u00fcr Virtuelle Assistenz und Gr\u00fcnderin der",
+    "source_urls": [
+      "https://smartvai.com/kontakt/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "snackstack.com",
+    "company_name": "The David Protein Antitrust Case Didn't End in June. One Plaintiff Did. | SnackStack",
+    "website": "https://snackstack.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@snackstack.com",
+        "confidence": "medium",
+        "source_url": "https://snackstack.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@snackstack.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "insight@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.insight@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nutrition.insight@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nutrition@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nutrition_insight@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nutritioni@snackstack.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nutrition Insight",
+        "person_title": "Ceo",
+        "source_url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://snackstack.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news#commentary",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news#culture",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news#business",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/mission-protein-tortilla-chips",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/fda-proposes-mandatory-gras-notification",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/david-protein-epg-antitrust-update",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/astreas-energy-truffle",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/barebells-protein-candy",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/carrageenan-food-ingredient-debate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://snackstack.com/news/david-protein-bar-legal-opposition",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SnackStack provides current-events news, information, and commentary via the Internet on snacks, food culture, functional foods, consumer brands, and media.",
+    "source_urls": [
+      "https://snackstack.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "southernkissed.com",
+    "company_name": "Homemade Protein Snack Packs",
+    "website": "https://southernkissed.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "sportschau.de",
+    "company_name": "Vom Werbetr\u00e4ger zum Kritiker: Megos \u00fcber Risiko von Energydrinks",
+    "website": "https://sportschau.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "state-journal.com",
+    "company_name": "JAMS LAUNCHES NATIONALLY IN WALMART, BRINGING A FRESH TAKE ON THE CLASSIC PB&J TO STORES ACROSS AMERICA - State-Journal",
+    "website": "https://state-journal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "chanda.veno@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-2831 Chanda Veno Editor 502-209-6299 chanda.veno@state-journal.com Sheri Bunker Customer Service Manager"
+      },
+      {
+        "address": "hannah.brown@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Hannah Brown Design Editor 502-209-6339 hannah.brown@state-journal.com Linda Younkin Reporter 502-209-6336"
+      },
+      {
+        "address": "jim.wainscott@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Service Representative 502-209-6301 jim.wainscott@state-journal.com Hannah Brown Design Editor 502-209-"
+      },
+      {
+        "address": "linda.younkin@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Linda Younkin Reporter 502-209-6336 linda.younkin@state-journal.com More Plantin\u2019 by the Signs \u2026 and o"
+      },
+      {
+        "address": "meri.latek@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Meri Latek Advertising Director 502-209-6344 meri.latek@state-journal.com Jim Wainscott Customer Service Representative"
+      },
+      {
+        "address": "sheri.bunker@state-journal.com",
+        "confidence": "highest",
+        "source_url": "https://state-journal.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bunker Customer Service Manager 502-209-6305 sheri.bunker@state-journal.com Meri Latek Advertising Director 502"
+      }
+    ],
+    "role_emails": [
+      "chanda.veno@state-journal.com",
+      "hannah.brown@state-journal.com",
+      "jim.wainscott@state-journal.com",
+      "linda.younkin@state-journal.com",
+      "meri.latek@state-journal.com",
+      "sheri.bunker@state-journal.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.journal@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By State Journal",
+        "person_title": "Owner",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.werner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.wethington@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill.werner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill_werner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billw@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by.journal@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By State Journal",
+        "person_title": "Owner",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by.wethington@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by_journal@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By State Journal",
+        "person_title": "Owner",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by_wethington@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "byj@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By State Journal",
+        "person_title": "Owner",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "byw@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.fisher@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "canaan.fisher@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "canaan@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "canaan_fisher@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "canaanf@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "credit@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.high@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fisher@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Canaan Fisher",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "franklin.high@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "franklin@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "franklin_high@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "franklinh@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Franklin County High",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "journal@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By State Journal",
+        "person_title": "Owner",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "owen@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q.zinner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quinn.zinner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quinn@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quinn_zinner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quinnz@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.credit@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.credit@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_credit@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thec@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Flyer Credit",
+        "person_title": "Ceo",
+        "source_url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.owen@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universe.owen@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universe@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universe_owen@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "universeo@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Universe Jeff Owen",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/staff",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "werner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Werner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wethington@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Kennan Wethington",
+        "person_title": "President",
+        "source_url": "https://state-journal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zinner@state-journal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quinn Zinner",
+        "person_title": "President",
+        "source_url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://state-journal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/29/global-logistics-company-plans-franklin-county-facility/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/29/photos-district-all-tournament-teams/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/28/franklin-countys-girls-volleyball-team-loses-to-tates-creek-in-regional-tournament/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/01/03/western-hills-girls-basketball-team-extends-winning-streak-to-four/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2025/12/29/franklin-countys-boys-basketball-team-loses-to-floyd-central/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2025/12/11/franklin-countys-girls-basketball-team-defeats-bourbon-county/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/05/22/bjs-wholesale-club-announces-frankfort-location/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/subscriptions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/sports/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/opinion/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/obituaries/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/spectrum/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/contests/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/contests/frankforts-faves/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/crime-justice/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/sports/local-sports/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/business/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/education/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/newsletters/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/category/top-news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/31/first-christian-churchs-fall-fling-set-for-nov-4/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/31/the-kings-of-queen-take-the-grand-stage-nov-13/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/31/church-women-united-to-host-world-community-day-nov-13-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/31/plantin-by-the-signs-and-other-things-november-overview-protected-planting-only/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/30/wesbanco-student-of-the-week-bondurants-gideon-robinson-shines-on-stage-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/30/police-fire-blotter-oct-29-6/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/29/flyer-credit-union-celebrates-grand-opening/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://state-journal.com/2026/10/29/western-hills-ffa-earns-top-national-honors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "First in local news since 1902",
+    "source_urls": [
+      "https://state-journal.com/contact",
+      "https://state-journal.com/contact-us",
+      "https://state-journal.com/pages/contact",
+      "https://state-journal.com/pages/contact-us",
+      "https://state-journal.com/support/contact",
+      "https://state-journal.com/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
