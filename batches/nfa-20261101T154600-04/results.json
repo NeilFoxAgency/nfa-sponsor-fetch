@@ -1,0 +1,534 @@
+[
+  {
+    "company_domain": "eleanorhq.com",
+    "company_name": "JOLOMO LLC",
+    "website": "https://eleanorhq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "everteleprompter.com",
+    "company_name": "Viet Anh Nguyen",
+    "website": "https://everteleprompter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "firstmovestartsmall.com",
+    "company_name": "\u6db5\u4fd0 \u5f20",
+    "website": "https://firstmovestartsmall.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "flatbutton.co",
+    "company_name": "Martin Knopf",
+    "website": "https://flatbutton.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "floot.app",
+    "company_name": "Northline Solutions LLC",
+    "website": "https://bridge-ally.floot.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "franksonder.com",
+    "company_name": "FRANK SONDER",
+    "website": "http://franksonder.com/kitchenapps",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "post (at) franksonder.com",
+        "title": null,
+        "email": "post@franksonder.com",
+        "source_url": "http://franksonder.com/kitchenapps"
+      }
+    ],
+    "people": [
+      {
+        "name": "post (at) franksonder.com",
+        "title": null,
+        "email": "post@franksonder.com",
+        "source_url": "http://franksonder.com/kitchenapps"
+      }
+    ],
+    "emails": [
+      {
+        "address": "post@franksonder.com",
+        "confidence": "highest",
+        "source_url": "http://franksonder.com/kitchenapps",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://franksonder.com/kitchenapps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://franksonder.com/kitchenapps/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/impressum/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/#header-menu-toggle",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/en/kitchenapps-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/downloads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/vortrag-innovation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/kitchenapps/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/#mobile-menu-toggle",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/datenschutz/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://franksonder.com/#mobile-fullscreen-menu",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://franksonder.com/vortrag-innovation/",
+        "action": "/vortrag-innovation/#wpcf7-f3464-p3379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Nach \u00fcber 20 Jahren als Manager bin ich Koch geworden. Gerade rechtzeitig, um ein paar Kitchen Apps f\u00fcr die Restaurantk\u00fcche zu entwickeln.",
+    "source_urls": [
+      "http://franksonder.com/kitchenapps",
+      "http://franksonder.com/kitchenapps/impressum",
+      "https://franksonder.com/impressum/",
+      "https://franksonder.com/",
+      "https://franksonder.com/#header-menu-toggle",
+      "https://franksonder.com/en/kitchenapps-2/",
+      "https://franksonder.com/downloads/",
+      "https://franksonder.com/vortrag-innovation/",
+      "https://franksonder.com/kitchenapps/",
+      "https://franksonder.com/#mobile-menu-toggle",
+      "https://franksonder.com/datenschutz/",
+      "https://franksonder.com/#mobile-fullscreen-menu"
+    ],
+    "reason": null,
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "frondgrid.com",
+    "company_name": "mayumi akiyama",
+    "website": "https://frondgrid.com/mosaic/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "grouptracker.app",
+    "company_name": "Shokhan Birlikov",
+    "website": "https://grouptracker.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hidstech.co.uk",
+    "company_name": "Hidstech Ltd",
+    "website": "https://apps.hidstech.co.uk/aws-saa/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@hidstech.co.uk",
+        "confidence": "high",
+        "source_url": "https://apps.hidstech.co.uk/aws-saa/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@hidstech.co.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apps.hidstech.co.uk/aws-saa/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "750 original SAA-C03 practice questions with full explanations. Study by topic, take timed mock exams, drill your mistakes \u2014 study offline.",
+    "source_urls": [
+      "https://apps.hidstech.co.uk/aws-saa/",
+      "https://apps.hidstech.co.uk/aws-saa/support.html",
+      "https://apps.hidstech.co.uk/aws-saa/privacy.html",
+      "https://apps.hidstech.co.uk/aws-saa/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "hinged.website",
+    "company_name": "Rafael Conde",
+    "website": "https://hinged.website",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hordefarmer.com",
+    "company_name": "RAGEIX LLC",
+    "website": "https://www.hordefarmer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "houseofmovement-ch.com",
+    "company_name": "Gymplify GmbH",
+    "website": "https://www.houseofmovement-ch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
