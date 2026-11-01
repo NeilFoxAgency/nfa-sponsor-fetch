@@ -1,0 +1,1543 @@
+[
+  {
+    "company_domain": "brentgaddis.com",
+    "company_name": "Brent Gaddis",
+    "website": "https://brentgaddis.com/cabin-talk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brentgaddis.com",
+        "confidence": "highest",
+        "source_url": "https://brentgaddis.com/cabin-talk/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ddis provides support for Cabin Talk through the monitored support@brentgaddis.com address. Cabin Talk support covers nearby and internet-rel"
+      }
+    ],
+    "role_emails": [
+      "support@brentgaddis.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.gaddis@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brent.gaddis@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brent@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brent_gaddis@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brentg@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gaddis@brentgaddis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brent Gaddis",
+        "person_title": null,
+        "source_url": "https://brentgaddis.com/cabin-talk",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brentgaddis.com/cabin-talk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/cabin-talk/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/contact?reason=app_idea",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/go/cabin-talk/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/go/cabin-talk/app-store",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/cabin-talk/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/debtlens",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/cloudnest",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/go/cabin-talk/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brentgaddis.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brentgaddis.com/cabin-talk/support",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brentgaddis.com/contact",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brentgaddis.com/contact?reason=app_idea",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brentgaddis.com/go/cabin-talk/support",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Chat with invited travel companions over local Wi-Fi or peer-to-peer Wi-Fi, even without cellular service.",
+    "source_urls": [
+      "https://brentgaddis.com/cabin-talk/support",
+      "https://brentgaddis.com/contact",
+      "https://brentgaddis.com/contact?reason=app_idea",
+      "https://brentgaddis.com/go/cabin-talk/support",
+      "https://brentgaddis.com/cabin-talk/privacy",
+      "https://brentgaddis.com/go/cabin-talk/privacy",
+      "https://brentgaddis.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cjk.org",
+    "company_name": "The CJK Dictionary Institute, Inc.",
+    "website": "http://www.cjk.org/cjk/arabic/cave/cave.htm",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "compulab.de",
+    "company_name": "CompuLab",
+    "website": "http://www.compulab.de/cs2/cs2.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "m.goemmel@compulab.de",
+        "confidence": "high",
+        "source_url": "http://compulab.de/cs2/cs2.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "m.goemmel@compulab.de"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://compulab.de/cs2/cs2.html",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "iPhone Gorgy Timing Atomic clock",
+    "source_urls": [
+      "http://compulab.de/cs2/cs2.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "cookpanion.net",
+    "company_name": "Ammodis, Inc.",
+    "website": "https://cookpanion.net/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "dloop.cc",
+    "company_name": "David Veith",
+    "website": "https://riverreadyusa.dloop.cc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "emptynestcompanion.com",
+    "company_name": "Tara Reck",
+    "website": "https://emptynestcompanion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "feji.fi",
+    "company_name": "Miki Piispanen",
+    "website": "https://feji.fi/styrka",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "flowmyanmar.com",
+    "company_name": "Legacy Music Network",
+    "website": "https://www.flowmyanmar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gelighting.com",
+    "company_name": "GE Lighting, Inc.",
+    "website": "https://www.gelighting.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "alicia.gauer@ge.com",
+        "confidence": "high",
+        "source_url": "http://pressroom.gelighting.com/resources",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "angela.hansen@ge.com",
+        "confidence": "high",
+        "source_url": "http://pressroom.gelighting.com/resources",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "gary.sheffer@ge.com",
+        "confidence": "high",
+        "source_url": "http://pressroom.gelighting.com/resources",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "alicia.gauer@ge.com",
+      "angela.hansen@ge.com",
+      "gary.sheffer@ge.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.gelighting.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/pressroom",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-plus-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-hd-bulbs/reveal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-grow-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/vintage-led-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-hd-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/sunlight-light-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/ultra-bright-led",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/search?search=&shape%5B521%5D=521&shape%5B516%5D=516&shape%5B391%5D=391&shape%5B526%5D=526&shape%5B536%5D=536&shape%5B386%5D=386&shape%5B531%5D=531",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/light-form-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/general-purpose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/globe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/decorative",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/ceiling-fan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/track-recessed",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/tube-lights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/spot-flood-lights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/led-lights/bulb-types/speciality",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/bulbfinder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/led-bulbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/dynamic-effects/hexagon-panels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/full-color-strip-lights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/fixtures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/light-switches-remotes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/plugs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/cameras",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/thermostat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/sensors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/cync-smart-home-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/search?search=&feature%5B266%5D=266",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/dynamic-effects",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/set-your-schedule",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/set-your-scene",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/control-with-your-voice",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/control-with-your-touch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/motion-control",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/features/control-anywhere",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/smart-home/control-non-smart-things",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/fixtures-and-accents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/fixtures-and-accents/decorative-fixtures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/fixtures-and-accents/under-cabinet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/fixtures-and-accents/surface-mounts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/fixtures-and-accents/night-lights",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gelighting.com/outdoor-security-fixtures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://pressroom.gelighting.com/resources",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "GE Lighting, a Savant company. Discover our range of smart, energy saving, LED and other light bulbs for every room in your home.",
+    "source_urls": [
+      "http://pressroom.gelighting.com/resources"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 74,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "getvoices.ai",
+    "company_name": "Fiedler Tech LLC",
+    "website": "https://getvoices.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hearhere.media",
+    "company_name": "Toni Na",
+    "website": "https://hearhere.media",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "idnow.io",
+    "company_name": "IDnow Gmbh",
+    "website": "https://www.idnow.io/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@idnow.io",
+        "confidence": "highest",
+        "source_url": "https://www.idnow.io/impressum",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r (CFO), Oliver Hengeler (Prokurist) Contact. E-mail: info@idnow.io Phone: +49 (0)89 413 24 600 Contact Form Copyright."
+      },
+      {
+        "address": "press@idnow.io",
+        "confidence": "highest",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For all media enquiries, please contact Jody Houton: press@idnow.io Latest News. IDnow Trust"
+      }
+    ],
+    "role_emails": [
+      "info@idnow.io",
+      "press@idnow.io"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.berghaus@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "appoints.morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "appoints@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "appoints_morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "appointsm@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Appoints Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "armin.berghaus@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "armin@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "armin_berghaus@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arminb@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "berghaus@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Armin Berghaus",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.money@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "equals.money@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "equals@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "equals_money@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "equalsm@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "germany@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "money@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Equals Money",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe.morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippe_morel@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philippem@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philippe Morel",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "platform@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.germany@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales.germany@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales_germany@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salesg@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Germany",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.platform@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.valroger@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thibault.valroger@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thibault@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thibault_valroger@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thibaultv@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trust.platform@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trust@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trust_platform@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trustp@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Trust Platform",
+        "person_title": "Ceo",
+        "source_url": "https://www.idnow.io/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valroger@idnow.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thibault De Valroger",
+        "person_title": "Business Development",
+        "source_url": "https://www.idnow.io/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.idnow.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/about-idnow/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/contact-idnow/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/about-idnow/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/about-idnow/#meet-leadership",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.idnow.io/contact-idnow/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/document-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/biometric-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/eid-schemes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/eudi-identity-wallets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/identity-verification/data-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/trust-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/fraud-prevention/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/fraud-prevention/risk-intelligence/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/age-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/address-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/driving-license-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/aml-screening/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/kyc-checks/iban-verification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/simple-electronic-signature/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/advanced-electronic-signatures/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/qualified-electronic-signature/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/qualified-electronic-seals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/digital-signatures-trust-services/qualified-electronic-attestation-of-attributes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/authentication/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/authentication/biometric-authentication/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/authentication/device-authentication/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/solutions/authentication/one-time-password-otp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/trust-platform/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/user-experience-conversions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/regulatory-compliance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/fraud-prevention-security/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/scalability-flexibility/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/use-case/operational-efficiency-digitization/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://idnow.io/how-to-select-the-right-amlr-provider/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Move beyond KYC to TYC with IDnow\u2019s scalable identity platform - combining adaptive compliance, real-time fraud prevention, and end-to-end trust.",
+    "source_urls": [
+      "https://www.idnow.io/",
+      "https://www.idnow.io/press",
+      "https://www.idnow.io/impressum",
+      "https://idnow.io/press/",
+      "https://idnow.io/",
+      "https://idnow.io/solutions/",
+      "https://idnow.io/solutions/identity-verification/",
+      "https://idnow.io/solutions/identity-verification/document-verification/",
+      "https://idnow.io/solutions/identity-verification/biometric-verification/",
+      "https://idnow.io/solutions/identity-verification/eid-schemes/",
+      "https://idnow.io/solutions/identity-verification/eudi-identity-wallets/",
+      "https://idnow.io/solutions/identity-verification/data-verification/",
+      "https://idnow.io/trust-services/",
+      "https://idnow.io/solutions/fraud-prevention/",
+      "https://idnow.io/solutions/fraud-prevention/risk-intelligence/",
+      "https://idnow.io/solutions/kyc-checks/",
+      "https://idnow.io/solutions/kyc-checks/age-verification/",
+      "https://idnow.io/solutions/kyc-checks/address-verification/",
+      "https://idnow.io/solutions/kyc-checks/aml-screening/",
+      "https://idnow.io/solutions/kyc-checks/iban-verification/",
+      "https://idnow.io/solutions/digital-signatures-trust-services/qualified-electronic-attestation-of-attributes/",
+      "https://idnow.io/solutions/authentication/",
+      "https://idnow.io/solutions/authentication/device-authentication/",
+      "https://idnow.io/trust-platform/",
+      "https://idnow.io/use-case/regulatory-compliance/",
+      "https://idnow.io/how-to-select-the-right-amlr-provider/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 69,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
