@@ -1,0 +1,581 @@
+[
+  {
+    "company_domain": "maisonsolune.com",
+    "company_name": "MAISON SOLUNE",
+    "website": "https://maisonsolune.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "makezine.com",
+    "company_name": "Timothy and the Chocolate Factory",
+    "website": "https://makezine.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "massachusettsexpress.com",
+    "company_name": "Boston Biotech Startup Brings Lab-Made Chocolate to Market",
+    "website": "https://massachusettsexpress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "massweet.com",
+    "company_name": "MAS SWEET",
+    "website": "https://massweet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@massweet.com",
+        "confidence": "high",
+        "source_url": "https://massweet.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Yes. For restaurant groups and distributors, email orders@massweet.com and we will send a price sheet."
+      },
+      {
+        "address": "support@massweet.com",
+        "confidence": "high",
+        "source_url": "https://massweet.com/pages/accessibility",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y accessing information on this website, please email us at support@massweet.com so we can provide you with the information you need through"
+      }
+    ],
+    "role_emails": [
+      "orders@massweet.com",
+      "support@massweet.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "i.you@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if.you@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "if_you@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ify@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "you@massweet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "If You",
+        "person_title": "Owner",
+        "source_url": "https://massweet.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://massweet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/wholesale-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/products/mas-sweet-agave-syrup-1lt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/products/mas-sweet-agave-syrup-360ml",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/accessibility",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://massweet.com/pages/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://massweet.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://massweet.com/pages/wholesale-1",
+        "action": "/contact#wholesale-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Mas Sweet Syrups",
+    "source_urls": [
+      "https://massweet.com",
+      "https://massweet.com/",
+      "https://massweet.com/pages/accessibility",
+      "https://massweet.com/pages/terms-and-conditions",
+      "https://massweet.com/pages/refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mealkite.com",
+    "company_name": "Mealkite | Food Delivery & Meal Services Guide",
+    "website": "https://mealkite.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mealkite.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-09-18"
+      },
+      {
+        "url": "https://mealkite.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-09-14"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://mealkite.com/contact",
+        "action": "https://www.mealkite.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Mealkite guides you through a rich landscape of recipes, reviews, and tips for delightful dining experiences.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 3
+  },
+  {
+    "company_domain": "meinprospekt.de",
+    "company_name": "9 Monster Energy Angebote in Darmstadt - jetzt g\u00fcnstig kaufen! \ud83d\udd25",
+    "website": "https://meinprospekt.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "merinara.com",
+    "company_name": "MERINARA",
+    "website": "https://merinara.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://merinara.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-03"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dinner isn\u2019t something you make. It\u2019s something you create. Set the table. Put on the music. Let it simmer.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mindsmirror.com",
+    "company_name": "MIND'S MIRROR",
+    "website": "https://mindsmirror.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mindsmirror.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/articles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/seminars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/sessions/individual",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/sessions/group",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/sessions/couples",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/sessions/family",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/sessions/remote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/the-center",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/the-center#history",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/articles/otan-ola-allazoun",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization/diagnosis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization/psychiatric",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization/nutrition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization/supervision",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mindsmirror.com/specialization/treatment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://mindsmirror.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u03a3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c8\u03c5\u03c7\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c5\u03bc\u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c3\u03c4\u03b7\u03bd \u0391\u03b8\u03ae\u03bd\u03b1. \u0391\u03c4\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2, \u03bf\u03bc\u03b1\u03b4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03bf\u03b9\u03ba\u03bf\u03b3\u03b5\u03bd\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u03c3\u03c5\u03bd\u03b5\u03b4\u03c1\u03af\u03b5\u03c2 \u03bc\u03b5 \u03b5\u03be\u03b5\u03b9\u03b4\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03c8\u03c5\u03c7\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5\u03c2.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "montavilla.net",
+    "company_name": "LatT\u00e9a on SE Division Celebrates Opening",
+    "website": "https://montavilla.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mountainathletics.com",
+    "company_name": "MOUNTAIN ATHLETICS",
+    "website": "https://mountainathletics.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "moustique.be",
+    "company_name": "Neuhaus et Christian Wijnants signent une collection de pralines haute couture, pour les fans de mode et de chocolat",
+    "website": "https://moustique.be",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mozi.com",
+    "company_name": "MOZI",
+    "website": "https://mozi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mozi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mozi.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mozi Wash the world's first concentrated, perfume-inspired laundry detergent. Eco-friendly, paraben-free, plant-based. Clean clothes meet unforgettable scent.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 103,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  }
+]
