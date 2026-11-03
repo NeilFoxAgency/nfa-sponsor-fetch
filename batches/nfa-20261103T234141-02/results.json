@@ -1,0 +1,3532 @@
+[
+  {
+    "company_domain": "blueshift.com",
+    "company_name": "BLUESHIFT",
+    "website": "https://blueshift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "success@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ehello@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esuccess@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@blueshift.com",
+      "privacy@blueshift.com",
+      "success@blueshift.com",
+      "support@blueshift.com",
+      "u003ehello@blueshift.com",
+      "u003esuccess@blueshift.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra.tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra_tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandrat@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred.hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred_hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fredh@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo.castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo_castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardoc@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell.middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell_middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russellm@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blueshift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/paid-media/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/media-and-publishing/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about-blueshift/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blueshift.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/product/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/product-overview/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-engagement-platform/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/rich-customer-data/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/cross-channel-hub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/campaign-journeys/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/audience-segmentation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/profile-unification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-insights/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-agents/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-assistants/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-predictors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/email/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/sms/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/mobile/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/mobile/#in-app-messages",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/website-content/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/whatsapp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/app-hub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/retail-and-ecommerce/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/financial-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/digital-health/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/credit-union",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/elearning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/security/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/partners/#integration-partners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/journey-orchestration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/nurture-leads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/drive-engagement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/reduce-abandonment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/increase-retention/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/grow-your-list/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/snowflake-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/shopify-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/salesforce-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/magento-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The AI-powered alternative to Braze and Iterable. Blueshift gives mid-market B2C teams unified customer data, cross-channel automation, and predictive AI - in one platform.",
+    "source_urls": [
+      "https://blueshift.com",
+      "https://blueshift.com/contact",
+      "https://blueshift.com/support",
+      "https://blueshift.com/about",
+      "https://blueshift.com/team",
+      "https://blueshift.com/contact-us",
+      "https://blueshift.com/about-us",
+      "https://blueshift.com/paid-media/",
+      "https://blueshift.com/media-and-publishing/",
+      "https://blueshift.com/contact-us/",
+      "https://blueshift.com/about-blueshift/",
+      "https://www.blueshift.com/contact-us/",
+      "https://blueshift.com/",
+      "https://blueshift.com/product/",
+      "https://blueshift.com/product-overview/",
+      "https://blueshift.com/customer-engagement-platform/",
+      "https://blueshift.com/rich-customer-data/",
+      "https://blueshift.com/customer-ai/",
+      "https://blueshift.com/cross-channel-hub/",
+      "https://blueshift.com/campaign-journeys/",
+      "https://blueshift.com/audience-segmentation/",
+      "https://blueshift.com/profile-unification/",
+      "https://blueshift.com/customer-insights/",
+      "https://blueshift.com/customer-ai-agents/",
+      "https://blueshift.com/customer-ai-assistants/",
+      "https://blueshift.com/customer-ai-predictors/",
+      "https://blueshift.com/email/",
+      "https://blueshift.com/sms/",
+      "https://blueshift.com/mobile/",
+      "https://blueshift.com/mobile/#in-app-messages",
+      "https://blueshift.com/website-content/",
+      "https://blueshift.com/whatsapp/",
+      "https://blueshift.com/app-hub/",
+      "https://blueshift.com/retail-and-ecommerce/",
+      "https://blueshift.com/financial-services/",
+      "https://blueshift.com/digital-health/",
+      "https://blueshift.com/credit-union",
+      "https://blueshift.com/elearning/",
+      "https://blueshift.com/security/",
+      "https://blueshift.com/partners/#integration-partners",
+      "https://blueshift.com/journey-orchestration/",
+      "https://blueshift.com/nurture-leads/",
+      "https://blueshift.com/drive-engagement/",
+      "https://blueshift.com/reduce-abandonment/",
+      "https://blueshift.com/increase-retention/",
+      "https://blueshift.com/grow-your-list/",
+      "https://blueshift.com/integration-partner/snowflake-and-blueshift/",
+      "https://blueshift.com/integration-partner/shopify-and-blueshift/",
+      "https://blueshift.com/integration-partner/salesforce-and-blueshift/",
+      "https://blueshift.com/integration-partner/magento-and-blueshift/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "buffbeauty.com",
+    "company_name": "BUFF BEAUTY",
+    "website": "https://buffbeauty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "partnerships@buffbeauty.com",
+        "confidence": "highest",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nquiries: wholesale@buffbeauty.com Partnership Inquiries: partnerships@buffbeauty.com Press Inquiries: press@buffbeauty.com"
+      },
+      {
+        "address": "press@buffbeauty.com",
+        "confidence": "highest",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "p Inquiries: partnerships@buffbeauty.com Press Inquiries: press@buffbeauty.com Shop Skincare For Y"
+      },
+      {
+        "address": "support@buffbeauty.com",
+        "confidence": "highest",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ise any of the rights available to you, please email us at support@buffbeauty.com . For the purpose of applicable data protection laws, we ar"
+      },
+      {
+        "address": "wholesale@buffbeauty.com",
+        "confidence": "highest",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "omer Support: support@buffbeauty.com Wholesale Inquiries: wholesale@buffbeauty.com Partnership Inquiries: partnerships@buffbeauty.com Press I"
+      },
+      {
+        "address": "beautysupport@buffbeauty.com",
+        "confidence": "high",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "partnerships@buffbeauty.compress",
+        "confidence": "high",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@buffbeauty.com.we",
+        "confidence": "high",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@buffbeauty.comwholesale",
+        "confidence": "high",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@buffbeauty.compartnership",
+        "confidence": "high",
+        "source_url": "https://buffbeauty.com/pages/policies",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "beautysupport@buffbeauty.com",
+      "partnerships@buffbeauty.com",
+      "partnerships@buffbeauty.compress",
+      "press@buffbeauty.com",
+      "support@buffbeauty.com",
+      "support@buffbeauty.com.we",
+      "support@buffbeauty.comwholesale",
+      "wholesale@buffbeauty.com",
+      "wholesale@buffbeauty.compartnership"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.sets@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all.sets@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "all_sets@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alls@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "essentials@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.favorites@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.nails@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "faves@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "favorites@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for.nails@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for_nails@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forn@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders.favorites@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders_favorites@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "foundersf@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder's Favorites",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "locator@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nails@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Your Nails",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.essentials@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.faves@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.locator@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sets@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "All Sets",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shop.faves@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shop@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shop_faves@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shopf@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop Founder's Fave's",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shower.essentials@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shower@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shower_essentials@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "showere@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shower Essentials",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store.locator@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store_locator@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "storel@buffbeauty.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Store Locator",
+        "person_title": "Founder",
+        "source_url": "https://buffbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffbeauty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/founders-favorites",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/about-us#:~:text=object%20of%20desire.-,FAQs,-Is%20nail%20polish",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/skincare-for-your-nails",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/cut-shape",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/exfoliate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/hydrate-shine",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/hands-feet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/shower-essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/shop-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/skincare-for-your-nails-the-skincare-routine-for-beautiful-nails",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-buff-reset-give-your-nails-a-fresh-start",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-rough-edit-tools-for-smoothing-and-shaping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/sets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/nailcare-101",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/store-locator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/gift-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-buff-starter-set-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-skincare-for-your-nails-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-daily-duo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/great-plane-nail-file-with-holder-2-pack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/the-cuticle-pen-smoothing-oil-infused-pumice",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/resurface-surface-exfoliant",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/restore-strengthening-serum",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/revive-finishing-gel-oil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/products/dune-nail-cleansing-brush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/shiny-look",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/collections/tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/pages/policies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffbeauty.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffbeauty.com/pages/contact",
+        "action": "/contact#ContactForm__template--25864996454593__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Buff: Skincare for your nails, hands, and feet is here",
+    "source_urls": [
+      "https://buffbeauty.com/pages/policies",
+      "https://buffbeauty.com/policies/privacy-policy",
+      "https://buffbeauty.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 62,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "buildingbiology.com",
+    "company_name": "BUILDING BIOLOGY",
+    "website": "https://buildingbiology.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buildingbiology.com",
+        "confidence": "highest",
+        "source_url": "https://buildingbiology.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y IBN) Erlenaustra\u00dfe 24, 83022 Rosenheim, Germany Email: info@buildingbiology.com The Institut f\u00fcr Baubiologie + Nachhaltigkeit IBN (Instit"
+      }
+    ],
+    "role_emails": [
+      "info@buildingbiology.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.schneider@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anton.schneider@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anton@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anton_schneider@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "antons@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ishikawa@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schneider@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anton Schneider",
+        "person_title": "Founder",
+        "source_url": "https://buildingbiology.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.ishikawa@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tsuneo.ishikawa@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tsuneo@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tsuneo_ishikawa@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tsuneoi@buildingbiology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tsuneo Ishikawa",
+        "person_title": "President",
+        "source_url": "https://buildingbiology.com/building-biology-magazine/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buildingbiology.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/news/the-number-of-people-living-alone-is-increasing/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/what-is-building-biology/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/building-biology-course-ibn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/principles-of-building-biology/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/building-biology-magazine/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/building-materials-materials-and-products/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/building-biology-standard/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/partners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/news/reducing-greenhouse-gas-emissions-helps-minimize-harm/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/news/the-rising-cost-of-energy-intensive-building-materials/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/news/the-top-five-reasons-to-become-a-building-biology-professional/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/category/ibn-building/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/career-opportunities/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/site-notice/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buildingbiology.com/registration-for-building-biology-course-ibn?&ti=&vn=&nn=&em=&ac=&te=&sh=&pl=&st=&la=",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Building Biology deals with the effects of the built environment on people and nature. In a holistic sense, health, sustainability and design aspects are taken into account.",
+    "source_urls": [
+      "https://buildingbiology.com",
+      "https://buildingbiology.com/contact",
+      "https://buildingbiology.com/about",
+      "https://buildingbiology.com/pages/contact",
+      "https://buildingbiology.com/support/contact",
+      "https://buildingbiology.com/about/",
+      "https://buildingbiology.com/news/the-number-of-people-living-alone-is-increasing/",
+      "https://buildingbiology.com/contact/",
+      "https://buildingbiology.com/",
+      "https://buildingbiology.com/what-is-building-biology/",
+      "https://buildingbiology.com/building-biology-course-ibn/",
+      "https://buildingbiology.com/principles-of-building-biology/",
+      "https://buildingbiology.com/building-biology-magazine/",
+      "https://buildingbiology.com/building-materials-materials-and-products/",
+      "https://buildingbiology.com/building-biology-standard/",
+      "https://buildingbiology.com/partners/",
+      "https://buildingbiology.com/news/reducing-greenhouse-gas-emissions-helps-minimize-harm/",
+      "https://buildingbiology.com/news/the-rising-cost-of-energy-intensive-building-materials/",
+      "https://buildingbiology.com/news/the-top-five-reasons-to-become-a-building-biology-professional/",
+      "https://buildingbiology.com/news/",
+      "https://buildingbiology.com/category/ibn-building/",
+      "https://buildingbiology.com/career-opportunities/",
+      "https://buildingbiology.com/privacy-policy/",
+      "https://buildingbiology.com/site-notice/",
+      "https://buildingbiology.com/registration-for-building-biology-course-ibn?&ti=&vn=&nn=&em=&ac=&te=&sh=&pl=&st=&la="
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cafejibarodeluna.com",
+    "company_name": "CAFE JIBARO DE LUNA",
+    "website": "https://cafejibarodeluna.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@cafejibarodeluna.com",
+        "confidence": "high",
+        "source_url": "https://www.cafejibarodeluna.com/blank",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Log In We\u2019d love to hear from you. San Juan, Puerto Rico info@cafejibarodeluna.com From Our Land to Your Cup. Puerto Rican Coffee & Boutique G"
+      }
+    ],
+    "role_emails": [
+      "info@cafejibarodeluna.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cafejibarodeluna.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/category/coffee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/blank-3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com#Our%20Story",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/blank",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/blank-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-medium-roast-8-oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/name-caf\u00e9-j\u00edbaro-de-luna-dark-roast-8-oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-medium-roast-4-oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-dark-roast-4-oz-gold-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-coffee-duo-2-4-oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-heritage-ceramic-mug-11-oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/t-shirt-caf\u00e9-j\u00edbaro-de-luna-vintage-puerto-rico-coffee-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/caf\u00e9-j\u00edbaro-de-luna-20oz-stainless-tumbler-puerto-rico-coffee-art-travel-cup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/bitch-by-lady-luna-mug",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cafejibarodeluna.com/product-page/stainless-steel-tumbler-20oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Authentic Puerto Rican Arabica. From our land to your daily cup.",
+    "source_urls": [
+      "https://www.cafejibarodeluna.com/blank"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "carnivalskinz.com",
+    "company_name": "CARNIVAL SKINZ",
+    "website": "https://carnivalskinz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@carnivalskinz.com",
+        "confidence": "highest",
+        "source_url": "https://carnivalskinz.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "S info@carnivalskinz.com We typically resp"
+      }
+    ],
+    "role_emails": [
+      "info@carnivalskinz.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://carnivalskinz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/wholesale-partnerships",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/how-to-apply",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/shipping-returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/wishlist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/collections/original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/haiti-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/jamaica-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/bermuda-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/trinidad-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/barbados-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/st-kitts-nevis-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/antigua-barbuda-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/martinique-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/grenada-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/bahamas-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/dominica-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/saint-lucia-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/products/st-vincent-the-grenadines-skinz-original-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/refund-return-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/product-safety-use-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/cookie-tracking-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carnivalskinz.com/pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://carnivalskinz.com/pages/contact",
+        "action": "/contact#ContactForm-template--29125076615539__contact_form2_nxi6fJ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://carnivalskinz.com/pages/wholesale-partnerships",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Carnival Skinz",
+    "source_urls": [
+      "https://carnivalskinz.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cartaweave.com",
+    "company_name": "CARTAWEAVE",
+    "website": "https://cartaweave.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@cartaweave.com",
+        "confidence": "highest",
+        "source_url": "https://cartaweave.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", partnerships or early access? We'd like to hear from you. info@cartaweave.com Cartaweave \u00b7 a division of SecureOrbit Labs, LLC \u00a9 2026 S"
+      }
+    ],
+    "role_emails": [
+      "info@cartaweave.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cartaweave.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cartaweave.com/legal.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cartaweave builds geospatial software that turns scattered, fragmented information into one clear, living map of the places that matter to you. Your team can see what's changing on the ground, find what counts in seconds, and decide with confidence.",
+    "source_urls": [
+      "https://cartaweave.com/contact",
+      "https://cartaweave.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "concealplus.com",
+    "company_name": "CONCEAL PLUS",
+    "website": "https://concealplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@concealplus.com",
+        "confidence": "highest",
+        "source_url": "https://concealplus.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Return Authorization number (RA#). To get one, email us at info@concealplus.com with your order number and the reason for your return. W"
+      }
+    ],
+    "role_emails": [
+      "info@concealplus.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.schepper@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy.schepper@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy_schepper@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andys@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.rios@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol.rios@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol_rios@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolr@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "furlan@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.furlan@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.furlan@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_furlan@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelf@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Furlan",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rios@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Rios",
+        "person_title": null,
+        "source_url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schepper@concealplus.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Schepper",
+        "person_title": null,
+        "source_url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://concealplus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.concealplus.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/products/card-blocr-credit-card-wallet-pu-carbon-fiber-rfid-blocking-minimalist-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.concealplus.com/products/cb-sleeve-blk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/collections/apple-find-my-tracker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/accessibility-statement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/products/card-blocr-best-wallets-for-men-edc-collection-pull-tab-minimalist-wallet-front-pocket-design-slim-leather-card-wallet-with-rfid-blocking-travel-wallet-in-black-leather",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/blogs/interesting-reading-material",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/blogs/interesting-reading-material/best-apple-find-my-wallet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/blogs/interesting-reading-material/do-you-need-rfid-blocking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/collections/always-in-stock",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/collections/best-mens-wallets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/dealer-inquiry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/affiliate-program",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/corporate-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/custom-logo-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/us-privacy-requests",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/pages/do-not-sell-or-share-my-personal-information",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://concealplus.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://concealplus.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://concealplus.com/pages/dealer-inquiry",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://concealplus.com/pages/corporate-gifts",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Card Blocr RFID pop-up wallets and Find My tracker wallets. Holds metal cards. 30-day money-back guarantee, 2-year warranty. Buy direct from Conceal Plus.",
+    "source_urls": [
+      "https://concealplus.com",
+      "https://concealplus.com/support",
+      "https://concealplus.com/help",
+      "https://concealplus.com/pages/contact",
+      "https://concealplus.com/pages/contact-us",
+      "https://concealplus.com/pages/about-us",
+      "https://concealplus.com/collections/all",
+      "https://concealplus.com/policies/shipping-policy",
+      "https://concealplus.com/products/card-blocr-credit-card-wallet-pu-carbon-fiber-rfid-blocking-minimalist-wallet",
+      "https://concealplus.com/products/card-blocr-credit-card-wallet-brown-leather-and-black-metal-front-pocket-minimalist-wallet",
+      "https://www.concealplus.com/products/cb-sleeve-blk",
+      "https://concealplus.com/collections/apple-find-my-tracker",
+      "https://concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+      "https://concealplus.com/pages/accessibility-statement",
+      "https://concealplus.com/",
+      "https://concealplus.com/cart",
+      "https://concealplus.com/products/card-blocr-best-wallets-for-men-edc-collection-pull-tab-minimalist-wallet-front-pocket-design-slim-leather-card-wallet-with-rfid-blocking-travel-wallet-in-black-leather",
+      "https://www.concealplus.com/products/card-blocr-credit-card-wallet-saffiano-pink-pu-leather-and-silver-metal-front-pocket-minimalist-wallet",
+      "https://concealplus.com/blogs/interesting-reading-material",
+      "https://concealplus.com/blogs/interesting-reading-material/pop-up-wallet-for-metal-cards",
+      "https://concealplus.com/blogs/interesting-reading-material/best-apple-find-my-wallet",
+      "https://concealplus.com/blogs/interesting-reading-material/do-you-need-rfid-blocking",
+      "https://concealplus.com/collections/always-in-stock",
+      "https://concealplus.com/collections/best-mens-wallets",
+      "https://concealplus.com/pages/dealer-inquiry",
+      "https://concealplus.com/pages/affiliate-program",
+      "https://concealplus.com/pages/corporate-gifts",
+      "https://concealplus.com/pages/custom-logo-products",
+      "https://concealplus.com/pages/us-privacy-requests",
+      "https://concealplus.com/pages/do-not-sell-or-share-my-personal-information",
+      "https://concealplus.com/policies/privacy-policy",
+      "https://concealplus.com/policies/refund-policy",
+      "https://concealplus.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "curleaparis.com",
+    "company_name": "CURLEA PARIS",
+    "website": "https://curleaparis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@curleaparis.com",
+        "confidence": "highest",
+        "source_url": "https://curleaparis.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e changes. SECTION 25 - CONTACT INFORMATION AMP Trade LLC contact@curleaparis.com 8 The Green, Suite R, Dover, DE 19901, United States Delawa"
+      },
+      {
+        "address": "support@curleaparis.com",
+        "confidence": "highest",
+        "source_url": "https://curleaparis.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@curleaparis.com",
+      "support@curleaparis.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://curleaparis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/complete-definition-set",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/curl-defining-gel-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/sulfate-free-shampoo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/moisturizing-conditioner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/defining-brush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/reset-mask",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/products/definition-spray",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://curleaparis.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://curleaparis.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Natural curl care that makes your curls shine. The official Curlea Paris webshop \u2013 hydration, definition, and less frizz.",
+    "source_urls": [
+      "https://curleaparis.com",
+      "https://curleaparis.com/pages/contact",
+      "https://curleaparis.com/pages/about-us",
+      "https://curleaparis.com/products/complete-definition-set",
+      "https://curleaparis.com/products/curl-defining-gel-1",
+      "https://curleaparis.com/products/sulfate-free-shampoo",
+      "https://curleaparis.com/products/moisturizing-conditioner",
+      "https://curleaparis.com/products/defining-brush",
+      "https://curleaparis.com/products/reset-mask",
+      "https://curleaparis.com/products/definition-spray",
+      "https://curleaparis.com/",
+      "https://curleaparis.com/cart",
+      "https://curleaparis.com/policies/privacy-policy",
+      "https://curleaparis.com/policies/terms-of-service",
+      "https://curleaparis.com/policies/refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dailiq.com",
+    "company_name": "DAILIQ",
+    "website": "https://dailiq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@dailiq.de",
+        "confidence": "highest",
+        "source_url": "https://dailiq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "insam etwas zu bewegen? Wir freuen uns auf deine Nachricht. hi@dailiq.de \u2197 GOOD FOOD. MORE LIFE. Instagram \u2197 LinkedIn \u2197 \u00a9 2026 daili"
+      }
+    ],
+    "role_emails": [
+      "hi@dailiq.de"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dailiq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/#idee",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/#sous-vide",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/#marken",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/#kontakt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/sous-vide/was-ist-sous-vide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/imprint",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailiq.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Gutes Essen. Mehr Leben. dailiQ entwickelt Food-Konzepte f\u00fcr deinen Alltag. Entdecke unsere Idee, Sous-vide und BOLLO MIO.",
+    "source_urls": [
+      "https://dailiq.com",
+      "https://dailiq.com/",
+      "https://dailiq.com/#idee",
+      "https://dailiq.com/#sous-vide",
+      "https://dailiq.com/#marken",
+      "https://dailiq.com/#kontakt",
+      "https://dailiq.com/imprint",
+      "https://dailiq.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dayscend.com",
+    "company_name": "DAYSCEND",
+    "website": "https://dayscend.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dayscend.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "You don\u2019t have to win the rest of your life today. You just have to win this day.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dearwake.com",
+    "company_name": "DEARWAKE",
+    "website": "https://dearwake.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@dearwake.com",
+        "confidence": "highest",
+        "source_url": "https://dearwake.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ales descritos en esta pol\u00edtica. Contacto para privacidad: privacy@dearwake.com . 2. Datos que tratamos Grabaciones de voz y su"
+      },
+      {
+        "address": "wholesale@dearwake.com",
+        "confidence": "highest",
+        "source_url": "https://dearwake.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@dearwake.com",
+      "wholesale@dearwake.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dearwake.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dearwake.com/es/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dearwake.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dearwake.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DearWake is an alarm clock with a screen: every morning the voice and photo of someone who loves you wake you up, saying good morning by name. Join the waitlist.",
+    "source_urls": [
+      "https://dearwake.com",
+      "https://dearwake.com/es/",
+      "https://dearwake.com/privacy",
+      "https://dearwake.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "desertsol.com",
+    "company_name": "DESERT SOL",
+    "website": "https://desertsol.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@desertsol.com",
+        "confidence": "highest",
+        "source_url": "https://desertsol.com/products/gift-wrapping",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or unused, with tags, in their original packaging. Email info@desertsol.com to start your return. Return shipping is paid by the custo"
+      }
+    ],
+    "role_emails": [
+      "info@desertsol.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://desertsol.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.desertsol.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/best-sellers-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/birthday-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/housewarming-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/wedding-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/mammas-to-be",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/hostess-thank-you-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/teacher-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/sympathy-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/holiday",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-for-her",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-for-mom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/for-the-friend",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/littles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/pets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-25",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-50",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-75",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-100",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/products/gift-wrapping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/products/desert-sol-digital-gift-card",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/canyon-rose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/floral-gesture",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/cactus-bloom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/solid-colors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-hair-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-scrunchies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-totes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-pouches",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-notebooks-journals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/for-the-home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/decor-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/candles-fragrance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/table-top-decor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/vases-flowers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/kitchen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/cookbooks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://desertsol.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Desert Sol is a curated lifestyle shop with its own collection of hair accessories, bags, journals, and jewelry, designed in Moab, Utah. Free shipping over $50.",
+    "source_urls": [
+      "https://desertsol.com",
+      "https://desertsol.com/pages/contact",
+      "https://desertsol.com/collections/staff-picks",
+      "https://desertsol.com/",
+      "https://desertsol.com/cart",
+      "https://www.desertsol.com/blogs/news",
+      "https://desertsol.com/collections/best-sellers-1",
+      "https://desertsol.com/collections/gifts",
+      "https://desertsol.com/collections/birthday-gifts",
+      "https://desertsol.com/collections/housewarming-gifts",
+      "https://desertsol.com/collections/wedding-gifts",
+      "https://desertsol.com/collections/mammas-to-be",
+      "https://desertsol.com/collections/hostess-thank-you-gifts",
+      "https://desertsol.com/collections/teacher-gifts",
+      "https://desertsol.com/collections/sympathy-gifts",
+      "https://desertsol.com/collections/holiday",
+      "https://desertsol.com/collections/gifts-for-her",
+      "https://desertsol.com/collections/gifts-for-mom",
+      "https://desertsol.com/collections/for-the-friend",
+      "https://desertsol.com/collections/men",
+      "https://desertsol.com/collections/littles",
+      "https://desertsol.com/collections/pets",
+      "https://desertsol.com/collections/gifts-under-25",
+      "https://desertsol.com/collections/gifts-under-50",
+      "https://desertsol.com/collections/gifts-under-75",
+      "https://desertsol.com/collections/gifts-under-100",
+      "https://desertsol.com/products/gift-wrapping",
+      "https://desertsol.com/products/desert-sol-digital-gift-card",
+      "https://desertsol.com/collections/desert-sol-collection",
+      "https://desertsol.com/collections/canyon-rose",
+      "https://desertsol.com/collections/floral-gesture",
+      "https://desertsol.com/collections/cactus-bloom",
+      "https://desertsol.com/collections/solid-colors",
+      "https://desertsol.com/collections/desert-sol-hair-accessories",
+      "https://desertsol.com/collections/desert-sol-scrunchies",
+      "https://desertsol.com/collections/desert-sol-totes",
+      "https://desertsol.com/collections/desert-sol-pouches",
+      "https://desertsol.com/collections/desert-sol-notebooks-journals",
+      "https://desertsol.com/collections/desert-sol-jewelry",
+      "https://desertsol.com/collections/for-the-home",
+      "https://desertsol.com/collections/decor-accessories",
+      "https://desertsol.com/collections/art",
+      "https://desertsol.com/collections/candles-fragrance",
+      "https://desertsol.com/collections/table-top-decor",
+      "https://desertsol.com/collections/blankets",
+      "https://desertsol.com/collections/vases-flowers",
+      "https://desertsol.com/collections/kitchen",
+      "https://desertsol.com/collections/cookbooks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
