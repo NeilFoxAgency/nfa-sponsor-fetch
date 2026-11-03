@@ -1,0 +1,2943 @@
+[
+  {
+    "company_domain": "blueshift.com",
+    "company_name": "BLUESHIFT",
+    "website": "https://blueshift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "success@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ehello@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esuccess@blueshift.com",
+        "confidence": "high",
+        "source_url": "https://blueshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@blueshift.com",
+      "privacy@blueshift.com",
+      "success@blueshift.com",
+      "support@blueshift.com",
+      "u003ehello@blueshift.com",
+      "u003esuccess@blueshift.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra.tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandra_tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexandrat@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred.hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fred_hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fredh@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo.castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardo_castillo@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gerardoc@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gerardo Castillo",
+        "person_title": "Marketing Director",
+        "source_url": "https://blueshift.com/paid-media/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hernandez@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fred Hernandez",
+        "person_title": "Chief Marketing Officer",
+        "source_url": "https://blueshift.com/email/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell.middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell_middleton@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russellm@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Russell Middleton",
+        "person_title": "Co-Founder",
+        "source_url": "https://blueshift.com/customer-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tham@blueshift.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexandra Tham",
+        "person_title": "Marketing Manager",
+        "source_url": "https://blueshift.com/website-content/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blueshift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/paid-media/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/media-and-publishing/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/about-blueshift/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blueshift.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/product/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/product-overview/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-engagement-platform/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/rich-customer-data/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/cross-channel-hub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/campaign-journeys/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/audience-segmentation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/profile-unification/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-insights/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-agents/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-assistants/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/customer-ai-predictors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/email/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/sms/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/mobile/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/mobile/#in-app-messages",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/website-content/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/whatsapp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/app-hub/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/retail-and-ecommerce/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/financial-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/digital-health/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/credit-union",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/elearning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/security/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/partners/#integration-partners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/journey-orchestration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/nurture-leads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/drive-engagement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/reduce-abandonment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/increase-retention/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/grow-your-list/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/snowflake-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/shopify-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/salesforce-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueshift.com/integration-partner/magento-and-blueshift/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The AI-powered alternative to Braze and Iterable. Blueshift gives mid-market B2C teams unified customer data, cross-channel automation, and predictive AI - in one platform.",
+    "source_urls": [
+      "https://blueshift.com",
+      "https://blueshift.com/contact",
+      "https://blueshift.com/support",
+      "https://blueshift.com/about",
+      "https://blueshift.com/team",
+      "https://blueshift.com/contact-us",
+      "https://blueshift.com/about-us",
+      "https://blueshift.com/paid-media/",
+      "https://blueshift.com/media-and-publishing/",
+      "https://blueshift.com/contact-us/",
+      "https://blueshift.com/about-blueshift/",
+      "https://www.blueshift.com/contact-us/",
+      "https://blueshift.com/",
+      "https://blueshift.com/product/",
+      "https://blueshift.com/product-overview/",
+      "https://blueshift.com/customer-engagement-platform/",
+      "https://blueshift.com/rich-customer-data/",
+      "https://blueshift.com/customer-ai/",
+      "https://blueshift.com/cross-channel-hub/",
+      "https://blueshift.com/campaign-journeys/",
+      "https://blueshift.com/audience-segmentation/",
+      "https://blueshift.com/profile-unification/",
+      "https://blueshift.com/customer-insights/",
+      "https://blueshift.com/customer-ai-agents/",
+      "https://blueshift.com/customer-ai-assistants/",
+      "https://blueshift.com/customer-ai-predictors/",
+      "https://blueshift.com/email/",
+      "https://blueshift.com/sms/",
+      "https://blueshift.com/mobile/",
+      "https://blueshift.com/mobile/#in-app-messages",
+      "https://blueshift.com/website-content/",
+      "https://blueshift.com/whatsapp/",
+      "https://blueshift.com/app-hub/",
+      "https://blueshift.com/retail-and-ecommerce/",
+      "https://blueshift.com/financial-services/",
+      "https://blueshift.com/digital-health/",
+      "https://blueshift.com/credit-union",
+      "https://blueshift.com/elearning/",
+      "https://blueshift.com/security/",
+      "https://blueshift.com/partners/#integration-partners",
+      "https://blueshift.com/journey-orchestration/",
+      "https://blueshift.com/nurture-leads/",
+      "https://blueshift.com/drive-engagement/",
+      "https://blueshift.com/reduce-abandonment/",
+      "https://blueshift.com/increase-retention/",
+      "https://blueshift.com/grow-your-list/",
+      "https://blueshift.com/integration-partner/snowflake-and-blueshift/",
+      "https://blueshift.com/integration-partner/shopify-and-blueshift/",
+      "https://blueshift.com/integration-partner/salesforce-and-blueshift/",
+      "https://blueshift.com/integration-partner/magento-and-blueshift/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "desertsol.com",
+    "company_name": "DESERT SOL",
+    "website": "https://desertsol.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@desertsol.com",
+        "confidence": "highest",
+        "source_url": "https://desertsol.com/products/gift-wrapping",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or unused, with tags, in their original packaging. Email info@desertsol.com to start your return. Return shipping is paid by the custo"
+      }
+    ],
+    "role_emails": [
+      "info@desertsol.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://desertsol.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.desertsol.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/best-sellers-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/birthday-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/housewarming-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/wedding-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/mammas-to-be",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/hostess-thank-you-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/teacher-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/sympathy-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/holiday",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-for-her",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-for-mom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/for-the-friend",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/littles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/pets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-25",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-50",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-75",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/gifts-under-100",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/products/gift-wrapping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/products/desert-sol-digital-gift-card",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/canyon-rose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/floral-gesture",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/cactus-bloom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/solid-colors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-hair-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-scrunchies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-totes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-pouches",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-notebooks-journals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/desert-sol-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/for-the-home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/decor-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/candles-fragrance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/table-top-decor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/vases-flowers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/kitchen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desertsol.com/collections/cookbooks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://desertsol.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Desert Sol is a curated lifestyle shop with its own collection of hair accessories, bags, journals, and jewelry, designed in Moab, Utah. Free shipping over $50.",
+    "source_urls": [
+      "https://desertsol.com",
+      "https://desertsol.com/pages/contact",
+      "https://desertsol.com/collections/staff-picks",
+      "https://desertsol.com/",
+      "https://desertsol.com/cart",
+      "https://www.desertsol.com/blogs/news",
+      "https://desertsol.com/collections/best-sellers-1",
+      "https://desertsol.com/collections/gifts",
+      "https://desertsol.com/collections/birthday-gifts",
+      "https://desertsol.com/collections/housewarming-gifts",
+      "https://desertsol.com/collections/wedding-gifts",
+      "https://desertsol.com/collections/mammas-to-be",
+      "https://desertsol.com/collections/hostess-thank-you-gifts",
+      "https://desertsol.com/collections/teacher-gifts",
+      "https://desertsol.com/collections/sympathy-gifts",
+      "https://desertsol.com/collections/holiday",
+      "https://desertsol.com/collections/gifts-for-her",
+      "https://desertsol.com/collections/gifts-for-mom",
+      "https://desertsol.com/collections/for-the-friend",
+      "https://desertsol.com/collections/men",
+      "https://desertsol.com/collections/littles",
+      "https://desertsol.com/collections/pets",
+      "https://desertsol.com/collections/gifts-under-25",
+      "https://desertsol.com/collections/gifts-under-50",
+      "https://desertsol.com/collections/gifts-under-75",
+      "https://desertsol.com/collections/gifts-under-100",
+      "https://desertsol.com/products/gift-wrapping",
+      "https://desertsol.com/products/desert-sol-digital-gift-card",
+      "https://desertsol.com/collections/desert-sol-collection",
+      "https://desertsol.com/collections/canyon-rose",
+      "https://desertsol.com/collections/floral-gesture",
+      "https://desertsol.com/collections/cactus-bloom",
+      "https://desertsol.com/collections/solid-colors",
+      "https://desertsol.com/collections/desert-sol-hair-accessories",
+      "https://desertsol.com/collections/desert-sol-scrunchies",
+      "https://desertsol.com/collections/desert-sol-totes",
+      "https://desertsol.com/collections/desert-sol-pouches",
+      "https://desertsol.com/collections/desert-sol-notebooks-journals",
+      "https://desertsol.com/collections/desert-sol-jewelry",
+      "https://desertsol.com/collections/for-the-home",
+      "https://desertsol.com/collections/decor-accessories",
+      "https://desertsol.com/collections/art",
+      "https://desertsol.com/collections/candles-fragrance",
+      "https://desertsol.com/collections/table-top-decor",
+      "https://desertsol.com/collections/blankets",
+      "https://desertsol.com/collections/vases-flowers",
+      "https://desertsol.com/collections/kitchen",
+      "https://desertsol.com/collections/cookbooks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "drmeoow.com",
+    "company_name": "DR MEOOW",
+    "website": "https://drmeoow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://drmeoow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "435 p\u00e1ginas de apuntes de ingl\u00e9s organizados paso a paso. Mapas mentales, videos integrados, flashcards y ejercicios. Para principiantes y avanzados.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getdocent.com",
+    "company_name": "DOCENT",
+    "website": "https://getdocent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getdocent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdocent.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the museum tour app cost and explore museums worldwide in 25+ languages. Engage with exhibits through Docent Technologies.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getlapwell.com",
+    "company_name": "LAPWELL",
+    "website": "https://getlapwell.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@getlapwell.com",
+        "confidence": "high",
+        "source_url": "https://getlapwell.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact information Trade name: Lapwell Email: support@getlapwell.com Physical address: Wilmington, NC, United States"
+      }
+    ],
+    "role_emails": [
+      "support@getlapwell.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getlapwell.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.getlapwell.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/kits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/water",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/grooming",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/sleep",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/climb",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/play",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/collections/litter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/find-their-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/products/grooming-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/products/cozy-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/products/play-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/products/whole-cat-bundle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/products/refill-fountain",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/shipping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/pages/returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getlapwell.com/policies/legal-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getlapwell.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Cat gear indoor cats actually use: water fountains, grooming tools, cozy beds, cat trees, toys and litter boxes. Ships from the USA. Free shipping on kits and orders over $35.",
+    "source_urls": [
+      "https://getlapwell.com/policies/contact-information",
+      "https://getlapwell.com/policies/privacy-policy",
+      "https://getlapwell.com/policies/terms-of-service",
+      "https://getlapwell.com/policies/legal-notice"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gloryboundgyro.com",
+    "company_name": "GLORY BOUND GYRO CO.",
+    "website": "https://gloryboundgyro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gloryboundgyro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gloryboundgyro.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Glory Bound Gyro Co. serves handcrafted gyros, fresh salads, stone-baked pizza, appetizers, and cocktails in downtown Tuscaloosa, Alabama, steps from the University of Alabama and Bryant-Denny Stadium.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "korunetwork.com",
+    "company_name": "KORU NETWORK",
+    "website": "https://korunetwork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://korunetwork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://korunetwork.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "museori.com",
+    "company_name": "MUSEORI",
+    "website": "https://museori.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sage@museori.com",
+        "confidence": "highest",
+        "source_url": "https://museori.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o talk I read everything that comes in to sage@museori.com . If you have a question about a piece, want to know if som"
+      },
+      {
+        "address": "support@museori.com",
+        "confidence": "highest",
+        "source_url": "https://museori.com/pages/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "h friendly, personalized support. EMAIL support@museori.com Mon\u2013Fri, 9am\u20135pm ET Send an Email LIVE CHAT Use"
+      }
+    ],
+    "role_emails": [
+      "sage@museori.com",
+      "support@museori.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.a@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin.a@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristin_a@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kristina@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "kristin a.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.d@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.g@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurie.g@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurie@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurie_g@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurieg@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "LAURIE G.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie.d@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslie_d@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leslied@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "leslie d.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.v@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melanie.v@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melanie@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melanie_v@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melaniev@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.h@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melanie V.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valeria.h@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valeria@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valeria_h@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valeriah@museori.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valeria H.",
+        "person_title": null,
+        "source_url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://museori.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/new-in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/bridal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/vintage-inspired-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/gothic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/cross-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/moissanite",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/waterproof-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/ear-cuffs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/rings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/bracelets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/collections/mens-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/blogs/museori-journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/0-5ct-moissanite-halo-stud-earrings-sterling-silver",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/s925-sterling-silver-oxidized-gothic-huggie-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/rotatable-crown-cross-necklace-925-sterling-silver-gold-silver-plated",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/925-sterling-silver-daisy-huggie-earrings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/chunky-sterling-silver-huggie-hoop-earrings-stackable-pair",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/sterling-silver-u-hoop-huggie-earrings-chunky-dome-lever-back",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/sterling-silver-star-huggie-hoop-earrings-small-stackable-pair",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/products/sterling-silver-crossover-ring-adjustable-open-band",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/shipping-delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/returns-exchanges",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/size-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/pages/why-our-prices",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://museori.com/policies/legal-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Museori sells high-quality sterling silver jewelry direct, at a fair price. Bold earrings, necklaces and rings, some with moissanite, for everyday wear.",
+    "source_urls": [
+      "https://museori.com/pages/about-us",
+      "https://museori.com/pages/contact-us-1",
+      "https://museori.com/policies/contact-information",
+      "https://museori.com/pages/faqs",
+      "https://museori.com/pages/returns-exchanges",
+      "https://museori.com/policies/privacy-policy",
+      "https://museori.com/policies/refund-policy",
+      "https://museori.com/policies/terms-of-service",
+      "https://museori.com/policies/shipping-policy",
+      "https://museori.com/policies/legal-notice"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 68,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "seedbox.com",
+    "company_name": "SEEDBOX",
+    "website": "https://seedbox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@seedbox.com",
+        "confidence": "highest",
+        "source_url": "https://seedbox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "812 \u00c9crivez \u00e0 Seedbox Technologies Inc. \u00e0 : support@seedbox.com Carri\u00e8res English Accueil"
+      },
+      {
+        "address": "recrutement@seedbox.com",
+        "confidence": "high",
+        "source_url": "https://seedbox.com/carrieres/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "des, n\u2019h\u00e9site pas \u00e0 contacter notre \u00e9quipe de recrutement \u00e0 recrutement@seedbox.com afin de v\u00e9rifier que c\u2019est bien \u00e0 nous que tu parles. \ud83d\ude42 N"
+      }
+    ],
+    "role_emails": [
+      "recrutement@seedbox.com",
+      "support@seedbox.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://seedbox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/carrieres/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/equipe/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seedbox.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/carrieres",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seedbox.com/politique-de-confidentialite/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "De la conception au d\u00e9veloppement de sites Web, \u00e0 l\u2019\u00e9laboration d\u2019outils de marketing num\u00e9rique, nous osons transformer les r\u00eaves en r\u00e9alit\u00e9. En agissant ensemble nous ne cessons de nous d\u00e9passer avec honneur dans l\u2019exploitation des technologies afin d\u2019offrir l\u2019une des meilleures exp\u00e9riences utilisa",
+    "source_urls": [
+      "https://seedbox.com/contact",
+      "https://seedbox.com/contact/",
+      "https://seedbox.com/carrieres/",
+      "https://seedbox.com/carrieres",
+      "https://seedbox.com/politique-de-confidentialite/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "singles.com",
+    "company_name": "SINGLES",
+    "website": "https://singles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@singles.com",
+        "confidence": "highest",
+        "source_url": "https://singles.com/worst-dating-stories/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "riend broke up several days later. Submit your story to admin@singles.com . Most Popular Dating Sites 1. Fling.com"
+      }
+    ],
+    "role_emails": [
+      "admin@singles.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.obama@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barack.obama@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barack@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barack_obama@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "baracko@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brown@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ginsberg@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ginsberg@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mandy.ginsberg@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mandy@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mandy_ginsberg@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mandyg@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mandy Ginsberg",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "obama@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Barack Obama",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.brown@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.brown@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_brown@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterb@singles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Brown",
+        "person_title": "President",
+        "source_url": "https://singles.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://singles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-24"
+      },
+      {
+        "url": "https://singles.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating/general/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating/adult/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating-advice/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/worst-dating-stories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/match-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/singlesnet-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/fling-adult-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/sexsearch-adult-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/best-cities-for-lgbt-singles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/best-cities-for-lgbt-singles/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating-over-50/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://singles.com/senior-friend-finder-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/dating-over-50/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/seekingarrangement-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/seekingarrangement-online-dating-review/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/swinglifestyle-com-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/swinglifestyle-com-online-dating-review/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/africabeauties-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/africabeauties-online-dating-review/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/militarycupid-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/militarycupid-online-dating-review/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/being-positive-when-single/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/being-positive-when-single/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/obama-tops-with-single-women/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/obama-tops-with-single-women/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/head-to-australia-if-you-are-a-single-male/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/head-to-australia-if-you-are-a-single-male/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/singles-filling-the-void-with-pets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/singles-filling-the-void-with-pets/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/online-dating-goes-offline/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://singles.com/match-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/online-dating-goes-offline/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/caliente-com-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/caliente-com-online-dating-review/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/online-dating-benefits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/online-dating-benefits/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/hookup-coaching/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/hookup-coaching/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/love-life-on-budget/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/love-life-on-budget/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/higher-calling-religious-dating/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/higher-calling-religious-dating/#comments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/page/2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/badoo-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/adult-friend-finder-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://singles.com/date-millionaire-online-dating-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Top Rated Singles Review Site on the Net",
+    "source_urls": [
+      "https://singles.com/worst-dating-stories/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "trymilkmade.com",
+    "company_name": "MILKMADE",
+    "website": "https://trymilkmade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "hall@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.hall@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick.hall@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick_hall@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrickh@trymilkmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Hall",
+        "person_title": "Co-Founder",
+        "source_url": "https://trymilkmade.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://trymilkmade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymilkmade.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://trymilkmade.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://trymilkmade.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Support your baby's feeding journey with MilkMade. Track feeds, get guidance, and stay confident with our privacy-first app designed for all families.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zelfup.com",
+    "company_name": "ZELFUP",
+    "website": "https://zelfup.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  }
+]
