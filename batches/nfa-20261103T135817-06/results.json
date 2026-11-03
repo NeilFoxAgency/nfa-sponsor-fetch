@@ -1,0 +1,317 @@
+[
+  {
+    "company_domain": "bcuniqueboutique.com",
+    "company_name": "Woven Straw Back Pack Purse",
+    "website": "https://bcuniqueboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "brandedmerchsolutions.com",
+    "company_name": "Modern Backpack BrandedMerchSolutions",
+    "website": "https://brandedmerchsolutions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@brandedmerchsolutions.com",
+        "confidence": "high",
+        "source_url": "https://brandedmerchsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us, we'll respond quickly. HELP@brandedmerchsolutions.com"
+      },
+      {
+        "address": "info@brandedmerchsolutions.com",
+        "confidence": "high",
+        "source_url": "https://brandedmerchsolutions.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "865.539.8220 info@brandedmerchsolutions.com Liv"
+      }
+    ],
+    "role_emails": [
+      "help@brandedmerchsolutions.com",
+      "info@brandedmerchsolutions.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://brandedmerchsolutions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/teams2",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/employee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/groups",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/fundraising",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/page/commission",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/user/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/user/signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandedmerchsolutions.com/shop/verify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://brandedmerchsolutions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brandedmerchsolutions.com/contact",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brandedmerchsolutions.com/page/teams2",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brandedmerchsolutions.com/page/employee",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brandedmerchsolutions.com/page/groups",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brandedmerchsolutions.com/page/fundraising",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brandedmerchsolutions.com/page/commission",
+        "action": "/send_message_v3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We build your store | We Host Your Store | We Brand Your Merchandise | We Fulfill Your Orders | We Ship Your Orders!",
+    "source_urls": [
+      "https://brandedmerchsolutions.com",
+      "https://brandedmerchsolutions.com/contact",
+      "https://brandedmerchsolutions.com/about",
+      "https://brandedmerchsolutions.com/about-us",
+      "https://brandedmerchsolutions.com/page/teams2",
+      "https://brandedmerchsolutions.com/page/about-us",
+      "https://brandedmerchsolutions.com/",
+      "https://brandedmerchsolutions.com/page/employee",
+      "https://brandedmerchsolutions.com/page/groups",
+      "https://brandedmerchsolutions.com/page/fundraising",
+      "https://brandedmerchsolutions.com/page/commission",
+      "https://brandedmerchsolutions.com/user/login",
+      "https://brandedmerchsolutions.com/user/signup",
+      "https://brandedmerchsolutions.com/shop/verify",
+      "http://brandedmerchsolutions.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "brandsshoppe.com",
+    "company_name": "Branded Backpacks online",
+    "website": "https://brandsshoppe.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "clouddesigns.in",
+    "company_name": "Premium Backpacks",
+    "website": "https://clouddesigns.in",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "coinmarketcap.com",
+    "company_name": "Kamino Opens USDC Loans Against Backpack's Tokenized Micron, SpaceX Shares",
+    "website": "https://coinmarketcap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "willleathergoods.com",
+    "company_name": "Artisan Workshop Backpacks",
+    "website": "https://willleathergoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "womostore.com",
+    "company_name": "Backpack - leather and nylon",
+    "website": "https://womostore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
