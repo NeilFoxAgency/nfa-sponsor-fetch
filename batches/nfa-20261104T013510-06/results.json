@@ -1,0 +1,1033 @@
+[
+  {
+    "company_domain": "75soft.app",
+    "company_name": "Compilery Software LLC",
+    "website": "https://www.75soft.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aikitchenusa.com",
+    "company_name": "Ai Kitchen USA LLC",
+    "website": "https://www.aikitchenusa.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aikitchenusa.com",
+        "confidence": "highest",
+        "source_url": "https://www.aikitchenusa.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mit a privacy request or ask a privacy question, contact: info@aikitchenusa.com We may take reasonable steps to verify your identity befo"
+      },
+      {
+        "address": "matte@aikitchenusa.com",
+        "confidence": "highest",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@aikitchenusa.com",
+      "matte@aikitchenusa.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.kitchen@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.store@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ai.kitchen@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ai@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ai_kitchen@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aik@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app.store@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app_store@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apps@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ellias@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.premium@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "full.premium@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "full@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "full_premium@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fullp@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kitchen@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ai Kitchen",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ellias@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew.ellias@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew_ellias@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthewe@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew Ellias",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "premium@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Full Premium",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store@aikitchenusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://www.aikitchenusa.com/investors.html",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aikitchenusa.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aikitchenusa.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aikitchenusa.com/investors.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aikitchenusa.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aikitchenusa.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Snap one photo of your fridge, pantry or grocery receipt. KitchenLoopAI hands you recipes you can cook right now, tracks what you have, and SmartRestock\u2122 builds your grocery list. Free on iPhone and Android.",
+    "source_urls": [
+      "https://www.aikitchenusa.com/investors.html",
+      "https://www.aikitchenusa.com/privacy.html",
+      "https://www.aikitchenusa.com/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "alchemist.com",
+    "company_name": "ALCHEMIST",
+    "website": "https://alchemist.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "nerayoff@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.nerayoff@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven.nerayoff@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven_nerayoff@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevenn@alchemist.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven Nerayoff",
+        "person_title": "Founder",
+        "source_url": "https://alchemist.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alchemist.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alchemist.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-19"
+      },
+      {
+        "url": "https://alchemist.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alchemist is a premier consultancy, accelerator, and investment firm dedicated to empowering visionary blockchain companies and driving innovation in decentralized technologies. With a proven track record of success, we specialize in end-to-end advisory services, token sales, and the development of ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "alessential.com",
+    "company_name": "ALESSENTIAL",
+    "website": "https://alessential.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alessential.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alessential.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "alzheimerproject.com",
+    "company_name": "ALZHEIMER PROJECT",
+    "website": "https://alzheimerproject.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alzheimerproject.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alzheimerproject.com",
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSfaOuXqYrU9jrnTHHDOqQZKnSNnH6XhdqKB_OSmeYFy0YcDCg/formResponse",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AI-native systems transforming medicine development and creating new hope for Alzheimer\u2019s disease.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "pondlets.com",
+    "company_name": "Glass Providence LLC",
+    "website": "https://pondlets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "poyralgo.com",
+    "company_name": "Muhammet Fatih Unal",
+    "website": "https://nurisnest.poyralgo.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "purify-app.com",
+    "company_name": "Chris Aljoudi",
+    "website": "https://www.purify-app.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "qualla.com",
+    "company_name": "Bendyline, LLC",
+    "website": "https://qualla.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "quick811.com",
+    "company_name": "Quick811 LLC",
+    "website": "https://quick811.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@quick811.com",
+        "confidence": "highest",
+        "source_url": "https://quick811.com/privacy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t us at: Quick811 Michigan, United States Email: privacy@quick811.com Website: quick811.com Q"
+      },
+      {
+        "address": "support@quick811.com",
+        "confidence": "highest",
+        "source_url": "https://quick811.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@quick811.com",
+      "support@quick811.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "complete@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "conflict@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.profile@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high.profile@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high_profile@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "highp@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.complete@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.conflict@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "no.conflict@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "no@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "no_conflict@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "noc@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "No Conflict",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "not.complete@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "not@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "not_complete@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "notc@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Not Complete",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ohio@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "profile@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Profile",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/ohio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.ohio@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.ohio@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_ohio@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theo@quick811.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Ohio",
+        "person_title": "Owner",
+        "source_url": "https://quick811.com/states/michigan/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://quick811.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/features/811-ticket-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/features/utility-locate-map/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/features/photo-documentation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/features/report-builder/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/features/mobile-app/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/who-we-serve/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/states/michigan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/states/ohio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/states/coming-soon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/industries/hdd-contractors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/industries/fiber-telecom/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/industries/underground-utility/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/pricing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/assessment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quick811.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Quick811 gives underground utility teams one dashboard to track 811 tickets, expiration dates, and job readiness so crews never roll to an unready site.",
+    "source_urls": [
+      "https://quick811.com",
+      "https://quick811.com/about",
+      "https://quick811.com/features/811-ticket-management/",
+      "https://quick811.com/about/",
+      "https://quick811.com/",
+      "https://quick811.com/features/utility-locate-map/",
+      "https://quick811.com/features/photo-documentation/",
+      "https://quick811.com/features/report-builder/",
+      "https://quick811.com/features/mobile-app/",
+      "https://quick811.com/#how-it-works",
+      "https://quick811.com/who-we-serve/",
+      "https://quick811.com/states/michigan/",
+      "https://quick811.com/states/ohio/",
+      "https://quick811.com/states/coming-soon/",
+      "https://quick811.com/industries/hdd-contractors/",
+      "https://quick811.com/industries/fiber-telecom/",
+      "https://quick811.com/industries/underground-utility/",
+      "https://quick811.com/pricing/",
+      "https://quick811.com/assessment/",
+      "https://quick811.com/privacy/",
+      "https://quick811.com/terms/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "roadmanflash.com",
+    "company_name": "Yves MUGISHA",
+    "website": "https://www.roadmanflash.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "sadeam.space",
+    "company_name": "Essam Elhassanain",
+    "website": "https://awalkhatwa.sadeam.space",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
