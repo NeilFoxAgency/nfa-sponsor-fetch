@@ -1,0 +1,2449 @@
+[
+  {
+    "company_domain": "advisor.com",
+    "company_name": "ADVISOR",
+    "website": "https://advisor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@advisor.com",
+        "confidence": "highest",
+        "source_url": "https://advisor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "donations+pp@advisor.com",
+        "confidence": "high",
+        "source_url": "https://advisor.com/media",
+        "source_type": "archived",
+        "snapshot_date": "2012-05-10",
+        "context_snippet": ""
+      },
+      {
+        "address": "leagl@advisor.com",
+        "confidence": "high",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "right that is allegedly infringed. Please contact us at leagl@advisor.com to send notifications of claimed infringement. You hereby a"
+      },
+      {
+        "address": "legal@advisor.com",
+        "confidence": "high",
+        "source_url": "https://advisor.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "without his or her consent, he or she should contact us at legal@advisor.com. If we become aware that a child under the age of 18 has pr"
+      }
+    ],
+    "role_emails": [
+      "donations+pp@advisor.com",
+      "hello@advisor.com",
+      "leagl@advisor.com",
+      "legal@advisor.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "conti@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.copyright@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.copyright@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_copyright@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalc@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Millennium Copyright",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.media@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "h.stunzi@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hawkins.media@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "hawkins@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "hawkins_media@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "hawkinsm@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "hunter.stunzi@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hunter@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hunter_stunzi@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hunters@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.conti@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leanna.conti@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leanna@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leanna_conti@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leannac@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leanna Conti",
+        "person_title": "President",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.round@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "media@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hawkins Media",
+        "person_title": "Owner",
+        "source_url": "https://advisor.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "address": "million.round@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "million@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "million_round@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "millionr@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "round@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Million Seed Round",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stunzi@advisor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hunter Stunzi",
+        "person_title": "Founder",
+        "source_url": "https://advisor.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://advisor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-28"
+      },
+      {
+        "url": "https://advisor.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2012-05-10"
+      },
+      {
+        "url": "https://advisor.com/help",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2020-06-18"
+      },
+      {
+        "url": "https://advisor.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/join-us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/vetting-process",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/financial-advisor-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advisor.com/disclosures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Advisor.com is a registered investment advisor (RIA). Our services include matching site visitors with third-party RIAs and providing investment advice with our in-house wealth management team.",
+    "source_urls": [
+      "https://advisor.com",
+      "https://advisor.com/about-us",
+      "https://advisor.com/press",
+      "https://advisor.com/media",
+      "https://advisor.com/",
+      "https://advisor.com/join-us",
+      "https://advisor.com/vetting-process",
+      "https://advisor.com/financial-advisor-guides",
+      "https://advisor.com/privacy-policy",
+      "https://advisor.com/terms",
+      "https://advisor.com/disclosures"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "arcticair.com",
+    "company_name": "ARCTIC AIR",
+    "website": "https://arcticair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://arcticair.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-breeze-jet?view=pdp-breeze-jet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-chillzone-desktop?view=pdp-chillzone-desktop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-freedom-touch?view=pdp-freedom-touch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-ice-jet-x3?view=pdp-arctic-air-ice-jet-x3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air%C2%AE-pure-chill-2-0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-outdoor-og?view=pdp-outdoor-og",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-tower?view=pdp-tower-plus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/collections/replacement-cartridges",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/ecodrive",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/collections/shop-all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air-gripgo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air%C2%AE-chill-zone-xl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air%C2%AE-pure-chill-rechargeable",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air%C2%AE-freedom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/products/arctic-air%C2%AE-pocket",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/returns-exchange-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arcticair.com/pages/security-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arcticair.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Enjoy refreshing cool air with Arctic Air Pure Chill 2.0, and the many cooling options made by Arctic Air. Quietly cool your personal space fast and easily with our energy smart, ultra-quit, freon free cooling systems.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "caratpaw.com",
+    "company_name": "CARATPAW",
+    "website": "https://caratpaw.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@caratpaw.com",
+        "confidence": "highest",
+        "source_url": "https://caratpaw.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy policy Terms and conditions Contact info@caratpaw.com +1 (307) 285-6932 \u00a9 2026 CaratPaw. All rights r"
+      }
+    ],
+    "role_emails": [
+      "info@caratpaw.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://caratpaw.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://caratpaw.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://caratpaw.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://caratpaw.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "CaratPaw is a rechargeable bark collar for small dogs that uses a gentle beep and vibration, with no electric shock. Order on WhatsApp today.",
+    "source_urls": [
+      "https://caratpaw.com",
+      "https://caratpaw.com/",
+      "https://caratpaw.com/privacy",
+      "https://caratpaw.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "civela.com",
+    "company_name": "CIVELA",
+    "website": "https://civela.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@civela.com",
+        "confidence": "highest",
+        "source_url": "https://civela.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Still have questions? Reach out at support@civela.com and we'll get back to you. Contact Civela\u2122 \u2192"
+      }
+    ],
+    "role_emails": [
+      "support@civela.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://civela.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/products/citrus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/a/loop_subscriptions/get-subscription-link",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/purchase",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://civela.com/pages/data-sharing-opt-out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://civela.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Civela\u2122 makes Citrus Bergamot superfruit extract capsules to support healthy cholesterol levels and cardiovascular health.* 1,000mg daily. 90-day money-back guarantee. Fast shipping.",
+    "source_urls": [
+      "https://civela.com",
+      "https://civela.com/pages/contact",
+      "https://civela.com/products/citrus",
+      "https://civela.com/apps/parcelpanel",
+      "https://civela.com/a/loop_subscriptions/get-subscription-link",
+      "https://civela.com/",
+      "https://civela.com/cart",
+      "https://civela.com/collections/all",
+      "https://civela.com/pages/privacy",
+      "https://civela.com/pages/refund-policy",
+      "https://civela.com/pages/shipping-policy",
+      "https://civela.com/pages/terms",
+      "https://civela.com/pages/purchase",
+      "https://civela.com/pages/data-sharing-opt-out"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "digitaldarlingsociety.com",
+    "company_name": "DIGITAL DARLING SOCIETY",
+    "website": "https://digitaldarlingsociety.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "duplifox.com",
+    "company_name": "DUPLIFOX",
+    "website": "https://duplifox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "duplifoxsupport@duplifox.com",
+        "confidence": "highest",
+        "source_url": "https://duplifox.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Service Support Manage Subscription duplifoxsupport@duplifox.com"
+      }
+    ],
+    "role_emails": [
+      "duplifoxsupport@duplifox.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://duplifox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duplifox.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duplifox.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duplifox.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duplifox.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Clean data. Clear direction. DupliFox is your matching assistant for messy spreadsheets \u2014 normalization-first, fuzzy-matching second, with every flagged match showing exactly why it matched. Upload, review, and export clean data in one place.",
+    "source_urls": [
+      "https://duplifox.com",
+      "https://duplifox.com/contact",
+      "https://duplifox.com/cart",
+      "https://duplifox.com/",
+      "https://duplifox.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "flexwise.co",
+    "company_name": "FLEXWISE",
+    "website": "https://flexwise.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://flexwise.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flexwise.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A performance benchmark for the flexible workspace industry, from Preferred Office Network. See how your space performs against the market.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getwendell.com",
+    "company_name": "WENDELL",
+    "website": "https://getwendell.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@getwendell.com",
+        "confidence": "high",
+        "source_url": "https://getwendell.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@getwendell.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getwendell.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getwendell.com/guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stuck in task paralysis? Wendell is an ADHD body double app: dump everything in your head and it turns it into tiny, doable steps, shows you exactly where to start, and celebrates every win. Shame-free, on your phone and laptop.",
+    "source_urls": [
+      "https://getwendell.com",
+      "https://getwendell.com/guide"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "guardacert.com",
+    "company_name": "GUARDACERT",
+    "website": "https://guardacert.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@guardacert.com",
+        "confidence": "highest",
+        "source_url": "https://guardacert.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ss, please email our support team. CONTACT SUPPORT Email us support@guardacert.com Please do not email passwords, confidential documents, sens"
+      }
+    ],
+    "role_emails": [
+      "support@guardacert.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "e.graham@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "erik.graham@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "erik@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "erik_graham@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "erikg@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fox@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Erik Graham",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.fox@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa.fox@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa_fox@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisaf@guardacert.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Fox",
+        "person_title": "Co-Founder",
+        "source_url": "https://guardacert.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://guardacert.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/use-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/verify",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/independent-verification",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://guardacert.com/certificate-disclaimer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "GuardaCert creates independent proof of a digital file fingerprint without storing the file.",
+    "source_urls": [
+      "https://guardacert.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "meticulous.com",
+    "company_name": "METICULOUS",
+    "website": "https://meticulous.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@meticulous.com",
+        "confidence": "highest",
+        "source_url": "https://meticulous.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "911 Telephone 434.661.5844 Email hello@meticulous.com We are a small senior team. A short, specifi"
+      },
+      {
+        "address": "jobs@meticulous.com",
+        "confidence": "highest",
+        "source_url": "https://meticulous.com/jobs",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@meticulous.com",
+      "jobs@meticulous.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.montgomery@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig.montgomery@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig_montgomery@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craigm@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.smith@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy.smith@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy_smith@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremys@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johna@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "labs@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meticulous John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meticulous.athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meticulous John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meticulous@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meticulous John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meticulous_athayde@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meticulous John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meticulousa@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meticulous John Athayde",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montgomery@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Montgomery",
+        "person_title": "President",
+        "source_url": "https://meticulous.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.labs@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "navanti.labs@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "navanti@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "navanti_labs@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "navantil@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Navanti Labs",
+        "person_title": "Ceo",
+        "source_url": "https://meticulous.com/work/case-studies/navanti",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.russell@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robby.russell@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robby@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robby_russell@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robbyr@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russell@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robby Russell",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smith@meticulous.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Smith",
+        "person_title": "Founder",
+        "source_url": "https://meticulous.com/writings",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://meticulous.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/team-mentoring",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/work",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/brand-collateral",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/brand-to-product-continuity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/design-systems",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/embedded-design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/rails-frontend",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/ui-coherence-diagnostic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/ux-training",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/writings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/services/redesign",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/work/case-studies/rails-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/work/case-studies/procore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/work/case-studies/vahc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/work/case-studies/navanti",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meticulous.com/jobs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://meticulous.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://meticulous.com/services/redesign",
+        "action": "/services/redesign",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Brand-to-product continuity for B2B companies navigating corporate inflection points. Based in Virginia, working since 1997.",
+    "source_urls": [
+      "https://meticulous.com/contact",
+      "https://meticulous.com/jobs"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pixpass.co",
+    "company_name": "PIXPASS",
+    "website": "https://pixpass.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "l.li@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leon.li@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leon@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leon_li@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leonl@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "li@pixpass.co",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leon Li",
+        "person_title": "Founder",
+        "source_url": "https://pixpass.co/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://pixpass.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/photo-requirements",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/editor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/image-to-jpg-converter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pixpass.co/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find visa, passport, and ID photo requirements, then check crop, background, dimensions, file size, and quality before you submit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "stitchyourhappy.com",
+    "company_name": "STITCH YOUR HAPPY",
+    "website": "https://stitchyourhappy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://stitchyourhappy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://stitchyourhappy.com/#products",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://stitchyourhappy.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Stitch Your Happy offers custom branded promotional products \u2014 apparel, drinkware, bags, and more \u2014 for small businesses and nonprofits who want to make a lasting impression.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
