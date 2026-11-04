@@ -1,0 +1,774 @@
+[
+  {
+    "company_domain": "modern.com.au",
+    "company_name": "Bamboo Sunglasses - Modern Promotions",
+    "website": "https://modern.com.au",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "modernoptical.com",
+    "company_name": "ModernOptical.com/US",
+    "website": "https://modernoptical.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@modernoptical.com",
+        "confidence": "highest",
+        "source_url": "https://modernoptical.com/US/information/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Fax3Heading Fax3 Email Contact@modernoptical.com Email2Heading Email2 Em"
+      },
+      {
+        "address": "custsvc@modernoptical.com",
+        "confidence": "highest",
+        "source_url": "https://modernoptical.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21",
+        "context_snippet": ".323.3089 Email questions: custsvc@modernoptical.com Connect with Modern"
+      },
+      {
+        "address": "hr@modernoptical.com",
+        "confidence": "highest",
+        "source_url": "https://modernoptical.com/US/information/careers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nnect and find ways to grow together. Please contact us at HR@modernoptical.com . Sales Representation in all 50 state"
+      },
+      {
+        "address": "webmaster@modernoptical.com",
+        "confidence": "highest",
+        "source_url": "https://modernoptical.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21",
+        "context_snippet": ""
+      },
+      {
+        "address": "webadministrator@modernoptical.com",
+        "confidence": "high",
+        "source_url": "https://modernoptical.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21",
+        "context_snippet": "eport website functionality issues, please contact us at: webadministrator@modernoptical.com Modern Optical Inte"
+      }
+    ],
+    "role_emails": [
+      "contact@modernoptical.com",
+      "custsvc@modernoptical.com",
+      "hr@modernoptical.com",
+      "webadministrator@modernoptical.com",
+      "webmaster@modernoptical.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.name@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company.name@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company_name@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "companyn@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "name@modernoptical.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Company Name",
+        "person_title": "Owner",
+        "source_url": "https://modernoptical.com/US/account/requestaccount",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://modernoptical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21"
+      },
+      {
+        "url": "https://modernoptical.com/US/information/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/information/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/information/brands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/information/philanthropy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/information/events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/information/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=B.M.E.C.",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=fashiontabulous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=GB%2B",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=genevieve%20boutique",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=genevieve%20paris%20design",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=giovani%20di%20venezia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=G.V.X.",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modern%20art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modern%20metals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Modern%20Plastics%20I",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Modern%20Plastics%20II",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modern%20times",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modzflex",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modz%20kids",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modz%20sunz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=modz%20titanium",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=U%20Rock",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Optical%20Supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=close%20out",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Optical Supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Clamshell Cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Slip-In Cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Cleaning Cloths",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Nose Pads",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Parts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/catalog/index?brandName=Tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/brandsheets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/lookbook",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/login/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/account/requestaccount",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/login/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://modernoptical.com/US/payment/guest?area=Payment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://modernoptical.com/US/information/contact",
+        "action": "/US/information/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://modernoptical.com/US/information/careers",
+        "action": "/US/information/careers",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://modernoptical.com/US/account/requestaccount",
+        "action": "/US/account/requestaccount",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "This web application is fueled by locally-sourced, organic, artisanal, high-octane, low-LDL javascript. All kinds of whiz-bang neat-o stuff happens here if javascript is enabled. Really, it's kinda cool, so umm \u2026 seriously, try it sometime.",
+    "source_urls": [
+      "https://modernoptical.com/contact",
+      "https://modernoptical.com/US/information/contact",
+      "https://modernoptical.com/US/information/careers",
+      "https://modernoptical.com/US/login/login"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 69,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "motomentum.com",
+    "company_name": "Sun-Stache St Patricks Day Leprechaun Mask Mens Womens ASO Shark Tank",
+    "website": "https://motomentum.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "nhrocks.com",
+    "company_name": "Artisan Eyewear",
+    "website": "https://nhrocks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "rippleeffectpr.com",
+    "company_name": "rippleeffectpr.com",
+    "website": "https://rippleeffectpr.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "valerie@rippleeffectpr.com",
+        "confidence": "highest",
+        "source_url": "https://rippleeffectpr.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "etts Ave Suite #4 Boston, Ma 02118 Phone: 617-536-8887 Valerie@rippleeffectPR.com Back to Top Get i"
+      }
+    ],
+    "role_emails": [
+      "valerie@rippleeffectpr.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "e.invites@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "entrepreneurship.invites@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "entrepreneurship@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "entrepreneurship_invites@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "entrepreneurshipi@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harding@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "invites@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Entrepreneurship Invites",
+        "person_title": "Ceo",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.harding@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valerie.harding@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valerie@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valerie_harding@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valerieh@rippleeffectpr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valerie Harding",
+        "person_title": "President",
+        "source_url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rippleeffectpr.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rippleeffectpr.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rippleeffectpr.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rippleeffectpr.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rippleeffectpr.com/press-release/ripple-effect-communications-celebrates-25th-anniversary-and-visionary-b2b-pr-model/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://rippleeffectpr.com/contact",
+        "action": "/contact/#wpcf7-f4-p17-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://rippleeffectpr.com/pages/contact",
+        "action": "/contact/#wpcf7-f4-p17-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://rippleeffectpr.com/support/contact",
+        "action": "/contact/#wpcf7-f4-p17-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://rippleeffectpr.com/contact/",
+        "action": "/contact/#wpcf7-f4-p17-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "| Next Generation PR",
+    "source_urls": [
+      "https://rippleeffectpr.com/contact",
+      "https://rippleeffectpr.com/pages/contact",
+      "https://rippleeffectpr.com/support/contact",
+      "https://rippleeffectpr.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sanmar.com",
+    "company_name": "Untitled",
+    "website": "https://sanmar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "stylesstyle.com",
+    "company_name": "The Difference Between Bespoke and Artisanal Sunglasses",
+    "website": "https://stylesstyle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "sympathybag.com",
+    "company_name": "How to Start a Backpack Brand: From Idea to First Order",
+    "website": "https://sympathybag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "thespaceframe.com",
+    "company_name": "Warby Parker On Shark Tank",
+    "website": "https://thespaceframe.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  }
+]
