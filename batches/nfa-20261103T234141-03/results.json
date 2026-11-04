@@ -1,0 +1,3361 @@
+[
+  {
+    "company_domain": "dinodogs.com",
+    "company_name": "DINO DOGS",
+    "website": "https://dinodogs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dinodogs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dinodogs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-15"
+      },
+      {
+        "url": "https://dinodogs.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-05"
+      },
+      {
+        "url": "https://dinodogs.com/blogs/news",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-11"
+      },
+      {
+        "url": "https://dinodogs.com/cart",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-04"
+      },
+      {
+        "url": "https://dinodogs.com/collections/all",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-11"
+      },
+      {
+        "url": "https://dinodogs.com/products/dinodogs-the-journey-begins",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-11"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dinodogs.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover DinoDogs\u2122 - hybrid dog-dinosaur plush toys with QR code tags that unlock digital collectible hatching experiences. Scan. Hatch. Collect.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dreamfuel.com",
+    "company_name": "DREAMFUEL",
+    "website": "https://dreamfuel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@dreamfuel.com",
+        "confidence": "medium",
+        "source_url": "https://dreamfuel.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@dreamfuel.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.heiny@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "anna.heiny@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "anna@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "anna_heiny@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "annah@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "author@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.author@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bailey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best.author@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "best_author@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "besta@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Best Selling Author",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clayman@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coach@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "commission@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.deram@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.network@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.deram@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_deram@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidd@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dealer.network@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dealer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dealer_network@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dealern@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deram@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David DeRam",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "downey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.guru@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gao@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "genius@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greenlight.guru@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greenlight@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greenlight_guru@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greenlightg@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guru@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Greenlight Guru",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.gao@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hacker@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "halty@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "health@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heiny@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anna Heiny",
+        "person_title": "Co-Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "holman.gao@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holman@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holman_gao@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holmang@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holman Gao",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.clayman@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.speer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack.clayman@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack_clayman@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jackc@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Clayman",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johns@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon.speer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jon_speer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jons@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.bailey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin.bailey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin_bailey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevinb@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Bailey",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.roquet@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee.roquet@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee_roquet@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.lee@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mona Lee",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.yoder@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max.yoder@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max_yoder@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maxy@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mona.lee@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mona Lee",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mona@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mona Lee",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mona_lee@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mona Lee",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monal@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mona Lee",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.wangler@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "network@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dealer Trade Network",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick.wangler@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick_wangler@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nickw@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.coach@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "performance.coach@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "performance@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "performance_coach@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "performancec@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Performance Coach",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "address": "r.commission@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.downey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.health@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel.downey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rachel_downey@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "racheld@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rachel Downey",
+        "person_title": null,
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional.commission@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional_commission@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regionalc@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Arts Commission",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "remodel.health@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "remodel@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "remodel_health@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "remodelh@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Remodel Health",
+        "person_title": "Cmo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roquet@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Roquet",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.company@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.genius@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.hacker@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.johns@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.travaglini@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Travaglini",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales.hacker@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales_hacker@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salesh@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Hacker",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seismic.company@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seismic@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seismic_company@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seismicc@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Seismic Company",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "share.genius@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "share@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "share_genius@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shareg@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Share Your Genius",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "speer@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Speer",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.johns@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.travaglini@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Travaglini",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_johns@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_travaglini@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Travaglini",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevej@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Johns",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevet@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Travaglini",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunak@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.vivo@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffney.vivo@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffney@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffney_vivo@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffneyv@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "travaglini@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Travaglini",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.sunak@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal.sunak@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal_sunak@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishals@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Sunak",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vivo@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffney Vivo",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.halty@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walid.halty@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walid@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walid_halty@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walidh@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walid Halty",
+        "person_title": "Ceo",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wangler@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wangler",
+        "person_title": "President",
+        "source_url": "https://dreamfuel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yoder@dreamfuel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Yoder",
+        "person_title": "Founder",
+        "source_url": "https://dreamfuel.com/teams",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://dreamfuel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-14"
+      },
+      {
+        "url": "https://dreamfuel.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "url": "https://dreamfuel.com/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/breathwork",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/schedule-your-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dreamfuel.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We help founders, executives, and sales teams sharpen focus, build confidence, and achieve their biggest goals.",
+    "source_urls": [
+      "https://dreamfuel.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dressncodebaealienmind.com",
+    "company_name": "DRESS N CODE BAEALIEN-MIND",
+    "website": "https://dressncodebaealienmind.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dressncodebaealienmind.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/money-machine-sneakers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/collections/dress-n-code",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/collections/dress-n-code-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/pages/work-with-us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/pink-chase-sneakers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/premium-basketball-jersey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/baealien-mind-earth-day-unisex-track-jacket",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/dress-n-code-unisex-hoodie-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/dress-n-code-unisex-fleece-zip-up-hoodie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/dress-n-code-windbreaker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/baealien-mind-unisex-track-pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/dress-n-code-football-jersey",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/baealien-mind-bodycon-dress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/baealien-mind-men-s-slides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/policies/subscription-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dressncodebaealienmind.com/products/baealien-mind-backpack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dressncodebaealienmind.com/pages/contact",
+        "action": "/contact#ContactForm-AbStrQUw4MmtDbHJBa__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "''Dress N Code'' Dive into futuristic streetwear where anime meets tech. Scan your tees, QR code for a secret video, Bold, fun and just a bit out of this world. Own your style''",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 59,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "drmeoow.com",
+    "company_name": "DR MEOOW",
+    "website": "https://drmeoow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://drmeoow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "435 p\u00e1ginas de apuntes de ingl\u00e9s organizados paso a paso. Mapas mentales, videos integrados, flashcards y ejercicios. Para principiantes y avanzados.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "earthlyderm.com",
+    "company_name": "EARTHLY DERM",
+    "website": "https://earthlyderm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@earthlyderm.com",
+        "confidence": "high",
+        "source_url": "https://earthlyderm.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a Return: To initiate a return, customers must email hello@earthlyderm.com to confirm the return request. Once the return is ap"
+      }
+    ],
+    "role_emails": [
+      "hello@earthlyderm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://earthlyderm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/collections/earthly-derm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/pages/customer-reviews",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/a/loop_subscriptions/customer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/products/turmeric-glow-soap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earthlyderm.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://earthlyderm.com/pages/contact",
+        "action": "/contact#Form-template--19526977945734__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Earthly Derm",
+    "source_urls": [
+      "https://earthlyderm.com/policies/refund-policy",
+      "https://earthlyderm.com/policies/terms-of-service",
+      "https://earthlyderm.com/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 43,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "edgepoker.com",
+    "company_name": "EDGE POKER",
+    "website": "https://edgepoker.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://edgepoker.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://edgepoker.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://edgepoker.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cognitive performance stack formulated for pro players. Bacopa, Lion's Mane, L-Theanine and more. Stimulant-free. Available on Amazon.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "firstbotany.com",
+    "company_name": "FIRST BOTANY",
+    "website": "https://firstbotany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@firstbotany.com",
+        "confidence": "high",
+        "source_url": "https://firstbotany.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ts LLC 14200 E. Alameda Ave. Ste 1053, Aurora, CO 80012 support@firstbotany.com Name Email Phon"
+      }
+    ],
+    "role_emails": [
+      "support@firstbotany.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://firstbotany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/skin-care-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/hair-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/100-pure-natural-oil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/carrier-oils",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firstbotany.com/customer_authentication/redirect?locale=en&region_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/blogs/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/our-bestsellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/collections/new-arrivals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/products/all-natural-body-wash-fights-body-odor-athlete-s-foot-jock-itch-nail-issues-dandruff-acne-eczema-shower-gel-for-women-men-skin-cleanser-16-fl-oz-16-fl-oz-frankincense-cedar-spice",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firstbotany.com/products/all-natural-body-wash-fights-body-odor-athlete-s-foot-jock-itch-nail-issues-dandruff-acne-eczema-shower-gel-for-women-men-skin-cleanser-16-fl-oz-16-fl-oz-peppermint-eucalyptus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://firstbotany.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover your beauty with our natural skin care products & essential oils.",
+    "source_urls": [
+      "https://firstbotany.com/pages/contact-us",
+      "https://firstbotany.com/pages/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "fleetfarm.com",
+    "company_name": "FLEET FARM",
+    "website": "https://fleetfarm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@fleetfarm.com",
+        "confidence": "medium",
+        "source_url": "https://fleetfarm.com/c/info/call-us",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-01",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@fleetfarm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fleetfarm.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-02"
+      },
+      {
+        "url": "https://fleetfarm.com/category/sports-outdoors/team-sports/_/N-1603074163",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-10"
+      },
+      {
+        "url": "https://fleetfarm.com/category/sports-outdoors/team-sports/baseball-softball/_/N-1815203787",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-03"
+      },
+      {
+        "url": "https://fleetfarm.com/category/sports-outdoors/team-sports/volleyball/_/N-1095158399",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-10"
+      },
+      {
+        "url": "https://fleetfarm.com/category/tires-automotive/garage/air-compressors-air-tools/_/N-1547505283",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/tires-automotive/travel-cargo-management/_/N-66302981",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-03"
+      },
+      {
+        "url": "https://fleetfarm.com/category/tires-automotive/travel-cargo-management/cargo-fasteners-hardware/_/N-3156522885",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/tires-automotive/travel-cargo-management/cargo-racks-nets/_/N-3446893502",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-07"
+      },
+      {
+        "url": "https://fleetfarm.com/category/tires-automotive/travel-cargo-management/tie-downs-bungees/_/N-1423695244",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-07"
+      },
+      {
+        "url": "https://fleetfarm.com/category/home-household/vacuums-floor-care/steam-mops-hardwood-floor-cleaners/_/N-2093683886",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/toys/learning-toys/stem-steam-toys/_/N-2959104358",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-27"
+      },
+      {
+        "url": "https://fleetfarm.com/static/our-company",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-03"
+      },
+      {
+        "url": "https://fleetfarm.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-02"
+      },
+      {
+        "url": "https://fleetfarm.com/c/info/call-us",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-01"
+      },
+      {
+        "url": "https://fleetfarm.com/sitewide/storeLocator.jsp",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-31"
+      },
+      {
+        "url": "https://fleetfarm.com/sitewide/weeklyAd.jsp",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-27"
+      },
+      {
+        "url": "https://fleetfarm.com/account/orderTracking.jsp",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-27"
+      },
+      {
+        "url": "https://fleetfarm.com/c/gift-cards/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-04"
+      },
+      {
+        "url": "https://fleetfarm.com/account/login.jsp",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/checkout/cart.jsp",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-02"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/_/N-1096313067",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-05"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/firearms/handguns/_/N-3492940777",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/firearms/muzzleloaders/_/N-36174618",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/firearms/rifles/_/N-1002721885",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/firearms/shotguns/_/N-3606614105",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/brand/winchester/_/N-3435189779",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-04"
+      },
+      {
+        "url": "https://fleetfarm.com/brand/remington/_/N-3936399246",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-05"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/ammunition/_/N-931964591",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-18"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/ammunition/handgun-ammo/_/N-514716026",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-04"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/ammunition/muzzleloader-ammo/_/N-182174613",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-01"
+      },
+      {
+        "url": "https://fleetfarm.com/category/hunting-shooting/ammunition/rifle-ammo/_/N-2791030302",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-18"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fleet Farm has been proudly serving the Upper Midwest since 1955 with high quality merchandise you won't find anywhere else. We are your full-service supplier for life, work, home, and recreation - combining wide-ranging products, convenient...",
+    "source_urls": [
+      "https://fleetfarm.com/c/info/call-us"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 78
+  },
+  {
+    "company_domain": "frelo.com",
+    "company_name": "FRELO",
+    "website": "https://frelo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "james@frelo.com",
+        "confidence": "highest",
+        "source_url": "https://frelo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s. Midland, TX, USA (432) 337-5354 or (432) 967-9062 James@Frelo.com Drop us a line! Drop us a line! Name Email* Attach Files At"
+      }
+    ],
+    "role_emails": [
+      "james@frelo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://frelo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frelo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Expert hydrocarbon remediation solutions for environmentally safe oil removal and soil remediation services.",
+    "source_urls": [
+      "https://frelo.com",
+      "https://frelo.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "frxsh.com",
+    "company_name": "FRXSH",
+    "website": "https://frxsh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://frxsh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Impressum/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/wholesale/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/geraete/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Produkte/Zubehoer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Ueber-FRXSH/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Service/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Service/Partner/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Service/downloads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Merkzettel/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Login/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Warenkorb/?module_fnc%5BshopBasketHandler%5D=JumpToBasketPage&sourceurl=/&cmsauthenticitytoken=b4e2e67c.584vqz3Z-offoYriMv0Ank_WPyYYsoYEPwvSg_0oqT8.lr5MwFj0vreA5NuIWZRt5CKlXRdahOJcYEe41pJfz3aE9wLefp3M1Lnzxw",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/geraete/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/frxsh-vertrieb-ag-schweiz/geraet/mousse-chef_pid_956_9484.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/frxsh-vertrieb-ag/geraet/frxsh-essential_pid_956_9823.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/chameleon/public/9a32af1d-2300-4277-2e92-8c9f31e271f1/Flyer_Kunststoffbecher_A5_DE_LowRes.pdf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.frxsh.com/Dance-the-taste/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Kontakt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/AGB/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://frxsh.com/Datenschutz/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Entdecke die innovative Welt von FRXSH\u00ae und erlebe hochwertige K\u00fcchenger\u00e4te, Designed und Made in Switzerland. Der Mousse Chef Frozen Food Processor, ist perfekt f\u00fcr Profi-Gastronomie und Hobby-K\u00f6che",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "futurematcha.com",
+    "company_name": "FUTURE MATCHA",
+    "website": "https://futurematcha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://futurematcha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futurematcha.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up to be the first to know about our soft launch events.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "genesis.com",
+    "company_name": "GENESIS",
+    "website": "https://genesis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "experience@genesis.ca",
+        "confidence": "high",
+        "source_url": "https://genesis.com/ca/en/support/contact-us.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@genesisfinance.ca",
+        "confidence": "high",
+        "source_url": "https://genesis.com/ca/en/support/contact-us.html",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "experience@genesis.ca",
+      "service@genesisfinance.ca"
+    ],
+    "email_candidates": [
+      {
+        "address": "benefits@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.benefits@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "electric@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "explore.benefits@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "explore@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "explore_benefits@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exploreb@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Explore Benefits",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/gv60",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.warranty@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited.warranty@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited_warranty@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limitedw@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.electric@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.electric@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_electric@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thee@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Genesis Electric",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warranty@genesis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Battery Warranty",
+        "person_title": "Owner",
+        "source_url": "https://genesis.com/us/en/genesis-electric",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://genesis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/discover/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv60",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/gv60",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv60",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv60-magma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/gv60-magma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv60-magma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/electrified-gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/electrified-gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/electrified-gv70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv80/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2026/gv80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv80/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/gv80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv80-coupe/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2026/gv80-coupe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv80-coupe/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv80-coupe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/gv80-coupe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/gv80-coupe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/g70/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2026/g70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/g70/previous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/g70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/g70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/g70",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/g80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2027/g80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/g80",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/g90",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/build-and-price/2026/g90",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/offers/g90",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/gv90/future",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-x-skorpio-concept",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-g90-trilogy-concepts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-magma-gt-concept",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-x-gran-equator-concept",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-neolun-concept",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars/genesis-x-snow-speedium-concept",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/concept-cars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/genesis-electric",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/us/en/genesis-home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://genesis.com/ca/en/support/contact-us.html",
+        "page_type": "contact",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Genesis: Step into a world unbound by legacy, where sophistication meets innovation. Explore our lineup of luxury SUVs, sedans & electric vehicles.",
+    "source_urls": [
+      "https://genesis.com/ca/en/support/contact-us.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  }
+]
