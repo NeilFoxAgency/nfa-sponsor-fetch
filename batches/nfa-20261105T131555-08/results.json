@@ -1,0 +1,3711 @@
+[
+  {
+    "company_domain": "ravenphone.com",
+    "company_name": "Raven",
+    "website": "https://ravenphone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ravenphone.com",
+        "confidence": "highest",
+        "source_url": "https://ravenphone.com/checkout/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ents you\u2019ve made. Just reply to your confirmation or email support@ravenphone.com . We\u2019ll return it to your original payment method. Wh"
+      }
+    ],
+    "role_emails": [
+      "support@ravenphone.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ravenphone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravenphone.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravenphone.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravenphone.com/checkout/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravenphone.com/reach-out/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ravenphone.com/reach-out/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Raven. A new phone rebuilt around agents. More done. Less time on screen.",
+    "source_urls": [
+      "https://ravenphone.com/checkout/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rbhgoods.com",
+    "company_name": "RBH GOODS CO.",
+    "website": "https://rbhgoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@rbhgoods.com",
+        "confidence": "highest",
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "designed for Magic Keyboard and iPad. Please reach out to hi@rbhgoods.com and we will take care of you. - Brian J"
+      }
+    ],
+    "role_emails": [
+      "hi@rbhgoods.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.garman@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.goods@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.holmes@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.kirchhoff@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Kirchhoff",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob.garman@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob_garman@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bobg@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian.holmes@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian.kirchhoff@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Kirchhoff",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian_holmes@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian_kirchhoff@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Kirchhoff",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brianh@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "briank@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Kirchhoff",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burton.goods@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burton@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burton_goods@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burtong@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "co@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Goods Co",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coarsey@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cranston@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.granger@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dennis.granger@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dennis@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dennis_granger@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dennisg@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "douglas@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.laird@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "euan.laird@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "euan@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "euan_laird@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "euanl@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "farahi@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.co@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Goods Co",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garman@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Garman",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goods.co@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Goods Co",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goods@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burton Goods",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goods_co@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Goods Co",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goodsc@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Goods Co",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "granger@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dennis Granger",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "halverson@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holmes@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Holmes",
+        "person_title": "Founder",
+        "source_url": "https://rbhgoods.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hubbard@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.coarsey@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.cranston@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.farahi@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.halverson@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.solomon@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack.farahi@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jack_farahi@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jackf@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jack Farahi",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james.cranston@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james_cranston@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamesc@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James Cranston",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason.solomon@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jason_solomon@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jasons@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry.halverson@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry_halverson@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerryh@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Halverson",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.coarsey@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_coarsey@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnc@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Coarsey",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.nandury@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kirchhoff@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Kirchhoff",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kris.nandury@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kris@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kris_nandury@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "krisn@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laird@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "EUAN LAIRD",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.frank@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.mautner@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.morgan@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.sierra@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.frank@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_frank@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markf@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Frank",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mautner@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max.mautner@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "max_mautner@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maxm@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Max Mautner",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melody.morgan@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melody@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melody_morgan@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melodym@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica.sierra@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monica_sierra@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monicas@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morgan@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Melody Morgan",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nandury@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kris Nandury",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.silcox@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.silcox@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_silcox@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peters@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.douglas@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scott.douglas@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scott@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scott_douglas@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scottd@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scott Douglas",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sierra@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monica Sierra",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silcox@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Silcox",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solomon@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jason Solomon",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.hubbard@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiger.hubbard@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiger@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiger_hubbard@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tigerh@rbhgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiger Hubbard",
+        "person_title": null,
+        "source_url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rbhgoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-ipad-pro-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/m5-ipad-pro-13-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/m5-ipad-pro-11-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/ipad-air-12-9-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/ipad-air-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/ipad-pro-12-9-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/ipad-pro-11-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-duo-fold-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-18-pro-max-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-18-pro-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-iphone-18-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-17-pro-max-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-17-pro-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-17-air-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-iphone-17-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/leather-magsafe-wallets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-16-pro-max-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-16-pro-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/iphone-15-pro-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-iphone-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-apple-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/apple-watch-ultra-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/apple-watch-bands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/leather-laptop-bags",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-leather-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/leather-padfolios-journal-covers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/leather-wallets-for-men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/tech-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/leather-desk-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/macbook-pro-14-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/macbook-pro-16-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/macbook-air-13-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/macbook-air-15-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/collections/all-macbook-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/pages/holiday-gift-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.rbhgoods.com/customer_authentication/redirect?locale=en\u00aeion_country=CA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/heritage-leather-case-for-iphone-18-duo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/pocket-book-case-for-iphone-18-duo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/foundry-link-magnetic-steel-apple-watch-band",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/the-magnetic-leather-case-m5-m4-ipad-pro-13",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/luxury-pocket-book-wallet-case-for-iphone-18-pro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/heritage-case-and-wallet-stand-bundle-iphone-18-pro-max-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/modern-leather-laptop-backpack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rbhgoods.com/products/slim-leather-techfolio-cord-organizer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://rbhgoods.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Formerly Burton Goods. Handcrafted Leather Goods \u2014 Shop RBH Goods Co. leather cases, keyboard folios, sleeves and briefcases.",
+    "source_urls": [
+      "https://rbhgoods.com/products/limited-run-magic-keyboard-leather-case-m5-m4-ipad-pro-13",
+      "https://rbhgoods.com/products/modern-leather-laptop-backpack"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "realworldlabs.com",
+    "company_name": "REALWORLD LABS",
+    "website": "https://realworldlabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@realworldlabs.ai",
+        "confidence": "high",
+        "source_url": "https://realworldlabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@realworldlabs.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://realworldlabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://realworldlabs.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://realworldlabs.com",
+      "https://realworldlabs.com/contact",
+      "https://realworldlabs.com/support",
+      "https://realworldlabs.com/about",
+      "https://realworldlabs.com/team",
+      "https://realworldlabs.com/contact-us",
+      "https://realworldlabs.com/contactus",
+      "https://realworldlabs.com/about-us",
+      "https://realworldlabs.com/our-team",
+      "https://realworldlabs.com/meet-the-team",
+      "https://realworldlabs.com/leadership",
+      "https://realworldlabs.com/founders",
+      "https://realworldlabs.com/people",
+      "https://realworldlabs.com/staff",
+      "https://realworldlabs.com/press",
+      "https://realworldlabs.com/media",
+      "https://realworldlabs.com/help",
+      "https://realworldlabs.com/company",
+      "https://realworldlabs.com/who-we-are",
+      "https://realworldlabs.com/our-story",
+      "https://realworldlabs.com/our-mission",
+      "https://realworldlabs.com/get-in-touch",
+      "https://realworldlabs.com/reach-us",
+      "https://realworldlabs.com/enquiries",
+      "https://realworldlabs.com/impressum",
+      "https://realworldlabs.com/pages/contact",
+      "https://realworldlabs.com/pages/contact-us",
+      "https://realworldlabs.com/support/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "regent.com",
+    "company_name": "REGENT",
+    "website": "https://regent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jcalvert@regent.com",
+        "confidence": "high",
+        "source_url": "http://regent.com/regent-assay-formed-by-merger-of-regent-partners-llp-and-assay-corporate-finance-limited",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "jcalvert@regent.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://regent.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-15"
+      },
+      {
+        "url": "http://regent.com/regent-assay-formed-by-merger-of-regent-partners-llp-and-assay-corporate-finance-limited",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://regent.com",
+        "action": "/inquiry",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Thank you for visiting our domain sales page. Why choose our premium domain names?Instant Brand Recognition: A premium domain instantly conveys professionalism, authority, and trustworthiness, helping you to establish a strong online presence.Increased Web Traffic: An easy-to-remember and keyword-ri",
+    "source_urls": [
+      "http://regent.com/regent-assay-formed-by-merger-of-regent-partners-llp-and-assay-corporate-finance-limited"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "reska.com",
+    "company_name": "RESKA",
+    "website": "https://reska.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "resonaura.com",
+    "company_name": "RESONAURA",
+    "website": "https://resonaura.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://resonaura.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resonaura.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\ud83e\udd8aElectronic & Rock band from Vancouver.\nStreaming \"Neverland\" \ud83c\udfb8\u26a1\ufe0f\ud83d\udc47",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "reverie.com",
+    "company_name": "REVERIE",
+    "website": "https://reverie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "basefirst@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/pages/reverie-wholesale",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quiries sales@reverie.com Sign up for Base First Training basefirst@reverie.com Looking for consumer support? Go to our support page ."
+      },
+      {
+        "address": "customer.care@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "configuration support with previous models, please contact customer.care@reverie.com Features"
+      },
+      {
+        "address": "customerservice@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "at 800-973-8374 when you get a moment or send an email to customerservice@reverie.com . We're more than happy to discuss the versatility of the D"
+      },
+      {
+        "address": "helpdesk@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/pages/reverie-ada-compliance-statement",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Service team at 716.219.3948 or email our team at helpdesk@reverie.com with \u201cDisabled Access\u201d in the subject line and provide a d"
+      },
+      {
+        "address": "hr@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/leadership",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@reverie.com",
+        "confidence": "highest",
+        "source_url": "https://reverie.com/pages/reverie-wholesale",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sales@reverie.com Need support for your"
+      },
+      {
+        "address": "customercare@reverie.com",
+        "confidence": "high",
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Rico will incur additional shipping charges. Please contact customercare@reverie.com for rates and details."
+      },
+      {
+        "address": "lisa@reverie.com",
+        "confidence": "high",
+        "source_url": "https://reverie.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cise any of the rights available to you, please email us at lisa@reverie.com. You can find our other contact details on our contact inf"
+      },
+      {
+        "address": "privacy@reverie.com",
+        "confidence": "high",
+        "source_url": "https://reverie.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Call us toll-free: +1.800.456.7383 Email: privacy@reverie.com _________________________________________________________"
+      }
+    ],
+    "role_emails": [
+      "basefirst@reverie.com",
+      "customer.care@reverie.com",
+      "customercare@reverie.com",
+      "customerservice@reverie.com",
+      "helpdesk@reverie.com",
+      "hr@reverie.com",
+      "lisa@reverie.com",
+      "privacy@reverie.com",
+      "sales@reverie.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.reverie@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al_a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ala@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at.reverie@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at_reverie@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "atr@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.d@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "beth.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "beth@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "beth_a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "betha@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Beth A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian.d@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian_d@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "briand@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.q@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charley.q@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charley@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charley_q@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "charleyq@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina.t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina_t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristinat@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian D.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane_a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dianea@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donskey@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.donskey@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffs@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe.p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe_p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joep@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordann.donskey@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordann@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordann_donskey@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordannd@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordann Donskey",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.tan@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.v@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leo.v@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leo@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leo_v@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leov@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa.tan@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisa_tan@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lisat@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary.a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mary_a@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marya@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mary A.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nonprofit@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Charley Q.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rob P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Red T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "red.t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Red T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "red@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Red T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "red_t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Red T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "redt@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Red T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reverie@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Reverie",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rob.p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rob P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rob@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rob P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rob_p@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rob P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robp@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rob P.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.m@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sandra.m@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sandra@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sandra_m@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sandram@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sandra M.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.nonprofit@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina T.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tan@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lisa Tan",
+        "person_title": null,
+        "source_url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.nonprofit@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_nonprofit@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "then@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Busy Nonprofit",
+        "person_title": "Ceo",
+        "source_url": "https://reverie.com/pages/customer-stories",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas.s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomas_s@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thomass@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thomas S.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v@reverie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leo V.",
+        "person_title": null,
+        "source_url": "https://reverie.com/products/reverie-mattress",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://reverie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/top-adjustable-bed-guide-pain-relief-sleep-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/promotion-page",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/products/reverie-mattress",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/collections/adjustable-bases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/collections/parts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/collections/upgrade-packages",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/collections/sale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/our-unique-process",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/blogs/reverie-sleep-blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/blogs/reverie-sleep-blog/adjustable-base-remote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-stress-and-sleep-loss",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/blogs/reverie-sleep-blog/holiday-sleep-tips-enjoy-feasts-sleep-well",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/collections/sheets-pillows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/register-your-warranty",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/warranties-manuals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/helpful-videos",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/customer-stories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/reverie-resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/store-locator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/reverie-wholesale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/app-privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/reverie-ada-compliance-statement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/pages/patents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://reverie.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Reverie's proprietary sleep solutions help you have well rested nights so you wake up the best version of yourself. Adjustable beds, custom mattresses and sleep upgrades. Customize your comfort.",
+    "source_urls": [
+      "https://reverie.com/about",
+      "https://reverie.com/about-us",
+      "https://reverie.com/leadership",
+      "https://reverie.com/pages/contact-us",
+      "https://reverie.com/products/reverie-mattress",
+      "https://reverie.com/pages/careers",
+      "https://reverie.com/pages/reverie-wholesale",
+      "https://reverie.com/policies/privacy-policy",
+      "https://reverie.com/pages/app-privacy-policy",
+      "https://reverie.com/pages/reverie-ada-compliance-statement"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 62,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "roadstarapps.com",
+    "company_name": "S. Technologies Solutions",
+    "website": "https://roadstarapps.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "rpmapp.info",
+    "company_name": "Philip Broder",
+    "website": "http://rpmapp.info",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "saad.men",
+    "company_name": "KHURSHIDBEK ABDUKAKHAROV",
+    "website": "http://saad.men",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "saberzou.ai",
+    "company_name": "Codesigner Tech Co., Ltd.",
+    "website": "https://saberzou.ai/daypond/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "sambruneau.com",
+    "company_name": "Samuel Bruneau",
+    "website": "https://justone.sambruneau.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@sambruneau.com",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=delete%20my%20data",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=just%20one%20bug%20report",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=just%20one%20press%20inquiry",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=just%20one%20privacy%20question",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=just%20one%20support",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=privacy%20request",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@sambruneau.com?subject=remove%20me%20from%20the%20just%20one%20waitlist",
+        "confidence": "medium",
+        "source_url": "https://justone.sambruneau.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@sambruneau.com",
+      "info@sambruneau.com?subject=delete%20my%20data",
+      "info@sambruneau.com?subject=just%20one%20bug%20report",
+      "info@sambruneau.com?subject=just%20one%20press%20inquiry",
+      "info@sambruneau.com?subject=just%20one%20privacy%20question",
+      "info@sambruneau.com?subject=just%20one%20support",
+      "info@sambruneau.com?subject=privacy%20request",
+      "info@sambruneau.com?subject=remove%20me%20from%20the%20just%20one%20waitlist"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://justone.sambruneau.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/press.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justone.sambruneau.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Just One is a calm, radically-focused to-do app. Add everything; see exactly one task at a time. Swipe to finish or skip \u2014 no list, no dashboard, no nag. Free, private, for iPhone, iPad and Mac.",
+    "source_urls": [
+      "https://justone.sambruneau.com",
+      "https://justone.sambruneau.com/contact",
+      "https://justone.sambruneau.com/support",
+      "https://justone.sambruneau.com/about",
+      "https://justone.sambruneau.com/team",
+      "https://justone.sambruneau.com/contact-us",
+      "https://justone.sambruneau.com/contactus",
+      "https://justone.sambruneau.com/about-us",
+      "https://justone.sambruneau.com/our-team",
+      "https://justone.sambruneau.com/meet-the-team",
+      "https://justone.sambruneau.com/leadership",
+      "https://justone.sambruneau.com/founders",
+      "https://justone.sambruneau.com/people",
+      "https://justone.sambruneau.com/staff",
+      "https://justone.sambruneau.com/press",
+      "https://justone.sambruneau.com/media",
+      "https://justone.sambruneau.com/help",
+      "https://justone.sambruneau.com/company",
+      "https://justone.sambruneau.com/who-we-are",
+      "https://justone.sambruneau.com/our-story",
+      "https://justone.sambruneau.com/our-mission",
+      "https://justone.sambruneau.com/get-in-touch",
+      "https://justone.sambruneau.com/reach-us",
+      "https://justone.sambruneau.com/enquiries",
+      "https://justone.sambruneau.com/impressum",
+      "https://justone.sambruneau.com/pages/contact",
+      "https://justone.sambruneau.com/pages/contact-us",
+      "https://justone.sambruneau.com/support/contact",
+      "https://justone.sambruneau.com/support.html",
+      "https://justone.sambruneau.com/press.html",
+      "https://justone.sambruneau.com/privacy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
