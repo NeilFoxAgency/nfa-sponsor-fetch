@@ -1,0 +1,1401 @@
+[
+  {
+    "company_domain": "greencabinetsny.com",
+    "company_name": "Golan Achdary",
+    "website": "https://greencabinetsny.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "greenfest.fr",
+    "company_name": "teddy sambuchi",
+    "website": "https://greenfest.fr/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gyanmul.com",
+    "company_name": "Prabesh Poudel",
+    "website": "https://www.gyanmul.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hemkar.app",
+    "company_name": "Nihad Abdullayev",
+    "website": "https://hemkar.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "skoolboy.com",
+    "company_name": "SKOOLBOY",
+    "website": "https://skoolboy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://skoolboy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skoolboy.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-18"
+      },
+      {
+        "url": "https://skoolboy.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-18"
+      },
+      {
+        "url": "https://skoolboy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://skoolboy.com/contact-us",
+        "action": "http://www.skoolboy.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://skoolboy.com/about-us",
+        "action": "http://www.skoolboy.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Skoolboy is Kenya's streetwear brand. Shop curated sneakers, apparel, and accessories online \u2014 fresh drops, iconic fits, delivered across Nairobi and Kenya.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 67,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "skyscraper.com",
+    "company_name": "SKYSCRAPER",
+    "website": "https://skyscraper.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "analysis@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.analysis@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financial.analysis@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financial@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financial_analysis@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financiala@skyscraper.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Financial Analysis",
+        "person_title": "Owner",
+        "source_url": "https://skyscraper.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://skyscraper.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/about/#tenants",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/about/#investor",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/about/#buildingowners",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/clients",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/officespace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/featuredlisting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/buildingsforsale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skyscraper.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://skyscraper.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://skyscraper.com/pages/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://skyscraper.com/support/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://skyscraper.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "San Francisco Office Space Our company assists landlords and tenants with leasing San Francisco office space. We have been in this business for over 25 years. Our company\u2019s leasing practice is focused solely on the San Francisco office market. If you want to buy an office building as a leased invest",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "soluzdeportugal.com",
+    "company_name": "SOLUZ DE PORTUGAL",
+    "website": "https://soluzdeportugal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://soluzdeportugal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soluzdeportugal.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hand-harvested Fleur de Sel from Portugal's Ria Formosa Nature Reserve. Artisan sea salt, carob powder, piri piri and Iberian spices. Shipped to the US and Europe.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sotoned.com",
+    "company_name": "SO TONED",
+    "website": "https://sotoned.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@sotoned.com",
+        "confidence": "highest",
+        "source_url": "https://sotoned.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Way N Maple Grove, MN 55369 Email info@sotoned.com Days-Hours Monday & Wednesday"
+      }
+    ],
+    "role_emails": [
+      "info@sotoned.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "s.toned@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "so.toned@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "so@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "so_toned@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sot@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toned@sotoned.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "So Toned",
+        "person_title": "Founder",
+        "source_url": "https://sotoned.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sotoned.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/booking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/pricing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/class-prep-policies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sotoned.com/everything-to-know/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://sotoned.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://sotoned.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover So Toned, a Lagree studio in Maple Grove offering high-intensity, low-impact full-body workouts on the Mega Pro.",
+    "source_urls": [
+      "https://sotoned.com",
+      "https://sotoned.com/contact",
+      "https://sotoned.com/support",
+      "https://sotoned.com/about",
+      "https://sotoned.com/team",
+      "https://sotoned.com/contact-us",
+      "https://sotoned.com/contactus",
+      "https://sotoned.com/about-us",
+      "https://sotoned.com/our-team",
+      "https://sotoned.com/meet-the-team",
+      "https://sotoned.com/leadership",
+      "https://sotoned.com/founders",
+      "https://sotoned.com/people",
+      "https://sotoned.com/staff",
+      "https://sotoned.com/press",
+      "https://sotoned.com/media",
+      "https://sotoned.com/help",
+      "https://sotoned.com/company",
+      "https://sotoned.com/who-we-are",
+      "https://sotoned.com/our-story",
+      "https://sotoned.com/our-mission",
+      "https://sotoned.com/get-in-touch",
+      "https://sotoned.com/reach-us",
+      "https://sotoned.com/enquiries",
+      "https://sotoned.com/impressum",
+      "https://sotoned.com/pages/contact",
+      "https://sotoned.com/pages/contact-us",
+      "https://sotoned.com/support/contact",
+      "https://sotoned.com/about/",
+      "https://sotoned.com/contact/",
+      "https://sotoned.com/",
+      "https://sotoned.com/booking/",
+      "https://sotoned.com/pricing/",
+      "https://sotoned.com/class-prep-policies/",
+      "https://sotoned.com/everything-to-know/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thescent4you.com",
+    "company_name": "THESCENT4YOU",
+    "website": "https://thescent4you.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tinygiant.com",
+    "company_name": "TINY GIANT",
+    "website": "https://tinygiant.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "booking@tinygiant.com",
+        "confidence": "highest",
+        "source_url": "https://tinygiant.com/?page_id=43",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "901) 754-5333 FAX (866) 447-8632 You may e-mail us at: Booking@TinyGIANT.com Name * Email * Subject * Message Send Thank you for yo"
+      }
+    ],
+    "role_emails": [
+      "booking@tinygiant.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "associates@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.marketing@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guerilla.marketing@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guerilla@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guerilla_marketing@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guerillam@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.persons@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hiring.persons@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hiring@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hiring_persons@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hiringp@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guerilla Marketing",
+        "person_title": "Ceo",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.associates@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardone.associates@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardone@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardone_associates@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardonea@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardone Associates",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "persons@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hiring Persons",
+        "person_title": "President",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.winner@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.winner@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_winner@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thew@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "winner@tinygiant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Winner",
+        "person_title": "Founder",
+        "source_url": "https://tinygiant.com/?page_id=31",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://tinygiant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinygiant.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinygiant.com/?page_id=31",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinygiant.com/?page_id=34",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://tinygiant.com/?post_type=product",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-07"
+      },
+      {
+        "url": "https://tinygiant.com/?page_id=83",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinygiant.com/?page_id=43",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://tinygiant.com/?page_id=43",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-29"
+      },
+      {
+        "url": "http://tinygiant.com/?page_id=32",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2023-02-26"
+      },
+      {
+        "url": "http://tinygiant.com/?page_id=34",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-29"
+      },
+      {
+        "url": "https://tinygiant.com/?product=jeff-steinberg-masterpiece-in-progress-book",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://tinygiant.com/?product=jeff-steinberg-masterpiece-in-progress-book",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-25"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tinygiant.com/?page_id=43",
+        "action": "https://tinygiant.com/?page_id=43",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://tinygiant.com/?page_id=43",
+        "action": "https://tinygiant.com/?page_id=43",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tinygiant.com/?product=jeff-steinberg-masterpiece-in-progress-book",
+        "action": "https://tinygiant.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://tinygiant.com/?product=jeff-steinberg-masterpiece-in-progress-book",
+        "action": "https://tinygiant.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Companies We Work With                                      \r\nKnow Jeff's Story",
+    "source_urls": [
+      "https://tinygiant.com/?page_id=43",
+      "http://tinygiant.com/?page_id=43"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tropicalchile.com",
+    "company_name": "TROPICAL CHILE COMPANY",
+    "website": "https://tropicalchile.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "trymysa.com",
+    "company_name": "MYSA",
+    "website": "https://trymysa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contactus@trymysa.in",
+        "confidence": "highest",
+        "source_url": "https://trymysa.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ity To exercise any of these rights, please contact us at contactus@trymysa.in . We will respond to your request within 30 days (or as req"
+      },
+      {
+        "address": "engineering@trymysa.com",
+        "confidence": "high",
+        "source_url": "https://trymysa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l Services \u00a9 2025 Copyright. All Rights Reserved Contact Us engineering@trymysa.com Bangalore, India Legal Privacy Policy Terms of Service Refu"
+      }
+    ],
+    "role_emails": [
+      "contactus@trymysa.in",
+      "engineering@trymysa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trymysa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymysa.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymysa.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymysa.com/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trymysa.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mysa is a modern matchmaker that helps you find your ideal partner.",
+    "source_urls": [
+      "https://trymysa.com",
+      "https://trymysa.com/privacy-policy",
+      "https://trymysa.com/terms-of-service",
+      "https://trymysa.com/refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
