@@ -1,0 +1,1375 @@
+[
+  {
+    "company_domain": "offmyplate.com",
+    "company_name": "OFF MY PLATE",
+    "website": "https://offmyplate.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ohmyapps.com",
+    "company_name": "NEURAL CRAFT LIMITED",
+    "website": "https://ohmyapps.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "olympianoiseco.com",
+    "company_name": "Olympia Noise Co.",
+    "website": "http://www.olympianoiseco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@olympianoiseco.com",
+        "confidence": "high",
+        "source_url": "http://www.olympianoiseco.com/apps/ribbons/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "MPE) output. Help us improve the app by reporting bugs to support@olympianoiseco.com. 1.4 01/19/2019 \u2022 Update layout for iPad Pro. \u2022"
+      }
+    ],
+    "role_emails": [
+      "support@olympianoiseco.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.olympianoiseco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/support/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/support/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/apps/patterning-3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/apps/patterning-studio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/apps/ribbons/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/apps/dot-melody/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/apps/chordion/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/make-complete-songs-in-patterning-3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/how-to-use-midi-to-sequence-hardware-with-patterning-3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/audio-midi-and-ableton-export/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/dive-deep-with-the-fx-track-in-patterning-3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/project-drum-kits/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.olympianoiseco.com/blog/parametric-swing/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.olympianoiseco.com/contact",
+        "action": "/support/contact/submit/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.olympianoiseco.com/support/contact",
+        "action": "/support/contact/submit/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "http://www.olympianoiseco.com/support/contact/",
+        "action": "/support/contact/submit/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Nov 14, 2025 How to use MIDI to sequence hardware with Patterning 3",
+    "source_urls": [
+      "http://www.olympianoiseco.com/apps/ribbons/",
+      "http://www.olympianoiseco.com/apps/chordion/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "omnicore.com.tr",
+    "company_name": "Omnicore Stratejik Teknolojiler Limited Sirketi",
+    "website": "https://crosslango.omnicore.com.tr",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "omni@omnicore.com.tr",
+        "confidence": "medium",
+        "source_url": "https://crosslango.omnicore.com.tr",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "omni@omnicore.com.tr"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://crosslango.omnicore.com.tr",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crosslango.omnicore.com.tr/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "CrossLango: a crossword game for learning languages, by Omnicore.",
+    "source_urls": [
+      "https://crosslango.omnicore.com.tr",
+      "https://crosslango.omnicore.com.tr/contact",
+      "https://crosslango.omnicore.com.tr/support",
+      "https://crosslango.omnicore.com.tr/about",
+      "https://crosslango.omnicore.com.tr/team",
+      "https://crosslango.omnicore.com.tr/contact-us",
+      "https://crosslango.omnicore.com.tr/contactus",
+      "https://crosslango.omnicore.com.tr/about-us",
+      "https://crosslango.omnicore.com.tr/our-team",
+      "https://crosslango.omnicore.com.tr/meet-the-team",
+      "https://crosslango.omnicore.com.tr/leadership",
+      "https://crosslango.omnicore.com.tr/founders",
+      "https://crosslango.omnicore.com.tr/people",
+      "https://crosslango.omnicore.com.tr/staff",
+      "https://crosslango.omnicore.com.tr/press",
+      "https://crosslango.omnicore.com.tr/media",
+      "https://crosslango.omnicore.com.tr/help",
+      "https://crosslango.omnicore.com.tr/company",
+      "https://crosslango.omnicore.com.tr/who-we-are",
+      "https://crosslango.omnicore.com.tr/our-story",
+      "https://crosslango.omnicore.com.tr/our-mission",
+      "https://crosslango.omnicore.com.tr/get-in-touch",
+      "https://crosslango.omnicore.com.tr/reach-us",
+      "https://crosslango.omnicore.com.tr/enquiries",
+      "https://crosslango.omnicore.com.tr/impressum",
+      "https://crosslango.omnicore.com.tr/pages/contact",
+      "https://crosslango.omnicore.com.tr/pages/contact-us",
+      "https://crosslango.omnicore.com.tr/support/contact",
+      "https://crosslango.omnicore.com.tr/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "onebadant.com",
+    "company_name": "One Bad Ant",
+    "website": "https://onebadant.com/adk46ernow/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "let me know",
+        "title": null,
+        "email": "ant@onebadant.com",
+        "source_url": "https://onebadant.com/utemp/"
+      }
+    ],
+    "people": [
+      {
+        "name": "let me know",
+        "title": null,
+        "email": "ant@onebadant.com",
+        "source_url": "https://onebadant.com/utemp/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "ant@onebadant.com",
+        "confidence": "highest",
+        "source_url": "https://onebadant.com/adk46ernow/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "adant.com Email ant@onebadant.com Skype keith.kub"
+      },
+      {
+        "address": "14850websiteonebadant.comemailant@onebadant.comskypekeith.kubarekmobile",
+        "confidence": "high",
+        "source_url": "https://onebadant.com/adk46ernow/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "14850websiteonebadant.comemailant@onebadant.comskypekeith.kubarekmobile",
+      "ant@onebadant.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "challenge@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.kubarek@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keith.kubarek@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keith@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keith_kubarek@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keithk@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kubarek@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keith Kubarek",
+        "person_title": "Owner",
+        "source_url": "https://onebadant.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.challenge@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.challenge@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_challenge@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thec@onebadant.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Challenge",
+        "person_title": "Founder",
+        "source_url": "https://onebadant.com/silver/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://onebadant.com/adk46ernow/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/adk46ernow/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/adk46ernow/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/appskills/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/artofrecall/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/travelers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/illumimaze/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/mtn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/silver/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/utemp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/illumimaze-tech-docs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/iosprovisioning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/cms/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/busanalysis/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/design/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/casestudies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onebadant.com/adk46ernowv2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "https://youtu.be/xhQ4j-n1qHU\t\t\n\t\t\t\t\tOne Bad Ant's Apex App\t\t\t\t\n\t\tThe ADK46erNow app is dedicated to celebrating the 46 high peaks of the Adirondack Mountains. This app is for you if you enjoy hiking, climbing mountains and spending time outdoors. Whether you want to climb one, a few, or all 46 high ",
+    "source_urls": [
+      "https://onebadant.com/adk46ernow/contact",
+      "https://onebadant.com/contact/",
+      "https://onebadant.com/privacy-policy/",
+      "https://onebadant.com/utemp/"
+    ],
+    "reason": null,
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "organizely.io",
+    "company_name": "Organizely",
+    "website": "https://organizely.io/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@organizely.io",
+        "confidence": "high",
+        "source_url": "https://organizely.io/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@organizely.io",
+        "confidence": "medium",
+        "source_url": "https://organizely.io/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@organizely.io",
+        "confidence": "medium",
+        "source_url": "https://organizely.io/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@organizely.io",
+      "legal@organizely.io",
+      "privacy@organizely.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://organizely.io/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/auth/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/demo-request?source=homepage_nav",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/demo-request?source=homepage_hero",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/demo-request?source=homepage_systems",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/demo-request?source=homepage_closing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://organizely.io/demo-request?source=homepage_footer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See your whole factory in one place, and know what to do next. Organizely is the factory operating system built by people who ran one.",
+    "source_urls": [
+      "https://organizely.io/",
+      "https://organizely.io/company",
+      "https://organizely.io/demo-request?source=homepage_nav",
+      "https://organizely.io/demo-request?source=homepage_hero",
+      "https://organizely.io/demo-request?source=homepage_systems",
+      "https://organizely.io/demo-request?source=homepage_closing",
+      "https://organizely.io/privacy",
+      "https://organizely.io/terms",
+      "https://organizely.io/demo-request?source=homepage_footer"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "otgapps.io",
+    "company_name": "Mohawk Apps, LLC",
+    "website": "http://otgapps.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@otgapps.com",
+        "confidence": "medium",
+        "source_url": "http://otgapps.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@otgapps.io?subject=beer judge app",
+        "confidence": "medium",
+        "source_url": "http://otgapps.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@otgapps.io?subject=bjcp styles app",
+        "confidence": "medium",
+        "source_url": "http://otgapps.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@otgapps.io?subject=dropzones-uspa dropzone finder app",
+        "confidence": "medium",
+        "source_url": "http://otgapps.io",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@otgapps.com",
+      "info@otgapps.io?subject=beer judge app",
+      "info@otgapps.io?subject=bjcp styles app",
+      "info@otgapps.io?subject=dropzones-uspa dropzone finder app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://otgapps.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Off The Grid Apps builds mobile and web apps. We specialize in React and React Native.",
+    "source_urls": [
+      "http://otgapps.io"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 32,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "owhere.com",
+    "company_name": "OWHERE",
+    "website": "https://owhere.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@owhere.com",
+        "confidence": "highest",
+        "source_url": "https://owhere.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Text messages \u00b7 Privacy Policy \u00b7 Terms of Service \u00b7 help@owhere.com \u00a9 2026 Owhere LLC. All rights reserved. Owhere\u2122 and the O"
+      }
+    ],
+    "role_emails": [
+      "help@owhere.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://owhere.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://owhere.com/sms.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://owhere.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://owhere.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Owhere\u2122: a community app for local clubs, lodges and associations.",
+    "source_urls": [
+      "https://owhere.com",
+      "https://owhere.com/sms.html",
+      "https://owhere.com/privacy.html",
+      "https://owhere.com/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "oxinstudio.com",
+    "company_name": "Oxin Studio Inc.",
+    "website": "https://oxinstudio.com/apps/chai-jadval/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@oxinstudio.com",
+        "confidence": "medium",
+        "source_url": "https://oxinstudio.com/apps/chai-jadval/privacy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@oxinstudio.com",
+        "confidence": "medium",
+        "source_url": "https://oxinstudio.com/apps/chai-jadval/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@oxinstudio.com",
+      "support@oxinstudio.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/susa-mileage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/kilk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/washi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/claybox/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/corante/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/promise/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://oxinstudio.com/apps/chai-jadval/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A Persian crossword (\u062c\u062f\u0648\u0644) for iPad and iPhone, made for relaxed everyday play. A fresh newspaper-style grid every time, clues from Persian poetry and the Iranian kitchen, large letters and a big Persian keyboard. Free, with no ads.",
+    "source_urls": [
+      "https://oxinstudio.com/apps/chai-jadval/contact",
+      "https://oxinstudio.com/promise/",
+      "https://oxinstudio.com/apps/chai-jadval/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pairmoni.com",
+    "company_name": "PAIRMONI",
+    "website": "https://pairmoni.com/apps/drunkblocker/en?utm_source=app_store&utm_medium=store_listing&utm_campaign=safedrunk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@pairmoni.com",
+        "confidence": "highest",
+        "source_url": "https://pairmoni.com/en/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "business. Loves running, camping and the outdoors. Contact support@pairmoni.com \u00a9 2026 pairmoni Privacy Policy \u00b7"
+      }
+    ],
+    "role_emails": [
+      "support@pairmoni.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pairmoni.com/apps/drunkblocker/en?utm_source=app_store&utm_medium=store_listing&utm_campaign=safedrunk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/apps/drunkblocker/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/apps/drunkblocker/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pairmoni.com/en/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "pairmoni makes small apps that stay by your side.",
+    "source_urls": [
+      "https://pairmoni.com/en/about",
+      "https://pairmoni.com/en/contact",
+      "https://pairmoni.com/en/apps/drunkblocker/privacy",
+      "https://pairmoni.com/en/apps/drunkblocker/terms",
+      "https://pairmoni.com/en/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "parallel-minds.studio",
+    "company_name": "Parallel Minds",
+    "website": "https://parallel-minds.studio/products/atavism",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@parallel-minds.studio",
+        "confidence": "highest",
+        "source_url": "https://parallel-minds.studio/products/atavism",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eived via email. I lost my licence key. Send us an email at info@parallel-minds.studio from the email address used for your order, and we\u2019ll resen"
+      }
+    ],
+    "role_emails": [
+      "info@parallel-minds.studio"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://parallel-minds.studio/products/atavism",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/products/atavism/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/products/reverie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/sample-packs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/instruments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/studio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/products/atavism/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/products/atavism/changelog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://parallel-minds.studio/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://parallel-minds.studio/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A spectral plug-in that makes a pad out of the track itself. The drums fade away, but the chord continues to resonate. VST3, AU and AAX.",
+    "source_urls": [
+      "https://parallel-minds.studio/products/atavism",
+      "https://parallel-minds.studio/products/atavism/press",
+      "https://parallel-minds.studio/contact",
+      "https://parallel-minds.studio/",
+      "https://parallel-minds.studio/products",
+      "https://parallel-minds.studio/products/reverie",
+      "https://parallel-minds.studio/sample-packs",
+      "https://parallel-minds.studio/instruments",
+      "https://parallel-minds.studio/studio",
+      "https://parallel-minds.studio/products/atavism/download",
+      "https://parallel-minds.studio/products/atavism/changelog",
+      "https://parallel-minds.studio/privacy",
+      "https://parallel-minds.studio/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "parkedspot.com",
+    "company_name": "Vladimir Rodzaevskiy",
+    "website": "https://parkedspot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
