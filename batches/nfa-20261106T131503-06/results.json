@@ -1,0 +1,543 @@
+[
+  {
+    "company_domain": "peblla.com",
+    "company_name": "PEBLLA, INC",
+    "website": "http://puntacanabargrill.peblla.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pennyrentng.com",
+    "company_name": "PennySchool Nig Ltd",
+    "website": "https://pennyrentng.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pewbeam.com",
+    "company_name": "Pewbeam Inc",
+    "website": "https://pewbeam.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "engage@pewbeam.com",
+        "confidence": "high",
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hi@pewbeam.com",
+        "confidence": "high",
+        "source_url": "https://pewbeam.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "engage@pewbeam.com",
+      "hi@pewbeam.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.sobaloju@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dara.sobaloju@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dara@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dara_sobaloju@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daras@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.sanwo@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fayo.sanwo@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fayo@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fayo_sanwo@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fayos@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sanwo@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fayo Sanwo",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sobaloju@pewbeam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dara Sobaloju",
+        "person_title": null,
+        "source_url": "https://pewbeam.com/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://pewbeam.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/pewbeam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/pewnote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/changelog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/earn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/gift",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/download",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/blog/how-pewbeam-gave-a-queensland-church-its-sundays-back",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/roster",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pewbeam.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI church presentation software that puts Bible verses and worship lyrics on screen automatically during the service, plus Pewnote sermon notes for members.",
+    "source_urls": [
+      "https://pewbeam.com",
+      "https://pewbeam.com/",
+      "https://pewbeam.com/pewbeam",
+      "https://pewbeam.com/pewnote",
+      "https://pewbeam.com/pricing",
+      "https://pewbeam.com/blog",
+      "https://pewbeam.com/changelog",
+      "https://pewbeam.com/earn",
+      "https://pewbeam.com/gift",
+      "https://pewbeam.com/account",
+      "https://pewbeam.com/download",
+      "https://pewbeam.com/blog/how-pewbeam-gave-a-queensland-church-its-sundays-back",
+      "https://pewbeam.com/roster",
+      "https://pewbeam.com/privacy",
+      "https://pewbeam.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pilatesreformerclub.es",
+    "company_name": "Ricardo Gomez Beltran",
+    "website": "https://www.pilatesreformerclub.es/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "playhuzzo.app",
+    "company_name": "Bhavya Arora",
+    "website": "https://playhuzzo.app",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "plozz.app",
+    "company_name": "Brandon Moore",
+    "website": "https://plozz.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pltnkv.cc",
+    "company_name": "Pavel Plotnikov",
+    "website": "https://pltnkv.cc/clearscan/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "rasgomedia.es",
+    "company_name": "YOSVANY DEYA",
+    "website": "https://rasgomedia.es",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "redropegames.com",
+    "company_name": "RED ROPE GAMES OYUN VE YAZILIM ANONIM SIRKETI",
+    "website": "https://redropegames.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hey@redropegames.com",
+        "confidence": "highest",
+        "source_url": "https://redropegames.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r Goal: Crafting best mobile game in the world! Contact: hey@redropegames.com Privacy Policy Terms of Services \u00a9 2026 Red"
+      }
+    ],
+    "role_emails": [
+      "hey@redropegames.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://redropegames.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://redropegames.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://redropegames.com/terms-of-services",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://redropegames.com",
+      "https://redropegames.com/privacy-policy",
+      "https://redropegames.com/terms-of-services"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rmlabhost.com",
+    "company_name": "Rodrigo Maciel",
+    "website": "https://rmlabhost.com/japamala/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "roomaid.app",
+    "company_name": "RoomAid LLC",
+    "website": "https://www.roomaid.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@roomaid.app",
+        "confidence": "medium",
+        "source_url": "https://www.roomaid.app/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@roomaid.app",
+        "confidence": "medium",
+        "source_url": "https://www.roomaid.app/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@roomaid.app",
+      "support@roomaid.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.roomaid.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.roomaid.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.roomaid.app/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.roomaid.app/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See who's around, what's due and what the house needs. Statuses, a shared calendar, shopping, tasks and lists for housemates, on iPhone and Android.",
+    "source_urls": [
+      "https://www.roomaid.app/support",
+      "https://www.roomaid.app/privacy",
+      "https://www.roomaid.app/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "routinelauncher.com",
+    "company_name": "Sassda Chap",
+    "website": "https://routinelauncher.com/sunny16/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  }
+]
