@@ -1,0 +1,3562 @@
+[
+  {
+    "company_domain": "mimic.com",
+    "company_name": "MIMIC",
+    "website": "https://mimic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@mimic.com",
+        "confidence": "highest",
+        "source_url": "https://mimic.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "data which is in our possession by submitting a request to privacy@mimic.com . For security purposes, we may seek to verify your identit"
+      },
+      {
+        "address": "sales@mimic.com",
+        "confidence": "highest",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "as questions this guide doesn't answer, send them our way: sales@mimic.com Stop every unwanted change. Book a Demo Products Ransomware"
+      },
+      {
+        "address": "security+vdp@mimic.com",
+        "confidence": "highest",
+        "source_url": "https://mimic.com/vulnerability-disclosure-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "unsure whether a system is in scope, please contact us at security+vdp@mimic.com before beginning your research. Test Methods Under this po"
+      },
+      {
+        "address": "example@mimic.com",
+        "confidence": "high",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@mimic.com",
+        "confidence": "high",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "egal, P.O. Box 722, Palo Alto, CA 94302 USA, with a copy to legal@mimic.com. 12.10 Order of Precedence. In the event of any conflict o"
+      }
+    ],
+    "role_emails": [
+      "example@mimic.com",
+      "legal@mimic.com",
+      "privacy@mimic.com",
+      "sales@mimic.com",
+      "security+vdp@mimic.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "affiliates@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob.blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bob_blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bobb@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by.blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/resources/known-good-enforcement-glossary",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/resources/known-good-enforcement-glossary",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "by_blakley@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/resources/known-good-enforcement-glossary",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "byb@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "By Bob Blakley",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/resources/known-good-enforcement-glossary",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.affiliates@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.iii@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby III",
+        "person_title": null,
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.mosby@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl.iii@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby III",
+        "person_title": null,
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl.mosby@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl_iii@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby III",
+        "person_title": null,
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl_mosby@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carli@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby III",
+        "person_title": null,
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlm@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "customer.affiliates@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "customer@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "customer_affiliates@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "customera@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Customer Affiliates",
+        "person_title": "Owner",
+        "source_url": "https://mimic.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.smith@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek.smith@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derek_smith@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dereks@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.register@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "iii@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby III",
+        "person_title": null,
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.register@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_register@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inr@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.mandia@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin.mandia@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin_mandia@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevinm@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mandia@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Mandia",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mimic@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mosby@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Mosby",
+        "person_title": "Marketing Director",
+        "source_url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "register@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In The Register",
+        "person_title": "Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "smith@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derek Smith",
+        "person_title": "Ceo",
+        "source_url": "https://mimic.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.mimic@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "what.mimic@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "what@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "what_mimic@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whatm@mimic.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "What Mimic",
+        "person_title": "Co-Founder",
+        "source_url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mimic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/guides/protect-windows-server-2016-after-end-of-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/ransomware-defense",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/ai-shield",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/agentic-ai-governance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/virtual-patching",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/whitepapers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/when-detection-becomes-the-build-trigger",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/identity/active-directory-security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/threats/lateral-movement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/threats/fileless-attacks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/threats/zero-day-defense",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/threats/ai-powered-ransomware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/patch-window",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/case-studies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/known-good-enforcement-glossary",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/server-threat-library",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/exploit-path",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/missing-patches",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/in-the-news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/known-good-enforcement-glossary#known-good-enforcement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/stop-ransomware-before-encryption",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/guides/stop-ai-powered-ransomware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/known-good-enforcement-glossary#endpoint-detection-and-response",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/prevent-ransomware-without-detection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/known-good-enforcement-glossary#kernel-level-enforcement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/resources/known-good-enforcement-glossary#baseline",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/case-studies/how-rei-fortified-its-active-directory-estate-against-ransomware-with-mimic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/trusted-partners-hidden-threats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/case-for-machine-speed-defense",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/mythos-closed-the-patch-window",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/the-end-of-detect-and-respond-why-ai-driven-attacks-demand-autonomous-defense",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/kernel-level-enforcement-security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/known-good-enforcement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/how-to-stop-ransomware-before-encryption",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/blog/how-to-prevent-ai-powered-ransomware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/terms-of-use",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/privacy-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/vulnerability-disclosure-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mimic.com/technical-and-organizational-measures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://mimic.com/agentic-ai-governance",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Mimic enforces known-good state at the kernel level, blocking ransomware and AI-driven attacks before execution. No signatures. No behavioral guessing.",
+    "source_urls": [
+      "https://mimic.com",
+      "https://mimic.com/about",
+      "https://mimic.com/guides/protect-windows-server-2016-after-end-of-support",
+      "https://mimic.com/",
+      "https://mimic.com/ransomware-defense",
+      "https://mimic.com/ai-shield",
+      "https://mimic.com/agentic-ai-governance",
+      "https://mimic.com/virtual-patching",
+      "https://mimic.com/resources",
+      "https://mimic.com/blog",
+      "https://mimic.com/resources/whitepapers",
+      "https://mimic.com/resources/when-detection-becomes-the-build-trigger",
+      "https://mimic.com/identity/active-directory-security",
+      "https://mimic.com/threats/lateral-movement",
+      "https://mimic.com/threats/fileless-attacks",
+      "https://mimic.com/threats/zero-day-defense",
+      "https://mimic.com/threats/ai-powered-ransomware",
+      "https://mimic.com/patch-window",
+      "https://mimic.com/case-studies",
+      "https://mimic.com/resources/known-good-enforcement-glossary",
+      "https://mimic.com/server-threat-library",
+      "https://mimic.com/exploit-path",
+      "https://mimic.com/missing-patches",
+      "https://mimic.com/careers",
+      "https://mimic.com/events",
+      "https://mimic.com/in-the-news",
+      "https://mimic.com/blog/the-patch-window-closed-most-enterprise-defenses-dont-know-it-yet",
+      "https://mimic.com/solutions",
+      "https://mimic.com/resources/known-good-enforcement-glossary#known-good-enforcement",
+      "https://mimic.com/stop-ransomware-before-encryption",
+      "https://mimic.com/guides/stop-ai-powered-ransomware",
+      "https://mimic.com/resources/known-good-enforcement-glossary#endpoint-detection-and-response",
+      "https://mimic.com/resources/prevent-ransomware-without-detection",
+      "https://mimic.com/resources/known-good-enforcement-glossary#kernel-level-enforcement",
+      "https://mimic.com/resources/known-good-enforcement-glossary#baseline",
+      "https://mimic.com/case-studies/how-rei-fortified-its-active-directory-estate-against-ransomware-with-mimic",
+      "https://mimic.com/blog/trusted-partners-hidden-threats",
+      "https://mimic.com/blog/case-for-machine-speed-defense",
+      "https://mimic.com/blog/mythos-closed-the-patch-window",
+      "https://mimic.com/blog/the-end-of-detect-and-respond-why-ai-driven-attacks-demand-autonomous-defense",
+      "https://mimic.com/kernel-level-enforcement-security",
+      "https://mimic.com/known-good-enforcement",
+      "https://mimic.com/whitepapers/kernel-level-enforcement-guide",
+      "https://mimic.com/blog/how-to-stop-ransomware-before-encryption",
+      "https://mimic.com/blog/how-to-prevent-ai-powered-ransomware",
+      "https://mimic.com/terms-of-use",
+      "https://mimic.com/terms-and-conditions",
+      "https://mimic.com/privacy-notice",
+      "https://mimic.com/vulnerability-disclosure-policy",
+      "https://mimic.com/technical-and-organizational-measures"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mistyharbor.com",
+    "company_name": "MISTY HARBOR",
+    "website": "https://mistyharbor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "harbor@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.harbor@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "misty.harbor@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "misty@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "misty_harbor@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mistyh@mistyharbor.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Misty Harbor",
+        "person_title": "Owner",
+        "source_url": "https://www.mistyharbor.com/referral-page/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mistyharbor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mistyharbor.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/referral-page/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/accommodations/on-site-amenities/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/the-area/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/home/guest-information/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/accommodations/upcoming-events/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/owners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/guest-registration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.mistyharbor.com/author/bpatrawtnsinc-com/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Misty Harbor and Barefoot Beach Resort, beach front overnight accommodations on Lake Winnipesaukee in Gilford, New Hampshire. Hotels, motels, lodging.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "nathanmattingly.com",
+    "company_name": "NATHAN MATTINGLY",
+    "website": "https://nathanmattingly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nathanmattingly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/resume",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nathanmattingly.com/music",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://nathanmattingly.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The official website of NYC-based actor, musician, and songwriter Nathan Mattingly.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "nobodysfood.com",
+    "company_name": "NOBODY'S FOOD",
+    "website": "https://nobodysfood.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nobodysfood.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nobodysfood.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get fresh meals delivered to your door with our reliable food delivery service. Sign up for updates and enjoy hassle-free online food ordering!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pizzatascio.com",
+    "company_name": "PIZZA TASCIO",
+    "website": "https://pizzatascio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@pizzatascio.com",
+        "confidence": "highest",
+        "source_url": "https://pizzatascio.com/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r your next event. Still need a hand? Reach us any time at customerservice@pizzatascio.com . What is NY-Style Pizza? Delicious! True NY-S"
+      },
+      {
+        "address": "tascio@pizzatascio.com",
+        "confidence": "high",
+        "source_url": "https://pizzatascio.com/tascio-to-go",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u0022customerservice@pizzatascio.com",
+        "confidence": "high",
+        "source_url": "https://pizzatascio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ecustomerservice@pizzatascio.com",
+        "confidence": "high",
+        "source_url": "https://pizzatascio.com/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@pizzatascio.com",
+      "tascio@pizzatascio.com",
+      "u0022customerservice@pizzatascio.com",
+      "u003ecustomerservice@pizzatascio.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pizzatascio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/s/store-locator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/s/splash",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/tascio-to-go",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/white-glove-delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/pizza-trailer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/pizza-class",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/tascio-rewards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/s/stories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/s/order",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/s/order",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-class",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/tascio-to-go",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-north-kansas-city",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-barry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-waldo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-overland-park",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-39th-street",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-st-joseph",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-belton",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-olathe",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pizzatascio.com/pizza-tascio-mission",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pizzatascio.com/s/gift-cards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://pizzatascio.com/contact-us-1",
+        "action": "/app/cms/api/v1/schemas/18673050-df44-11ee-8989-eb710fd5e89f/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.pizzatascio.com/contact-us-1",
+        "action": "/app/cms/api/v1/schemas/18673050-df44-11ee-8989-eb710fd5e89f/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://pizzatascio.com/white-glove-delivery",
+        "action": "/app/cms/api/v1/schemas/3c8ed3e0-a0c9-11f1-b130-032d60bd2ea1/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://pizzatascio.com/pizza-class",
+        "action": "/app/cms/api/v1/schemas/92678580-5b4e-11f0-ad2e-6b12891cfdc6/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.pizzatascio.com/tascio-to-go",
+        "action": "/app/cms/api/v1/schemas/b5ba5470-9da8-11f1-bee4-8958dbef5033/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Award-winning New York style pizza in Kansas City \u2014 hand-tossed 18\u2033 pies and pizza by the slice at nine KC locations. Order Online",
+    "source_urls": [
+      "https://pizzatascio.com",
+      "https://pizzatascio.com/contact-us-1",
+      "https://www.pizzatascio.com/contact-us-1",
+      "https://pizzatascio.com/",
+      "https://pizzatascio.com/tascio-to-go",
+      "https://pizzatascio.com/white-glove-delivery",
+      "https://pizzatascio.com/pizza-trailer",
+      "https://www.pizzatascio.com/tascio-to-go",
+      "https://www.pizzatascio.com/pizza-tascio-north-kansas-city",
+      "https://www.pizzatascio.com/pizza-tascio-barry",
+      "https://www.pizzatascio.com/pizza-tascio-waldo",
+      "https://www.pizzatascio.com/pizza-tascio-overland-park",
+      "https://www.pizzatascio.com/pizza-tascio-39th-street",
+      "https://www.pizzatascio.com/pizza-tascio-st-joseph",
+      "https://www.pizzatascio.com/pizza-tascio-belton"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "positiveyardies.com",
+    "company_name": "POSITIVE YARDIES",
+    "website": "https://positiveyardies.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pumpbeast.com",
+    "company_name": "PUMP BEAST",
+    "website": "https://pumpbeast.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pumpbeast.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "PUMPBEAST \u2014 the whole internet feeds one beast. Every 100 clicks triggers a dev wallet buy of $BEAST.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "regen.com",
+    "company_name": "REGEN",
+    "website": "https://regen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@regen.com",
+        "confidence": "highest",
+        "source_url": "https://regen.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00a9 2026 by ReGenerating Solutions, Inc. 203-331-9300 info@ReGen.com 1 Post Road , 3rd Floor, Fairfield, CT 06824 Home Page Pr"
+      },
+      {
+        "address": "infor@regen.com",
+        "confidence": "highest",
+        "source_url": "https://www.regen.com/blank-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t us with the following methods: \u200b 203-331-9300 infor@ReGen.com ReGenerating Solutions, Inc. Providing Technology Sol"
+      },
+      {
+        "address": "sales@regen.com",
+        "confidence": "highest",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "og Privacy Policy Accessibility Statement News My Addresses Sales@regen.com 203-331-9300 Search Latest News Contact ReG"
+      }
+    ],
+    "role_emails": [
+      "info@regen.com",
+      "infor@regen.com",
+      "sales@regen.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.ned@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "connecticut.ned@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "connecticut@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "connecticut_ned@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "connecticutn@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ned@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Connecticut Governor Ned",
+        "person_title": "President",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "platform@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.platform@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zero.platform@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zero@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zero_platform@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zerop@regen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zero Trust Platform",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.regen.com/news",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://regen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/about-3",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/book-online",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/policies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/blank-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/my-addresses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/build-an-ai-use-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/email365-protection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/silver-end-point-protection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/help-desk-service",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/zero-trust-application-monitoring",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/bronze-end-point-protection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/phone-systems",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/product-page/ceramic-flower-vase",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/service-page/security-training",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/booking-calendar/vulnerability-scan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/booking-calendar/cybersecurity-assessment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.regen.com/booking-calendar/custom-software-development",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.regen.com/contact-information",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ReGenerating Solution, founded in 1983, our background is in complex database and business system integration with voice & data technologies, helpdesk, accounting, office automation and business intelligence. We offer consulting services, project management, a complete line of web services, includin",
+    "source_urls": [
+      "https://regen.com",
+      "https://www.regen.com/contact-information",
+      "https://www.regen.com/about-3",
+      "https://www.regen.com",
+      "https://www.regen.com/news",
+      "https://www.regen.com/book-online",
+      "https://www.regen.com/category/all-products",
+      "https://www.regen.com/blog",
+      "https://www.regen.com/policies",
+      "https://www.regen.com/blank-1",
+      "https://www.regen.com/my-addresses",
+      "https://www.regen.com/product-page",
+      "https://www.regen.com/product-page/build-an-ai-use-policy",
+      "https://www.regen.com/product-page/email365-protection",
+      "https://www.regen.com/product-page/silver-end-point-protection",
+      "https://www.regen.com/product-page/help-desk-service",
+      "https://www.regen.com/product-page/zero-trust-application-monitoring",
+      "https://www.regen.com/product-page/bronze-end-point-protection",
+      "https://www.regen.com/product-page/phone-systems",
+      "https://www.regen.com/product-page/ceramic-flower-vase",
+      "https://www.regen.com/service-page/security-training",
+      "https://www.regen.com/booking-calendar/vulnerability-scan",
+      "https://www.regen.com/booking-calendar/cybersecurity-assessment",
+      "https://www.regen.com/booking-calendar/custom-software-development"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "resilia.com",
+    "company_name": "RESILIA",
+    "website": "https://resilia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@resilia.com",
+        "confidence": "highest",
+        "source_url": "https://resilia.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Service Email us at help@resilia.com Sales & Partners Email Us at partnerships@resilia.com"
+      },
+      {
+        "address": "partnerships@resilia.com",
+        "confidence": "highest",
+        "source_url": "https://resilia.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us at help@resilia.com Sales & Partners Email Us at partnerships@resilia.com Are you a nonprofit looking to learn more about"
+      },
+      {
+        "address": "press@resilia.com",
+        "confidence": "highest",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01",
+        "context_snippet": "you\u2019d like us to share? Reach out using this email address: press@resilia.com"
+      },
+      {
+        "address": "support@resilia.com",
+        "confidence": "highest",
+        "source_url": "https://resilia.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@resilia.com",
+      "partnerships@resilia.com",
+      "press@resilia.com",
+      "support@resilia.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "appointed@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Appointed",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "b.startup@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Startup",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "b.who@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "black.startup@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Startup",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "black.who@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "black@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "black_startup@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Startup",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "black_who@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "blacks@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Startup",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "blackw@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "defies@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Defies",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "female@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "n.female@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "n.platform@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "new.female@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "new@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "new_female@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "newf@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New Orleans Female",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "nonprofit.platform@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "nonprofit@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "nonprofit_platform@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "nonprofitp@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "platform@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nonprofit Formation Platform",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "r.wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Resilia Sevetri Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "resilia.wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Resilia Sevetri Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "resilia@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Resilia Sevetri Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "resilia_wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Resilia Sevetri Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "resiliaw@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Resilia Sevetri Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "s.appointed@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Appointed",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "s.defies@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Defies",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "s.wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sevetri.appointed@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Appointed",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetri.defies@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Defies",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetri.wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sevetri@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sevetri_appointed@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Appointed",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetri_defies@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Defies",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetri_wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sevetria@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Appointed",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetrid@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson Defies",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "sevetriw@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startup@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Startup",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "who@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Woman Who",
+        "person_title": "Ceo",
+        "source_url": "https://resilia.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "address": "wilson@resilia.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sevetri Wilson",
+        "person_title": "Founder",
+        "source_url": "https://resilia.com/support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://resilia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "url": "https://resilia.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/products/capacity-builder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/products/premium-coaching",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/tool-kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/webinars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/testimonials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/case-studies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/bridge-for-nonprofits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/book-meeting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/1f681281-b916-46eb-a423-272e77f21fb8",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://resilia.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Leading Nonprofit Capacity-Building & Grantmaker Intelligence Platform for Funders.",
+    "source_urls": [
+      "https://resilia.com/contact",
+      "https://resilia.com/press",
+      "https://resilia.com/bridge-for-nonprofits",
+      "https://resilia.com/terms",
+      "https://resilia.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 47,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "seibellaboutique.com",
+    "company_name": "SEI BELLA BOUTIQUE",
+    "website": "https://seibellaboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@seibellaboutique.com",
+        "confidence": "high",
+        "source_url": "https://seibellaboutique.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 AM \u2013 9:00 PM By Appointment Get In Touch (305) 537-6379 contact@seibellaboutique.com RESERVATIONS Request Your Private Fitting We invite you to"
+      }
+    ],
+    "role_emails": [
+      "contact@seibellaboutique.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "boutique@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.boutique@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sei.boutique@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sei@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sei_boutique@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seib@seibellaboutique.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sei Bella Boutique",
+        "person_title": "Founder",
+        "source_url": "https://www.seibellaboutique.com/story",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://seibellaboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seibellaboutique.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com/story",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com/book-online",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.seibellaboutique.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://seibellaboutique.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.seibellaboutique.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sei Bella Boutique was founded on a simple mission: to curate designer gowns that speak to the heart. We offer an editorial, intimate sanctuary where the search for your dress becomes a cherished memory.",
+    "source_urls": [
+      "https://seibellaboutique.com/contact",
+      "https://www.seibellaboutique.com/contact",
+      "https://www.seibellaboutique.com/book-online"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sellershub.com",
+    "company_name": "SELLERS HUB",
+    "website": "https://sellershub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "carmen@sellershub.com",
+        "confidence": "medium",
+        "source_url": "https://sellershub.com/privacy-policy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "carmen@sellershub.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.managers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "account.managers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "account@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "account_managers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "accountm@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agency@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "are@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.codron@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bianca.codron@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bianca@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bianca_codron@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "biancac@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bowers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.jacob@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carissa.jacob@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carissa@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carissa_jacob@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carissaj@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "codron@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bianca Codron",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "directors@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grind@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hub@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jacob@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carissa Jacob",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laubscher@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "managers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Account Managers",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.laubscher@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.laubscher@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_laubscher@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterl@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Laubscher",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.directors@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.grind@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional.directors@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regional_directors@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "regionald@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Regional Sales Directors",
+        "person_title": "Business Development",
+        "source_url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhino.grind@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhino@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhino_grind@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rhinog@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rhino Grind",
+        "person_title": "Ceo",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.agency@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.hub@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales.agency@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales_agency@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salesa@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Recruitment Agency",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sellers.hub@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sellers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sellers_hub@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sellersh@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sellers Hub",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com/global-talent-solutions/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.bowers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "virginia.bowers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "virginia@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "virginia_bowers@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "virginiab@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Virginia Bowers",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.are@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "who.are@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "who@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "who_are@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whoa@sellershub.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Who We Are",
+        "person_title": "Founder",
+        "source_url": "https://sellershub.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sellershub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/contact/#assess-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/find-talent/us-sales-recruitment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/global-talent-solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/insurance-sales-recruiters/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/find-talent/manufacturing-sales-recruitment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/find-talent/b2b-tech-saas-sales-recruitment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/how-a-call-works/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/find-talent/case-studies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/global-talent-roi-calculator/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/faqs/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/#seller",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/for-job-seekers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sellershub.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sellers Hub helps companies hire high-performing sales talent through U.S. committed search and global talent solutions. Build a revenue-driven team.",
+    "source_urls": [
+      "https://sellershub.com/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shophooch.com",
+    "company_name": "HOOCH",
+    "website": "https://shophooch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shophooch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shophooch.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hooch is a work of progress. A new kind of mercantile, showroom, and representation for the curious and the restless.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 64,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
