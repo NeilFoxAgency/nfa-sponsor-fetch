@@ -1,0 +1,1943 @@
+[
+  {
+    "company_domain": "bibliotele.com",
+    "company_name": "BIBLIOTELE",
+    "website": "https://bibliotele.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bibliotele.com",
+        "confidence": "highest",
+        "source_url": "https://bibliotele.com/terms-conditions/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "hese Terms and Conditions, You can contact us: By email: hello@bibliotele.com By visiting this page on our website: https://www.biblio"
+      },
+      {
+        "address": "soporte@bibliotele.com",
+        "confidence": "highest",
+        "source_url": "https://bibliotele.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m\u00e1s abajo en este sitio web. Tambi\u00e9n puedes escribirnos a soporte@bibliotele.com , y estaremos encantados de asistirte. \u00bfC\u00f3mo puedo empe"
+      },
+      {
+        "address": "support@bibliotele.com",
+        "confidence": "highest",
+        "source_url": "https://bibliotele.com/accessibility-statement/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "jorar, te invitamos a contactarnos: Correo electr\u00f3nico: support@bibliotele.com Tus comentarios son valiosos y nos ayudar\u00e1n a mejorar la"
+      },
+      {
+        "address": "hola@bibliotele.com",
+        "confidence": "high",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "juanjo@bibliotele.com",
+        "confidence": "high",
+        "source_url": "https://bibliotele.com/bibliotecas-academicas/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bibliotele.com",
+      "hola@bibliotele.com",
+      "juanjo@bibliotele.com",
+      "soporte@bibliotele.com",
+      "support@bibliotele.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "migrante@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "murcia@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.migrante@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tu.migrante@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tu@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tu_migrante@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tum@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tu Voz Migrante",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.murcia@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valentina.murcia@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valentina@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valentina_murcia@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valentinam@bibliotele.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Valentina Murcia",
+        "person_title": "Ceo",
+        "source_url": "https://bibliotele.com/bibliotecas-publicas/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bibliotele.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/crear-cuenta/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/eng/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/bibliotecas-academicas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/bibliotecas-publicas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/sobre-nosotros/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/blog-bibliotele-magazine/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/hablemos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/contenidos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/ayuda/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/ver-bibliotele-con-chromecast/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/accessibility-statement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/privacy-policies/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/cookies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bibliotele.com/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bibliotele, contenido audiovisual original en streaming, en espa\u00f1ol, sin publicidad y sin costo para ti, s\u00f3lo necesitas la tarjeta de tu biblioteca.",
+    "source_urls": [
+      "https://bibliotele.com",
+      "https://bibliotele.com/",
+      "https://bibliotele.com/eng/",
+      "https://bibliotele.com/bibliotecas-academicas/",
+      "https://bibliotele.com/bibliotecas-publicas/",
+      "https://bibliotele.com/hablemos/",
+      "https://bibliotele.com/contenidos/",
+      "https://bibliotele.com/ayuda/",
+      "https://bibliotele.com/accessibility-statement/",
+      "https://bibliotele.com/privacy-policies/",
+      "https://bibliotele.com/cookies/",
+      "https://bibliotele.com/terms-conditions/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 43,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bidcraft.com",
+    "company_name": "BIDCRAFT",
+    "website": "https://bidcraft.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "diaslifestyle.com",
+    "company_name": "DIAS LIFESTYLE",
+    "website": "https://diaslifestyle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@diaslifestyle.com",
+        "confidence": "high",
+        "source_url": "https://diaslifestyle.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@diaslifestyle.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://diaslifestyle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/products.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://diaslifestyle.com/in/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dias Lifestyle by DIAS LIFESTYLE LLC \u2014 everyday tech accessories: cables, charging, audio, protection, watch bands, stands and travel gear. DIAS \u2014 An arc for your everyday needs.",
+    "source_urls": [
+      "https://diaslifestyle.com/contact",
+      "https://diaslifestyle.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "exoticool.com",
+    "company_name": "EXOTICOOL",
+    "website": "https://exoticool.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@exoticool.com",
+        "confidence": "highest",
+        "source_url": "https://exoticool.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "h LLC (DBA Exoticool) Eugene, Oregon, United States Email: support@exoticool.com Phone: (541) 503-8898 Support: Monday\u2013Friday, 9:00 AM\u20135:00"
+      }
+    ],
+    "role_emails": [
+      "support@exoticool.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "e.llc@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exoticool.llc@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exoticool@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exoticool_llc@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exoticooll@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "llc@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exoticool Merch LLC",
+        "person_title": null,
+        "source_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "notice@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.notice@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.notice@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_notice@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisn@exoticool.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Legal Notice",
+        "person_title": "Owner",
+        "source_url": "https://exoticool.com/policies/legal-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://exoticool.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/contact-exoticool",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/about-exoticool",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/drop-001-we-are-all-aliens",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/drop-002-our-existence-is-not-up-for-debate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/exoticool-hoodies-futuristic-cyberpunk-streetwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/exoticool-custom-work",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/exoticool-custom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/exoticool-custom#custom-quote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/exoticool-collaborations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/blogs/the-frequency",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/order-tracking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/international",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/alien-signal-they-dont-want-you-to-know-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/they-were-here-first-vintage-ufo-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/earth-has-no-borders-alien-eye-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/system-glitch-cyberpunk-glitch-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/future-access-universal-futuristic-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/consent-is-the-firewall-cyberpunk-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/we-were-never-the-error-cyberpunk-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/break-the-loop-cyberpunk-glitch-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/alien-streetwear-brand",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/cyberpunk-fashion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/what-is-alien-streetwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/pages/futuristic-streetwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/policies/legal-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/adrianna-stephens-the-one-only-true-diva-exoticool",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/adrianna-stephens-purple-reign-diva-graphic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/adrianna-stephens-the-diva-two-sided-tote-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exoticool.com/products/alien-abduction-boxer-briefs-be-who-you-are-sci-fi-print",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://exoticool.com/pages/contact",
+        "action": "/contact#ExoticoolContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://exoticool.com/pages/contact-exoticool",
+        "action": "/contact#ExoticoolContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://exoticool.com/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life",
+        "action": "/blogs/the-frequency/how-to-dress-cyberpunk-in-real-life/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alien-inspired graphic clothing connecting belonging, self-expression and awakening. Wear what you feel. Question what you see. Explore Exoticool.",
+    "source_urls": [
+      "https://exoticool.com/pages/contact",
+      "https://exoticool.com/pages/contact-exoticool",
+      "https://exoticool.com/pages/international",
+      "https://exoticool.com/policies/legal-notice"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 68,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "flowsmiles.com",
+    "company_name": "FLOW SMILES",
+    "website": "https://flowsmiles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://flowsmiles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowsmiles.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fluoride-free nano-hydroxyapatite toothpaste. Gluten-free. Clean on the counter, simple in the routine. Join the waitlist.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getboga.com",
+    "company_name": "BOGA",
+    "website": "https://getboga.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getboga.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "To change this page, upload your website into the public_html directory.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jvaquatics.com",
+    "company_name": "JVAQUATICS",
+    "website": "https://jvaquatics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jvaquatics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jvaquatics.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hobbyist-led freshwater livestock from the Inland Empire. Neocaridina shrimp, guppies and live aquarium plants, bred in-house and never imported. Live Arrival Guarantee, ships Monday and Tuesday.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lostchameleon.com",
+    "company_name": "LOST CHAMELEON",
+    "website": "https://lostchameleon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lostchameleon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lostchameleon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lostchameleon.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lostchameleon.com/characters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lostchameleon.com/fan-art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.lostchameleon.com/menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "luckyonthe8.com",
+    "company_name": "LUCKY ON THE 8",
+    "website": "https://luckyonthe8.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://luckyonthe8.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://luckyonthe8.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A brand new website is under construction here. Check back soon!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sentimentsbytall.com",
+    "company_name": "SENTIMENTSBYTALL",
+    "website": "https://sentimentsbytall.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "thrashwater.com",
+    "company_name": "THRASH WATER",
+    "website": "https://thrashwater.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@thrashwater.com",
+        "confidence": "highest",
+        "source_url": "https://thrashwater.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t support inquiries, please contact us through our website. contact@thrashwater.com Thrash Water Privacy Policy Thrash Water (\u201cwe,\u201d \u201cour,\u201d or"
+      }
+    ],
+    "role_emails": [
+      "contact@thrashwater.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thrashwater.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/shop?olsPage=cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/m/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/m/create-account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/m/orders",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thrashwater.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Thrash Water&#39;s hydration products designed to keep you refreshed. Join us for our upcoming live event!",
+    "source_urls": [
+      "https://thrashwater.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vysn.com",
+    "company_name": "VYSN.",
+    "website": "https://vysn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@vysn.com",
+        "confidence": "high",
+        "source_url": "https://vysn.com/policies/shipping-policy",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@vysn.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vysn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/electronics-camera-photo-tripods-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/products/the-truth-about-santa-a-warm-and-honest-story-based-on-saint-nicholas-life-a-gentle-way-to-tell-kids-the-truth-that-santa-claus-isnt-real-paperback",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/products/mental-health-in-islam-healing-anxiety-depression-and-stress-through-the-light-of-islam-paperback",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/pages/about-senditures",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/women",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/men",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/newest-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/best-selling-products-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/gift-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/pages/deals-by-price-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/pages/our-brands-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/todays-deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/spring-sale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/last-chance-to-get-these",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/deals-under-10",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-crafts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-beading-jewelry-making",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-cards-gift-wrapping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-classroom-school",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-crafting-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-drawing-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-fabric",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-framing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-knitting-crochet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-needlework",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-organization-storage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-painting-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-paper-goods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-party-decorations-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-printmaking-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-scrapbooking-stamping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-arts-crafts-sewing-supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/musical-instruments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-amplifiers-effects",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-dj-karaoke",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-drums-percussion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-guitars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-keyboards-midi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-microphones-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/arts-music-music-stage-equipment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/automotive",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/automotive-car-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/automotive-electronics-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/collections/automotive-exterior-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vysn.com/pages/refund-policy",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vysn.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore VYSN for an exclusive range of products across all categories. Enjoy a seamless shopping experience with top-quality items from trusted brands, all in one convenient platform. Start shopping today!",
+    "source_urls": [
+      "https://vysn.com/policies/shipping-policy",
+      "https://vysn.com/pages/refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  }
+]
