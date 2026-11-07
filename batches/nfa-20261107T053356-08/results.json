@@ -1,0 +1,677 @@
+[
+  {
+    "company_domain": "appannex.com",
+    "company_name": "Oxagile LLC",
+    "website": "http://www.appannex.com/speed-tracker-gps-speedometer-and-trip-computer/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aurebeshtranslate.com",
+    "company_name": "Aurebesh Translate",
+    "website": "https://aurebeshtranslate.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "birdsong.fm",
+    "company_name": "Radio.co (UK) Ltd",
+    "website": "http://birdsong.fm",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "wilkyproductions.com",
+    "company_name": "Jonathon Wilkinson",
+    "website": "https://www.wilkyproductions.com/apps/bar-darts",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "wimzy.com",
+    "company_name": "Wimzy, Inc",
+    "website": "https://www.wimzy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@wimzy.com",
+        "confidence": "high",
+        "source_url": "https://www.wimzy.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@wimzy.com",
+        "confidence": "high",
+        "source_url": "https://www.wimzy.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "security@wimzy.com",
+        "confidence": "high",
+        "source_url": "https://www.wimzy.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@wimzy.com",
+        "confidence": "medium",
+        "source_url": "https://www.wimzy.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@wimzy.com",
+        "confidence": "medium",
+        "source_url": "https://www.wimzy.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@wimzy.com",
+      "legal@wimzy.com",
+      "privacy@wimzy.com",
+      "security@wimzy.com",
+      "support@wimzy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.wimzy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/developers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.wimzy.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.wimzy.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Intelligent resume bank that helps professionals organize, optimize, and share their career portfolio. Import from Google Drive, track interactions, and connect with opportunities using AI.",
+    "source_urls": [
+      "https://www.wimzy.com/contact",
+      "https://www.wimzy.com/privacy",
+      "https://www.wimzy.com/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "worldbrowserlive.com",
+    "company_name": "COMPASSMOBI TECH LIMITED",
+    "website": "https://worldbrowserlive.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "wumblewish.com",
+    "company_name": "CHRISTOPHER WILLIAM BUKER",
+    "website": "https://www.wumblewish.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "xovoz.com",
+    "company_name": "Scott Thomas",
+    "website": "https://xovoz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "yirtikesim.com",
+    "company_name": "YIRTIK PANTOLON LLC",
+    "website": "https://yirtikesim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "destek@yirtikesim.com",
+        "confidence": "highest",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "destek@yirtikesim.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "o.tra@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ouzhan.tra@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ouzhan@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ouzhan_tra@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ouzhant@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tra@yirtikesim.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "O\u011fuzhan T\u0131ra\u015f",
+        "person_title": "Founder",
+        "source_url": "https://yirtikesim.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://yirtikesim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/tr/iphone-ve-androide-esim-nasil-kurulur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/tr/esim",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/yasal/cayma-iade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/yasal/kvkk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/yasal/kullanim-kosullari",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yirtikesim.com/yasal/cerez-politikasi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Y\u0131rt\u0131k eSIM: yurt d\u0131\u015f\u0131nda indi\u011fin an internet. 190+ \u00fclke i\u00e7in eSIM, QR kod dakikalar i\u00e7inde e-postanda. Numaran ve WhatsApp'\u0131n de\u011fi\u015fmez.",
+    "source_urls": [
+      "https://yirtikesim.com",
+      "https://yirtikesim.com/contact",
+      "https://yirtikesim.com/support",
+      "https://yirtikesim.com/about",
+      "https://yirtikesim.com/team",
+      "https://yirtikesim.com/contact-us",
+      "https://yirtikesim.com/contactus",
+      "https://yirtikesim.com/about-us",
+      "https://yirtikesim.com/our-team",
+      "https://yirtikesim.com/meet-the-team",
+      "https://yirtikesim.com/leadership",
+      "https://yirtikesim.com/founders",
+      "https://yirtikesim.com/people",
+      "https://yirtikesim.com/staff",
+      "https://yirtikesim.com/press",
+      "https://yirtikesim.com/media",
+      "https://yirtikesim.com/help",
+      "https://yirtikesim.com/company",
+      "https://yirtikesim.com/who-we-are",
+      "https://yirtikesim.com/our-story",
+      "https://yirtikesim.com/our-mission",
+      "https://yirtikesim.com/get-in-touch",
+      "https://yirtikesim.com/reach-us",
+      "https://yirtikesim.com/enquiries",
+      "https://yirtikesim.com/impressum",
+      "https://yirtikesim.com/pages/contact",
+      "https://yirtikesim.com/pages/contact-us",
+      "https://yirtikesim.com/support/contact",
+      "https://yirtikesim.com/",
+      "https://yirtikesim.com/yasal/cayma-iade",
+      "https://yirtikesim.com/yasal/kvkk",
+      "https://yirtikesim.com/yasal/kullanim-kosullari"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "yusufteleme.com",
+    "company_name": "YUSUF TELEME",
+    "website": "https://fityt.yusufteleme.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "zangpollc.com",
+    "company_name": "Zangpo LLC",
+    "website": "https://zangpollc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zangpollc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zangpollc.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zangpollc.com/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zangpollc.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Zangpo LLC is an independent audio software company. DakiniSpace, a binaural sound environment for rest and sleep on iPhone; AUMulator, an evolving-drone instrument for the studio.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zerosay.com",
+    "company_name": "Wasted Penguinz AB",
+    "website": "https://zerosay.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
