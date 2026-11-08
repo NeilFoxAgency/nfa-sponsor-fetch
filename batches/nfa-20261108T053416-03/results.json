@@ -1,0 +1,3613 @@
+[
+  {
+    "company_domain": "leap.com",
+    "company_name": "LEAP",
+    "website": "https://leap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://leap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leap.com/contact/contact-us.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leap.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.leap.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "leasekey.com",
+    "company_name": "LEASE KEY",
+    "website": "https://leasekey.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "in@leasekey.com",
+        "confidence": "highest",
+        "source_url": "https://leasekey.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-21",
+        "context_snippet": "Contact us on 9718400088/9718100088 Email us on in@leasekey.com \u00d7 Contact us on 971840008"
+      },
+      {
+        "address": "satish@leasekey.com",
+        "confidence": "highest",
+        "source_url": "https://leasekey.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-09-29",
+        "context_snippet": "22102 satish@leasekey.com"
+      },
+      {
+        "address": "uday@leasekey.com",
+        "confidence": "highest",
+        "source_url": "https://leasekey.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+91 98-0000-1131 | uday@leasekey.com Home About"
+      }
+    ],
+    "role_emails": [
+      "in@leasekey.com",
+      "satish@leasekey.com",
+      "uday@leasekey.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://leasekey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-21"
+      },
+      {
+        "url": "https://leasekey.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-09-29"
+      },
+      {
+        "url": "https://leasekey.com/about.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/contact.php",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?locations=sector-18",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?locations=cyber-city",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?locations=golf-course-road",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?locations=sector-44",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/index.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?type=office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&type=office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=noida&type=office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=delhi&type=office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=all&type=office",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?type=coworking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&type=coworking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=noida&type=coworking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=delhi&type=coworking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=all&type=coworking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/blog-details.php?slug=best-coworking-office-spaces-gurgaon",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/blog-details.php?slug=how-to-choose-the-right-office-space",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/blog-details.php?slug=why-delhi-ncr-is-becoming-modern-workspace-hub",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&search=wework-cyber-city&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&search=innov8-golf-course&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&search=awfis-paras-trinity&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=gurgaon&search=venturex-sector-29&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=noida&search=91springboard-noida&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=noida&search=congregators-ithum-tower&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?city=delhi&search=quattro-spaces&type=all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?search=91springboard",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?search=wework",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?search=innov8",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/listings.php?search=awfis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leasekey.com/privacy-policy.php",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://leasekey.com/contact.php",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find the perfect office space for lease in Gurgaon, Noida, and Delhi. Explore premium coworking spaces and managed offices with LeaseKey.",
+    "source_urls": [
+      "https://leasekey.com",
+      "https://leasekey.com/contact-us",
+      "https://leasekey.com/about-us",
+      "https://leasekey.com/about.php",
+      "https://leasekey.com/contact.php",
+      "https://leasekey.com/listings.php?locations=sector-18",
+      "https://leasekey.com/listings.php?locations=cyber-city",
+      "https://leasekey.com/listings.php?locations=golf-course-road",
+      "https://leasekey.com/listings.php?locations=sector-44",
+      "https://leasekey.com/index.php",
+      "https://leasekey.com/listings.php?type=office",
+      "https://leasekey.com/listings.php?city=gurgaon&type=office",
+      "https://leasekey.com/listings.php?city=noida&type=office",
+      "https://leasekey.com/listings.php?city=delhi&type=office",
+      "https://leasekey.com/listings.php?city=all&type=office",
+      "https://leasekey.com/listings.php?type=coworking",
+      "https://leasekey.com/listings.php?city=gurgaon&type=coworking",
+      "https://leasekey.com/listings.php?city=noida&type=coworking",
+      "https://leasekey.com/listings.php?city=delhi&type=coworking",
+      "https://leasekey.com/listings.php?city=all&type=coworking",
+      "https://leasekey.com/listings.php",
+      "https://leasekey.com/blog-details.php?slug=best-coworking-office-spaces-gurgaon",
+      "https://leasekey.com/blog-details.php?slug=how-to-choose-the-right-office-space",
+      "https://leasekey.com/blog-details.php?slug=why-delhi-ncr-is-becoming-modern-workspace-hub",
+      "https://leasekey.com/listings.php?city=gurgaon&search=wework-cyber-city&type=all",
+      "https://leasekey.com/listings.php?city=gurgaon&search=innov8-golf-course&type=all",
+      "https://leasekey.com/listings.php?city=gurgaon&search=awfis-paras-trinity&type=all",
+      "https://leasekey.com/listings.php?city=gurgaon&search=venturex-sector-29&type=all",
+      "https://leasekey.com/listings.php?city=noida&search=91springboard-noida&type=all",
+      "https://leasekey.com/listings.php?city=noida&search=congregators-ithum-tower&type=all",
+      "https://leasekey.com/listings.php?city=delhi&search=quattro-spaces&type=all",
+      "https://leasekey.com/listings.php?search=91springboard",
+      "https://leasekey.com/listings.php?search=wework",
+      "https://leasekey.com/listings.php?search=innov8",
+      "https://leasekey.com/listings.php?search=awfis",
+      "https://leasekey.com/privacy-policy.php"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "onlinerewards.com",
+    "company_name": "ONLINE REWARDS",
+    "website": "https://onlinerewards.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ownthenight.co",
+    "company_name": "OWN THE NIGHT",
+    "website": "https://ownthenight.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ownthenight.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "polymat.com",
+    "company_name": "POLYMAT",
+    "website": "https://polymat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@polymat.com",
+        "confidence": "medium",
+        "source_url": "https://polymat.com/Warranty-Returns_ep_42-1.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@polymat.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://polymat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/About-Us_ep_7.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/crm.asp?action=contactus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/blog.asp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/myaccount.asp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/view_cart.asp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/infopage.asp?page=1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Adhesives_c_74.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/UPHOLSTERY-ADHESIVE_c_632.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/MULTIPURPOSE_c_633.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/AUTOMOTIVE-HIGH-TEMP_c_634.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Felt-Carpet-Liners_c_47.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Series-25_c_48.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Series-35_c_162.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Series-60_c_252.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.polymat.com/Adhesives_c_74.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.polymat.com/Felt-Carpet-Liners_c_47.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.polymat.com/UPHOLSTERY-ADHESIVE_c_632.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/797x-Hi-Temp-220\u00b0F-Spray-Glue-Adhesive_p_3656.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/add_cart.asp?quick=1&item_id=3656&cat_id=0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/SIZE-16FT-x-375FT-Polymat\u2122-Series-25-Black-_p_3562.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/add_cart.asp?quick=1&item_id=3562&cat_id=0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Polymat-Speaker-Box-Carpet-Charcoal-Gray-\u2013-16-ft-x-45-in-2mm-Felt-Series-25_p_914.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/add_cart.asp?quick=1&item_id=914&cat_id=0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/How-to-Carpet-a-Subwoofer-Box_b_3.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Welcome-to-our-online-store_b_1.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Terms-and-Conditions_ep_2-1.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Warranty-Returns_ep_42-1.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://polymat.com/Safety-Data-Sheets-SDS_ep_43-1.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://polymat.com/crm.asp?action=contactus",
+        "action": "crm.asp",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://polymat.com/797x-Hi-Temp-220\u00b0F-Spray-Glue-Adhesive_p_3656.html",
+        "action": "add_cart.asp",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://polymat.com/SIZE-16FT-x-375FT-Polymat\u2122-Series-25-Black-_p_3562.html",
+        "action": "add_cart.asp",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://polymat.com/Polymat-Speaker-Box-Carpet-Charcoal-Gray-\u2013-16-ft-x-45-in-2mm-Felt-Series-25_p_914.html",
+        "action": "add_cart.asp",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [
+      "https://polymat.com/Warranty-Returns_ep_42-1.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ravetop5.com",
+    "company_name": "RAVE TOP 5",
+    "website": "https://ravetop5.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ravetop5.com",
+        "confidence": "highest",
+        "source_url": "https://ravetop5.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@ravetop5.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ravetop5.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravetop5.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravetop5.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ravetop5.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "No reviews. Just the Top 5 of whatever you're craving, ranked by real diners.",
+    "source_urls": [
+      "https://ravetop5.com",
+      "https://ravetop5.com/",
+      "https://ravetop5.com/privacy",
+      "https://ravetop5.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "razwickham.com",
+    "company_name": "RAZ WICKHAM",
+    "website": "https://razwickham.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://razwickham.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://razwickham.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://razwickham.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://razwickham.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/multimedia-projects",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/copy-of-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/raz-wickham-bio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/jackie-barrows-bio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/ethereal-method",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/music",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/songs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/beyond-the-riff",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/archangel-signature-king-v",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/gear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/books",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/concept-art",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/teob-rise-of-the-fallen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/teob-wings-of-destruction",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/teob-twilight-of-the-gods",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/raw-cine",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/videos",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/photography",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/the-edge-of-beyond",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.razwickham.com/born-to-ride",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://razwickham.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.razwickham.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 61,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "restore.com",
+    "company_name": "RESTORE",
+    "website": "https://restore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "frontdeskca077@restore.com",
+        "confidence": "high",
+        "source_url": "https://restore.com/local/mild-hyperbaric-oxygen-therapy-ca-chino-hills-ca077",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "frontdeskct001@restore.com",
+        "confidence": "high",
+        "source_url": "https://restore.com/local/ultra-hydrating-facial-ct-westport-ct001",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "frontdeskga002@restore.com",
+        "confidence": "high",
+        "source_url": "https://restore.com/local/hydrafacial-ga-alpharetta-ga002",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "frontdeskca077@restore.com",
+      "frontdeskct001@restore.com",
+      "frontdeskga002@restore.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.ayers@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy.ayers@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy_ayers@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andya@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ayers@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Ayers",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coates@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.coates@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.generation@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darren.coates@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darren@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darren_coates@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darrenc@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darren Coates",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "demand.generation@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "demand@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "demand_generation@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "demandg@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donnelly@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Jim Donnelly",
+        "person_title": "Co-Founder",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "generation@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Demand Generation",
+        "person_title": "Cmo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hyper@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inquirer@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.hyper@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "many.hyper@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "many@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "many_hyper@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manyh@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Many Restore Hyper",
+        "person_title": "Owner",
+        "source_url": "https://restore.com/careers",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.ring@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oura.ring@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oura@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oura_ring@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourar@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.inquirer@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philadelphia.inquirer@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philadelphia@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philadelphia_inquirer@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "philadelphiai@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Philadelphia Inquirer",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.donnelly@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Jim Donnelly",
+        "person_title": "Co-Founder",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.wellness@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restore.donnelly@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Jim Donnelly",
+        "person_title": "Co-Founder",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restore.wellness@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restore@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restore_donnelly@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Jim Donnelly",
+        "person_title": "Co-Founder",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restore_wellness@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restored@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Jim Donnelly",
+        "person_title": "Co-Founder",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "restorew@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ring@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oura Ring",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/restore-book",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.welch@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.welch@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_welch@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevew@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.times@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.times@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_times@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thet@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "times@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Darwinian Times",
+        "person_title": "Ceo",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.r@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "welch@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Welch",
+        "person_title": "Founder",
+        "source_url": "https://restore.com/restore-leadership",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wellness@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Restore Hyper Wellness",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://restore.com/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy.r@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendy_r@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wendyr@restore.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wendy R.",
+        "person_title": null,
+        "source_url": "https://restore.com/glp1-medication",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://restore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/compression",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/blog/vitamins-for-depression",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/restore-medical-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/restore-leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.restore.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.restore.com/services/compression",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/restore-medical-team/dr-henry-legere",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/category/weight-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/global-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/cryotherapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/red-light-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/infrared-sauna",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/iv-drip-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/intramuscular-shots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/nad-iv-drip-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/nad-im-shot-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/niagen-nr-iv-drips",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/niagen-nr-im-shots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.restore.com/skin-health-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/neveskin-facial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/hydropeptide-custom-facial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/resurfacing-peels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/hydrafacial",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/keravive-scalp-treatment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/skin-health-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/mild-hyperbaric-oxygen-therapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/services/biomarker-assessments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/glp1-medication",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/restore-labs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/memberships",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/nad-niagen-plans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/iv-drip-menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/iv-nutrients",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/skin-health-menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/restore-book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/blog/how-can-a-sauna-help-me",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/book-now",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/nov-promo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.restore.com/services/cryotherapy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/local/mild-hyperbaric-oxygen-therapy-ca-chino-hills-ca077",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/local/ultra-hydrating-facial-ct-westport-ct001",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://restore.com/local/hydrafacial-ga-alpharetta-ga002",
+        "page_type": "other",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://restore.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://restore.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://restore.com/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Restore Hyper Wellness offers groundbreaking wellness services designed to help your body optimize sleep, boost athletic recovery, speed healing and feel your best. Find a Restore near you & book your appointment today!",
+    "source_urls": [
+      "https://restore.com/local/mild-hyperbaric-oxygen-therapy-ca-chino-hills-ca077",
+      "https://restore.com/local/ultra-hydrating-facial-ct-westport-ct001",
+      "https://restore.com/local/hydrafacial-ga-alpharetta-ga002"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 73,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "scrollodex.co",
+    "company_name": "SCROLLODEX",
+    "website": "https://scrollodex.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scrollodex.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scrollodex.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "teachlens.com",
+    "company_name": "TEACHLENS",
+    "website": "https://teachlens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@teachlens.com",
+        "confidence": "medium",
+        "source_url": "https://teachlens.com/contact.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@teachlens.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://teachlens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/index.html#features",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/index.html#how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/index.html#testimonials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachlens.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://teachlens.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/contactus",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/our-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/meet-the-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/leadership",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/founders",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/people",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/staff",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/help",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/company",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/who-we-are",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/our-story",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/our-mission",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/get-in-touch",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/reach-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/enquiries",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/impressum",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/support/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/index.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/index.html#features",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/index.html#how-it-works",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://teachlens.com/index.html#testimonials",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "TeachLens uses advanced AI technology to provide objective insights and actionable feedback that helps educators grow professionally.",
+    "source_urls": [
+      "https://teachlens.com/contact.html",
+      "https://teachlens.com/privacy.html",
+      "https://teachlens.com/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "traversal.com",
+    "company_name": "TRAVERSAL",
+    "website": "https://traversal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@traversal.com",
+        "confidence": "highest",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us at support@traversal.com For press inquiries, contact press@traversal.com \u00a9 2026 Traversal. All rights reserved. Subscribe to the Tra"
+      },
+      {
+        "address": "security@traversal.com",
+        "confidence": "highest",
+        "source_url": "https://traversal.com/security",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in our systems? Please report it responsibly by contacting security@traversal.com . Terms & Conditions Privacy Policy Customers R"
+      },
+      {
+        "address": "support@traversal.com",
+        "confidence": "highest",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Street, 12th Floor, NY, NY 10001 Questions? Contact us at support@traversal.com For press inquiries, contact press@traversal.com \u00a9 2026 Tr"
+      },
+      {
+        "address": "hello@traversal.com",
+        "confidence": "high",
+        "source_url": "https://traversal.com/legal/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@traversal.com",
+      "press@traversal.com",
+      "security@traversal.com",
+      "support@traversal.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.saha@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.whittle@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "banon@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blake.whittle@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blake@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blake_whittle@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blakew@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bratin.saha@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bratin@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bratin_saha@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bratins@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chase@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.pisarek@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.pisarek@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_pisarek@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidp@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.schwartz@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eric.schwartz@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eric@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eric_schwartz@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "erics@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.medal@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gold.medal@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gold@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gold_medal@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goldm@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.chase@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrison.chase@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrison@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrison_chase@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrisonc@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harrison Chase",
+        "person_title": "Cofounder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.sokol@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan.sokol@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan_sokol@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathans@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "medal@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gold Medal",
+        "person_title": "President",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pisarek@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Pisarek",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.banon@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.zaheer@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saha@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bratin Saha",
+        "person_title": "Cpo",
+        "source_url": "https://traversal.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schwartz@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eric Schwartz",
+        "person_title": null,
+        "source_url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay.banon@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay_banon@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shayb@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Banon",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sokol@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Sokol",
+        "person_title": "Founder",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suhaib.zaheer@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suhaib@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suhaib_zaheer@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "suhaibz@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whittle@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Blake Whittle",
+        "person_title": "Owner",
+        "source_url": "https://traversal.com/customer-stories/cloudways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zaheer@traversal.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Suhaib Zaheer",
+        "person_title": null,
+        "source_url": "https://traversal.com/get-pricing",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://traversal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/agentic-capabilities/production-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/surfaces/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/blog/built-for-the-enterprise-run-by-the-enterprise-traversal-introduces-seven-launches-that-put-platform-teams-in-control",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/agentic-capabilities/alert-intelligence",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/agentic-capabilities/incident-rca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/agentic-capabilities/self-healing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/agentic-capabilities/code-resilience",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/platform/production-world-model",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/platform/knowledge-bank",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/platform/integrations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/platform/analytics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/platform/automations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/surfaces/web",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/surfaces/slack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/surfaces/mcp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/workers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/customers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/research",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/events",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/glossary",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/blog/traversal-series-b-120-million-ai-sre",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/why-traversal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/book-a-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.traversal.com/videos/introducing-traversal-the-ai-sre-for-the-enterprise",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/customer-stories/harvey-traversal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/customer-stories/pepsico",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/customer-stories/digitalocean",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/customer-stories/cloudways",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/legal/terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/legal/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://traversal.com/get-pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Traversal is the AI SRE that triages alerts, finds root cause, and resolves incidents at petabyte scale. Trusted by American Express, PepsiCo, and DigitalOcean.",
+    "source_urls": [
+      "https://traversal.com",
+      "https://traversal.com/about",
+      "https://traversal.com/team",
+      "https://traversal.com/about-us",
+      "https://traversal.com/press",
+      "https://traversal.com/agentic-capabilities/production-support",
+      "https://traversal.com/surfaces/teams",
+      "https://traversal.com/blog/built-for-the-enterprise-run-by-the-enterprise-traversal-introduces-seven-launches-that-put-platform-teams-in-control",
+      "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+      "https://traversal.com/",
+      "https://traversal.com/agentic-capabilities/alert-intelligence",
+      "https://traversal.com/agentic-capabilities/incident-rca",
+      "https://traversal.com/agentic-capabilities/self-healing",
+      "https://traversal.com/agentic-capabilities/code-resilience",
+      "https://traversal.com/platform/production-world-model",
+      "https://traversal.com/platform/knowledge-bank",
+      "https://traversal.com/platform/integrations",
+      "https://traversal.com/platform/analytics",
+      "https://traversal.com/platform/automations",
+      "https://traversal.com/surfaces/web",
+      "https://traversal.com/surfaces/slack",
+      "https://traversal.com/surfaces/mcp",
+      "https://traversal.com/workers",
+      "https://traversal.com/customers",
+      "https://traversal.com/research",
+      "https://traversal.com/resources",
+      "https://traversal.com/blog",
+      "https://traversal.com/events",
+      "https://traversal.com/glossary",
+      "https://traversal.com/blog/traversal-series-b-120-million-ai-sre",
+      "https://traversal.com/blog/traversal-workers-are-now-generally-available",
+      "https://traversal.com/why-traversal",
+      "https://traversal.com/careers",
+      "https://traversal.com/security",
+      "https://traversal.com/book-a-demo",
+      "https://www.traversal.com/videos/introducing-traversal-the-ai-sre-for-the-enterprise",
+      "https://traversal.com/customer-stories/harvey-traversal",
+      "https://traversal.com/customer-stories/pepsico",
+      "https://traversal.com/customer-stories/digitalocean",
+      "https://traversal.com/customer-stories/cloudways",
+      "https://traversal.com/legal/terms-conditions",
+      "https://traversal.com/legal/privacy-policy",
+      "https://traversal.com/get-pricing"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 66,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "woodshedwoodchuck.com",
+    "company_name": "WOODSHED WOODCHUCK",
+    "website": "https://woodshedwoodchuck.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@woodshedwoodchuck.com",
+        "confidence": "highest",
+        "source_url": "https://woodshedwoodchuck.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ureka, MO 63025 Phone: (314) 514-5611 Email: support@woodshedwoodchuck.com Back to Woodshed"
+      }
+    ],
+    "role_emails": [
+      "support@woodshedwoodchuck.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://woodshedwoodchuck.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/home",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/guest",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/setup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/p-book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woodshedwoodchuck.com/family/parent-access",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://woodshedwoodchuck.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
