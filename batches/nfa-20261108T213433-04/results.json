@@ -1,0 +1,4243 @@
+[
+  {
+    "company_domain": "advent.com",
+    "company_name": "ADVENT",
+    "website": "https://advent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "emea@advent.com",
+        "confidence": "highest",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27",
+        "context_snippet": "T: + 44 20 7631 9240 T: + 44 20 7631 9240 emea@advent.com STOCKHOLM, SWEDEN"
+      },
+      {
+        "address": "info@advent.com",
+        "confidence": "highest",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27",
+        "context_snippet": "You can also reach our teams via email. For U.S., contact info@advent.com and for international, contact advent@sscinc.com ."
+      }
+    ],
+    "role_emails": [
+      "emea@advent.com",
+      "info@advent.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.arnett@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.rudin@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy.arnett@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy_arnett@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amya@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april.rudin@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april_rudin@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aprilr@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arnett@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Arnett",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bartlett Wealth Management",
+        "person_title": "President",
+        "source_url": "https://advent.com/who-we-serve/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barr@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Barr",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bartlett.management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bartlett Wealth Management",
+        "person_title": "President",
+        "source_url": "https://advent.com/who-we-serve/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bartlett@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bartlett Wealth Management",
+        "person_title": "President",
+        "source_url": "https://advent.com/who-we-serve/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bartlett_management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bartlett Wealth Management",
+        "person_title": "President",
+        "source_url": "https://advent.com/who-we-serve/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bartlettm@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bartlett Wealth Management",
+        "person_title": "President",
+        "source_url": "https://advent.com/who-we-serve/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "becher@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "belong@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.service@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "calvert@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "capital@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "client.service@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "client@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "client_service@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clients@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "collins@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.fritz@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.lau@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.lau@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_lau@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doug.fritz@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doug@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doug_fritz@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dougf@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.transaction@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eze.transaction@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eze@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eze_transaction@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ezet@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.capital@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fairgreen.capital@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fairgreen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fairgreen_capital@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fairgreenc@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Fairgreen Capital",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fritz@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Doug Fritz",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.sales@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.speaker@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "geiger@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global.sales@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global_sales@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "globals@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guest.speaker@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guest@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guest_speaker@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guests@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hess@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "insight@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.becher@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.milne@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jen.becher@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jen_becher@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jenb@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jen Becher",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.milne@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_milne@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnm@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.barr@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Barr",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.calvert@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "k.geiger@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kanchinadam@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karen.barr@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Barr",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karen.geiger@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karen_barr@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Barr",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karen_geiger@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karenb@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Barr",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kareng@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karen Geiger",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katherine.calvert@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "katherine@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "katherine_calvert@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "katherinec@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katherine Calvert",
+        "person_title": "Cmo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "larsen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lau@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Lau",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.collins@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.update@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike.collins@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike_collins@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikec@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Collins",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/news-and-insights/ask-advent/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "milne@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Milne",
+        "person_title": "President",
+        "source_url": "https://advent.com/resources/all-resources/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mineral.update@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mineral@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mineral_update@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mineralu@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "natare.management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "natare@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "natare_management@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "natarem@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Natare Capital Management",
+        "person_title": "Co-Founder",
+        "source_url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicholl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.insight@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "orbital.insight@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "orbital@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "orbital_insight@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "orbitali@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orbital Insight",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.hess@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "p.kanchinadam@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pete.hess@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "pete@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "pete_hess@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "peteh@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pete Hess",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "address": "prakash.kanchinadam@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prakash@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prakash_kanchinadam@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prakashk@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prakash Kanchinadam",
+        "person_title": "President",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rudin@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Rudin",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.belong@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.group@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.nicholl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Sales",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salt.belong@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salt@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salt_belong@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saltb@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Salt Caverns Belong",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "service@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Client Service",
+        "person_title": "Business Development",
+        "source_url": "https://advent.com/about/partners/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shelby.nicholl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shelby@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shelby_nicholl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shelbyn@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shelby Nicholl",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sovereign.group@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sovereign@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sovereign_group@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sovereigng@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sovereign Financial Group",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "speaker@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guest Speaker",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "street@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transaction@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eze Castle Transaction",
+        "person_title": "President",
+        "source_url": "https://advent.com/about/our-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "update@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mineral Update",
+        "person_title": "Owner",
+        "source_url": "https://advent.com/news-and-insights/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.larsen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verity.larsen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verity@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verity_larsen@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verityl@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verity Larsen",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.street@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wall.street@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wall@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wall_street@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walls@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.dan@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zachary.dan@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zachary@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zachary_dan@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zacharyd@advent.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zachary Dan",
+        "person_title": "Ceo",
+        "source_url": "https://advent.com/news-and-insights/podcast/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://advent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-27"
+      },
+      {
+        "url": "https://advent.com/solutions/?b=portfolio-management,-accounting-reporting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=fund-order-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=data-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=margin-finance-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=research-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=client-relationship-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/press-releases/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/our-team/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/partners/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/awards/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/careers/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/about/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=fund-accounting&b=performance-reporting-attribution&b=portfolio-management-accounting-reporting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=client-portal&b=client-relationship-management",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/who-we-serve/alternative-managers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/who-we-serve/hedge-fund-managers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/who-we-serve/investment-managers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=trading,-rebalancing-compliance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=client-portal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=outsourcing-managed-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=fund-accounting",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=investor-servicing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=performance-reporting-attribution",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/ask-advent/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/blog/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/podcast/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Article",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Case Study",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Industry Brief",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Industry Report",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Info Kit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Product Brief",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Product Preview",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Recorded Webinar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Video",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Whitepaper",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/events/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/demo-request/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/who-we-serve/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/solutions/?b=implementation-professional-services&b=outsourcing-managed-services",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/?r=Case%20Study",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/resources/all-resources/paper-what-to-know-before-launching-a-hedge-fund-thank-you/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advent.com/news-and-insights/blog/30-firms-and-counting/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SS&C Advent is a leading provider of portfolio management and accounting solutions and services to the world's leading institutional asset and wealth management firms. Explore how our financial technology solutions and services can help your business needs.",
+    "source_urls": [
+      "https://advent.com/about-us",
+      "https://advent.com/about/partners/",
+      "https://advent.com/about/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "deckybox.com",
+    "company_name": "DECKY BOX",
+    "website": "https://deckybox.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "getbetheanswer.com",
+    "company_name": "BE THE ANSWER",
+    "website": "https://getbetheanswer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "priya@betheanswer.online",
+        "confidence": "high",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "priya@betheanswer.online"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.gotlib@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos.gotlib@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos_gotlib@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlosg@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gotlib@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Gotlib",
+        "person_title": "Founder",
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaneshiro@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.kaneshiro@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay.kaneshiro@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shay_kaneshiro@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shayk@getbetheanswer.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shay Kaneshiro",
+        "person_title": null,
+        "source_url": "https://getbetheanswer.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://getbetheanswer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/#how",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/#other-feature-1",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/#benefit",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getbetheanswer.com/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Be The Answer is the #1 AI SEO & Generative Engine Optimization agency helping brands get discovered and recommended by ChatGPT, Perplexity, Claude, Gemini, and more.",
+    "source_urls": [
+      "https://getbetheanswer.com",
+      "https://getbetheanswer.com/contact",
+      "https://getbetheanswer.com/support",
+      "https://getbetheanswer.com/about",
+      "https://getbetheanswer.com/team",
+      "https://getbetheanswer.com/contact-us",
+      "https://getbetheanswer.com/contactus",
+      "https://getbetheanswer.com/about-us",
+      "https://getbetheanswer.com/our-team",
+      "https://getbetheanswer.com/meet-the-team",
+      "https://getbetheanswer.com/leadership",
+      "https://getbetheanswer.com/founders",
+      "https://getbetheanswer.com/people",
+      "https://getbetheanswer.com/staff",
+      "https://getbetheanswer.com/press",
+      "https://getbetheanswer.com/media",
+      "https://getbetheanswer.com/help",
+      "https://getbetheanswer.com/company",
+      "https://getbetheanswer.com/who-we-are",
+      "https://getbetheanswer.com/our-story",
+      "https://getbetheanswer.com/our-mission",
+      "https://getbetheanswer.com/get-in-touch",
+      "https://getbetheanswer.com/reach-us",
+      "https://getbetheanswer.com/enquiries",
+      "https://getbetheanswer.com/impressum",
+      "https://getbetheanswer.com/pages/contact",
+      "https://getbetheanswer.com/pages/contact-us",
+      "https://getbetheanswer.com/support/contact",
+      "https://getbetheanswer.com/",
+      "https://getbetheanswer.com/#how",
+      "https://getbetheanswer.com/#other-feature-1",
+      "https://getbetheanswer.com/#benefit",
+      "https://getbetheanswer.com/#faq"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getsealit.com",
+    "company_name": "SEALIT",
+    "website": "https://getsealit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "april@getsealit.com",
+        "confidence": "high",
+        "source_url": "https://getsealit.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Click for more Email:april@getsealit.com Whatsapp:8613303033129 Mobile:86133"
+      }
+    ],
+    "role_emails": [
+      "april@getsealit.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bogle@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hyde@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.hyde@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph.hyde@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph_hyde@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josephh@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Hyde",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.wilson@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.wilson@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_wilson@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelw@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.bogle@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patricia.bogle@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patricia@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patricia_bogle@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patriciab@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patricia Bogle",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wilson@getsealit.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Wilson",
+        "person_title": "Ceo",
+        "source_url": "https://getsealit.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://getsealit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/product/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getsealit.com/knowledge-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getsealit.com",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/about/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/product/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://getsealit.com/knowledge-2/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "GET o-ring has expert support from the largest , most experienced factory in China.Let us be your O-RING warehouse.rubber seal suppliers.\r\n\r\n3 factories ----5 warehouses - 5 days delivery",
+    "source_urls": [
+      "https://getsealit.com/contact",
+      "https://getsealit.com/pages/contact",
+      "https://getsealit.com/support/contact",
+      "https://getsealit.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ianalexander.com",
+    "company_name": "IAN ALEXANDER",
+    "website": "https://ianalexander.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ianalexander.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/contact.php",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/bio.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/demo1.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/demo2.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/demo3.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/demo4.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/services.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/hints.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ianalexander.com/index.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ianalexander.com/contact",
+        "action": "mailform.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ianalexander.com/contact.php",
+        "action": "mailform.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "You have heard Ian Alexander\u2019s voice. He\u2019s been carried on radio, television, and cable from New York to L.A., and from Alaska to the Bahamas. Industrial, corporate, and instructional programs featuring his work are seen and heard by thousands of prospects, investors,and employees.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "method.com",
+    "company_name": "METHOD",
+    "website": "https://method.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "careers@method.com",
+        "confidence": "highest",
+        "source_url": "https://method.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ral hello@method.com New Business newbiz@method.com Careers careers@method.com Locations Pairing the boutique-level attention you want wit"
+      },
+      {
+        "address": "hello@method.com",
+        "confidence": "highest",
+        "source_url": "https://method.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lan or you\u2019re still in the idea stage, we can help. General hello@method.com New Business newbiz@method.com Careers careers@method.com L"
+      },
+      {
+        "address": "newbiz@method.com",
+        "confidence": "highest",
+        "source_url": "https://method.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a stage, we can help. General hello@method.com New Business newbiz@method.com Careers careers@method.com Locations Pairing the boutique-l"
+      }
+    ],
+    "role_emails": [
+      "careers@method.com",
+      "hello@method.com",
+      "newbiz@method.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "framework@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.marketing@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global.marketing@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "global_marketing@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "globalm@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kalaher@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Global Marketing",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.kalaher@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick.kalaher@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrick_kalaher@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patrickk@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patrick Kalaher",
+        "person_title": "Business Development",
+        "source_url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.framework@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.framework@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_framework@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thef@method.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Agile Framework",
+        "person_title": "Owner",
+        "source_url": "https://method.com/insights/agile-project-management/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://method.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/ai-adoption-data-governance-change-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/change-management-adoption/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/innovation-team-structure/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/ai-change-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/workforce-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/agile-project-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/8-key-principles-for-modern-product-development-teams/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/rethinking-change-management-as-design/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/selecting-the-right-innovation-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/how-to-improve-your-agile-teams-capacity-planning/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/how-one-more-meeting-can-improve-your-development-teams-efficiency/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/company-onboarding-from-a-distance/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/power-within-your-people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/lessons-from-designing-for-healthcare-support-in-a-changing-world/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/6-things-youll-find-in-a-high-performing-retail-location/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/how-to-enhance-innovation-using-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/25-principles-to-a-healthy-software-development-team-and-culture/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/how-software-qa-benefits-your-development-teams-business-goals-end-users/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/principles_of_successful_software_teams/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/the-5-ws-of-data-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/modern-product-digital-maturity-assessment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/work/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/critical-infrastructure-innovation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/digitize-human-intuition/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/reinvention-in-financial-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/are-we-digitizing-to-use-ai-or-using-ai-to-digitize/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/from-intelligence-to-intervention/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/new-design-mandate-for-the-age-of-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/machine-first-enterprise/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/generator-interconnection-queue/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/ai-in-healthcare/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/next-generation-customer-acquisition-in-financial-services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/design-in-the-age-of-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/advancing-enterprise-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/industrialising-ai-through-mlops/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/bring-ai-to-life-with-data/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/physiology-of-data-readiness/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/data-bones-of-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/language-ops-for-transparentresponsible-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/why-we-need-a-science-of-ai-explainability/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/where-ai-budgets-go/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/the-ai-enabled-organization/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/the-hard-problem-of-explaining/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://method.com/insights/ai-wont-fix-your-pdlc/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Method is a strategic design and product development consultancy. We thrive in simplifying the complex, crafting experiences that improve lives and transform businesses.",
+    "source_urls": [
+      "https://method.com",
+      "https://method.com/contact",
+      "https://method.com/about",
+      "https://method.com/about/",
+      "https://method.com/insights/ai-adoption-data-governance-change-management/",
+      "https://method.com/insights/change-management-adoption/",
+      "https://method.com/insights/innovation-team-structure/",
+      "https://method.com/insights/ai-change-management/",
+      "https://method.com/insights/workforce-management/",
+      "https://method.com/insights/agile-project-management/",
+      "https://method.com/insights/8-key-principles-for-modern-product-development-teams/",
+      "https://method.com/insights/new-leadership-in-europe-to-spur-growth-and-investment/",
+      "https://method.com/insights/rethinking-change-management-as-design/",
+      "https://method.com/insights/selecting-the-right-innovation-team/",
+      "https://method.com/insights/how-to-improve-your-agile-teams-capacity-planning/",
+      "https://method.com/insights/how-one-more-meeting-can-improve-your-development-teams-efficiency/",
+      "https://method.com/insights/company-onboarding-from-a-distance/",
+      "https://method.com/insights/power-within-your-people/",
+      "https://method.com/insights/lessons-from-designing-for-healthcare-support-in-a-changing-world/",
+      "https://method.com/insights/6-things-youll-find-in-a-high-performing-retail-location/",
+      "https://method.com/insights/how-to-enhance-innovation-using-support/",
+      "https://method.com/insights/25-principles-to-a-healthy-software-development-team-and-culture/",
+      "https://method.com/insights/how-software-qa-benefits-your-development-teams-business-goals-end-users/",
+      "https://method.com/insights/principles_of_successful_software_teams/",
+      "https://method.com/insights/the-5-ws-of-data-management/",
+      "https://method.com/modern-product-digital-maturity-assessment/",
+      "https://method.com/work/",
+      "https://method.com/services/",
+      "https://method.com/insights/critical-infrastructure-innovation/",
+      "https://method.com/insights/digitize-human-intuition/",
+      "https://method.com/insights/reinvention-in-financial-services/",
+      "https://method.com/insights/are-we-digitizing-to-use-ai-or-using-ai-to-digitize/",
+      "https://method.com/insights/from-intelligence-to-intervention/",
+      "https://method.com/insights/new-design-mandate-for-the-age-of-ai/",
+      "https://method.com/insights/machine-first-enterprise/",
+      "https://method.com/insights/generator-interconnection-queue/",
+      "https://method.com/insights/ai-in-healthcare/",
+      "https://method.com/insights/next-generation-customer-acquisition-in-financial-services/",
+      "https://method.com/insights/design-in-the-age-of-ai/",
+      "https://method.com/insights/advancing-enterprise-ai/",
+      "https://method.com/insights/industrialising-ai-through-mlops/",
+      "https://method.com/insights/bring-ai-to-life-with-data/",
+      "https://method.com/insights/physiology-of-data-readiness/",
+      "https://method.com/insights/data-bones-of-ai/",
+      "https://method.com/insights/language-ops-for-transparentresponsible-ai/",
+      "https://method.com/insights/why-we-need-a-science-of-ai-explainability/",
+      "https://method.com/insights/where-ai-budgets-go/",
+      "https://method.com/insights/the-ai-enabled-organization/",
+      "https://method.com/insights/the-hard-problem-of-explaining/",
+      "https://method.com/insights/ai-wont-fix-your-pdlc/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "prosebop.com",
+    "company_name": "PROSEBOP",
+    "website": "https://prosebop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@prosebop.com",
+        "confidence": "highest",
+        "source_url": "https://prosebop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "line. If a flag looks wrong to you, email the sentence to support@prosebop.com and we will look at it. Modifiers beside nouns Descrip"
+      }
+    ],
+    "role_emails": [
+      "support@prosebop.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://prosebop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/passive-voice",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/adverbs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/show-dont-tell",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/dialogue-tags",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://prosebop.com/guide/nominalizations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Paste your draft and the problems light up. Click a flag, read the card, write the fix yourself. A line editor with no AI. 400 free words a day.",
+    "source_urls": [
+      "https://prosebop.com",
+      "https://prosebop.com/",
+      "https://prosebop.com/guide/",
+      "https://prosebop.com/privacy.html",
+      "https://prosebop.com/terms.html",
+      "https://prosebop.com/guide/passive-voice",
+      "https://prosebop.com/guide/adverbs",
+      "https://prosebop.com/guide/show-dont-tell",
+      "https://prosebop.com/guide/dialogue-tags",
+      "https://prosebop.com/guide/nominalizations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "pucksociety.com",
+    "company_name": "PUCK SOCIETY",
+    "website": "https://pucksociety.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aj@pucksociety.com",
+        "confidence": "highest",
+        "source_url": "https://pucksociety.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aj@pucksociety.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pucksociety.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pucksociety.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium hockey apparel. Drop 001 is coming soon. Join The Society for first access. for the few. not the many.",
+    "source_urls": [
+      "https://pucksociety.com",
+      "https://pucksociety.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sparkspine.com",
+    "company_name": "SPARK SPINE",
+    "website": "https://sparkspine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@sparkspine.com",
+        "confidence": "highest",
+        "source_url": "https://sparkspine.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1150 Great Plain Ave PO Box 920782 Needham, MA 02492 info@sparkspine.com bottom of page"
+      }
+    ],
+    "role_emails": [
+      "info@sparkspine.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "chappuis@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.chappuis@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin.chappuis@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevin_chappuis@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kevinc@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kevin Chappuis",
+        "person_title": "Business Development",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moses@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.spine@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spark.spine@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spark@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spark_spine@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sparks@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spine@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spark Spine",
+        "person_title": "Founder",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.moses@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ziev.moses@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ziev@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ziev_moses@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zievm@sparkspine.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ziev Moses",
+        "person_title": "President",
+        "source_url": "https://sparkspine.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sparkspine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sparkspine.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sparkspine.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sparkspine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sparkspine.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Implants that convert biomechanical force into useful electrical voltage.",
+    "source_urls": [
+      "https://sparkspine.com",
+      "https://sparkspine.com/team",
+      "https://www.sparkspine.com/team",
+      "https://www.sparkspine.com",
+      "https://www.sparkspine.com/news"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "teachport.com",
+    "company_name": "TEACHPORT",
+    "website": "https://teachport.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://teachport.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teachport.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The premium domain teachport.com is for sale on fruits.co. Secure the domain now and start your online success story. Safe payment and quick transfer are guaranteed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thejesusgarden.com",
+    "company_name": "THE JESUS GARDEN",
+    "website": "https://thejesusgarden.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thejesusgarden.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/shop-beef-tallow-creams-hair-oils-soaps-organic.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/romero-revival-rosemary-hair-oil.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/the-story-behind-el-jardin-de-la-creacion.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/news.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/our-promise.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/donate.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/store/c2/Handmade-Soasp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/store/c3/Handmade-creams",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/store/c11/Hair__Care.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/store/c4/Handsmade-Candle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thejesusgarden.com/store/c6/Available_Packaging_Options.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Nutre tu piel con la pureza de la creaci\u00f3n. Descubre nuestros jabones artesanales, b\u00e1lsamos de tallow (sebo de res) y aceite de romero hechos a mano.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryholo.com",
+    "company_name": "HOLO",
+    "website": "https://tryholo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "francesc@tryholo.com",
+        "confidence": "highest",
+        "source_url": "https://tryholo.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "). You can contact us by phone at +34698487547 , email at francesc@tryholo.com , or by mail to Carrer Magn\u00f2lies 45, El Vendrell, Tarragona"
+      },
+      {
+        "address": "legal@tryholo.com",
+        "confidence": "highest",
+        "source_url": "https://tryholo.com/terms",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rms will become effective upon posting or notifying you by legal@tryholo.com , as stated in the email message. By continuing to use the"
+      },
+      {
+        "address": "support@tryholo.com",
+        "confidence": "highest",
+        "source_url": "https://tryholo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Privacy Policy Social Instagram TikTok X LinkedIn Contact support@tryholo.com Select Language English English Product How it works What w"
+      }
+    ],
+    "role_emails": [
+      "francesc@tryholo.com",
+      "legal@tryholo.com",
+      "support@tryholo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tryholo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/biomarkers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/gift",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/longevity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/performance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/prevention",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/body-composition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/mental-clarity",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/wellness",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/blog/supplements-based-on-biomarkers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/blog/training-stalling",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/blog/how-to-read-body-signals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/creators",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/professionals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tryholo.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tryholo.com/creators",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://tryholo.com/professionals",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Test 125+ biomarkers every year, track all your health in a single place, and get insights from top doctors.",
+    "source_urls": [
+      "https://tryholo.com",
+      "https://tryholo.com/locations",
+      "https://tryholo.com/",
+      "https://tryholo.com/how-it-works",
+      "https://tryholo.com/biomarkers",
+      "https://tryholo.com/pricing",
+      "https://tryholo.com/faq",
+      "https://tryholo.com/gift",
+      "https://tryholo.com/longevity",
+      "https://tryholo.com/performance",
+      "https://tryholo.com/prevention",
+      "https://tryholo.com/body-composition",
+      "https://tryholo.com/mental-clarity",
+      "https://tryholo.com/wellness",
+      "https://tryholo.com/blog",
+      "https://tryholo.com/blog/supplements-based-on-biomarkers",
+      "https://tryholo.com/blog/training-stalling",
+      "https://tryholo.com/blog/how-to-read-body-signals",
+      "https://tryholo.com/creators",
+      "https://tryholo.com/professionals",
+      "https://tryholo.com/terms",
+      "https://tryholo.com/privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
