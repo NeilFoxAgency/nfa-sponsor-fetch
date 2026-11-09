@@ -1,0 +1,1543 @@
+[
+  {
+    "company_domain": "ampersandals.com",
+    "company_name": "AMPERSANDALS",
+    "website": "https://ampersandals.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "bigcups.com",
+    "company_name": "BIG CUPS",
+    "website": "https://bigcups.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bizzycube.com",
+    "company_name": "BIZZYCUBE",
+    "website": "https://bizzycube.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "lb@bizzycube.com",
+        "confidence": "highest",
+        "source_url": "https://bizzycube.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ly START to opt back in. Reply HELP for help, or email lb@bizzycube.com or call (833) 725-8858. Carriers. Carriers are not liable"
+      },
+      {
+        "address": "support@bizzycube.com",
+        "confidence": "highest",
+        "source_url": "https://bizzycube.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "wide. Bizzy Cube LLC \u00b7 115 E Plata St, Tucson, AZ 85705 \u00b7 support@bizzycube.com \u00b7 (833) 725-8858 Makers of ZappHobby and HomeScan ."
+      }
+    ],
+    "role_emails": [
+      "lb@bizzycube.com",
+      "support@bizzycube.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bizzycube.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/#what-we-fix",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/#who-its-for",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/apps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/for-your-trade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bizzycube.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bizzycube.com/contact",
+        "action": "https://dztu1141o7.execute-api.us-west-2.amazonaws.com/lead/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bizzycube.com/for-your-trade",
+        "action": "https://dztu1141o7.execute-api.us-west-2.amazonaws.com/lead/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Somebody answers the phone, chases the quote and sends the bill \u2014 for businesses where the owner is also the front desk.",
+    "source_urls": [
+      "https://bizzycube.com",
+      "https://bizzycube.com/contact",
+      "https://bizzycube.com/support",
+      "https://bizzycube.com/about",
+      "https://bizzycube.com/",
+      "https://bizzycube.com/#what-we-fix",
+      "https://bizzycube.com/#who-its-for",
+      "https://bizzycube.com/apps",
+      "https://bizzycube.com/blog",
+      "https://bizzycube.com/for-your-trade",
+      "https://bizzycube.com/privacy",
+      "https://bizzycube.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "futany.com",
+    "company_name": "FUTANY",
+    "website": "https://futany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@futany.com",
+        "confidence": "high",
+        "source_url": "https://futany.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@futany.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://futany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/pages/contact-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=perfumes*&options%5Bprefix%5D=last&q=perfumes*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=beauty*&options%5Bprefix%5D=last&q=beauty*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=tissue*&options%5Bprefix%5D=last&q=tissue*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=razor-blade*&options%5Bprefix%5D=last&q=razor-blade*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=laundry*&options%5Bprefix%5D=last&q=laundry*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=mobile*&options%5Bprefix%5D=last&q=mobile*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=shampoo-conditioner*&options%5Bprefix%5D=last&q=shampoo-conditioner*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=body-spray*&options%5Bprefix%5D=last&q=body-spray*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=water-bottle*&options%5Bprefix%5D=last&q=water-bottle*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=diader-underwear*&options%5Bprefix%5D=last&q=diader-underwear*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/search?type=pads*&options%5Bprefix%5D=last&q=pads*",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/2-pack-assurance-premium-xl-washcloths-for-adults-disposable-pre-moistened-192-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/assurance-men-s-guards-maximum-absorbency-104-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476135043",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476495491",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476790403",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797477118083",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623352754307",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623353278595",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623353639043",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623354163331",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/assurance-mens-incontinence-underwear-s-m-maximum-absorbency-36-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/goodnites-boys-nighttime-bedwetting-underwear-size-xxl-120-165-lbs-24-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797479673987",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797480296579",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797480886403",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797481443459",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623348691075",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623349248131",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623349706883",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623350165635",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/depend-shields-incontinence-pads-for-men-light-absorbency-58-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/products/assurance-unisex-premium-underpad-maximum-absorbency-extra-large-30-x-36-120-count",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections/beauty-and-perfumes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections/consumer-electronics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections/halloween-collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://futany.com/collections/mobile-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://futany.com/pages/contact-1",
+        "action": "/contact#ContactForm-template--19324373401731__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Futany.com \u2013 your go-to destination for innovative, high-quality everyday essentials. Shop stylish home goods, personal care, and lifestyle products designed to enhance comfort and convenience. Enjoy smart shopping with premium items that combine function, style, and value all in one place!",
+    "source_urls": [
+      "https://futany.com",
+      "https://futany.com/pages/contact",
+      "https://futany.com/pages/contact-1",
+      "https://futany.com/pages/about",
+      "https://futany.com/",
+      "https://futany.com/cart",
+      "https://futany.com/search?type=perfumes*&options%5Bprefix%5D=last&q=perfumes*",
+      "https://futany.com/search?type=beauty*&options%5Bprefix%5D=last&q=beauty*",
+      "https://futany.com/search?type=tissue*&options%5Bprefix%5D=last&q=tissue*",
+      "https://futany.com/search?type=razor-blade*&options%5Bprefix%5D=last&q=razor-blade*",
+      "https://futany.com/search?type=laundry*&options%5Bprefix%5D=last&q=laundry*",
+      "https://futany.com/search?type=mobile*&options%5Bprefix%5D=last&q=mobile*",
+      "https://futany.com/search?type=shampoo-conditioner*&options%5Bprefix%5D=last&q=shampoo-conditioner*",
+      "https://futany.com/search?type=body-spray*&options%5Bprefix%5D=last&q=body-spray*",
+      "https://futany.com/search?type=water-bottle*&options%5Bprefix%5D=last&q=water-bottle*",
+      "https://futany.com/search?type=diader-underwear*&options%5Bprefix%5D=last&q=diader-underwear*",
+      "https://futany.com/search?type=pads*&options%5Bprefix%5D=last&q=pads*",
+      "https://futany.com/products/2-pack-assurance-premium-xl-washcloths-for-adults-disposable-pre-moistened-192-count",
+      "https://futany.com/products/assurance-men-s-guards-maximum-absorbency-104-count",
+      "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more",
+      "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476135043",
+      "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476495491",
+      "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797476790403",
+      "https://futany.com/products/freestyle-hyper-absorbent-ultra-soft-tcf-baby-diapers-size-4-48-count-select-for-more?variant=46797477118083",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623352754307",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623353278595",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623353639043",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-5-58-count?variant=45623354163331",
+      "https://futany.com/products/assurance-mens-incontinence-underwear-s-m-maximum-absorbency-36-count",
+      "https://futany.com/products/goodnites-boys-nighttime-bedwetting-underwear-size-xxl-120-165-lbs-24-count",
+      "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options",
+      "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797479673987",
+      "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797480296579",
+      "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797480886403",
+      "https://futany.com/products/pampers-amore-baby-diapers-size-4-58-count-select-for-more-options?variant=46797481443459",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623348691075",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623349248131",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623349706883",
+      "https://futany.com/products/millie-moon-luxury-diapers-size-6-50-count?variant=45623350165635",
+      "https://futany.com/products/depend-shields-incontinence-pads-for-men-light-absorbency-58-count",
+      "https://futany.com/products/assurance-unisex-premium-underpad-maximum-absorbency-extra-large-30-x-36-120-count",
+      "https://futany.com/collections/all",
+      "https://futany.com/collections",
+      "https://futany.com/collections/beauty-and-perfumes",
+      "https://futany.com/collections/consumer-electronics",
+      "https://futany.com/collections/halloween-collections",
+      "https://futany.com/collections/mobile-accessories"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getdealmatch.com",
+    "company_name": "DEALMATCH",
+    "website": "https://getdealmatch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getdealmatch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/signup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getdealmatch.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DealMatch - Connecting businesses and investors through curated opportunities",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "getscrappie.com",
+    "company_name": "SCRAP PIE",
+    "website": "https://getscrappie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getscrappie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getscrappie.com/#about",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getscrappie.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getscrappie.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getscrappie.com/#work",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Scrappie Micro Studio is built for the small, soulful stories that deserve clean, fast and honest storytelling. We are a micro studio: thoughtful, flexible, and made to fit the way you actually work. Light on crew, heavy on experience, and built around doing things a little differently.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "monkeythunk.com",
+    "company_name": "MONKEYTHUNK",
+    "website": "https://monkeythunk.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sean@monkeythunk.com",
+        "confidence": "highest",
+        "source_url": "https://monkeythunk.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lay. All products are in development. Contact: sean@monkeythunk.com . Privacy Policy . The interactive site needs"
+      }
+    ],
+    "role_emails": [
+      "sean@monkeythunk.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://monkeythunk.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monkeythunk.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monkeythunk.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monkeythunk.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monkeythunk.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monkeythunk.com/products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "MonkeyThunk LLC, Half Moon Bay, California, builds live music and recording gear, software and hardware, that turns your guitar, voice and controllers into instruments that respond to how you play. Morpherator, the MonkeyThunk Companion apps, MTcontrol and StageWedge are in development.",
+    "source_urls": [
+      "https://monkeythunk.com",
+      "https://monkeythunk.com/contact",
+      "https://monkeythunk.com/about",
+      "https://monkeythunk.com/privacy",
+      "https://monkeythunk.com/",
+      "https://monkeythunk.com/products"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "mytaste.com",
+    "company_name": "MYTASTE",
+    "website": "https://mytaste.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mytaste.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mytaste.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ett forum f\u00f6r alla oss som \u00e4lskar mat och vin. L\u00e4gg upp dina recept, spara och dela! Och f\u00e5 vintips till maten.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "planjump.com",
+    "company_name": "PLANJUMP",
+    "website": "https://planjump.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://planjump.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/plan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/destinations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/advisor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://planjump.com/family",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Plan a trip across countries and see how long your passport lets you stay in each. A Schengen 90/180 calculator, yearly caps and digital nomad visas for travelers, slow travelers and digital nomads.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "plugcompass.com",
+    "company_name": "PLUGCOMPASS",
+    "website": "https://plugcompass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@plugcompass.com",
+        "confidence": "medium",
+        "source_url": "https://plugcompass.com/advertise?from=sidebar",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@plugcompass.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "map@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.map@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open.map@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "open_map@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "openm@plugcompass.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Charge Map",
+        "person_title": "Owner",
+        "source_url": "https://plugcompass.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://plugcompass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/calculator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/how-we-score#sponsored",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/advertise?from=sidebar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/how-we-score",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/privacy#cookies",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/nl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/fi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/sv/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/no/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/da/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/netherlands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/france",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/sweden",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/norway",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/finland",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/denmark",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/los-angeles-ca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/san-diego-ca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/irvine-ca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/boston-ma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/atlanta-ga",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/austin-tx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/san-jose-ca",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/seattle-wa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/netherlands/den-haag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/netherlands/rotterdam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/france/paris",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/france/marseille",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/sweden/stockholm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/sweden/goteborg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/norway/oslo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/norway/trondheim",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/finland/helsinki",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/finland/vantaa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/denmark/kobenhavn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/ev-charging/denmark/aalborg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plugcompass.com/compare",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://plugcompass.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://plugcompass.com/advertise?from=sidebar",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Free map of 237,194 EV charging locations in the U.S., the Netherlands, France, Sweden, Norway, Finland and Denmark, each rated 0-10 on price, real charging speed, driver check-ins, access and ports. No ads in scores.",
+    "source_urls": [
+      "https://plugcompass.com/advertise?from=sidebar"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 71,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "seemedpossible.com",
+    "company_name": "SEEMED POSSIBLE",
+    "website": "https://seemedpossible.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@seemedpossible.com",
+        "confidence": "highest",
+        "source_url": "https://seemedpossible.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ter Exposure \u2197 Framewrk \u2197 Occlura \u2197 hello@seemedpossible.com \u00a9 2026 Seemed Possible LLC Seemed Possible \u2122 , After Exposu"
+      }
+    ],
+    "role_emails": [
+      "hello@seemedpossible.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://seemedpossible.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Independent apps from Seemed Possible. Explore After Exposure, Framewrk, and Occlura.",
+    "source_urls": [
+      "https://seemedpossible.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zapphobby.com",
+    "company_name": "ZAPP HOBBY",
+    "website": "https://zapphobby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zapphobby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html#who",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html#tools",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html#plans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html#faq",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/index.html#get",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/delete-account.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zapphobby.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ZappHobby: scan any card, comic, pack or box, know what it\u2019s worth, organize your collection and run your selling business \u2014 card shows, breaks and your own shop. Coming soon to iPhone and Android.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
