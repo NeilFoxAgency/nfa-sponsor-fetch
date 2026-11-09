@@ -1,0 +1,348 @@
+[
+  {
+    "company_domain": "highendhome.com",
+    "company_name": "Untitled",
+    "website": "https://highendhome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "homea.mx",
+    "company_name": "Untitled",
+    "website": "https://homea.mx",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "homekitchenguide.org",
+    "company_name": "Best Eco Kitchen Gadgets for a Greener Home",
+    "website": "https://homekitchenguide.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@homekitchenguide.org",
+        "confidence": "highest",
+        "source_url": "https://homekitchenguide.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a guide, a correction, or a broken link? Send your note to hello@homekitchenguide.org . Help us find the right page Include the article URL a"
+      },
+      {
+        "address": "hello@homekitchenguide.org.help",
+        "confidence": "high",
+        "source_url": "https://homekitchenguide.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@homekitchenguide.org",
+      "hello@homekitchenguide.org.help"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homekitchenguide.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/learn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/buying-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/search/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/set-up-a-safe-cutting-station-in-a-small-kitchen/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/choose-a-chef-s-knife-length-for-your-hand-and-cutting-space/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/keep-a-chef-s-knife-sharp-without-confusing-honing-and-sharpening/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/match-knife-cuts-to-the-vegetables-you-cook-most/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/choose-a-cutting-board-size-that-fits-your-sink/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/keep-raw-meat-prep-separate-from-ready-to-eat-food/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/preheat-a-stainless-steel-skillet-for-common-meals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/control-sticking-without-overheating-an-empty-pan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/match-pan-size-to-burner-size/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/clean-cooked-on-food-from-a-stainless-skillet/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/choose-sheet-pan-dimensions-for-your-oven/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/leave-space-around-food-for-oven-airflow/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/use-tare-to-measure-ingredients-with-fewer-dishes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/understand-kitchen-scale-capacity-and-resolution/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/dry-and-store-a-wooden-cutting-board/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/decide-when-to-replace-a-worn-cutting-board/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/place-a-food-thermometer-in-the-right-part-of-your-food/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/clean-and-store-a-food-thermometer-safely/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/read-freezer-microwave-and-oven-symbols-on-food-containers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/cool-and-refrigerate-leftovers-using-usda-guidance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/best-chef-s-knives-for-everyday-home-cooking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/best-cutting-boards-for-everyday-kitchen-prep/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/best-stainless-steel-skillets-for-home-cooks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/best-sheet-pans-for-weeknight-cooking/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/best-instant-read-thermometers-for-home-cooks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/knife-skills/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/board-care/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/food-safety/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/affiliate-disclosure/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homekitchenguide.org/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Practical completed kitchen guides from Home Kitchen Guide.",
+    "source_urls": [
+      "https://homekitchenguide.org/contact",
+      "https://homekitchenguide.org/contact-us",
+      "https://homekitchenguide.org/pages/contact",
+      "https://homekitchenguide.org/pages/contact-us",
+      "https://homekitchenguide.org/support/contact",
+      "https://homekitchenguide.org/contact-us/",
+      "https://homekitchenguide.org/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 64,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
