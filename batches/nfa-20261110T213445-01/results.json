@@ -1,0 +1,2601 @@
+[
+  {
+    "company_domain": "binkabites.com",
+    "company_name": "BINKA BITES",
+    "website": "https://binkabites.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@binkabites.com",
+        "confidence": "highest",
+        "source_url": "https://binkabites.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u00a0info@binkabites.com",
+        "confidence": "high",
+        "source_url": "https://binkabites.com/catering",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@binkabites.com",
+      "u00a0info@binkabites.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://binkabites.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-21"
+      },
+      {
+        "url": "https://binkabites.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-21"
+      },
+      {
+        "url": "https://binkabites.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/flavors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/flavors#NKZbrp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/catering",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/#fDReLm",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://binkabites.com/order#WqfzQH",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://binkabites.com",
+        "action": "/app/cms/api/v1/schemas/aab94d90-82f2-11ec-a669-c1d3056f17f9/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://binkabites.com/",
+        "action": "/app/cms/api/v1/schemas/aab94d90-82f2-11ec-a669-c1d3056f17f9/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Binka Bites is a local bakery inspired by Philippine bibingka located in San Francisco Bay Area.",
+    "source_urls": [
+      "https://binkabites.com",
+      "https://binkabites.com/about",
+      "https://binkabites.com/",
+      "https://binkabites.com/flavors",
+      "https://binkabites.com/flavors#NKZbrp",
+      "https://binkabites.com/catering",
+      "https://binkabites.com/#fDReLm",
+      "https://binkabites.com/order#WqfzQH"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cachemonai.com",
+    "company_name": "CACHEMONAI",
+    "website": "https://cachemonai.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "socials@cachemonai.com",
+        "confidence": "highest",
+        "source_url": "https://cachemonai.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in touch Tell us what you need and we will get back to you. Socials@cachemonai.com Our team typically responds within 24 hours Full name * Wor"
+      }
+    ],
+    "role_emails": [
+      "socials@cachemonai.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "g.gallinat@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gallinat@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory.gallinat@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregory_gallinat@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gregoryg@cachemonai.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gregory Gallinat",
+        "person_title": "Founder",
+        "source_url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://cachemonai.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/news/patent-pending-ai-orchestration",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cachemonai.com/cookies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cachemonai.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://cachemonai.com/demo",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to CacheMonai",
+    "source_urls": [
+      "https://cachemonai.com",
+      "https://cachemonai.com/contact",
+      "https://cachemonai.com/about",
+      "https://cachemonai.com/news/patent-pending-ai-orchestration",
+      "https://cachemonai.com/",
+      "https://cachemonai.com/solutions",
+      "https://cachemonai.com/demo",
+      "https://cachemonai.com/#how-it-works",
+      "https://cachemonai.com/#pricing",
+      "https://cachemonai.com/news",
+      "https://cachemonai.com/cookies"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "duel.com",
+    "company_name": "DUEL",
+    "website": "https://duel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://duel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/about/why-bonuses-suck",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/about/fake-bets",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/about/zero-edge",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/casino",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/sports",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/arena",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-08"
+      },
+      {
+        "url": "https://duel.com/high-scores",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-11-01"
+      },
+      {
+        "url": "https://duel.com/dice",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-11-01"
+      },
+      {
+        "url": "https://duel.com/blackjack",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-11-01"
+      },
+      {
+        "url": "https://duel.com/plinko",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-11-01"
+      },
+      {
+        "url": "https://duel.com/crash",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/mines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/beef",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/keno",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/castle-roulette",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-11-01"
+      },
+      {
+        "url": "https://duel.com/video-poker",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/groomers-van",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/rock-paper-scissors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/limbo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/hilo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/live-blackjack",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-31"
+      },
+      {
+        "url": "https://duel.com/casino/games/evolution_gaming_crazy_time",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/casino/games/nolimit_city_duck_hunters_2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/casino/games/pragmatic_play_gates_of_olympus_super_scatter",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://duel.com/casino/games/evolution_gaming_lightning_storm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The first casino that gives a fuck. Just the purest form of gambling \u2014 The way it should be.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "getfitup.com",
+    "company_name": "FITUP",
+    "website": "https://getfitup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@getfitup.com",
+        "confidence": "highest",
+        "source_url": "https://getfitup.com/policies/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d like to make a complaint, please contact us by e-mail at info@getfitup.com or by calling to+1 310-256-3112. Collecting Personal Inf"
+      }
+    ],
+    "role_emails": [
+      "info@getfitup.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getfitup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/pages/about-get-nutrition",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/shop-sports-nutrition-supplements",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/getfitup%C2%AE-stamina",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/get-enzymes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/getfitup%C2%AE-get-focus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/max-detox-acai-detox",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/getfitup%C2%AE-get-alpha",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/get-fat-out-fat-burner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/getfitup%C2%AE-whey-protein",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/get",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/max",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/well",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/mush",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections/gummies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/products/get-fit-up%C2%AE-fermented-mushroom-blend",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/pages/collab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/tools/tracking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getfitup.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getfitup.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover the best supplements for men at GET FIT UP. Boost testosterone, enhance stamina, and improve focus and vitality with our expertly formulated boosters. Shop Now !",
+    "source_urls": [
+      "https://getfitup.com/policies/privacy-policy",
+      "https://getfitup.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "jeteye.co",
+    "company_name": "JETEYE",
+    "website": "https://jeteye.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jeteye.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Contact Jet Eye Sewer & Scope for your hydro jetting and sewer scoping needs. We serve the Denver metro, including Thornton and Westminster.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "krewefamily.com",
+    "company_name": "KREWE FAMILY",
+    "website": "https://krewefamily.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@krewefamily.com",
+        "confidence": "medium",
+        "source_url": "https://krewefamily.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@krewefamily.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://krewefamily.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://krewefamily.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Krewe Family is a simple, beautiful family calendar for everyone you love: parents, kids, grandparents and the whole krewe. Invite-only beta.",
+    "source_urls": [
+      "https://krewefamily.com",
+      "https://krewefamily.com/contact",
+      "https://krewefamily.com/support",
+      "https://krewefamily.com/about",
+      "https://krewefamily.com/team",
+      "https://krewefamily.com/contact-us",
+      "https://krewefamily.com/contactus",
+      "https://krewefamily.com/about-us",
+      "https://krewefamily.com/our-team",
+      "https://krewefamily.com/meet-the-team",
+      "https://krewefamily.com/leadership",
+      "https://krewefamily.com/founders",
+      "https://krewefamily.com/people",
+      "https://krewefamily.com/staff",
+      "https://krewefamily.com/press",
+      "https://krewefamily.com/media",
+      "https://krewefamily.com/help",
+      "https://krewefamily.com/company",
+      "https://krewefamily.com/who-we-are",
+      "https://krewefamily.com/our-story",
+      "https://krewefamily.com/our-mission",
+      "https://krewefamily.com/get-in-touch",
+      "https://krewefamily.com/reach-us",
+      "https://krewefamily.com/enquiries",
+      "https://krewefamily.com/impressum",
+      "https://krewefamily.com/pages/contact",
+      "https://krewefamily.com/pages/contact-us",
+      "https://krewefamily.com/support/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "repupulse.com",
+    "company_name": "REPUPULSE",
+    "website": "https://repupulse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@repupulse.com",
+        "confidence": "highest",
+        "source_url": "https://repupulse.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For questions regarding this policy, contact us at: privacy@repupulse.com . RepuPulse"
+      },
+      {
+        "address": "sales@repupulse.com",
+        "confidence": "highest",
+        "source_url": "https://repupulse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@repupulse.com",
+        "confidence": "highest",
+        "source_url": "https://repupulse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@repupulse.com",
+      "sales@repupulse.com",
+      "support@repupulse.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://repupulse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repupulse.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repupulse.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repupulse.com/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repupulse.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repupulse.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Automated Google review monitoring with real-time sentiment analysis. Receive instant alerts the moment critical customer feedback is posted.",
+    "source_urls": [
+      "https://repupulse.com",
+      "https://repupulse.com/",
+      "https://repupulse.com/login",
+      "https://repupulse.com/register",
+      "https://repupulse.com/privacy-policy",
+      "https://repupulse.com/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "sparkleprincess.com",
+    "company_name": "SPARKLE PRINCESS",
+    "website": "https://sparkleprincess.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.rosener@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.rosener@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_rosener@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewr@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fogarty@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.gabriel@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.gabriel@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_gabriel@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffg@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.mann@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mann@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.mann@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_mann@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meetm@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rosener@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.fogarty@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy.fogarty@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy_fogarty@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracyf@sparkleprincess.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://sparkleprincess.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sparkleprincess.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://sparkleprincess.com/similar/SparklePrincess.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SparklePrincess.com - a great premium domain available for sale.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "sundayspaniels.com",
+    "company_name": "SUNDAY SPANIELS",
+    "website": "https://sundayspaniels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sundayspaniels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundayspaniels.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sunday Spaniels",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "surfface.com",
+    "company_name": "SURFFACE",
+    "website": "https://surfface.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dpo@surfface.com",
+        "confidence": "high",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@surfface.com",
+        "confidence": "high",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@surfface.com",
+        "confidence": "high",
+        "source_url": "https://surfface.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "dpo@surfface.com",
+      "legal@surfface.com",
+      "support@surfface.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.infringement@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright.infringement@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright_infringement@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyrighti@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "infringement@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/copyright",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "notice@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.notice@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy.notice@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy_notice@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacyn@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Notice",
+        "person_title": "Business Development",
+        "source_url": "https://surfface.com/privacy-notice",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.website@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.website@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_website@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thisw@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website@surfface.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Website",
+        "person_title": "Owner",
+        "source_url": "https://surfface.com/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://surfface.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/criminal-records-and-mugshots-search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/sex-offenders-near-me",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/detect-catfishing-and-fake-profiles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/reputation-and-identity-protection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/reverse-image-search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/mission",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/search-process",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/privacy-requests",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/google-images-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/bing-images-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/spokeo-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/tineye-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/pimeyes-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/socialcatfish-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/facecheck-id-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/profacefinder-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/compare/reversely-ai-vs-surfface",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/privacy-notice",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/cookies-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/copyright",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/complaint-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://surfface.com/content-removal-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Search by face with Surfface and run a reverse image search with built-in U.S. public-record checks. Spot catfishers, find profiles and check identity risks.",
+    "source_urls": [
+      "https://surfface.com",
+      "https://surfface.com/criminal-records-and-mugshots-search",
+      "https://surfface.com/sex-offenders-near-me",
+      "https://surfface.com/detect-catfishing-and-fake-profiles",
+      "https://surfface.com/reputation-and-identity-protection",
+      "https://surfface.com/reverse-image-search",
+      "https://surfface.com/mission",
+      "https://surfface.com/pricing",
+      "https://surfface.com/search-process",
+      "https://surfface.com/privacy-requests",
+      "https://surfface.com/blog",
+      "https://surfface.com/compare/google-images-vs-surfface",
+      "https://surfface.com/compare/bing-images-vs-surfface",
+      "https://surfface.com/compare/spokeo-vs-surfface",
+      "https://surfface.com/compare/tineye-vs-surfface",
+      "https://surfface.com/compare/pimeyes-vs-surfface",
+      "https://surfface.com/compare/socialcatfish-vs-surfface",
+      "https://surfface.com/compare/facecheck-id-vs-surfface",
+      "https://surfface.com/compare/profacefinder-vs-surfface",
+      "https://surfface.com/compare/reversely-ai-vs-surfface",
+      "https://surfface.com/terms-of-service",
+      "https://surfface.com/privacy-notice",
+      "https://surfface.com/cookies-policy",
+      "https://surfface.com/copyright",
+      "https://surfface.com/complaint-policy",
+      "https://surfface.com/content-removal-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 53,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tryquoin.com",
+    "company_name": "QUOIN",
+    "website": "https://tryquoin.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "valdo.com",
+    "company_name": "VALDO",
+    "website": "https://valdo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@pec.valdo.com",
+        "confidence": "highest",
+        "source_url": "https://valdo.com/pages/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ered office in Valdobbiadene, Via Foro Boario, 20, e-mail: privacy@pec.valdo.com and DIANA E-COMMERCE CORPORATION SRL , with registered of"
+      }
+    ],
+    "role_emails": [
+      "privacy@pec.valdo.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.bolla@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.superiori@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abele.bolla@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abele@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abele_bolla@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abeleb@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anonima.superiori@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anonima@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anonima_superiori@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "anonimas@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bolla@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abele Bolla",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.srl@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gp.srl@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gp@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gp_srl@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gps@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "srl@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gp Hub Srl",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "superiore@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "superiori@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Anonima Vini Superiori",
+        "person_title": "Owner",
+        "source_url": "https://valdo.com/pages/history-of-the-winery",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.superiore@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "viviana.superiore@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "viviana@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "viviana_superiore@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vivianas@valdo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Viviana Valdobbiadene Superiore",
+        "person_title": "Founder",
+        "source_url": "https://valdo.com/products/cuvee-viviana",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://valdo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/valdobbiadene-prosecco-superiore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/prosecco-doc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/sparkling-wines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/rose-sparkling-wines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/organic-sparlking-wines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/no-low-alcohol-sparkling-wines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/special-packs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/collections/le-tenute-valdo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/our-winery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/history-of-the-winery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/sustainability",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/awards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/valdobbiadene",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/prosecco-hills",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/prosecco-route",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/prosecco-history-and-facts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/casa-valdo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/blogs/perlage-magazine",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/blogs/perlage-magazine/tagged/tag_mixology",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/marca-oro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/cuvee-1926",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/cuvee-di-boj",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/aquarius-rose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/cuvee-viviana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/tenuta-pradase",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/cuvee-i-magredi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/products/elevantum-rose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/cookie-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/code-of-ethics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://valdo.com/pages/initiatives-and-regulations-croazia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Valdo istituzionale internazionale",
+    "source_urls": [
+      "https://valdo.com/pages/privacy-policy",
+      "https://valdo.com/pages/terms-and-conditions"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 64,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
