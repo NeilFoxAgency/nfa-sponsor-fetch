@@ -1,0 +1,702 @@
+[
+  {
+    "company_domain": "excelra.com",
+    "company_name": "excelra.com",
+    "website": "https://excelra.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "foucaults.com",
+    "company_name": "Best Home Furnishings in Wallingford, Hamden and Northford, Connecticut",
+    "website": "https://foucaults.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "godgift.com.au",
+    "company_name": "Wholesale Candles & Candle Holders Australia | Bulk Supplier",
+    "website": "https://godgift.com.au",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "gokwik.co",
+    "company_name": "200+ Candle Business Name Ideas to Light Up Your Brand",
+    "website": "https://gokwik.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "harrisfurniture.com",
+    "company_name": "Best Home Furnishings in Jonesboro, Paragould and Blytheville, Arkansas",
+    "website": "https://harrisfurniture.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "hillrom.lat",
+    "company_name": "5 Home-Based Candle Brands That Turned Into Six-Figure Businesses",
+    "website": "https://hillrom.lat",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "homeblissboutique.co.uk",
+    "company_name": "HomeBliss Boutique \u2013 Hand-Poured Candles for a Calmer Home",
+    "website": "https://homeblissboutique.co.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "return@homeblissboutique.co.uk",
+        "confidence": "high",
+        "source_url": "https://homeblissboutique.co.uk/returns-refunds/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "apply@homeblissboutique.co.uk",
+        "confidence": "medium",
+        "source_url": "https://homeblissboutique.co.uk/trade-stockist-partnerships/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@homeblissboutique.co.uk",
+        "confidence": "medium",
+        "source_url": "https://homeblissboutique.co.uk/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "apply@homeblissboutique.co.uk",
+      "hello@homeblissboutique.co.uk",
+      "return@homeblissboutique.co.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homeblissboutique.co.uk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/delivery-information/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/returns-refunds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/shop-all-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/citrus-candles-uk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/warm-cosy-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/floral-relaxing-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/all-candles/fruity-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/all-candles/coffee-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/gift-candles-uk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/agnes-cat-votive-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/greenman-woodwick-soy-candle/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/chakra-candles-uk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/zodiac-crystal-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/hop-hare-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/aromatherapy-oils/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/aromatherapy-oils/essential-oils/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product-category/aromatherapy-oils/massage-oils/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/candle-care-buying-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/shop-candles/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/brand/home-bliss-boutique/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product/fresh-coffee-soy-wax-candle-rich-coffee-aroma-candle-40h/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product/lime-basil-mandarin-soy-wax-candle-fresh-citrus-candle-40h-burn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product/pomegranate-noir-soy-wax-candle-rich-fruity-scent-40h-burn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product/black-orchid-soy-wax-candle-dark-floral-luxury-candle-40h-burn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/candle-care/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/product/choose-any-two-homebliss-candles-27-99-with-free-uk-delivery/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/terms-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/privacy-policy-2/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/become-a-homebliss-boutique-stockist/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/trade-stockist-partnerships/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeblissboutique.co.uk/trade-portal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://homeblissboutique.co.uk/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://homeblissboutique.co.uk/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://homeblissboutique.co.uk/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://homeblissboutique.co.uk/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover small-batch home fragrance candles hand-poured by HomeBliss in Corby. Shop coffee, citrus and elegant fruity scents with free UK delivery over \u00a325.",
+    "source_urls": [
+      "https://homeblissboutique.co.uk/contact",
+      "https://homeblissboutique.co.uk/pages/contact",
+      "https://homeblissboutique.co.uk/support/contact",
+      "https://homeblissboutique.co.uk/contact/",
+      "https://homeblissboutique.co.uk/delivery-information/",
+      "https://homeblissboutique.co.uk/returns-refunds/",
+      "https://homeblissboutique.co.uk/terms-conditions/",
+      "https://homeblissboutique.co.uk/privacy-policy-2/",
+      "https://homeblissboutique.co.uk/trade-stockist-partnerships/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 63,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "homecraft.in",
+    "company_name": "Home Craft",
+    "website": "https://homecraft.in",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homecraft.in",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homecraft.in/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Please use numerical digits without commas, periods, or currency symbols.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "homescrafts.com",
+    "company_name": "HomesCrafts - Homes & Crafts Shop",
+    "website": "https://homescrafts.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "iamjustinwinter.com",
+    "company_name": "Untitled",
+    "website": "https://iamjustinwinter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "icrhealthcare.com",
+    "company_name": "icrhealthcare.com",
+    "website": "https://icrhealthcare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "ICR is a leading global strategic communications and advisory firm. We help industry leaders navigate the media, the markets and the complex business",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "johnsonsfinefurniture.com",
+    "company_name": "Best Home Furnishings in Sherwood, OR",
+    "website": "https://johnsonsfinefurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
