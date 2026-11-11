@@ -1,0 +1,1677 @@
+[
+  {
+    "company_domain": "birdo.golf",
+    "company_name": "Matthew Azevedo",
+    "website": "https://birdo.golf",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "breakupboss.com.au",
+    "company_name": "zoestef pty ltd",
+    "website": "http://www.breakupboss.com.au",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "cenybroni.pl",
+    "company_name": "Tomasz Dunia",
+    "website": "https://dope.cenybroni.pl",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "chapaatime.com",
+    "company_name": "WYLDR, LLC",
+    "website": "https://chapaatime.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "dorpascal.com",
+    "company_name": "Dor Pascal",
+    "website": "https://dorpascal.com/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Dor Pascal",
+        "title": null,
+        "email": "dor@dorpascal.com",
+        "source_url": "https://dorpascal.com/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Dor Pascal",
+        "title": null,
+        "email": "dor@dorpascal.com",
+        "source_url": "https://dorpascal.com/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "dor@dorpascal.com",
+        "confidence": "highest",
+        "source_url": "https://dorpascal.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dorpascal.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/calendarpeek/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/hebrew-date-for-menu-bar/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/isotable-max/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/jsoncraft/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/metapeek/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/pitchpoint/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/pypocket-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/tanakh/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/mac/tanakh-for-safari/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/chembalance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/game-of-life-ai/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/hebrew-dateconverter/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/isotable/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/nikud/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/pdfusion/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/pitchpoint/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/podpulse/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/poetic-weather/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/psychotimer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/pypocket/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/siddur/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/sourceview-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/student-gpa-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/tanakh-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/worktimes-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/ios/\u05e4\u05ea\u05e8\u05d5\u05e0\u05d5\u05ea-\u05e4\u05e1\u05d9\u05db\u05d5\u05de\u05d8\u05e8\u05d9-\u05d0\u05d5\u05e6\u05e8-\u05de\u05d9\u05dc\u05d9\u05dd-A/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/game-of-life/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/hebrew-calendar/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/metapeek/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/midnight-aurora-theme/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/midnight-breeze-theme/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/modern-sakura-theme/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/open-university-video-downloader/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/pdfinder-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/search-console-pro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/shabbat-times/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/chrome/sleek-dark-modern-theme/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/apps/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/apps/8queens/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/apps/apk-analyzer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/apps/audio-visual-synth/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dorpascal.com/apps/simulation-earth/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dorpascal.com/contact",
+        "action": "https://send.pageclip.co/W1jS2ZSvEVIq2CjTygYVP0NHBGWOtnuK",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://dorpascal.com/contact/",
+        "action": "https://send.pageclip.co/W1jS2ZSvEVIq2CjTygYVP0NHBGWOtnuK",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Dor Pascal's personal site featuring Chrome extensions, Python applications, and coding projects. A space to share my journey from law to medicine through technology.",
+    "source_urls": [
+      "https://dorpascal.com/",
+      "https://dorpascal.com/contact",
+      "https://dorpascal.com/about",
+      "https://dorpascal.com/about/",
+      "https://dorpascal.com/contact/",
+      "https://dorpascal.com/mac/",
+      "https://dorpascal.com/mac/calendarpeek/",
+      "https://dorpascal.com/mac/hebrew-date-for-menu-bar/",
+      "https://dorpascal.com/mac/isotable-max/",
+      "https://dorpascal.com/mac/jsoncraft/",
+      "https://dorpascal.com/mac/metapeek/",
+      "https://dorpascal.com/mac/pitchpoint/",
+      "https://dorpascal.com/mac/pypocket-pro/",
+      "https://dorpascal.com/mac/tanakh/",
+      "https://dorpascal.com/mac/tanakh-for-safari/",
+      "https://dorpascal.com/ios/",
+      "https://dorpascal.com/ios/chembalance/",
+      "https://dorpascal.com/ios/game-of-life-ai/",
+      "https://dorpascal.com/ios/hebrew-dateconverter/",
+      "https://dorpascal.com/ios/isotable/",
+      "https://dorpascal.com/ios/nikud/",
+      "https://dorpascal.com/ios/pdfusion/",
+      "https://dorpascal.com/ios/pitchpoint/",
+      "https://dorpascal.com/ios/podpulse/",
+      "https://dorpascal.com/ios/poetic-weather/",
+      "https://dorpascal.com/ios/psychotimer/",
+      "https://dorpascal.com/ios/pypocket/",
+      "https://dorpascal.com/ios/siddur/",
+      "https://dorpascal.com/ios/sourceview-pro/",
+      "https://dorpascal.com/ios/student-gpa-pro/",
+      "https://dorpascal.com/ios/tanakh-pro/",
+      "https://dorpascal.com/ios/worktimes-pro/",
+      "https://dorpascal.com/ios/\u05e4\u05ea\u05e8\u05d5\u05e0\u05d5\u05ea-\u05e4\u05e1\u05d9\u05db\u05d5\u05de\u05d8\u05e8\u05d9-\u05d0\u05d5\u05e6\u05e8-\u05de\u05d9\u05dc\u05d9\u05dd-A/",
+      "https://dorpascal.com/chrome/",
+      "https://dorpascal.com/chrome/game-of-life/",
+      "https://dorpascal.com/chrome/hebrew-calendar/",
+      "https://dorpascal.com/chrome/metapeek/",
+      "https://dorpascal.com/chrome/midnight-aurora-theme/",
+      "https://dorpascal.com/chrome/midnight-breeze-theme/",
+      "https://dorpascal.com/chrome/modern-sakura-theme/",
+      "https://dorpascal.com/chrome/open-university-video-downloader/",
+      "https://dorpascal.com/chrome/pdfinder-pro/",
+      "https://dorpascal.com/chrome/search-console-pro/",
+      "https://dorpascal.com/chrome/shabbat-times/",
+      "https://dorpascal.com/chrome/sleek-dark-modern-theme/",
+      "https://dorpascal.com/apps/",
+      "https://dorpascal.com/apps/8queens/",
+      "https://dorpascal.com/apps/apk-analyzer/",
+      "https://dorpascal.com/apps/audio-visual-synth/",
+      "https://dorpascal.com/apps/simulation-earth/"
+    ],
+    "reason": null,
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "elitegrid.io",
+    "company_name": "Pablo Valenzuela",
+    "website": "https://elitegrid.io/recipejunkie/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "everydayodyssey.com",
+    "company_name": "Everyday Odyssey LLC",
+    "website": "http://www.everydayodyssey.com/product/parkingpin",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@everydayodyssey.com",
+        "confidence": "highest",
+        "source_url": "http://www.everydayodyssey.com/product/parkingpin",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call Us (503) 875\u20117436 Enable Javascript to Email Us hello@everydayodyssey.com Email Name Messag"
+      }
+    ],
+    "role_emails": [
+      "hello@everydayodyssey.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.everydayodyssey.com/product/parkingpin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com#about",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com#services",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com/work",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com#products",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.everydayodyssey.com#clients",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.everydayodyssey.com/product/parkingpin",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com#about",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com#contact",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com#services",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com/work",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com#products",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.everydayodyssey.com#clients",
+        "action": "https://www.everydayodyssey.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Handcrafting awesome apps for your everyday adventures. We specialize in the strategy, design, & development of Mobile Apps, Web Tools, & Responsive Websites.",
+    "source_urls": [
+      "http://www.everydayodyssey.com/product/parkingpin"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "expertrelax.me",
+    "company_name": "Expert Vision LLC",
+    "website": "https://expertrelax.me/en/yoga-bliss-app/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: didi@expertrelax.me",
+        "title": null,
+        "email": "didi@expertrelax.me",
+        "source_url": "https://expertrelax.me/en/about-me-en/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: didi@expertrelax.me",
+        "title": null,
+        "email": "didi@expertrelax.me",
+        "source_url": "https://expertrelax.me/en/about-me-en/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "didi@expertrelax.me",
+        "confidence": "highest",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13",
+        "context_snippet": "All Rights Reserved! | Website from BEKYAROV.NET Email: didi@expertrelax.me Phone: +359 88 700 26 29"
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.grancharova@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "dragostina.grancharova@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "dragostina@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "dragostina_grancharova@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "dragostinag@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "e.relax@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "east@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "expert.relax@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "expert@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "expert_relax@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "expertr@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "grancharova@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dragostina Grancharova",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "m.east@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "middle.east@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "middle@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "middle_east@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "middlee@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Middle East",
+        "person_title": "Business Development",
+        "source_url": "https://expertrelax.me/en/about-me-en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "address": "o.yoga@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "open.yoga@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "open@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "open_yoga@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "openy@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "relax@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Relax",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      },
+      {
+        "address": "yoga@expertrelax.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Open Doors Yoga",
+        "person_title": "Founder",
+        "source_url": "https://expertrelax.me/en/",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://expertrelax.me/en/about-me-en/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-13"
+      },
+      {
+        "url": "https://expertrelax.me/en/newsletter/",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-09"
+      },
+      {
+        "url": "https://expertrelax.me/en/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-13"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Click here to get new and easy ideas to lower the stress of work-life balance",
+    "source_urls": [
+      "https://expertrelax.me/en/about-me-en/",
+      "https://expertrelax.me/en/newsletter/",
+      "https://expertrelax.me/en/"
+    ],
+    "reason": null,
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "fieldkit.online",
+    "company_name": "Zachary Alewel",
+    "website": "https://fieldkit.online/#iphone",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "flowrate.co.nz",
+    "company_name": "Andrew Jackson",
+    "website": "https://flowrate.co.nz",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hanktoplessmusic.com",
+    "company_name": "Eric Baldoni",
+    "website": "https://hanktoplessmusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hemamaps.com",
+    "company_name": "Hema Maps Pty Ltd",
+    "website": "https://www.hemamaps.com/navigate/4wd-maps-app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@hemamaps.com.au",
+        "confidence": "high",
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "free shipping when you shop over $99 Customer service info@hemamaps.com.au / +61 3 7054 4300 Proudly Australian Family owned sin"
+      }
+    ],
+    "role_emails": [
+      "info@hemamaps.com.au"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.watt@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allison.watt@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allison@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allison_watt@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "allisonw@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.marketing@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emprise.marketing@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emprise@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emprise_marketing@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "emprisem@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.maps@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hema.maps@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hema@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hema_maps@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hemam@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.sam@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maps@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hema Maps",
+        "person_title": "Ceo",
+        "source_url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Emprise Marketing",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.sam@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_sam@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meets@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Sam",
+        "person_title": "Founder",
+        "source_url": "https://www.hemamaps.com/pages/alpha-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "watt@hemamaps.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Allison Watt",
+        "person_title": null,
+        "source_url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.hemamaps.com/navigate/4wd-maps-app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/pages/shop-by-location-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/location-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hemamaps.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/pages/alpha-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/4wd-maps-app-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn7-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn6-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn5i-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn5a-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn1-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/blogs/hema-maps-gear/hema-explorer-ios-app-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/hema-atlas-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/australian-road-atlases-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/4wd-iconic-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/camping-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/the-big-lap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/bush-cooking-guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/help-guides",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/new-zealand-atlases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/camps-australia-wide-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/clearance",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/camps-australia-wide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/products/big-lap-bible-expanded-edition-pre-order",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/australia-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/state-and-city-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/australian-regional-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/iconic-maps-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/hiking-bushwalking-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/educational-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/scratch-and-sticker-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/map-wallets-and-accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/international-and-world-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/hema-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/rooftop-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/cartographics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/haymans-maps-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/westprint-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/cartographics-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/other-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/australian-wall-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/wall-maps-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/state-wall-maps-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/world-wall-maps",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/digital-communicators",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.hemamaps.com/collections/reversing-monitors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hemamaps.com/pages/contact-us",
+        "action": "/contact#contact-form-template--26483976536375__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.hemamaps.com/pages/contact-us",
+        "action": "/contact#contact-form-template--26483976536375__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Navigate off-road with the Hema 4WD Maps app, a navigation app preloaded with a large collection of offline maps to help you explore Australia. Buy now.",
+    "source_urls": [
+      "https://www.hemamaps.com/navigate/4wd-maps-app",
+      "https://www.hemamaps.com/pages/shop-by-location-1",
+      "https://www.hemamaps.com/blogs/location-guides",
+      "https://hemamaps.com/pages/contact-us",
+      "https://www.hemamaps.com/pages/contact-us",
+      "https://www.hemamaps.com/pages/about-us",
+      "https://www.hemamaps.com/pages/alpha-teams",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/upgrade-your-vehicle-with-an-aerpro-multimedia-head-unit",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/4wd-maps-app-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn7-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn6-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn5i-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn5a-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-navigator-hn1-support",
+      "https://www.hemamaps.com/blogs/hema-maps-gear/hema-explorer-ios-app-support",
+      "https://www.hemamaps.com/search",
+      "https://www.hemamaps.com/collections/hema-atlas-guides",
+      "https://www.hemamaps.com/collections/australian-road-atlases-guides",
+      "https://www.hemamaps.com/collections/4wd-iconic-guides",
+      "https://www.hemamaps.com/collections/camping-guides",
+      "https://www.hemamaps.com/collections/the-big-lap",
+      "https://www.hemamaps.com/collections/bush-cooking-guides",
+      "https://www.hemamaps.com/collections/help-guides",
+      "https://www.hemamaps.com/collections/new-zealand-atlases",
+      "https://www.hemamaps.com/collections/camps-australia-wide-copy",
+      "https://www.hemamaps.com/collections/clearance",
+      "https://www.hemamaps.com/collections/camps-australia-wide",
+      "https://www.hemamaps.com/products/big-lap-bible-expanded-edition-pre-order",
+      "https://www.hemamaps.com/collections/australia-maps",
+      "https://www.hemamaps.com/collections/state-and-city-maps",
+      "https://www.hemamaps.com/collections/australian-regional-maps",
+      "https://www.hemamaps.com/collections/iconic-maps-copy",
+      "https://www.hemamaps.com/collections/hiking-bushwalking-maps",
+      "https://www.hemamaps.com/collections/educational-maps",
+      "https://www.hemamaps.com/collections/scratch-and-sticker-maps",
+      "https://www.hemamaps.com/collections/map-wallets-and-accessories",
+      "https://www.hemamaps.com/collections/international-and-world-maps",
+      "https://www.hemamaps.com/collections/hema-maps",
+      "https://www.hemamaps.com/collections/rooftop-maps",
+      "https://www.hemamaps.com/collections/cartographics",
+      "https://www.hemamaps.com/collections/haymans-maps-copy",
+      "https://www.hemamaps.com/collections/westprint-maps",
+      "https://www.hemamaps.com/collections/cartographics-copy",
+      "https://www.hemamaps.com/collections/other-maps",
+      "https://www.hemamaps.com/collections/australian-wall-maps",
+      "https://www.hemamaps.com/collections/wall-maps-copy",
+      "https://www.hemamaps.com/collections/state-wall-maps-copy",
+      "https://www.hemamaps.com/collections/world-wall-maps",
+      "https://www.hemamaps.com/collections/digital-communicators",
+      "https://www.hemamaps.com/collections/reversing-monitors"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
