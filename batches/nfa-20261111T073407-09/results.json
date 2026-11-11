@@ -1,0 +1,2353 @@
+[
+  {
+    "company_domain": "auditlab.co",
+    "company_name": "AUDITLAB",
+    "website": "https://auditlab.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://auditlab.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.auditlab.co/about-4",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.auditlab.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.auditlab.co/services-3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.auditlab.co/about-4",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AuditLab Co offers tailored solutions for compliance, risk management, and finance functions. We help businesses navigate complex challenges with efficiency, accuracy, and confidence.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "beatmaxing.com",
+    "company_name": "BEATMAXING",
+    "website": "https://beatmaxing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@beatmaxing.com",
+        "confidence": "highest",
+        "source_url": "https://beatmaxing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "it didn't, I'd rather hear that. How to reach me: email support@beatmaxing.com . I read every one. Email me Leave a review"
+      },
+      {
+        "address": "i@b.ks",
+        "confidence": "high",
+        "source_url": "https://beatmaxing.com/get/helper",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "5\u0003\ufffdg\ufffd9\ufffd I\ufffd\ufffd\u000e\ufffd\u000e\ufffd\ufffdHR\ufffd\ufffd\ufffd\ufffd6\ufffdW5\ufffdC\ufffd93)N^x\ufffd\ufffdw\ufffd\ufffd\ufffdsUA\ufffd)\ufffd/2E\ufffdr\ufffdv\ufffd\ufffdN\ufffd\ufffd\ufffd\u04d3\ufffdh\ufffd\ufffdJ\ufffd(\ufffd\ufffd\ufffdx\ufffd;\ufffd5\ufffd\u007f<\u0005\ufffd\u0004\ufffd\ufffd\u0710\ufffd\u02beP \ufffdO\ufffd?\ufffd\ufffd \ufffd\ufffd\ufffd \ufffd\ufffdl\ufffd\ufffd\ufffd\ufffd\b\ufffd\ufffd\ufffd\ufffd]\ufffd/]\ufffd\u03f6\u02c2\ufffd{g$\ufffd\u001a\ufffd"
+      }
+    ],
+    "role_emails": [
+      "i@b.ks",
+      "support@beatmaxing.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apache.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apache@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apache_license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apachel@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "buffer@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coon@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyright_license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "copyrightl@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Copyright License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.works@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derivative.works@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derivative@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derivative_works@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "derivativew@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "entity@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ghoul@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.entity@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "legal.entity@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "legal@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "legal_entity@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "legale@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Legal Entity",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apache License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ghoul@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moe.ghoul@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moe@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moe_ghoul@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moeg@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Moe Ghoul",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.buffer@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patent License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patent.license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patent License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patent@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patent License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patent_license@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patent License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "patentl@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Patent License",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "protocol.buffer@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "protocol@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "protocol_buffer@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "protocolb@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Protocol Buffer",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.rights@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.year@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "related.rights@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "related@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "related_rights@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "relatedr@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "release.year@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "release@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "release_year@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "releasey@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rights@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Related Rights",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.coon@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ty.coon@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ty@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ty_coon@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tyc@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ty Coon",
+        "person_title": "President",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "works@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Derivative Works",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "year@beatmaxing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Release Derived Year",
+        "person_title": "Owner",
+        "source_url": "https://beatmaxing.com/notices.html",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beatmaxing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/help.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/get/helper",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/notices.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/premiere-beat-markers.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beatmaxing.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Automatic beat markers for Adobe Premiere on Mac. BeatMaxing marks the kicks, snares and hi-hats in your song, or every hit it hears. No upload.",
+    "source_urls": [
+      "https://beatmaxing.com",
+      "https://beatmaxing.com/help.html",
+      "https://beatmaxing.com/get/helper",
+      "https://beatmaxing.com/privacy.html",
+      "https://beatmaxing.com/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cairnix.com",
+    "company_name": "CAIRNIX",
+    "website": "https://cairnix.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "amitkaushik@cairnix.com",
+        "confidence": "highest",
+        "source_url": "https://cairnix.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "amitkaushik@cairnix.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cairnix.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cairnix.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cairnix.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cairnix.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Documents read, records reconciled, numbers analysed, and tools built around the systems you already use.",
+    "source_urls": [
+      "https://cairnix.com",
+      "https://cairnix.com/contact.html",
+      "https://cairnix.com/privacy.html",
+      "https://cairnix.com/terms.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "calientehubxxx.com",
+    "company_name": "CALIENTEHUBXXX",
+    "website": "https://calientehubxxx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "calientehubmediallc@calientehubxxx.com",
+        "confidence": "high",
+        "source_url": "https://calientehubxxx.com/pages.php?id=privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sers who send a written request to the Operator by email at calientehubmediallc@calientehubxxx.com. 8. No Security Guarantees. The Operator does not guara"
+      }
+    ],
+    "role_emails": [
+      "calientehubmediallc@calientehubxxx.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://calientehubxxx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-20"
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=customersupport",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/join.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/forgot.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=privacy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=parental-control",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/categories/movies.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/models.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/odlogin.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/odcart.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/register.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Zacatecas-Pool-Side_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Interpol-Extradition_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/El-Acuerdo-No-Escrito_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Infiltration-Mission-Trump-Intel-Exchange_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/LilithGrace.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Condor-Denzel_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Gafe-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/Luna-Legend.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/Rico-Reyes.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Blackthonglatinagali_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/Gali-Diva-.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Computerlove-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Fatasslatina-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Gymsession-Galitigre_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/El-Tigre.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Pinkblousegalidiva-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Pinkmom_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/updates/page_2.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/models/Lawson-Jones.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/categories/updates_1_p.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Influencers-Caliente_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Un-Sueo-De-Tres_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Lasenoradelaslomas-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Extranjero-Curioso_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/latin_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/scenes/Welcomemexico-_vids.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/faq/faq.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=cancellations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=contentremoval",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=toc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=affiliates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calientehubxxx.com/pages.php?id=2257",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Caliente Hub XXX - escenas exclusivas para adultos grabadas en CDMX y Medell\u00edn con talento latino real. Videos completos en HD y 4K. Solo +18.",
+    "source_urls": [
+      "https://calientehubxxx.com/pages.php?id=privacy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 72,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ceewords.com",
+    "company_name": "CEEWORDS",
+    "website": "https://ceewords.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ceewords.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceewords.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chasetheten.com",
+    "company_name": "CHASE THE TEN",
+    "website": "https://chasetheten.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chasetheten.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/pages/the-chase",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections/frontpage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections/hats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections/cq-testing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/collections/shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/products/the-motto-t-shirt-dup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/products/the-og-hat-dup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/products/the-athlete-dup",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chasetheten.com/pages/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://chasetheten.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Chase The Ten",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chromagray.com",
+    "company_name": "CHROMAGRAY",
+    "website": "https://chromagray.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chromagray.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chromagray.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ussmilecapital.com",
+    "company_name": "U.S. SMILE CAPITAL",
+    "website": "https://ussmilecapital.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "uwbadgers.com",
+    "company_name": "University of Wisconsin-Madison",
+    "website": "https://uwbadgers.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "vaultsportsbox.com",
+    "company_name": "VAULT SPORTS BOX",
+    "website": "https://vaultsportsbox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@vaultsportsbox.com",
+        "confidence": "highest",
+        "source_url": "https://vaultsportsbox.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Answers Vault Pro FAQ Still stuck? info@vaultsportsbox.com or call +1 406-261-3371 . What motivated you t"
+      },
+      {
+        "address": "info.uk@vaultsportsbox.com",
+        "confidence": "high",
+        "source_url": "https://vaultsportsbox.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info.uk@vaultsportsbox.com",
+      "info@vaultsportsbox.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.potts@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy.potts@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andy_potts@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andyp@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolina@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "champion@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "endurance@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.mound@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flower.mound@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flower@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flower_mound@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flowerm@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.oury@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy.oury@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy_oury@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremyo@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "level@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.endurance@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mound@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flower Mound",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mountain.endurance@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mountain@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mountain_endurance@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mountaine@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mountain Endurance",
+        "person_title": "Owner",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.carolina@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north.carolina@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north_carolina@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northc@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oury@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Oury",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.surge@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "potts@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andy Potts",
+        "person_title": "Co-Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "project.surge@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "project@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "project_surge@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "projects@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "surge@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Project Surge",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.level@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "triathlon.level@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "triathlon@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "triathlon_level@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "triathlonl@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Triathlon Level",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.champion@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "world.champion@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "world@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "world_champion@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "worldc@vaultsportsbox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "World Champion",
+        "person_title": "Founder",
+        "source_url": "https://vaultsportsbox.com/pages/ambassadors",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://vaultsportsbox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/#founders",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/products/bike-box-vault-pro-xl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/#box",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/ambassadors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/#fly",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/#videos",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/will-my-bike-fit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/packing-your-vehicle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/why-a-hard-case-matters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/air-canada",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/air-france",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/air-new-zealand",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/alaska-airlines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/american-airlines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/austrian",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/british-airways",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/brussels-airlines",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/delta",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/easyjet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/emirates",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/etihad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/iberia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/ita-airways",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/jetblue",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/klm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/lufthansa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/norwegian-air",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/qantas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vaultsportsbox.com/pages/airline-bike-policies/qatar-airways",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hard-shell bike case, built in the USA and UK. 31 lb, 102 in linear. Remove both wheels, seat post and saddle, pedals; handlebars, derailleurs and cassette stay on.",
+    "source_urls": [
+      "https://vaultsportsbox.com",
+      "https://vaultsportsbox.com/pages/contact",
+      "https://vaultsportsbox.com/pages/about-us",
+      "https://vaultsportsbox.com/#founders",
+      "https://vaultsportsbox.com/products/bike-box-vault-pro-xl",
+      "https://vaultsportsbox.com/",
+      "https://vaultsportsbox.com/#box",
+      "https://vaultsportsbox.com/collections/accessories",
+      "https://vaultsportsbox.com/pages/ambassadors",
+      "https://vaultsportsbox.com/#fly",
+      "https://vaultsportsbox.com/#videos",
+      "https://vaultsportsbox.com/#faq",
+      "https://vaultsportsbox.com/cart",
+      "https://vaultsportsbox.com/pages/will-my-bike-fit",
+      "https://vaultsportsbox.com/pages/packing-your-vehicle",
+      "https://vaultsportsbox.com/pages/why-a-hard-case-matters",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/air-canada",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/air-france",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/air-new-zealand",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/alaska-airlines",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/american-airlines",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/austrian",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/british-airways",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/brussels-airlines",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/delta",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/easyjet",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/emirates",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/etihad",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/iberia",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/ita-airways",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/jetblue",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/klm",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/lufthansa",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/norwegian-air",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/qantas",
+      "https://vaultsportsbox.com/pages/airline-bike-policies/qatar-airways"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 76,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "vaymov.com",
+    "company_name": "VAYMOV",
+    "website": "https://vaymov.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@vaymov.com",
+        "confidence": "highest",
+        "source_url": "https://vaymov.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "9500 W Sam Houston Pkwy S Houston, TX 77099 (305) 782-9668 info@vaymov.com Your name Company Email City / State Interest D"
+      }
+    ],
+    "role_emails": [
+      "info@vaymov.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vaymov.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vaymov.com",
+        "action": "https://formsubmit.co/info@vaymov.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover VAYMOV electric golf carts. Find your seating layout and explore dealer opportunities.",
+    "source_urls": [
+      "https://vaymov.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zanaroo.com",
+    "company_name": "ZANAROO",
+    "website": "https://zanaroo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zanaroo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zanaroo.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-08-14"
+      },
+      {
+        "url": "https://zanaroo.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-01"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://zanaroo.com",
+        "action": "submit.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Help shape Zanaroo, a smarter way to remember, track, and care for your home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
