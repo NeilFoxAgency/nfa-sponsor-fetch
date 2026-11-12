@@ -1,0 +1,2528 @@
+[
+  {
+    "company_domain": "aicon.com",
+    "company_name": "AICON",
+    "website": "https://aicon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aicon.com",
+        "confidence": "highest",
+        "source_url": "https://aicon.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\ufeff info@aicon.com Tel: +39.0523.1656059"
+      },
+      {
+        "address": "staff@aicon.com",
+        "confidence": "highest",
+        "source_url": "https://aicon.com/privacy-policy.php",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Guastafredda, 14 - 29121 Piacenza Email: staff@aicon.com Trattamento dati connessi al funzionamento del presen"
+      }
+    ],
+    "role_emails": [
+      "info@aicon.com",
+      "staff@aicon.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aicon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/area-clienti.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/privacy-policy.php",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/index.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/chi-siamo.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-web.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-software.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-ecommerce.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-hosting.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-marchi.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-pec.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-app.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/servizi-venditasoftware.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/marketing.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/marketing-email.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/marketing-seo.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/marketing-statistiche.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/marketing-adwords.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/partners.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/contatti.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicon.com/servizi-web.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicon.com/marketing.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicon.com/servizi-app.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicon.com/marketing-seo.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aicon.com/servizi-marchi.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aicon.com/termini-utilizzo.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aicon.com/servizi-marchi.php",
+        "action": "index.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aicon.com/contatti.php",
+        "action": "index.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aicon.com/servizi-marchi.php",
+        "action": "index.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Internet Service Provider a Piacenza, Web Marketing, Realizzazione Siti Web a Piacenza, Registrazione marchi aziendali, Deposito marchi, UIBM",
+    "source_urls": [
+      "https://aicon.com",
+      "https://aicon.com/area-clienti.php",
+      "https://aicon.com/privacy-policy.php",
+      "https://aicon.com/index.php",
+      "https://aicon.com/chi-siamo.php",
+      "https://aicon.com/servizi.php",
+      "https://aicon.com/servizi-web.php",
+      "https://aicon.com/servizi-software.php",
+      "https://aicon.com/servizi-ecommerce.php",
+      "https://aicon.com/servizi-hosting.php",
+      "https://aicon.com/servizi-marchi.php",
+      "https://aicon.com/servizi-pec.php",
+      "https://aicon.com/servizi-app.php",
+      "https://aicon.com/servizi-venditasoftware.php",
+      "https://aicon.com/marketing.php",
+      "https://aicon.com/marketing-email.php",
+      "https://aicon.com/marketing-seo.php",
+      "https://aicon.com/marketing-statistiche.php",
+      "https://aicon.com/marketing-adwords.php",
+      "https://aicon.com/partners.php",
+      "https://aicon.com/contatti.php",
+      "https://www.aicon.com/servizi-web.php",
+      "https://www.aicon.com/marketing.php",
+      "https://www.aicon.com/servizi-app.php",
+      "https://www.aicon.com/marketing-seo.php",
+      "https://www.aicon.com/servizi-marchi.php",
+      "https://aicon.com/termini-utilizzo.php"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 54,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ambione.com",
+    "company_name": "AMBI ONE",
+    "website": "https://ambione.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ambione.com",
+        "confidence": "highest",
+        "source_url": "https://ambione.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contacto info@ambione.com (+34) 688 978 885"
+      }
+    ],
+    "role_emails": [
+      "info@ambione.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ambione.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambione.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Haga que sus clientes experimenten las incre\u00edbles sensaciones y emociones con nuestros aromas de alta calidad.",
+    "source_urls": [
+      "https://ambione.com",
+      "https://ambione.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "avenueticket.com",
+    "company_name": "AVENUE TICKET",
+    "website": "https://avenueticket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@avenue.tickets",
+        "confidence": "high",
+        "source_url": "https://avenueticket.com/privacy",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@avenueticket.com",
+        "confidence": "high",
+        "source_url": "https://avenueticket.com/terms",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@avenueticket.com",
+        "confidence": "high",
+        "source_url": "https://avenueticket.com/terms",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@avenue.tickets",
+      "privacy@avenueticket.com",
+      "support@avenueticket.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://avenueticket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/do-you-like-bass-tour-2026-2nd-show-added-san-francisco",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/bad-omen-friday-the-13th-warehouse-rave",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/pinsplaylists1125",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/hexa-thanksgiving-eve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/projx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/chicagoedition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/bunna-b",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/stormforged-5",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/bassick-events-presents-phaseone",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/karakhousecoffeegn",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/downtown-music-hall-presents-rehab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/almostqueen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/nyd-the-bass-360-experience-las-vegas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/rumours-atl-a-fleetwood-mac-tribute",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/dueling-pianos-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/little-mania-nashville-tn-2026-11-12",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/nashville12",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/plaza-mariachi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/lmmw-nashville",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/fenix-flexin-the-rubberz-tour",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/velvet-thursday-11122026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/hocean-side-morning-yoga-with-kumumea-yoga-11-13-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/fleetwoodmacatrocknroll",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/friday-the-13th",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/sleepy-hallow-live",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/zeddy-will",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/comedy-hours",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/thankgbedu1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/lemon-drop-festival-neworleans",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/wny-biggest-80s-party",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/kold-killa-live",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/rubber-bandz-tour-fenix-flexin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/showtime-saturday-nov-14th",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/control-the-traffic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/jatt-dont-care-san-jose",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/mwa-world-tour-backwood-bar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/dilesquenomematen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/gearheadz-wrestling",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/draft-event-1792206139438",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/fenix-flexin-the-rubberz-tour-los-angeles-the-mayan-18",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/drinks-giving-on-thanksgiving",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/the-steely-project-the-cove",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/draft-event-1791353344104",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/thepajamajam26",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/sadity-rackz-live",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/event/sagittarius-affair",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/privacy",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avenueticket.com/terms",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://partners.avenueticket.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find the best events happening around you and book instantly with secure checkout.",
+    "source_urls": [
+      "https://avenueticket.com/privacy",
+      "https://avenueticket.com/terms",
+      "https://partners.avenueticket.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "cerealsaver.com",
+    "company_name": "CEREAL SAVER",
+    "website": "https://cerealsaver.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@cerealsaver.com",
+        "confidence": "highest",
+        "source_url": "https://cerealsaver.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e'll make it right. Shipping outside the U.S.? Email us at support@cerealsaver.com for international shipping options. Frequently Asked Quest"
+      }
+    ],
+    "role_emails": [
+      "support@cerealsaver.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cerealsaver.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cerealsaver.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cereal Saver is a reusable BPA-free kitchen gadget \u2014 a bowl insert that keeps cereal crunchy by separating it from milk until you're ready. Made in Bear Lake, Idaho.",
+    "source_urls": [
+      "https://cerealsaver.com",
+      "https://cerealsaver.com/contact",
+      "https://cerealsaver.com/support",
+      "https://cerealsaver.com/about",
+      "https://cerealsaver.com/team",
+      "https://cerealsaver.com/contact-us",
+      "https://cerealsaver.com/contactus",
+      "https://cerealsaver.com/about-us",
+      "https://cerealsaver.com/our-team",
+      "https://cerealsaver.com/meet-the-team",
+      "https://cerealsaver.com/leadership",
+      "https://cerealsaver.com/founders",
+      "https://cerealsaver.com/people",
+      "https://cerealsaver.com/staff",
+      "https://cerealsaver.com/press",
+      "https://cerealsaver.com/media",
+      "https://cerealsaver.com/help",
+      "https://cerealsaver.com/company",
+      "https://cerealsaver.com/who-we-are",
+      "https://cerealsaver.com/our-story",
+      "https://cerealsaver.com/our-mission",
+      "https://cerealsaver.com/get-in-touch",
+      "https://cerealsaver.com/reach-us",
+      "https://cerealsaver.com/enquiries",
+      "https://cerealsaver.com/impressum",
+      "https://cerealsaver.com/pages/contact",
+      "https://cerealsaver.com/pages/contact-us",
+      "https://cerealsaver.com/support/contact",
+      "https://cerealsaver.com/privacy",
+      "https://cerealsaver.com/terms",
+      "https://cerealsaver.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dailyok.co",
+    "company_name": "DAILYOK",
+    "website": "https://dailyok.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@dailyokapp.com",
+        "confidence": "highest",
+        "source_url": "https://dailyok.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@dailyokapp.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dailyok.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DailyOk sends you a daily reminder to check in. If you don't respond, your emergency contact is alerted automatically. Only $2.99/month.",
+    "source_urls": [
+      "https://dailyok.co"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "grailcrest.com",
+    "company_name": "GRAILCREST",
+    "website": "https://grailcrest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@grailcrest.app",
+        "confidence": "high",
+        "source_url": "https://grailcrest.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@grailcrest.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://grailcrest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grailcrest.com/refund.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "GrailCrest measures your scanned Pok\u00e9mon cards like a grader (centering, corners, edges, surface), estimates the PSA, Beckett and CGC grade and tells you which cards are worth sending in. Windows app, any flatbed scanner. Free trial.",
+    "source_urls": [
+      "https://grailcrest.com",
+      "https://grailcrest.com/contact",
+      "https://grailcrest.com/support",
+      "https://grailcrest.com/about",
+      "https://grailcrest.com/team",
+      "https://grailcrest.com/contact-us",
+      "https://grailcrest.com/contactus",
+      "https://grailcrest.com/about-us",
+      "https://grailcrest.com/our-team",
+      "https://grailcrest.com/meet-the-team",
+      "https://grailcrest.com/leadership",
+      "https://grailcrest.com/founders",
+      "https://grailcrest.com/people",
+      "https://grailcrest.com/staff",
+      "https://grailcrest.com/press",
+      "https://grailcrest.com/media",
+      "https://grailcrest.com/help",
+      "https://grailcrest.com/company",
+      "https://grailcrest.com/who-we-are",
+      "https://grailcrest.com/our-story",
+      "https://grailcrest.com/our-mission",
+      "https://grailcrest.com/get-in-touch",
+      "https://grailcrest.com/reach-us",
+      "https://grailcrest.com/enquiries",
+      "https://grailcrest.com/impressum",
+      "https://grailcrest.com/pages/contact",
+      "https://grailcrest.com/pages/contact-us",
+      "https://grailcrest.com/support/contact",
+      "https://grailcrest.com/privacy.html",
+      "https://grailcrest.com/refund.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "readgenie.com",
+    "company_name": "READGENIE",
+    "website": "https://readgenie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://readgenie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/parent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/states/intro",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/pilot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/#how-it-works",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/partners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/orton-gillingham-games",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/esa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/legal-pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/legal-pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/project-read-ai-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/amira-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/lexia-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/nessy-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/ello-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/luca-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://readgenie.com/compare/duolingo-abc-vs-readgenie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Help your students stop guessing and start decoding. ReadGenie gives dyslexic and struggling readers structured phonics, spelling, and reading practice in the classroom.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "riskernel.com",
+    "company_name": "RISKERNEL",
+    "website": "https://riskernel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Actimize Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.shachar@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "actimize.award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Actimize Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "actimize@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Actimize Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "actimize_award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Actimize Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "actimizea@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Actimize Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amir.shachar@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amir@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amir_shachar@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amirs@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.drill@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepfake.drill@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepfake@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepfake_drill@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepfaked@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "drill@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepfake Executive Drill",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "excellence.award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "excellence@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "excellence_award@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "excellencea@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Excellence Award",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.learning@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fake@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federated.learning@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federated@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federated_learning@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "federatedl@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "learning@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Federated Learning",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/speaking.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shachar@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amir Shachar",
+        "person_title": "Founder",
+        "source_url": "https://riskernel.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.fake@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.fake@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_fake@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thef@riskernel.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Fake",
+        "person_title": "Ceo",
+        "source_url": "https://riskernel.com/blog/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://riskernel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/algogens/#essay",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/launch-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/shadow-test/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/engagements/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html#ai-agents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/ai-agent-incident-tabletop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/agent-blast-radius-statement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/held-out-model-validation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/ai-investigator-proving-ground/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html#impersonation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/scam-script-test-ai-agents/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/deepfake-executive-drill/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/vendor-bank-change-drill/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html#payments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/scam-warning-lab/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/scam-merchant-trace/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/payout-fraud-audit/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/signup-credit-abuse-audit/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/detection-rules-proving-ground/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html#lending",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/pre-funding-invoice-check/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/collateral-book-exam/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html#vendors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/fraud-vendor-exit-plan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products/ai-feature-attack-test-bank-review/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/teardowns/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/engagements/#sprint",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/engagements/#pilot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/engagements/#production",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/algogens/#algogens-vs-agent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/algogens/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/patents/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/products.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/sample-report/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/advisory.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/fraud-surface-os/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/newsletter/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/quiz/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/briefing.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://riskernel.com/speaking.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://riskernel.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://riskernel.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://riskernel.com/launch-review/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://riskernel.com/shadow-test/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Riskernel is a fraud engine built on Algogens. Generative intelligence discovers patterns; deterministic validators check every decision before it acts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 73,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "sable.com",
+    "company_name": "SABLE",
+    "website": "https://sable.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "inquiries@sable.com",
+        "confidence": "highest",
+        "source_url": "https://sable.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sable inquiries@sable.com copy"
+      }
+    ],
+    "role_emails": [
+      "inquiries@sable.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sable.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "inquiries@sable.com",
+    "source_urls": [
+      "https://sable.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thedemskigroup.com",
+    "company_name": "THE DEMSKI GROUP",
+    "website": "https://thedemskigroup.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tideshaw.com",
+    "company_name": "TIDESHAW",
+    "website": "https://tideshaw.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@tideshaw.com",
+        "confidence": "high",
+        "source_url": "https://tideshaw.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Merchant Name: Tideshaw Customer Support Contact: info@tideshaw.com Join our email list G"
+      }
+    ],
+    "role_emails": [
+      "info@tideshaw.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "s.seawall@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seawall@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunabe.seawall@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunabe@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunabe_seawall@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunabes@tideshaw.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunabe Seawall",
+        "person_title": "Founder",
+        "source_url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://tideshaw.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/cozumel-mexico-nautical-glossy-mug",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/cozumel-mexico-nautical-tote-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/men-s-premium-heavyweight-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/key-largo-florida-nautical-tote-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/key-largo-florida-nautical-glossy-mug",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/key-largo-florida-nautical-t-shirt-heavyweight-unisex-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/okinawa-ryukyu-islands-nautical-tote-bag",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/products/okinawa-japan-ryukyu-islands-nautical-t-shirt-heavyweight-unisex-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tideshaw.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tideshaw.com/pages/contact",
+        "action": "/contact#ContactForm-AejZUNzJ4dE5QUG83V__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Custom laser-engraved nautical art of your lake, reef, or home port. Plus coastal tees and hoodies for divers, boaters, and coastal lovers. Veteran-owned and operated.",
+    "source_urls": [
+      "https://tideshaw.com/policies/contact-information",
+      "https://tideshaw.com/policies/privacy-policy",
+      "https://tideshaw.com/policies/refund-policy",
+      "https://tideshaw.com/policies/terms-of-service",
+      "https://tideshaw.com/policies/shipping-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "xanadunexus.com",
+    "company_name": "XANADU NEXUS",
+    "website": "https://xanadunexus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@xanadunexus.com",
+        "confidence": "highest",
+        "source_url": "https://xanadunexus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "an email from us you did not expect, write to support@xanadunexus.com and we will stop it. See our Priv"
+      }
+    ],
+    "role_emails": [
+      "support@xanadunexus.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://xanadunexus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://xanadunexus.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://xanadunexus.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://xanadunexus.com/text-messaging",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Xanadu Nexus \u2014 where creative business comes together. The business command center for photographers, videographers, content creators, and creative studios: inquiries, bookings, contracts, invoices, scheduling and gallery delivery in one place.",
+    "source_urls": [
+      "https://xanadunexus.com",
+      "https://xanadunexus.com/privacy",
+      "https://xanadunexus.com/terms",
+      "https://xanadunexus.com/text-messaging"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
