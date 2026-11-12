@@ -1,0 +1,3285 @@
+[
+  {
+    "company_domain": "helloharrison.com",
+    "company_name": "HARRISON",
+    "website": "https://helloharrison.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "hour20bakery.com",
+    "company_name": "HOUR 20 BAKERY",
+    "website": "https://hour20bakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@hour20bakery.com",
+        "confidence": "highest",
+        "source_url": "https://hour20bakery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@hour20bakery.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "l.l@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lihua.l@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lihua@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lihua_l@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lihual@hour20bakery.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lihua L.",
+        "person_title": null,
+        "source_url": "https://hour20bakery.com/menu/chocolate",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://hour20bakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/story",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/collections/sourdough",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/collections/milk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/collections/scone",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/collections/soft",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/collections/pretzel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/hokkaido",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/chocolate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/multigrain",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/country",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/cranberry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/menu/blacksesame",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market#factory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market#la-river",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market#monterey-park",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market#la-palma",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/farmers-market#dtla",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/story#process",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/delivery#shipping",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hour20bakery.com/privacy#ads-opt-out",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Twenty-hour fermented, hand-shaped sourdough \u2014 baked in El Monte and delivered fresh across California.",
+    "source_urls": [
+      "https://hour20bakery.com",
+      "https://hour20bakery.com/contact",
+      "https://hour20bakery.com/",
+      "https://hour20bakery.com/menu",
+      "https://hour20bakery.com/story",
+      "https://hour20bakery.com/delivery",
+      "https://hour20bakery.com/farmers-market",
+      "https://hour20bakery.com/login",
+      "https://hour20bakery.com/collections/sourdough",
+      "https://hour20bakery.com/collections/milk",
+      "https://hour20bakery.com/collections/scone",
+      "https://hour20bakery.com/collections/soft",
+      "https://hour20bakery.com/collections/pretzel",
+      "https://hour20bakery.com/menu/hokkaido",
+      "https://hour20bakery.com/menu/chocolate",
+      "https://hour20bakery.com/menu/multigrain",
+      "https://hour20bakery.com/menu/country",
+      "https://hour20bakery.com/menu/cranberry",
+      "https://hour20bakery.com/menu/blacksesame",
+      "https://hour20bakery.com/farmers-market#factory",
+      "https://hour20bakery.com/farmers-market#la-river",
+      "https://hour20bakery.com/farmers-market#monterey-park",
+      "https://hour20bakery.com/farmers-market#la-palma",
+      "https://hour20bakery.com/farmers-market#dtla",
+      "https://hour20bakery.com/story#process",
+      "https://hour20bakery.com/faq",
+      "https://hour20bakery.com/delivery#shipping",
+      "https://hour20bakery.com/account",
+      "https://hour20bakery.com/terms",
+      "https://hour20bakery.com/privacy",
+      "https://hour20bakery.com/privacy#ads-opt-out"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "indx.com",
+    "company_name": "INDX",
+    "website": "https://indx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@indx.com",
+        "confidence": "highest",
+        "source_url": "https://indx.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ite 2575 60603, IL Chicago, United States (+1) 630 652 0045 info@indx.com World/European Headquarters Piazzale dell'Agricoltura, 2400"
+      }
+    ],
+    "role_emails": [
+      "info@indx.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.management@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "america@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "asset.management@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "asset@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "asset_management@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "assetm@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.bhm@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bhm@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "birgit.bhm@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "birgit@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "birgit_bhm@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "birgitb@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Birgit B\u00f6hm",
+        "person_title": null,
+        "source_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.escudero@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos.escudero@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlos_escudero@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlose@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.engineering@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.transformation@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.engineering@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.transformation@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_engineering@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_transformation@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitale@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalt@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.vice@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "engineering@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Engineering",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "escudero@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carlos Rabadan Escudero",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive.vice@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive_vice@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executivev@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.mazuc@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katie.mazuc@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katie@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katie_mazuc@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "katiem@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Asset Management",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mazuc@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Katie Mazuc",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.america@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north.america@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north_america@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northa@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.services@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.shankara@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prashanth.shankara@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prashanth@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prashanth_shankara@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prashanths@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professional.services@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professional@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professional_services@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "professionals@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "services@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Professional Services",
+        "person_title": "President",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shankara@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Prashanth Shankara",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transformation@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Business Development",
+        "source_url": "https://indx.com/experts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@indx.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://indx.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://indx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/global-tool-resource-management-for-medical-devices",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/oracle-agile-plm-to-siemens-teamcenter-migration-medical-devices",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/sap-asset-management-reliability-maintenance-modernization",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/product-lifecycle-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/product/siemens-teamcenter",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/product/sap-intelligent-asset-management-sap-iam",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indx.com/oracle-agile-plm-to-siemens-teamcenter-migration-medical-devices",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indx.com/sap-asset-management-asset-reliability-sap-maintenance-modernization",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/ai-labs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/experts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/simulated-packaging-for-sustainable-e-commerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/industry-4-0-for-kitchen-equipment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/aerospace-defense",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/food-beverage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/pharmaceutical",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/automotive-heavy-equipment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/medical-devices",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/consumer-packaged-goods-cpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/electronics-semiconductor-manufacturing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/energy-utilities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/industries/transportation-infrastructure",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/copans-pharmaceutical-supply-chain-digital-twin-simulation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/elevating-shipyard-performance-for-automar",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/digital-manufacturing-for-howdens-kitchens",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/digital-port-operations-for-greater-efficiency",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/case-study/a-digital-twin-for-athletic-apparel-leader",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/design-automation-assessment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/smart-packaging-processing-digital-thread-for-consumer-manufacturing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/where-battery-manufacturing-meets-real-execution",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/digital-engineering",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/digital-twin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/digital-manufacturing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/digital-supply-chain",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/product-design-automation-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/factory-automation-control",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/supply-chain-tracking-tracing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/manufacturing-execution-systems",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/solution/manufacturing-simulation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/siemens-digital-industries",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/sap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/aveva",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/rockwell-automation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/ifs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://indx.com/partnerships/anylogic",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://indx.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/global-tool-resource-management-for-medical-devices",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/oracle-agile-plm-to-siemens-teamcenter-migration-medical-devices",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/sap-asset-management-reliability-maintenance-modernization",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/product-lifecycle-management",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/product/siemens-teamcenter",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/product/sap-intelligent-asset-management-sap-iam",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.indx.com/oracle-agile-plm-to-siemens-teamcenter-migration-medical-devices",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.indx.com/sap-asset-management-asset-reliability-sap-maintenance-modernization",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/ai-labs",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/experts",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/simulated-packaging-for-sustainable-e-commerce",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/industry-4-0-for-kitchen-equipment",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/aerospace-defense",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/food-beverage",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/pharmaceutical",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/automotive-heavy-equipment",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/medical-devices",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/consumer-packaged-goods-cpg",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/electronics-semiconductor-manufacturing",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/energy-utilities",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/industries/transportation-infrastructure",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/copans-pharmaceutical-supply-chain-digital-twin-simulation",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/elevating-shipyard-performance-for-automar",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/digital-manufacturing-for-howdens-kitchens",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/digital-port-operations-for-greater-efficiency",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/case-study/a-digital-twin-for-athletic-apparel-leader",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/design-automation-assessment",
+        "action": "https://api.web3forms.com/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://indx.com/design-automation-assessment",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/free-sap-attp-s-4-assessment",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/smart-packaging-processing-digital-thread-for-consumer-manufacturing",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/where-battery-manufacturing-meets-real-execution",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solutions",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/digital-engineering",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/digital-twin",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/digital-manufacturing",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/digital-supply-chain",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/product-design-automation-2",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/factory-automation-control",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/supply-chain-tracking-tracing",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/manufacturing-execution-systems",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://indx.com/solution/manufacturing-simulation",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "IndX (Engineering Industries eXcellence\u2122) is a global division of the Engineering Group. We specialize in the development, integration, and implementation of holistic digital solutions covering the end-to-end lifecycle and supply chain of all industrial products and processes. With a focus on enabli",
+    "source_urls": [
+      "https://indx.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "juiceman.com",
+    "company_name": "JUICEMAN",
+    "website": "https://juiceman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://juiceman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://juiceman.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "For product questions and customer support, please email\n\t\t\t\tus at homeappliancesupport@spectrumbrands.com , or call 1-800-231-9786 .",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "klintstudio.com",
+    "company_name": "KLINT STUDIO",
+    "website": "https://klintstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://klintstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://klintstudio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "limaura.com",
+    "company_name": "LIMAURA",
+    "website": "https://limaura.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.cuisine@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.hadi@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abdu.cuisine@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abdu@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abdu_cuisine@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abduc@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al.hadi@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "al_hadi@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alh@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cuisine@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abdu Arabian Cuisine",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dhuhur@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hadi@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Al Hadi",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "house@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.house@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ini.house@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ini@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ini_house@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inih@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ini Sate House",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.script@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaushan.script@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaushan@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaushan_script@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaushans@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.dhuhur@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.trip@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "script@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kaushan Script",
+        "person_title": "Owner",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sholat.dhuhur@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sholat@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sholat_dhuhur@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sholatd@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sholat Dhuhur",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/2022/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunday.trip@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunday@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sunday_trip@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sundayt@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trip@limaura.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sunday Trip",
+        "person_title": "Ceo",
+        "source_url": "https://www.limaura.com/feeds/posts/default",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://limaura.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limaura.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limaura.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limaura.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limaura.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/p/profil.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/p/disclosure.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/12/kek-gimana-sih-rasanya-pake-cincin-tiny.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/12/kek-gimana-sih-rasanya-pake-cincin-tiny.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/11/perhiasan-tak-pernah-jadi-abadi.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/11/perhiasan-tak-pernah-jadi-abadi.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/10/bertemu-tiga-orang-unik-pasca-pulang-ke.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/10/bertemu-tiga-orang-unik-pasca-pulang-ke.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/07/bracelet-gemstone-aksara-jawa-by-henju.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/07/bracelet-gemstone-aksara-jawa-by-henju.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/06/chocolate-monggo-cucok-dibuat-nongkrong.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/06/chocolate-monggo-cucok-dibuat-nongkrong.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/05/kek-mana-rasanya-nge-kopi-randu-di.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/05/kek-mana-rasanya-nge-kopi-randu-di.html#comment-form",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/feeds/posts/default",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/12/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/11/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/10/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/07/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/06/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2023/05/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/10/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/09/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/08/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/07/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/06/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/05/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/04/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2022/03/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/11/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/10/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/08/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/03/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/02/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2021/01/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/12/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/11/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/10/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/09/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.limaura.com/2020/07/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "let's talk about everything and the ocean",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "loveydog.co",
+    "company_name": "LOVEY DOG",
+    "website": "https://loveydog.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@loveydog.co",
+        "confidence": "high",
+        "source_url": "https://loveydog.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ge it for the other size or return it within 30 days. Email hello@loveydog.co and we sort it. How do I wash it? Machine wash cold,"
+      }
+    ],
+    "role_emails": [
+      "hello@loveydog.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://loveydog.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/collections/bandanas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/#fit",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/chewy-vuiton-original-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/fursace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/chewy-vuiton-white-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/dogior-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/furberry-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/hairmes-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/lovemydogfancy-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/pawda-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/pooch-new-york-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/pucci-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/ralph-pawren-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/sniffany-and-co-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/chewnel-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/chewnel-tweed-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/barkin-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/products/audemars-paw-guet-x-scratch-dog-bandana",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://loveydog.co/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://loveydog.co/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Designer parody dog bandanas, printed on both sides and tied with one knot. Chewy Vuiton, Furberry, Hairmes, Sniffany & Co and more. Two sizes, $24, ships in 1\u20132 days.",
+    "source_urls": [
+      "https://loveydog.co",
+      "https://loveydog.co/#fit",
+      "https://loveydog.co/#faq",
+      "https://loveydog.co/",
+      "https://loveydog.co/products/chewy-vuiton-original-dog-bandana",
+      "https://loveydog.co/products/fursace",
+      "https://loveydog.co/products/chewy-vuiton-white-dog-bandana",
+      "https://loveydog.co/products/dogior-dog-bandana",
+      "https://loveydog.co/products/furberry-dog-bandana",
+      "https://loveydog.co/products/hairmes-dog-bandana",
+      "https://loveydog.co/products/lovemydogfancy-dog-bandana",
+      "https://loveydog.co/products/pawda-dog-bandana",
+      "https://loveydog.co/products/pooch-new-york-dog-bandana",
+      "https://loveydog.co/products/pucci-dog-bandana",
+      "https://loveydog.co/products/ralph-pawren-dog-bandana",
+      "https://loveydog.co/products/sniffany-and-co-dog-bandana",
+      "https://loveydog.co/products/chewnel-dog-bandana",
+      "https://loveydog.co/products/chewnel-tweed-dog-bandana",
+      "https://loveydog.co/products/barkin-dog-bandana",
+      "https://loveydog.co/products/audemars-paw-guet-x-scratch-dog-bandana",
+      "https://loveydog.co/policies/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "melan8ed.com",
+    "company_name": "MELAN8ED",
+    "website": "https://melan8ed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://melan8ed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://melan8ed.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The ultimate dating app for people of color and those who love them. Find your match across cultures, kinks, and lifestyles.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "multipaydesk.com",
+    "company_name": "MULTIPAY DESK",
+    "website": "https://multipaydesk.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "muscleotc.com",
+    "company_name": "MUSCLE OTC",
+    "website": "https://muscleotc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://muscleotc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/glp-1-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/for-clinics",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/product/chocolate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/product/vanilla",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/science",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/shipping-returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://muscleotc.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://muscleotc.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://muscleotc.com/for-clinics",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "4-in-1 daily muscle support with protein, creatine, vitamin D3 and LEUVATE\u00ae for strength, mobility and recovery.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "naturallygoodforyou.com",
+    "company_name": "NATURALLY GOOD FOR YOU",
+    "website": "https://naturallygoodforyou.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://naturallygoodforyou.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://naturallygoodforyou.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "nexoryx.com",
+    "company_name": "NEXORYX",
+    "website": "https://nexoryx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nexoryx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nexoryx.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "nexoryx.com is for sale. Contact the seller through NamePros to ask the price or make an offer. Available for sale. We reply only to serious offers with a quote within 24h.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
