@@ -1,0 +1,761 @@
+[
+  {
+    "company_domain": "repaint.com",
+    "company_name": "Repaint",
+    "website": "https://repaint.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@repaint.com",
+        "confidence": "highest",
+        "source_url": "https://repaint.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@repaint.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "austin@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chipps@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "consultants@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "counseling@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.consultants@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diverse.consultants@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diverse@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diverse_consultants@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diversec@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diverse Business Consultants",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.austin@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "east.austin@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "east@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "east_austin@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "easta@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "East Austin",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.counseling@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gem.counseling@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gem@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gem_counseling@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gemc@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gem State Counseling",
+        "person_title": "Founder",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grotesk@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.chipps@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather.chipps@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather_chipps@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heatherc@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Chipps",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.grotesk@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "space.grotesk@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "space@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "space_grotesk@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spaceg@repaint.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Space Grotesk",
+        "person_title": "Owner",
+        "source_url": "https://repaint.com/website-examples",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://repaint.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/help/supported-payment-countries",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/help/payment-fees",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/website-builder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/app-builder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/online-stores",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/scheduling-software",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/memberships",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/online-courses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/website-redesign",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/website-examples",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/dpa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repaint.com/abuse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build your website, take payments, and run your business by chatting with AI. Create stores, bookings, memberships, and more. Try Repaint free for 14 days.",
+    "source_urls": [
+      "https://repaint.com",
+      "https://repaint.com/help",
+      "https://repaint.com/help/supported-payment-countries",
+      "https://repaint.com/",
+      "https://repaint.com/blog",
+      "https://repaint.com/pricing",
+      "https://repaint.com/help/payment-fees",
+      "https://repaint.com/website-builder",
+      "https://repaint.com/app-builder",
+      "https://repaint.com/online-stores",
+      "https://repaint.com/scheduling-software",
+      "https://repaint.com/memberships",
+      "https://repaint.com/online-courses",
+      "https://repaint.com/website-redesign",
+      "https://repaint.com/website-examples",
+      "https://repaint.com/terms",
+      "https://repaint.com/privacy",
+      "https://repaint.com/abuse"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "scatter.study",
+    "company_name": "Built an interactive study tool for students after my cousin found studying boring",
+    "website": "https://scatter.study",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scatter.study",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scatter.study/?landing=1",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scatter.study/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scatter.study/privacy#ko-fi",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scatter.study/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore any topic as a mind map of connected AI-generated explanations on an infinite canvas. Local-first with no app backend. Bring your own API keys for cloud or local models.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "trueplace.ca",
+    "company_name": "Trueplace",
+    "website": "https://trueplace.ca/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@trueplace.ca",
+        "confidence": "highest",
+        "source_url": "https://trueplace.ca/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "with us . Have any questions? We'd love to hear from you. hello@trueplace.ca Trueplace \u00a9 2026 Confetto AI Soreno AI Contact"
+      }
+    ],
+    "role_emails": [
+      "hello@trueplace.ca"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trueplace.ca/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Trueplace builds AI interview platforms. Home of Soreno AI and Confetto AI.",
+    "source_urls": [
+      "https://trueplace.ca/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "warradar.live",
+    "company_name": "I built a simple website to track the Warhammer 40k Meta (Warradar)",
+    "website": "https://warradar.live",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://warradar.live",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://warradar.live/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Real-time map of the world's conflicts: missile strikes, drone attacks and airstrikes picked up from OSINT channels within seconds, with videos and regional live TV.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 28
+  },
+  {
+    "company_domain": "worldwideagenticweb.org",
+    "company_name": "worldwideagenticweb.org",
+    "website": "https://worldwideagenticweb.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Join the Open Agentic Web Challenge on DevPost (Nov 12 - Jan 11) - Sign Up",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  }
+]
