@@ -1,0 +1,577 @@
+[
+  {
+    "company_domain": "cherrytree.com",
+    "company_name": "Untitled",
+    "website": "https://cherrytree.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "dogsbites.com",
+    "company_name": "2026's Top 5 Accessory Trends That Will Make Your Pet Parent Status Official",
+    "website": "https://dogsbites.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "earninchina.com",
+    "company_name": "Case Study: A Pet Products Brand Using China's Supply Chain",
+    "website": "https://earninchina.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.amazon@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amazon@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "an.amazon@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "an@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "an_amazon@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ana@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "An Amazon",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.study@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "case.study@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "case@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "case_study@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cases@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coworking@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.coworking@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expat.coworking@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expat@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expat_coworking@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expatc@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expat Coworking",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "study@earninchina.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Case Study",
+        "person_title": "Founder",
+        "source_url": "https://earninchina.com/category/business",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://earninchina.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/social-media-management-china",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/outdoor-leadership-training-china",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/relocation-concierge-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/teaching",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/freelancing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/business",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/submit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/all-articles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/how-to-teach-english-in-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/content-creator",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/money",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/category/salary",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/tiktok-shop-from-china-foreigners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/chinese-companies-going-global-consultant",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/western-tech-classes-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/1688-sourcing-guide-foreigners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/best-cities-english-teachers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/z-visa-vs-business-visa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/send-money-out-of-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/how-to-register-wfoe-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/cross-border-dropshipping-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/shopify-store-china-suppliers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/etsy-handmade-products-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/yiwu-market-ecommerce-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/private-label-products-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/amazon-fba-quality-control-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/ecommerce-logistics-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/china-fulfillment-centers-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/branded-packaging-china-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/cross-border-payments-ecommerce-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/product-photography-china-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/ecommerce-copywriting-chinese-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/niche-selection-ecommerce-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/seasonal-products-china-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/print-on-demand-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/temu-shein-seller-opportunities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/wechat-mini-store-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/xiaohongshu-ecommerce-foreign-brands",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/douyin-ecommerce-products-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/livestream-selling-china-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/b2b-wholesale-ecommerce-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/amazon-vs-shopify-vs-etsy-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/ecommerce-returns-refunds-china",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://earninchina.com/articles/supplier-negotiation-china-ecommerce",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://earninchina.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://earninchina.com/submit",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The complete guide for foreigners making money in China.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 77,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "pomlaw.com",
+    "company_name": "pomlaw.com",
+    "website": "https://pomlaw.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  }
+]
