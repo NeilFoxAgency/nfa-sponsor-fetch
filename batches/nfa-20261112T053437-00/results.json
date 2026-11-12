@@ -1,0 +1,1489 @@
+[
+  {
+    "company_domain": "818supply.com",
+    "company_name": "818 SUPPLY CO.",
+    "website": "https://818supply.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "allseasonprofessional.com",
+    "company_name": "ALL SEASON PROFESSIONAL",
+    "website": "https://allseasonprofessional.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "enver@allseasonprofessional.com",
+        "confidence": "highest",
+        "source_url": "https://allseasonprofessional.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "53 Foothills Dr. South River NJ 08882 enver@allseasonprofessional.com 718-669-9731 Home"
+      }
+    ],
+    "role_emails": [
+      "enver@allseasonprofessional.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://allseasonprofessional.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/#About",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/gallery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CarpetCleaning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#ResidentialCleaning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CommercialCleaning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#PowerWashing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allseasonprofessional.com",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/get-in-touch",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/#About",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/gallery",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CarpetCleaning",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#ResidentialCleaning",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CommercialCleaning",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#PowerWashing",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All Season Professional offers tailored residential & commercial cleaning solutions. Contact us for a free estimate today!",
+    "source_urls": [
+      "https://allseasonprofessional.com",
+      "https://allseasonprofessional.com/contact",
+      "https://allseasonprofessional.com/about",
+      "https://allseasonprofessional.com/get-in-touch",
+      "https://allseasonprofessional.com/#About",
+      "https://allseasonprofessional.com/",
+      "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj",
+      "https://allseasonprofessional.com/gallery",
+      "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CarpetCleaning",
+      "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#ResidentialCleaning",
+      "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#CommercialCleaning",
+      "https://allseasonprofessional.com/residential-and-commercial-cleaning-services-middlesex-county-nj#PowerWashing"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "always71plus8.com",
+    "company_name": "ALWAYS71PLUS8",
+    "website": "https://always71plus8.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://always71plus8.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/category/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2-1-1-1-1-2-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2-1-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2-1-1-1-1-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/home-2-1-1-1-1-2-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/category/candles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.always71plus8.com/category/bundles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover our handmade soap and bath products. Shop our online bath & body products retailer for quality handmade soap and bath products.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ambectra.com",
+    "company_name": "AMBECTRA",
+    "website": "https://ambectra.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@ambectra.com",
+        "confidence": "highest",
+        "source_url": "https://ambectra.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "stions, wholesale or collaborations, use the form or email care@ambectra.com . Name Email Topic Product question Wholesale Partnership o"
+      }
+    ],
+    "role_emails": [
+      "care@ambectra.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ambectra.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/customer-care",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/spray",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/drops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/fulvic-education",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/know-the-science?view=fulvic-skin-research",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/pages/know-the-science?view=fulvic-scalp-research",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/products/other-example-product-4",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/products/other-example-product-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/products/other-example-product-2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ambectra.com/products/other-example-product-3",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ambectra.com/pages/contact",
+        "action": "/contact#AmbectraContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ambectra.com/pages/customer-care",
+        "action": "/contact#AmbectraContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore AMBECTRA Fulvic Acid Drops for daily facial care and Fulvic Acid Mist for foundational scalp care. Simple, lightweight cosmetic routines.",
+    "source_urls": [
+      "https://ambectra.com/pages/contact",
+      "https://ambectra.com/pages/customer-care"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "ancestralgems.com",
+    "company_name": "ANCESTRAL GEMS",
+    "website": "https://ancestralgems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ancestralgems.com",
+        "confidence": "highest",
+        "source_url": "https://ancestralgems.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ems, Cinna-Jubes, or future Jubes releases, write to us at hello@ancestralgems.com . FOLLOW THE STORY @ancestral_gems Instagram Facebook Pinte"
+      }
+    ],
+    "role_emails": [
+      "hello@ancestralgems.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ancestralgems.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/collections/jubes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/our-story/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/blogs/recipes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/blogs/journal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/products/cinna-jubes/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/coming-soon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/blogs/journal/what-are-jujube-dates/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/blogs/journal/jujube-dates-vs-dates/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/blogs/journal/why-ancient-ingredients-still-matter/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancestralgems.com/pages/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ancestral Gems makes joyful foods from ingredients shaped by time. Discover the Jubes collection, beginning with Cinna-Jubes.",
+    "source_urls": [
+      "https://ancestralgems.com",
+      "https://ancestralgems.com/pages/contact",
+      "https://ancestralgems.com/pages/contact/",
+      "https://ancestralgems.com/",
+      "https://ancestralgems.com/collections/jubes/",
+      "https://ancestralgems.com/pages/our-story/",
+      "https://ancestralgems.com/blogs/recipes/",
+      "https://ancestralgems.com/blogs/journal/",
+      "https://ancestralgems.com/products/cinna-jubes/",
+      "https://ancestralgems.com/pages/coming-soon/",
+      "https://ancestralgems.com/blogs/journal/what-are-jujube-dates/",
+      "https://ancestralgems.com/blogs/journal/jujube-dates-vs-dates/",
+      "https://ancestralgems.com/blogs/journal/why-ancient-ingredients-still-matter/",
+      "https://ancestralgems.com/pages/privacy/",
+      "https://ancestralgems.com/pages/terms/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "aqrova.com",
+    "company_name": "AQROVA",
+    "website": "https://aqrova.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aqrova.com",
+        "confidence": "highest",
+        "source_url": "https://aqrova.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@aqrova.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aqrova.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqrova.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqrova.com/checkout.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aqrova.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aqrova.com/contact.html",
+        "action": "https://formspree.io/f/mvkgaado",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore AQROVA Libido Support for Women, a 9-in-1 capsule formula. View ingredients, serving information, price and delivery details.",
+    "source_urls": [
+      "https://aqrova.com",
+      "https://aqrova.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "armoryreplicas.com",
+    "company_name": "ARMORY REPLICAS",
+    "website": "https://armoryreplicas.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "auralabs.com",
+    "company_name": "AURA LABS",
+    "website": "https://auralabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://auralabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auralabs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "avviare.com",
+    "company_name": "AVVIARE",
+    "website": "https://avviare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.rosener@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.rosener@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_rosener@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewr@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fogarty@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabriel@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.gabriel@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.gabriel@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_gabriel@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffg@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Gabriel",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.mann@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mann@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.mann@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_mann@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meetm@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet Mike Mann",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rosener@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Rosener",
+        "person_title": "Ceo",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.fogarty@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy.fogarty@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracy_fogarty@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tracyf@avviare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tracy Fogarty",
+        "person_title": "Founder",
+        "source_url": "https://avviare.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://avviare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://avviare.com/similar/Avviare.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Avviare.com - a great premium domain available for sale.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "being.com",
+    "company_name": "BEING",
+    "website": "https://being.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://being.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://being.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Meme is a game!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "benecare.com",
+    "company_name": "BENECARE",
+    "website": "https://benecare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "4sales@benecare.com",
+        "confidence": "highest",
+        "source_url": "https://benecare.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or reach account management. Phone: 800.445.6665 Email: 4sales@benecare.com Sales & Account Management"
+      },
+      {
+        "address": "billing@benecare.com",
+        "confidence": "highest",
+        "source_url": "https://benecare.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s and information. Phone: 215.440.1000 , press 5 Email: billing@benecare.com Accounting & Finance"
+      }
+    ],
+    "role_emails": [
+      "4sales@benecare.com",
+      "billing@benecare.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "engleman@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.serota@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee.serota@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee_serota@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lees@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.engleman@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.engleman@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_engleman@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marke@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Engleman",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.tovar@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardy.tovar@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardy@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardy_tovar@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nardyt@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "serota@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lee Serota",
+        "person_title": "President",
+        "source_url": "https://benecare.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tovar@benecare.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nardy Pena Tovar",
+        "person_title": "President",
+        "source_url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benecare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benecare.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benecare.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benecare.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benecare.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benecare.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/plan-sponsors/plan-sponsors-contact-form/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/plan-sponsors/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/dental-professionals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/benefit-consultants/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/members/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/associations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/newsroom/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/employment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/benecares-premium-credit-program-better-than-level-funding/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/the-inspiring-story-behind-benecares-2025-26-scholarship-recipient/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/five-criteria-for-evaluating-dental-networks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benecare.com/terms-and-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.benecare.com/plan-sponsors/plan-sponsors-contact-form/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BeneCare\u2019s group dental plans offer PPO & EPO options in the NE & Mid-Atlantic regions that provide access to care that helps improve oral health and lower costs.",
+    "source_urls": [
+      "https://benecare.com/contact",
+      "https://benecare.com/pages/contact",
+      "https://benecare.com/support/contact",
+      "https://www.benecare.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 45,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "beyondwordsvault.com",
+    "company_name": "BEYOND WORDS VAULT",
+    "website": "https://beyondwordsvault.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beyondwordsvault.com",
+        "confidence": "medium",
+        "source_url": "https://beyondwordsvault.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@beyondwordsvault.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://beyondwordsvault.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beyondwordsvault.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beyond Words Vault \u2014 a new kind of platform for parents who want to be present in the moments that matter most. Coming soon.",
+    "source_urls": [
+      "https://beyondwordsvault.com",
+      "https://beyondwordsvault.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
