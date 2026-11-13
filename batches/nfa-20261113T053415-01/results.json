@@ -1,0 +1,1083 @@
+[
+  {
+    "company_domain": "offstage.cloud",
+    "company_name": "Offstage Cloud",
+    "website": "https://offstage.cloud/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@offstage.cloud",
+        "confidence": "highest",
+        "source_url": "https://offstage.cloud/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "oud macOS sandboxes for AI agents. A product of Exla. hello@offstage.cloud Product Pricing Docs GitHub Actions runners"
+      }
+    ],
+    "role_emails": [
+      "hello@offstage.cloud"
+    ],
+    "email_candidates": [
+      {
+        "address": "m.studio@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mac.studio@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mac@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mac_studio@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "macs@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "studio@offstage.cloud",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mac Studio",
+        "person_title": "Owner",
+        "source_url": "https://offstage.cloud/docs",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://offstage.cloud/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/docs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/join?talk=1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/docs#quickstart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/docs#github-actions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/#pricing",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/github-actions-macos-runners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/ios-simulator-for-ai-agents",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/aws-ec2-mac-alternative",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/privacy#visitor-identification",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://offstage.cloud/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://offstage.cloud/join?talk=1",
+        "action": "/api/waitlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Real macOS sandboxes on Apple silicon for AI agents and CI. Your agent creates one over an API, runs builds and tests with Xcode, then closes it. $1.10 an hour, billed by the second with no minimum.",
+    "source_urls": [
+      "https://offstage.cloud/",
+      "https://offstage.cloud/docs",
+      "https://offstage.cloud/join?talk=1",
+      "https://offstage.cloud/docs#quickstart",
+      "https://offstage.cloud/docs#github-actions",
+      "https://offstage.cloud/#pricing",
+      "https://offstage.cloud/github-actions-macos-runners",
+      "https://offstage.cloud/ios-simulator-for-ai-agents",
+      "https://offstage.cloud/aws-ec2-mac-alternative",
+      "https://offstage.cloud/privacy",
+      "https://offstage.cloud/privacy#visitor-identification",
+      "https://offstage.cloud/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "openanyfile.site",
+    "company_name": "Openanyfile",
+    "website": "https://www.openanyfile.site/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.openanyfile.site/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/about.html#editorial",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/#open",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/formats.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/tools/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/how-to-use.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/faq.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/es/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/de/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/pt/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/it/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/nl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/pl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ru/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/uk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/tr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ar/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/fa/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ur/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/he/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/hi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/bn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/id/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ms/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/tl/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/vi/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/th/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ja/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ko/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/zh/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/zh-tw/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/sv/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/ro/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/cs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/el/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/hu/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/download/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/heic/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/avif/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/1/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/identify/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/formats/images/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/jpg/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/png/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/webp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.openanyfile.site/open/gif/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Open any file online free: PDF, DOCX, XLSX, PSD, MP4, ZIP, RAR, EXE and 940+ formats in your browser. Nothing is uploaded \u2014 100% private.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 79,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "origin-88.com",
+    "company_name": "88 Dog treats",
+    "website": "https://origin-88.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "other-peoples-pets.com",
+    "company_name": "Easy Dog Crafts for the Whole Family",
+    "website": "https://other-peoples-pets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "paminy.com",
+    "company_name": "Why are pet parents spending thousands on high-end pet tech during shaky economy?",
+    "website": "https://paminy.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pandosyvet.com",
+    "company_name": "Kettle Craft Dog Treats",
+    "website": "https://pandosyvet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pastries4pets.com",
+    "company_name": "How to Make and Sell Dog Treats in 3 Easy Steps",
+    "website": "https://pastries4pets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pawpawdogtreats.com",
+    "company_name": "Buy Homemade Treats for Dogs | PawPaw Dog Treats",
+    "website": "https://pawpawdogtreats.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "photalabs.com",
+    "company_name": "Phota Labs",
+    "website": "https://photalabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@photalabs.com",
+        "confidence": "highest",
+        "source_url": "https://photalabs.com/careers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@photalabs.com",
+        "confidence": "highest",
+        "source_url": "https://photalabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ments. Tell us what you're building. Contact us info@photalabs.com \u2192 Products Phota for iOS Pho"
+      },
+      {
+        "address": "legal@photalabs.com",
+        "confidence": "highest",
+        "source_url": "https://photalabs.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For legal matters, write to legal@photalabs.com . Products Phota for iOS Phota St"
+      },
+      {
+        "address": "support@photalabs.com",
+        "confidence": "highest",
+        "source_url": "https://photalabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@photalabs.com",
+      "info@photalabs.com",
+      "legal@photalabs.com",
+      "support@photalabs.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.zhang@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cecilia.zhang@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cecilia@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cecilia_zhang@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ceciliaz@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "xia@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.xia@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach.xia@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach_xia@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zachx@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Xia",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zhang@photalabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cecilia Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://photalabs.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://photalabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/ai-headshots",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/personal-avatars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/ai-photo-editing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/marketing-assets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/storyboards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions/video-keyframing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/solutions",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/comparison",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/ai-info-page",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://photalabs.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Phota for iOS is your personal photo assistant. Phota Studio and the Phota API keep the same person consistent across AI images and video on any model.",
+    "source_urls": [
+      "https://photalabs.com",
+      "https://photalabs.com/contact",
+      "https://photalabs.com/about-us",
+      "https://photalabs.com/press",
+      "https://photalabs.com/",
+      "https://photalabs.com/solutions/ai-headshots",
+      "https://photalabs.com/solutions/personal-avatars",
+      "https://photalabs.com/solutions/ai-photo-editing",
+      "https://photalabs.com/solutions/marketing-assets",
+      "https://photalabs.com/solutions/storyboards",
+      "https://photalabs.com/solutions/video-keyframing",
+      "https://photalabs.com/solutions",
+      "https://photalabs.com/blog",
+      "https://photalabs.com/careers",
+      "https://photalabs.com/comparison",
+      "https://photalabs.com/ai-info-page",
+      "https://photalabs.com/terms-of-service",
+      "https://photalabs.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "revealbot.com",
+    "company_name": "Revealbot",
+    "website": "https://revealbot.com/?ref=indiehackers.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "slouchpad.com",
+    "company_name": "Adam Ryan Groves",
+    "website": "https://slouchpad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "woo.ga",
+    "company_name": "woo.ga",
+    "website": "https://woo.ga",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@wooga.com",
+        "confidence": "highest",
+        "source_url": "https://woo.ga/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "wesome support team. Select your game below or email us at support@wooga.com. June\u2019s Journey Get Support Pearl\u2019s Peril Get Support Tropi"
+      }
+    ],
+    "role_emails": [
+      "support@wooga.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "begemann@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.begemann@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jens.begemann@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jens@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jens_begemann@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jensb@woo.ga",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jens Begemann",
+        "person_title": "Founder",
+        "source_url": "https://woo.ga/blog",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://woo.ga",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woo.ga/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woo.ga/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woo.ga/jobs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woo.ga/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://woo.ga/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wooga is a mobile games developer from Berlin. We make games with thoughtful, compelling stories at their core.",
+    "source_urls": [
+      "https://woo.ga/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 52,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
