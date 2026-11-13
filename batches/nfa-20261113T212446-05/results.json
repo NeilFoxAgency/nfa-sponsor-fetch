@@ -1,0 +1,2464 @@
+[
+  {
+    "company_domain": "bullishgator.com",
+    "company_name": "BULLISH GATOR",
+    "website": "https://bullishgator.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ceraslick.com",
+    "company_name": "CERASLICK",
+    "website": "https://ceraslick.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ceraslick.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/#shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/#how",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/blogs/learning-center",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/pages/dealer-program",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/#faq",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-waterless-wash-wax-spray-concentrate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-waterless-wash-wax-spray-concentrate#waterless-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-rinseless-car-wash-concentrate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-rinseless-car-wash-concentrate#rinseless-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-best-car-wash-soap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/milliwash-best-car-wash-soap#polymer-demo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/products/ceraslick-microfiber-towel-detergent-concentrate-16-oz#cs-launch-waitlist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/pages/ceraslick-waterless-wash-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/pages/ceraslick-rinseless-wash-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/pages/ceraslick-polymer-wash-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ceraslick.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ceraslick.com",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/contact",
+        "action": "/contact#contact-form-template--30067551830199__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/contact",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/#contact",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/#shop",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/#how",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/blogs/learning-center",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/dealer-program",
+        "action": "/contact#CeraSlickDealerApplication",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/dealer-program",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/#faq",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/cart",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/collections/all",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-waterless-wash-wax-spray-concentrate",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-waterless-wash-wax-spray-concentrate#waterless-demo",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-rinseless-car-wash-concentrate",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-rinseless-car-wash-concentrate#rinseless-demo",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-best-car-wash-soap",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/milliwash-best-car-wash-soap#polymer-demo",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/products/ceraslick-microfiber-towel-detergent-concentrate-16-oz#cs-launch-waitlist",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/ceraslick-waterless-wash-guide",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/ceraslick-rinseless-wash-guide",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/pages/ceraslick-polymer-wash-guide",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ceraslick.com/policies/privacy-policy",
+        "action": "/contact#CeraSlickContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop CeraSlick waterless car wash spray, rinseless car wash concentrate and non-foaming car wash soap. Discover Spray-to-Runoff at just 1 mL per gallon.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 51,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cheatcodes.com",
+    "company_name": "CHEAT CODES",
+    "website": "https://cheatcodes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cheatcodes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/about/terms/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/about/privacy/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/ps4/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/xboxone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/wiiu/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/ps3/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/xbox-360/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/wii/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/ps2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/pc/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/facebook/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/psp/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/gba/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/systems/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/android/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/dreamcast/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/gameboy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/gamecube/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/iphone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/ngage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/n64/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/nintendo-ds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/3ds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/playstation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/psv/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/xbox/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheatcodes.com/grand-theft-auto-v-xbox-360/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-08"
+      },
+      {
+        "url": "https://cheatcodes.com/titanfall-xboxone/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-30"
+      },
+      {
+        "url": "https://cheatcodes.com/infamous-second-son-ps4/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-29"
+      },
+      {
+        "url": "https://cheatcodes.com/guide/gameshark-code-pokemon-leafgreen-gba-86784/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cheatcodes.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://cheatcodes.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Cheats, codes, tips and guides for PS4, Xbox One, Wii U, PS3, Xbox 360, Facebook, iPhone, and all games.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 87,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "coachellavalley.com",
+    "company_name": "COACHELLA VALLEY",
+    "website": "https://coachellavalley.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "forever.com",
+    "company_name": "FOREVER",
+    "website": "https://forever.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "nbowers@forever.com",
+        "confidence": "highest",
+        "source_url": "https://forever.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@forever.com",
+        "confidence": "highest",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Training FOREVER Club Let Us Help You Help Center support@forever.com 1-888-367-3837 Return Policy Shipping Info Volume P"
+      },
+      {
+        "address": "foreverclientcaredesktopsupport@forever.com",
+        "confidence": "high",
+        "source_url": "https://forever.com/help",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "foreverclientcaredesktopsupport@forever.com",
+      "nbowers@forever.com",
+      "support@forever.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "blondeau@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive.vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executive_vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "executivev@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Executive Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.meakem@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glen.meakem@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glen@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glen_meakem@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glenm@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.blondeau@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meakem@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glen Meakem",
+        "person_title": "Founder",
+        "source_url": "https://forever.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "megan.blondeau@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "megan@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "megan_blondeau@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meganb@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Megan Blondeau",
+        "person_title": "Director Of Marketing",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniorv@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@forever.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://forever.com/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://forever.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/press-releases",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/our-story/team",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/digital-conversion",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/storage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-books",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-books?facet_name=Standard%20Photo%20Book",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-books?facet_name=Deluxe%20Seamless%20Layflat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/drinkware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/drinkware/tumblers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/drinkware/photo-mugs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/drinkware/frosted-glasses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts/tabletop-panels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts/ornaments",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts/coaster-sets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts/magnets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-gifts/puzzles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/wall-decor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/wall-decor/framed-photo-prints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/wall-decor/canvas-prints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/wall-decor/metal-wall-panels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor/blankets?facet_names=Mink%20Sherpa&facet_names=Plush%20Fleece",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor/blankets?facet_name=Woven",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor/blankets?facet_name=Outdoor",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor/pillows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/home-decor/towels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/cards-and-stationery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/cards-and-stationery/cards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/cards-and-stationery/notebooks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/calendars",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/create-and-print/photo-prints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/artisan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/training",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/digital_art_library",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/yours",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/sign_in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/sign_up",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/guarantee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/facial-recognition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forever.com/video",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "FOREVER helps you preserve, organize, share, and enjoy your photos, videos, and memories for generations - with permanent storage, digitization, photo printing, creative projects, and family storytelling tools.",
+    "source_urls": [
+      "https://forever.com",
+      "https://forever.com/about",
+      "https://forever.com/team",
+      "https://forever.com/press",
+      "https://forever.com/help",
+      "https://forever.com/our-story",
+      "https://forever.com/press-releases",
+      "https://forever.com/our-story/team",
+      "https://forever.com/",
+      "https://forever.com/digital-conversion",
+      "https://forever.com/storage",
+      "https://forever.com/create-and-print/",
+      "https://forever.com/create-and-print/photo-books",
+      "https://forever.com/create-and-print/photo-books?facet_name=Standard%20Photo%20Book",
+      "https://forever.com/create-and-print/photo-books?facet_name=Deluxe%20Seamless%20Layflat",
+      "https://forever.com/create-and-print/drinkware",
+      "https://forever.com/create-and-print/drinkware/tumblers",
+      "https://forever.com/create-and-print/drinkware/photo-mugs",
+      "https://forever.com/create-and-print/drinkware/frosted-glasses",
+      "https://forever.com/create-and-print/photo-gifts",
+      "https://forever.com/create-and-print/photo-gifts/tabletop-panels",
+      "https://forever.com/create-and-print/photo-gifts/ornaments",
+      "https://forever.com/create-and-print/photo-gifts/coaster-sets",
+      "https://forever.com/create-and-print/photo-gifts/magnets",
+      "https://forever.com/create-and-print/photo-gifts/puzzles",
+      "https://forever.com/create-and-print/wall-decor",
+      "https://forever.com/create-and-print/wall-decor/framed-photo-prints",
+      "https://forever.com/create-and-print/wall-decor/canvas-prints",
+      "https://forever.com/create-and-print/wall-decor/metal-wall-panels",
+      "https://forever.com/create-and-print/home-decor",
+      "https://forever.com/create-and-print/home-decor/blankets?facet_names=Mink%20Sherpa&facet_names=Plush%20Fleece",
+      "https://forever.com/create-and-print/home-decor/blankets?facet_name=Woven",
+      "https://forever.com/create-and-print/home-decor/blankets?facet_name=Outdoor",
+      "https://forever.com/create-and-print/home-decor/pillows",
+      "https://forever.com/create-and-print/home-decor/towels",
+      "https://forever.com/create-and-print/cards-and-stationery",
+      "https://forever.com/create-and-print/cards-and-stationery/cards",
+      "https://forever.com/create-and-print/cards-and-stationery/notebooks",
+      "https://forever.com/create-and-print/calendars",
+      "https://forever.com/create-and-print/photo-prints",
+      "https://forever.com/artisan",
+      "https://forever.com/training",
+      "https://forever.com/digital_art_library",
+      "https://forever.com/yours",
+      "https://forever.com/deals",
+      "https://forever.com/sign_in",
+      "https://forever.com/sign_up",
+      "https://forever.com/guarantee",
+      "https://forever.com/facial-recognition",
+      "https://forever.com/video"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 72,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gentan.com",
+    "company_name": "GENTAN",
+    "website": "https://gentan.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "hikiiru.com",
+    "company_name": "HIKIIRU",
+    "website": "https://hikiiru.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@hikiiru.com",
+        "confidence": "highest",
+        "source_url": "https://hikiiru.com/terms.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to Customer Data; a signed copy is available on request at support@hikiiru.com . The person accepting confirms they are at least 18 year"
+      }
+    ],
+    "role_emails": [
+      "support@hikiiru.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hikiiru.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/contact.html?topic=investor",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/features.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/pricing.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/sla.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hikiiru.com/dpa.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hikiiru.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://hikiiru.com/contact.html",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://hikiiru.com/contact.html?topic=investor",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hikiiru is the management platform for groups and nonprofits: people, events, sign-ups, money and communication in one place. Start a 7-day free trial.",
+    "source_urls": [
+      "https://hikiiru.com/terms.html",
+      "https://hikiiru.com/privacy.html",
+      "https://hikiiru.com/dpa.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "houstonrighands.com",
+    "company_name": "HOUSTON RIG HANDS",
+    "website": "https://houstonrighands.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "hands@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.hands@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rig.hands@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rig@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rig_hands@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "righ@houstonrighands.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rig Hands",
+        "person_title": "Co-Founder",
+        "source_url": "https://houstonrighands.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://houstonrighands.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/schedule",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/tickets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://houstonrighands.com/roster",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://houstonrighands.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Houston Rig Hands offers team updates, tickets, and schedule info for fans. Join us for upcoming games and stay connected with real-time updates.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "justthecalls.com",
+    "company_name": "JUSTTHECALLS",
+    "website": "https://justthecalls.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://justthecalls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Real-time public safety incident information.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "lilurchins.com",
+    "company_name": "LIL URCHINS",
+    "website": "https://lilurchins.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lilurchins.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This store is password protected. Use the password to enter the store.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "rapid.com",
+    "company_name": "RAPI-D",
+    "website": "https://rapid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "m.schentz@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikael.schentz@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikael@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikael_schentz@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikaels@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schentz@rapid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mikael Schentz",
+        "person_title": "Ceo",
+        "source_url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rapid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/rivet-pliers/good-to-know-about-blind-riveters/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/packaging-recycling/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/staple-gun-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/nail-gun-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/glue-gun-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/rivet-plier-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/hot-air-gun-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/service-support/garden-pliers-service-and-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/nails-technical-specifications/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/dealer-locator/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/service-and-support/packaging-recycling-guidance/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/explore/power-for-all-alliance/press-release-power-for-all-alliance/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/product-categories/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/stapling-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/stapling-guides/staple-finder/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/staple-guns/choosing-the-right-staple/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/staple-guns/choosing-the-right-staple-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/stapling-guides/reupholster-furniture/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/staple-guns/installing-panelling-with-clips-and-a-staple-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/staple-guns/make-the-most-beautiful-bench-for-the-summer/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/nailing-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/nail-guns/installing-casing-with-finish-nails-and-a-nail-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/nail-guns/fasten-trimming-with-finish-nails-and-a-nail-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/nail-guns/installing-wall-and-ceiling-panelling/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/nailing-guides/nail-finder/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/nail-guns/choosing-the-right-length-of-brad/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/nail-guns/choosing-the-right-nail-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/gluing-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/gluing-decorative-trim-with-hot-melt-glue-and-a-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/installing-casing-with-hot-melt-glue-and-a-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/gluing-plastic-with-hot-melt-glue/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/gluing-skirting-boards-with-hot-melt-glue-and-a-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/five-benefits-of-hot-melt-glue/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/fastening-cables-with-glue/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/what-to-consider-when-choosing-a-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/choosing-the-right-hot-melt-glue/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/choosing-the-right-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/glue-guns/nine-reasons-to-use-hot-melt-glue-guns/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/gluing-guides/glue-stick-finder-for-your-glue-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/riveting-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/rivet-pliers/choosing-the-right-blind-rivet/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/rivet-pliers/how-to-use-a-rivet-gun/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/guides/hot-air-gun-guides/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapid.com/en-gb/blog/rapid-tools/hot-air-guns/mastering-heat-shrinking-with-hot-air-guns/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rapid Tools are specialists in fastening tools for professional and do-it-yourself applications, when building, renovating or decorating.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 78,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "signal7.com",
+    "company_name": "SIGNAL7",
+    "website": "https://signal7.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@signal7.de",
+        "confidence": "highest",
+        "source_url": "https://signal7.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ir freuen uns auf Ihr Projekt! email E-Mail contact@signal7.de call Telefon +49 6151 96 996 0"
+      },
+      {
+        "address": "datenschutz@signal7.net",
+        "confidence": "highest",
+        "source_url": "https://signal7.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Datenschutzbeauftragter: E-Mail: datenschutz@signal7.net Haftungsausschluss: Haftung f\u00fcr Inhalte"
+      }
+    ],
+    "role_emails": [
+      "contact@signal7.de",
+      "datenschutz@signal7.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://signal7.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/index-en.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00001_lb.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00002.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00003.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00004.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00005.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00006.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00007.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00008.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00009.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00010.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00011.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00012.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00013.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00014.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00015.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00016.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00017.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signal7.com/images/bewerberinformationen/gallery/signal7_00018.jpg",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wir vereinen individuelle Leistungsbereitschaft, innovative Technologien und umfangreiche Erfahrungen, um ma\u00dfgeschneiderte IT-L\u00f6sungen f\u00fcr Sie zu gestalten.",
+    "source_urls": [
+      "https://signal7.com",
+      "https://signal7.com/contact",
+      "https://signal7.com/support",
+      "https://signal7.com/about",
+      "https://signal7.com/team",
+      "https://signal7.com/contact-us",
+      "https://signal7.com/contactus",
+      "https://signal7.com/about-us",
+      "https://signal7.com/our-team",
+      "https://signal7.com/meet-the-team",
+      "https://signal7.com/leadership",
+      "https://signal7.com/founders",
+      "https://signal7.com/people",
+      "https://signal7.com/staff",
+      "https://signal7.com/press",
+      "https://signal7.com/media",
+      "https://signal7.com/help",
+      "https://signal7.com/company",
+      "https://signal7.com/who-we-are",
+      "https://signal7.com/our-story",
+      "https://signal7.com/our-mission",
+      "https://signal7.com/get-in-touch",
+      "https://signal7.com/reach-us",
+      "https://signal7.com/enquiries",
+      "https://signal7.com/impressum",
+      "https://signal7.com/pages/contact",
+      "https://signal7.com/pages/contact-us",
+      "https://signal7.com/support/contact",
+      "https://signal7.com/index.html",
+      "https://signal7.com/index-en.html",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00001_lb.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00002.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00003.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00004.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00005.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00006.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00007.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00008.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00009.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00010.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00011.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00012.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00013.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00014.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00015.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00016.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00017.jpg",
+      "https://signal7.com/images/bewerberinformationen/gallery/signal7_00018.jpg"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
