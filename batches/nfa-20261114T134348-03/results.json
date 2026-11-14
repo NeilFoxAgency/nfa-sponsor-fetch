@@ -1,0 +1,1138 @@
+[
+  {
+    "company_domain": "beyondthecube.ca",
+    "company_name": "Brad Reid",
+    "website": "http://flightplan.beyondthecube.ca",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bjsrestaurants.com",
+    "company_name": "BJ's Restaurants Inc.",
+    "website": "http://www.bjsrestaurants.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "californiaprivacyrights@bjsrestaurants.com",
+        "confidence": "highest",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@bjsrestaurants.com",
+        "confidence": "highest",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "californiaprivacyrights@bjsrestaurants.com",
+      "legal@bjsrestaurants.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "laws@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.laws@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy.laws@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacy_laws@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privacyl@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Privacy Laws",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/privacy-policy",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "site@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.site@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.site@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_site@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thiss@bjsrestaurants.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Site",
+        "person_title": "Owner",
+        "source_url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.bjsrestaurants.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/rewards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/family-meal-deals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/beer-club/our-beer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/marketing-pages/deals-and-offers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/marketing-pages/gift-cards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bjsrestaurants.com/marketing-pages/free-delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/marketing-pages/seasonal-menu",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/marketing-pages/deals-and-offers/happyhour",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bjsrestaurants.com/menu-item/pizza-pizookie-dr-pepper-bundle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-lightswitch-lager",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-berry-burst-cider",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-brewhouse-blonde",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-tatonka-stout",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-harvest-hefeweizen",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-oasis-amber",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-piranha-pale-ale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-hopstorm-ipa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/committed-double-ipa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-jeremiah-red",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/menu-item/bjs-nutty-brewnette",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/reservations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bjsrestaurants.com/sitemap",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bjsrestaurants.com/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bjsrestaurants.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.bjsrestaurants.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.bjsrestaurants.com/rewards",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BJ's Restaurants and Brewhouse menu with crispy chicken sandwiches, Happy Hour, seasonal specials, craft beer, rewards, and online ordering. Order online.",
+    "source_urls": [
+      "https://www.bjsrestaurants.com/terms-and-conditions",
+      "https://www.bjsrestaurants.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 63,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "blindzone.org",
+    "company_name": "Tamara Dudarenko",
+    "website": "https://blindzone.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bombingbrain.com",
+    "company_name": "Bombing Brain Interactive",
+    "website": "http://www.bombingbrain.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "media@bombingbrain.com",
+        "confidence": "highest",
+        "source_url": "http://www.bombingbrain.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "prompt + , Setlists, or any of our products. Contact us at media@bombingbrain.com . Facebook Twitter \u00a92016 Bombing Brain Inte"
+      },
+      {
+        "address": "services@bombingbrain.com",
+        "confidence": "highest",
+        "source_url": "http://www.bombingbrain.com/services.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o discuss your project with us, feel free to contact us at services@bombingbrain.com Facebook Twitter \u00a92015 Bombing Brain Intera"
+      },
+      {
+        "address": "support@bombingbrain.com",
+        "confidence": "highest",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? You can reach us at support@bombingbrain.com Copyright \u00a92012 Bombing Brain In"
+      }
+    ],
+    "role_emails": [
+      "media@bombingbrain.com",
+      "services@bombingbrain.com",
+      "support@bombingbrain.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "g.whitaker@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gene.whitaker@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gene@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gene_whitaker@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "genew@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whitaker@bombingbrain.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gene Whitaker",
+        "person_title": "Ceo",
+        "source_url": "http://www.bombingbrain.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.bombingbrain.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/press.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/products.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/services.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/getInTouch.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/teleprompt.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bombingbrain.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.bombingbrain.com/getInTouch.html",
+        "action": "/contacts/add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bombing Brain cares about your privacy. Please review our privacy policy for full details.",
+    "source_urls": [
+      "http://www.bombingbrain.com/about",
+      "http://www.bombingbrain.com/press",
+      "http://www.bombingbrain.com/press.html",
+      "http://www.bombingbrain.com/services.html",
+      "http://www.bombingbrain.com/getInTouch.html",
+      "http://www.bombingbrain.com/privacy.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 34,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bridgefy.me",
+    "company_name": "Bridgefy Inc.",
+    "website": "https://www.bridgefy.me",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bridgefy.me",
+        "confidence": "high",
+        "source_url": "https://www.bridgefy.me/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "secure and confidential; (d) notify Bridgefy immediately at support@bridgefy.me of any unauthorized use of your account; and (e) accept res"
+      }
+    ],
+    "role_emails": [
+      "support@bridgefy.me"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bridgefy.me",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bridgefy.me/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/blog/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/sdk",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/sdk/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/use-cases",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bridgefy.me/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bridgefy.me/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bridgefy.me/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bridgefy is a free messaging app that works without the Internet. Perfect for natural disasters, large events, and at school. Trusted by more than 12,500,000 people! Click here to learn how to make ANY mobile app work without the Internet.",
+    "source_urls": [
+      "https://www.bridgefy.me/terms-of-service",
+      "https://bridgefy.me/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chaseplacegym.com",
+    "company_name": "CHASE PLACE LLC",
+    "website": "https://chaseplacegym.com/apps.html",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "App support",
+        "title": null,
+        "email": "nathaniel.fife@chaseplacegym.com",
+        "source_url": "https://chaseplacegym.com/apps.html"
+      }
+    ],
+    "people": [
+      {
+        "name": "App support",
+        "title": null,
+        "email": "nathaniel.fife@chaseplacegym.com",
+        "source_url": "https://chaseplacegym.com/apps.html"
+      }
+    ],
+    "emails": [
+      {
+        "address": "nathaniel.fife@chaseplacegym.com",
+        "confidence": "highest",
+        "source_url": "https://chaseplacegym.com/apps.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "nathaniel.fife@chaseplacegym.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chaseplacegym.com/apps.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/krafted_by_kyla.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/workoutcoachplus.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/powercoach.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/quiktally.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/zenlines.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/pointtaken.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/laughtrackapp.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chaseplacegym.com/harmonics.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore iPhone apps from Chase Place LLC, including fitness, music, scorekeeping, and sound apps.",
+    "source_urls": [
+      "https://chaseplacegym.com/apps.html",
+      "https://chaseplacegym.com/index.html",
+      "https://chaseplacegym.com/privacy.html",
+      "https://chaseplacegym.com/workoutcoachplus.html",
+      "https://chaseplacegym.com/powercoach.html",
+      "https://chaseplacegym.com/quiktally.html",
+      "https://chaseplacegym.com/zenlines.html",
+      "https://chaseplacegym.com/pointtaken.html",
+      "https://chaseplacegym.com/laughtrackapp.html",
+      "https://chaseplacegym.com/harmonics.html"
+    ],
+    "reason": null,
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "chocolatecalculator.com",
+    "company_name": "Vetcalculators LLC",
+    "website": "http://chocolatecalculator.com/app.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "collegefootballplayoff.com",
+    "company_name": "Internet Consulting Services, Inc.",
+    "website": "https://collegefootballplayoff.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "comaps.app",
+    "company_name": "Anton Wenemoser",
+    "website": "https://comaps.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "csdn.net",
+    "company_name": "\u67f1\u8363 \u674e",
+    "website": "https://blog.csdn.net/FightingCheney/article/details/125731306",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "d4vinder.com",
+    "company_name": "D4VINDER LTD",
+    "website": "https://www.d4vinder.com/pfAdmin",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@d4vinder.com",
+        "confidence": "highest",
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@d4vinder.com",
+        "confidence": "highest",
+        "source_url": "https://www.d4vinder.com/privacy/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m, B66 4ET. For anything about your personal data, contact privacy@d4vinder.com . The short version We only hold personal data you ac"
+      }
+    ],
+    "role_emails": [
+      "info@d4vinder.com",
+      "privacy@d4vinder.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.singh@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davinder.singh@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davinder@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davinder_singh@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davinders@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "singh@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davinder Singh",
+        "person_title": null,
+        "source_url": "https://www.d4vinder.com/pfAdmin",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "update@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.update@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "windows.update@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "windows@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "windows_update@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "windowsu@d4vinder.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Windows Update",
+        "person_title": "Owner",
+        "source_url": "https://www.d4vinder.com/decrypted/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.d4vinder.com/pfAdmin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/pfAdmin/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/pfAdmin/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/tools/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/decrypted/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/privacy/cookies/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.d4vinder.com/privacy/request/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.d4vinder.com/privacy/request/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "pfAdmin lets you monitor, control and analyse a pfSense firewall from your iPhone or iPad over SSH. Live dashboards, firewall rules, NAT, VPN status, scheduled network-health reports and a built-in Wireshark-style packet analyser. Native, on-device, no cloud.",
+    "source_urls": [
+      "https://www.d4vinder.com/pfAdmin",
+      "https://www.d4vinder.com/pfAdmin/support",
+      "https://www.d4vinder.com/pfAdmin/press",
+      "https://www.d4vinder.com/",
+      "https://www.d4vinder.com/index.html",
+      "https://www.d4vinder.com/tools/",
+      "https://www.d4vinder.com/decrypted/",
+      "https://www.d4vinder.com/privacy/",
+      "https://www.d4vinder.com/privacy/cookies/",
+      "https://www.d4vinder.com/terms/",
+      "https://www.d4vinder.com/privacy/request/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 58,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dahliz.app",
+    "company_name": "Mustafa Jaber",
+    "website": "https://dahliz.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
