@@ -1,0 +1,2051 @@
+[
+  {
+    "company_domain": "cellavara.com",
+    "company_name": "CELLAVARA",
+    "website": "https://cellavara.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "chava.com",
+    "company_name": "CHAVA",
+    "website": "https://chava.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@chava.com",
+        "confidence": "high",
+        "source_url": "https://ww.chava.com",
+        "source_type": "keenable",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@chava.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chava.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chava.com/portal.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chava.com/index.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ww.chava.com",
+        "page_type": "home",
+        "source_type": "keenable",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://chava.com",
+        "action": "/action_page.php",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://chava.com/index.html",
+        "action": "/action_page.php",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.",
+    "source_urls": [
+      "https://ww.chava.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "cheersbud.com",
+    "company_name": "CHEERS BUD",
+    "website": "https://cheersbud.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cheersbud.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/product-1-ydar7-e8mlb-2h3mp-max43",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/holiday-special",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-christmas-knit-sweater-cream",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-christmas-knit-sweater-forest-green",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-clinking-mugs-t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-vanity-plate",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/product-2-5c6mb-j8mng-zsl73-w2dgd",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-clinking-mugs-can-glass",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-clinking-mugs-camp-mug",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-can-cooler",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/premium-heavyweight-long-sleeve-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/unisex-fitted-t-shirt-next-level-6210",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-embroidered-rope-hat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/product-4-9e76d-pr6ls-ddx8r-sd8gs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-can-glass",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/cheers-bud-camp-mug",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/mens-premium-tank-top",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/unisex-premium-sweatshirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/p/embroidered-beanie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cheersbud.com/shop/drinkware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cheersbud.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover fun, stylish apparel like hats, hoodies, and beanies at Cheers Bud. Shop now and express your unique style today.",
+    "source_urls": [],
+    "reason": "domain_time_budget",
+    "pages_fetched": 55,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "clockout.com",
+    "company_name": "CLOCK OUT",
+    "website": "https://clockout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://clockout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://clockout.com",
+        "action": "https://submit.jotform.com/submit/241286928175971",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Please click the link to complete this form.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "clubhouserow.com",
+    "company_name": "CLUBHOUSE ROW",
+    "website": "https://clubhouserow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "michellesharko@clubhouserow.com",
+        "confidence": "highest",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Founding Access Connect Instagram Facebook michellesharko@clubhouserow.com \u00a9 2026 Clubhouse Row\u2122. All Rights Reserved."
+      }
+    ],
+    "role_emails": [
+      "michellesharko@clubhouserow.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "e.giveaway@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exclusive.giveaway@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exclusive@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exclusive_giveaway@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "exclusiveg@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "giveaway@clubhouserow.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Exclusive Launch Giveaway",
+        "person_title": "Founder",
+        "source_url": "https://clubhouserow.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://clubhouserow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Coming 2027 to St. Charles, Illinois. Clubhouse Row is a premium 24/7 club featuring golf simulators, elite strength training, a sauna recovery lounge, and limited-enrollment memberships.",
+    "source_urls": [
+      "https://clubhouserow.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 28,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cravemoore.com",
+    "company_name": "CRAVE MOORE",
+    "website": "https://cravemoore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cravemoore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/collections/frontpage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/pages/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/pages/shipping-and-returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/seafood-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/all-purpose-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/garlic-lemon-and-pepper-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/chicken-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/premium-steak-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/oxtail-and-stew-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/7oz-savory-collard-greens-seasoning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/cajun-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravemoore.com/products/spicy-cajun-seasoning-7oz",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The best garlic lemon butter sauce, and seasonings for your seafood and more!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 49,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "cravour.com",
+    "company_name": "CRAVOUR",
+    "website": "https://cravour.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@cravour.com",
+        "confidence": "highest",
+        "source_url": "https://cravour.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Limited (RC 1667706) \u00b7 Victoria Island, Lagos, Nigeria \u00b7 contact@cravour.com Pricing \u00b7 About \u00b7 Secur"
+      },
+      {
+        "address": "legal@cravour.com",
+        "confidence": "highest",
+        "source_url": "https://cravour.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "General Inquiries contact@cravour.com Legal Desk legal@cravour.com Licensed Payment Partnership: Payment processing,"
+      },
+      {
+        "address": "privacy@cravour.com",
+        "confidence": "highest",
+        "source_url": "https://cravour.com/privacy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Island, Lagos, Nigeria Privacy & DPO Inquiries: privacy@cravour.com \u00b7 General: contact@cravour.com WhatsApp Copilo"
+      },
+      {
+        "address": "security@cravour.com",
+        "confidence": "highest",
+        "source_url": "https://cravour.com/security",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lity, please report it to our engineering security team at security@cravour.com . We acknowledge all legitimate reports within 24 hours."
+      }
+    ],
+    "role_emails": [
+      "contact@cravour.com",
+      "legal@cravour.com",
+      "privacy@cravour.com",
+      "security@cravour.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cravour.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/ads",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/merchants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/security",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cravour.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Studio posters, 9:16 videos, Afrobeats jingles, and WhatsApp copy in English, Pidgin, Yor\u00f9b\u00e1, Igbo, and Hausa.",
+    "source_urls": [
+      "https://cravour.com",
+      "https://cravour.com/contact",
+      "https://cravour.com/support",
+      "https://cravour.com/about",
+      "https://cravour.com/team",
+      "https://cravour.com/contact-us",
+      "https://cravour.com/contactus",
+      "https://cravour.com/about-us",
+      "https://cravour.com/our-team",
+      "https://cravour.com/meet-the-team",
+      "https://cravour.com/leadership",
+      "https://cravour.com/founders",
+      "https://cravour.com/people",
+      "https://cravour.com/staff",
+      "https://cravour.com/press",
+      "https://cravour.com/media",
+      "https://cravour.com/help",
+      "https://cravour.com/company",
+      "https://cravour.com/who-we-are",
+      "https://cravour.com/our-story",
+      "https://cravour.com/our-mission",
+      "https://cravour.com/get-in-touch",
+      "https://cravour.com/reach-us",
+      "https://cravour.com/enquiries",
+      "https://cravour.com/impressum",
+      "https://cravour.com/pages/contact",
+      "https://cravour.com/pages/contact-us",
+      "https://cravour.com/support/contact",
+      "https://cravour.com/",
+      "https://cravour.com/ads",
+      "https://cravour.com/merchants",
+      "https://cravour.com/pricing",
+      "https://cravour.com/security",
+      "https://cravour.com/privacy",
+      "https://cravour.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "crimpd.com",
+    "company_name": "CRIMP'D",
+    "website": "https://crimpd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@crimpd.com",
+        "confidence": "highest",
+        "source_url": "https://crimpd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@crimpd.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "infringement@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "klimek@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.training@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lattice.training@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lattice@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lattice_training@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "latticet@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.infringement@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "online.infringement@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "online@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "online_infringement@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "onlinei@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Online Copyright Infringement",
+        "person_title": "Owner",
+        "source_url": "https://crimpd.com/terms",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.klimek@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.klimek@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_klimek@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterk@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Klimek",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "training@crimpd.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lattice Training",
+        "person_title": "Co-Founder",
+        "source_url": "https://crimpd.com/blog/release-9-0",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://crimpd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/crimpd-plus",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/docs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/blog/release-9-0",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/blog/iphone-duo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/blog/live-activities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://crimpd.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Climbing training app with structured workouts, fingerboard protocols, and progress tracking.",
+    "source_urls": [
+      "https://crimpd.com",
+      "https://crimpd.com/",
+      "https://crimpd.com/crimpd-plus",
+      "https://crimpd.com/pricing",
+      "https://crimpd.com/blog",
+      "https://crimpd.com/docs",
+      "https://crimpd.com/blog/release-9-0",
+      "https://crimpd.com/blog/iphone-duo",
+      "https://crimpd.com/blog/live-activities",
+      "https://crimpd.com/privacy",
+      "https://crimpd.com/terms"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "danvex.com",
+    "company_name": "DANVEX",
+    "website": "https://danvex.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dealer@danvex.com",
+        "confidence": "highest",
+        "source_url": "https://danvex.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Send request Email dealer@danvex.com Working hours Mon\u2013Fri,"
+      }
+    ],
+    "role_emails": [
+      "dealer@danvex.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://danvex.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://danvex.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://danvex.com",
+        "action": "/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Professional dehumidifiers with inverter compressor, HEPA H13 filter, UV sterilization and ionizer. R-290 refrigerant. For pools, industry & HVAC. Europe.",
+    "source_urls": [
+      "https://danvex.com",
+      "https://danvex.com/company"
+    ],
+    "reason": "domain_time_budget",
+    "pages_fetched": 27
+  },
+  {
+    "company_domain": "deerdefence.com",
+    "company_name": "DEER DE-FENCE",
+    "website": "https://deerdefence.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.fence@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deer.fence@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deer@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deer_fence@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deerf@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fence@deerdefence.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deer Fence",
+        "person_title": "Owner",
+        "source_url": "https://deerdefence.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://deerdefence.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://deerdefence.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-31"
+      },
+      {
+        "url": "https://deerdefence.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://deerdefence.com/contact-us",
+        "action": "/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Deer Fence sales and installation in New England. Fences, patented Deer Fence Organic Spray System: Sprays entire deer fence perimeter for Ticks & Mosquitoes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "delaneyracing.com",
+    "company_name": "DELANEY RACING",
+    "website": "https://delaneyracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "j.mascola@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph.mascola@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph_mascola@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josephm@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mascola@delaneyracing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Mascola",
+        "person_title": "Owner",
+        "source_url": "https://delaneyracing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://delaneyracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/driver",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/schedule",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/sponsors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://delaneyracing.com/merch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://delaneyracing.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Delaney Racing is a professional midget race team built to win. Follow our season, meet the team, and explore sponsorship opportunities.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dermavet.com",
+    "company_name": "DERMA-VET",
+    "website": "https://dermavet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "bordeau@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.bordeau@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william.bordeau@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "william_bordeau@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "williamb@dermavet.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "William Bordeau",
+        "person_title": "Founder",
+        "source_url": "https://www.dermavet.com/infosheet/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://dermavet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermavet.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermavet.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermavet.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermavet.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/five-common-misconceptions-about-immunotherapy/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/infosheet/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/skin-conditions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/tips-tricks/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/dermavet-deep-dive-2/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/videos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/from-the-editor/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/pharmacopeia/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/category/partners-ads/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/latest-from-nextmune/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/category/from-our-partners/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/blue-buffalo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/ceva/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/dechra/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/ldca/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/nextmune/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/purina/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/royal-canin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/skin-problems-in-golden-retrievers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/dermavet-and-msd-a-new-partnership-for-animal-health-excellence/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/new-pro-plan-veterinary-supplements-skin-care-canine-health-supplements/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/ever-wonder-how-to-clean-your-dogs-ears/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/3-steps-for-fleas/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/from-dermoscent-importance-of-hygiene/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/virbac-shaping-the-future-of-animal-health/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/does-your-dog-%f0%9f%90%b6-suffer-from-allergies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/latest-pet-rewards-from-ceva-and-douxo/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/your-cats-healthy-skin-and-coat/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/pustules-in-dogs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/mosquito-bite-hypersensitivity-in-2-cats/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/ringworm-in-a-1-month-old-mixed-breed-puppy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/discoid-lupus-erythematosus/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/squamous-cell-carcinoma-in-a-cat/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/free-handout-mrsa-in-horses/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/why-we-dont-use-blood-tests-for-food-allergies-in-dogs-and-cats/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermavet.com/register/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/password-reset/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/imprint",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/privacy-statement-us/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermavet.com/cookie-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dermavet.com/contact",
+        "action": "/contact/#wpcf7-f1914-p1379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://dermavet.com/pages/contact",
+        "action": "/contact/#wpcf7-f1914-p1379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://dermavet.com/support/contact",
+        "action": "/contact/#wpcf7-f1914-p1379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dermavet.com/contact/",
+        "action": "/contact/#wpcf7-f1914-p1379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dermavet.com/contact",
+        "action": "/contact/#wpcf7-f1914-p1379-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.dermavet.com/new-pro-plan-veterinary-supplements-skin-care-canine-health-supplements/",
+        "action": "https://www.dermavet.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "DermaVet is the only website in the world exclusively dedicated to Veterinary Dermatology and Allergology made by Vets for all dog and cat owners.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  }
+]
