@@ -1,0 +1,1489 @@
+[
+  {
+    "company_domain": "alphadme.com",
+    "company_name": "ALPHA D\u00c4ME",
+    "website": "https://alphadme.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@alphadme.com",
+        "confidence": "highest",
+        "source_url": "https://alphadme.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Benton, IL 62812 \u200b T: 618.438.0309 Fax: 618.438.4406 customerservice@alphadme.com respiratory@alphadme.com rehab@alphadme.com mastectomy@alph"
+      },
+      {
+        "address": "mastectomy@alphadme.com",
+        "confidence": "highest",
+        "source_url": "https://alphadme.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce@alphadme.com respiratory@alphadme.com rehab@alphadme.com mastectomy@alphadme.com systemmanager@alphadme.com 301 Rushing Drive Herrin, IL 6"
+      },
+      {
+        "address": "rehab@alphadme.com",
+        "confidence": "highest",
+        "source_url": "https://alphadme.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ".4406 customerservice@alphadme.com respiratory@alphadme.com rehab@alphadme.com mastectomy@alphadme.com systemmanager@alphadme.com 301 Rush"
+      },
+      {
+        "address": "respiratory@alphadme.com",
+        "confidence": "highest",
+        "source_url": "https://alphadme.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "8.438.0309 Fax: 618.438.4406 customerservice@alphadme.com respiratory@alphadme.com rehab@alphadme.com mastectomy@alphadme.com systemmanager@al"
+      },
+      {
+        "address": "systemmanager@alphadme.com",
+        "confidence": "highest",
+        "source_url": "https://alphadme.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ory@alphadme.com rehab@alphadme.com mastectomy@alphadme.com systemmanager@alphadme.com 301 Rushing Drive Herrin, IL 62948 205 Bailey Lane Bent"
+      }
+    ],
+    "role_emails": [
+      "customerservice@alphadme.com",
+      "mastectomy@alphadme.com",
+      "rehab@alphadme.com",
+      "respiratory@alphadme.com",
+      "systemmanager@alphadme.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "clark@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.clark@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank.clark@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frank_clark@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "frankc@alphadme.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Frank Clark",
+        "person_title": "Owner",
+        "source_url": "https://www.alphadme.com/company-overview",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alphadme.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alphadme.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/company-overview",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/fittings",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/sales-rep-introduction-video",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/dme-equipment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/respiratory",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/supplies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/mastectomy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/feedback",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alphadme.com/employment-opportunities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alphadme.com/feedback",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Southern IL DME Supplier with Certified Mastectomy, Stocking and Brace fittings specialist.",
+    "source_urls": [
+      "https://alphadme.com/about-us",
+      "https://www.alphadme.com/about-us",
+      "https://www.alphadme.com/employment-opportunities"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 39,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "bursztynsoriano.com",
+    "company_name": "BURSZTYN SORIANO",
+    "website": "https://bursztynsoriano.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bursztynsoriano.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bursztynsoriano.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bursztyn Soriano: Your website launch is coming soon! Stay tuned for updates and contact us for inquiries.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "echophrase.com",
+    "company_name": "ECHOPHRASE",
+    "website": "https://echophrase.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "foravergo.com",
+    "company_name": "FORAVERGO",
+    "website": "https://foravergo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@foravergo.com",
+        "confidence": "medium",
+        "source_url": "https://foravergo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@foravergo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://foravergo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/shop?c=bookworm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/shop?c=photo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/shop?c=christmas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/size-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/return-refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://foravergo.com/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "FORAVERGO prints Book Worm Club, Christmas and black-and-white photo graphic tees to order on 6.1 oz garment-dyed cotton. Free US shipping over $55, 30-day exchanges, 60-day print guarantee.",
+    "source_urls": [
+      "https://foravergo.com/contact",
+      "https://foravergo.com/about",
+      "https://foravergo.com/about-us",
+      "https://foravergo.com/help",
+      "https://foravergo.com/shipping-policy",
+      "https://foravergo.com/size-guide",
+      "https://foravergo.com/return-refund-policy",
+      "https://foravergo.com/faq",
+      "https://foravergo.com/privacy-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "gnortgnas.com",
+    "company_name": "GNORTGNAS",
+    "website": "https://gnortgnas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@gnortgnas.com",
+        "confidence": "medium",
+        "source_url": "https://gnortgnas.com/shipping-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@gnortgnas.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gnortgnas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/size-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shop?c=christmas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shop?c=bookworm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shop?c=cats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shop?c=essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gnortgnas.com/return-refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "GNORTGNAS prints Book Worm Club and Christmas bookworm graphic tees to order on 6.1 oz garment-dyed cotton. Free US shipping over $60, 30-day exchanges, 60-day print guarantee.",
+    "source_urls": [
+      "https://gnortgnas.com/shipping-policy",
+      "https://gnortgnas.com/return-refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 37,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "kreplus.com",
+    "company_name": "K\u00d6RE PLUS",
+    "website": "https://kreplus.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "looliby.com",
+    "company_name": "LOOLIBY",
+    "website": "https://looliby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@looliby.com",
+        "confidence": "highest",
+        "source_url": "https://looliby.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y \u00b7 1575 Westwood Blvd, Suite 302, Los Angeles, CA 90024 \u00b7 contact@looliby.com \u00a9 2026 Looliby. Looliby\u2122 and Sillo\u2122 are trademarks of Loo"
+      },
+      {
+        "address": "support@looliby.com",
+        "confidence": "highest",
+        "source_url": "https://looliby.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he App Store and Google Play. Questions Write to us at support@looliby.com . A real person reads every message. Quick answers are on o"
+      }
+    ],
+    "role_emails": [
+      "contact@looliby.com",
+      "support@looliby.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://looliby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/fr/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/refunds/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://looliby.com/delete-data/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looliby is a family storytelling app, coming soon to the App Store and Google Play.",
+    "source_urls": [
+      "https://looliby.com",
+      "https://looliby.com/support",
+      "https://looliby.com/support/",
+      "https://looliby.com/",
+      "https://looliby.com/fr/",
+      "https://looliby.com/privacy/",
+      "https://looliby.com/terms/",
+      "https://looliby.com/refunds/",
+      "https://looliby.com/delete-data/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopwondernest.com",
+    "company_name": "WONDERNEST",
+    "website": "https://shopwondernest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@shopwondernest.com",
+        "confidence": "high",
+        "source_url": "https://shopwondernest.com/pages/faqs",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ou can do so within 24 hours of purchase by emailing us at hello@shopwondernest.com with the subject line \"CANCEL MY ORDER\" or \"ADDRESS UPDATE"
+      }
+    ],
+    "role_emails": [
+      "hello@shopwondernest.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopwondernest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/products/wondernest-heightener-gummies-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopwondernest.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/subscription-terms-cancellation-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/cancel-domain-com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopwondernest.com/pages/shipping-returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.shopwondernest.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shopwondernest.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "WonderNest\u2122\ufe0f",
+    "source_urls": [
+      "https://shopwondernest.com/pages/faqs",
+      "https://shopwondernest.com/pages/privacy",
+      "https://shopwondernest.com/pages/terms-of-service",
+      "https://shopwondernest.com/pages/subscription-terms-cancellation-policy",
+      "https://shopwondernest.com/pages/cancel-domain-com",
+      "https://shopwondernest.com/pages/shipping-returns"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "storyfactorystudios.com",
+    "company_name": "STORY FACTORY STUDIOS",
+    "website": "https://storyfactorystudios.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@storyfactorystudios.com",
+        "confidence": "highest",
+        "source_url": "https://storyfactorystudios.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@storyfactorystudios.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://storyfactorystudios.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://storyfactorystudios.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://storyfactorystudios.com/capabilities",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://storyfactorystudios.com/projects",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://storyfactorystudios.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Story Factory Studios is a partner-led specialist design and project delivery firm creating story-driven environments for museums, attractions, and location-based entertainment.",
+    "source_urls": [
+      "https://storyfactorystudios.com",
+      "https://storyfactorystudios.com/cart",
+      "https://storyfactorystudios.com/capabilities",
+      "https://storyfactorystudios.com/projects",
+      "https://storyfactorystudios.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tervex.com",
+    "company_name": "TERVEX",
+    "website": "https://tervex.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@tervex.com",
+        "confidence": "highest",
+        "source_url": "https://tervex.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s: 41.884287 - 2.889876 +34 972 460 508 info@tervex.com \u00a92019 Tervex | Fabricants de substrats"
+      }
+    ],
+    "role_emails": [
+      "info@tervex.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tervex.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/contacte-empresa",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tervex.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/es/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/en/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/empresa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/categories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/substrats-terres-i-materies-primeres-4",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/escorsa-encoixinats-i-biofiltres-5",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/pedres-decoratives-i-arids-6",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/envasats-7",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/travesses-fusta-i-complements-8",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/productes/flocs-i-serradures-9",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/noticies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/producte/encoixinat-vegetal-47",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/producte/escorsa-de-pi-pinatex-25-50-mm-44",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/producte/orgabon-adob-organic-natural-25",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/producte/basitex-terra-vegetal-adobada-exterior-12",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/producte/substrats-personalitzats-11",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/avis-legal",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/politica-privacitat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/politica-cookies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tervex.com/ca/accessibilitat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tervex.com/ca/contacte-empresa",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Descobreix la nostra \u00e0mplia gamma de sustrats professionals, escor\u00e7a per a encoixinats i biofiltres, pedres decoratives i \u00e0rids, envasats, travesses de fusta i complements. Qualitat garantitzada a Tervex.",
+    "source_urls": [
+      "https://tervex.com",
+      "https://tervex.com/contact",
+      "https://tervex.com/support",
+      "https://tervex.com/about",
+      "https://tervex.com/team",
+      "https://tervex.com/contact-us",
+      "https://tervex.com/contactus",
+      "https://tervex.com/about-us",
+      "https://tervex.com/our-team",
+      "https://tervex.com/meet-the-team",
+      "https://tervex.com/leadership",
+      "https://tervex.com/founders",
+      "https://tervex.com/people",
+      "https://tervex.com/staff",
+      "https://tervex.com/press",
+      "https://tervex.com/media",
+      "https://tervex.com/help",
+      "https://tervex.com/company",
+      "https://tervex.com/who-we-are",
+      "https://tervex.com/our-story",
+      "https://tervex.com/our-mission",
+      "https://tervex.com/get-in-touch",
+      "https://tervex.com/reach-us",
+      "https://tervex.com/enquiries",
+      "https://tervex.com/impressum",
+      "https://tervex.com/ca/contacte-empresa",
+      "https://www.tervex.com/",
+      "https://tervex.com/es/",
+      "https://tervex.com/en/",
+      "https://tervex.com/ca/empresa",
+      "https://tervex.com/ca/categories",
+      "https://tervex.com/ca/productes/substrats-terres-i-materies-primeres-4",
+      "https://tervex.com/ca/productes/escorsa-encoixinats-i-biofiltres-5",
+      "https://tervex.com/ca/productes/pedres-decoratives-i-arids-6",
+      "https://tervex.com/ca/productes/envasats-7",
+      "https://tervex.com/ca/productes/travesses-fusta-i-complements-8",
+      "https://tervex.com/ca/productes/flocs-i-serradures-9",
+      "https://tervex.com/ca/noticies",
+      "https://tervex.com/ca/producte/encoixinat-vegetal-47",
+      "https://tervex.com/ca/producte/escorsa-de-pi-pinatex-25-50-mm-44",
+      "https://tervex.com/ca/producte/orgabon-adob-organic-natural-25",
+      "https://tervex.com/ca/producte/basitex-terra-vegetal-adobada-exterior-12",
+      "https://tervex.com/ca/producte/substrats-personalitzats-11",
+      "https://tervex.com/ca/avis-legal",
+      "https://tervex.com/ca/politica-privacitat",
+      "https://tervex.com/ca/politica-cookies",
+      "https://tervex.com/ca/accessibilitat"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thedailybuddy.com",
+    "company_name": "THE DAILY BUDDY",
+    "website": "https://thedailybuddy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@thedailybuddy.com",
+        "confidence": "highest",
+        "source_url": "https://thedailybuddy.com/policies/shipping-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@thedailybuddy.com",
+        "confidence": "high",
+        "source_url": "https://thedailybuddy.com/policies/refund-policy",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ips. You can do this HERE on our website, or email us at hello@thedailybuddy.com before your next shipment is processed. Cancellations are"
+      },
+      {
+        "address": "office@thedailybuddy.com",
+        "confidence": "high",
+        "source_url": "https://thedailybuddy.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "estions about the Terms of Service should be sent to us at office@thedailybuddy.com . Our contact information is posted below: Legal Entity:"
+      }
+    ],
+    "role_emails": [
+      "hello@thedailybuddy.com",
+      "office@thedailybuddy.com",
+      "support@thedailybuddy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thedailybuddy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/products/liquid-collagen-for-dogs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/products/liquid-joint-collagen-for-dogs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/products/xxx",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/products/liquid-collagen-new-formula-for-joint-pain-kopie",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/policies/subscription-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/a/loop_subscriptions/customer",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/apps/parcelpanel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thedailybuddy.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://thedailybuddy.com/pages/contact-us",
+        "action": "/contact#contact_form_gr1Yt1oHh6",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Daily liquid collagen drops for your dog's coat, skin and joints. 60 day guarantee. Made and tested in the UK.",
+    "source_urls": [
+      "https://thedailybuddy.com/policies/refund-policy",
+      "https://thedailybuddy.com/policies/shipping-policy",
+      "https://thedailybuddy.com/policies/terms-of-service",
+      "https://thedailybuddy.com/policies/subscription-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "timyvera.com",
+    "company_name": "TIMYVERA",
+    "website": "https://timyvera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@timyvera.com",
+        "confidence": "high",
+        "source_url": "https://timyvera.com/help",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@timyvera.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://timyvera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=holiday",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=family",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=partner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=statement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shop?c=essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/size-guide",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://timyvera.com/return-refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "TIMYVERA prints graphic tees to order on heavy cotton. Holiday, family and statement designs in black, white and one unmistakable red.",
+    "source_urls": [
+      "https://timyvera.com/about",
+      "https://timyvera.com/about-us",
+      "https://timyvera.com/help",
+      "https://timyvera.com/size-guide",
+      "https://timyvera.com/shipping-policy",
+      "https://timyvera.com/return-refund-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 38,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
