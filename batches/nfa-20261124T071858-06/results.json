@@ -1,0 +1,1983 @@
+[
+  {
+    "company_domain": "covello.com",
+    "company_name": "COVELLO",
+    "website": "https://covello.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "dojofloss.com",
+    "company_name": "DOJO FLOSS",
+    "website": "https://dojofloss.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "evenhand.com",
+    "company_name": "EVENHAND",
+    "website": "https://evenhand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@evenhand.com",
+        "confidence": "high",
+        "source_url": "https://evenhand.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "A. Kinnaird, Ph.D hello@evenhand.com B"
+      }
+    ],
+    "role_emails": [
+      "hello@evenhand.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://evenhand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/my-account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/festivals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/journal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evenhand.com/fan-mail/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://evenhand.com/contact",
+        "action": "/contact/#wpcf7-f2606-p2258-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://evenhand.com/pages/contact",
+        "action": "/contact/#wpcf7-f2606-p2258-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://evenhand.com/support/contact",
+        "action": "/contact/#wpcf7-f2606-p2258-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://evenhand.com/contact/",
+        "action": "/contact/#wpcf7-f2606-p2258-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Set in a dirt-poor neighborhood in the fictional city of San Lovisa, Texas, EvenHand tells the story of two very different cops, working together for the first time.",
+    "source_urls": [
+      "https://evenhand.com",
+      "https://evenhand.com/contact",
+      "https://evenhand.com/press",
+      "https://evenhand.com/pages/contact",
+      "https://evenhand.com/support/contact",
+      "https://evenhand.com/press/",
+      "https://evenhand.com/contact/",
+      "https://evenhand.com/",
+      "https://evenhand.com/my-account/",
+      "https://evenhand.com/festivals/",
+      "https://evenhand.com/journal/",
+      "https://evenhand.com/fan-mail/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "haandl.com",
+    "company_name": "HAANDL",
+    "website": "https://haandl.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Driver support",
+        "title": null,
+        "email": "drivers@haandl.com",
+        "source_url": "https://haandl.com/for-drivers"
+      }
+    ],
+    "people": [
+      {
+        "name": "Driver support",
+        "title": null,
+        "email": "drivers@haandl.com",
+        "source_url": "https://haandl.com/for-drivers"
+      }
+    ],
+    "emails": [
+      {
+        "address": "drivers@haandl.com",
+        "confidence": "highest",
+        "source_url": "https://haandl.com/for-drivers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@haandl.com",
+        "confidence": "highest",
+        "source_url": "https://haandl.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Lexington Ave, 4th Floor, Suite 340, New York, NY 10016 \u00b7 support@haandl.com \u00b7 1-855-327-4500 HAANDL\u2122 is a trademark of Haandl, Inc."
+      },
+      {
+        "address": "investor@haandl.com",
+        "confidence": "high",
+        "source_url": "https://haandl.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@haandl.com",
+        "confidence": "high",
+        "source_url": "https://haandl.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "aandl.com. Investors: investor@haandl.com. 08 Legal notices legal@haandl.com, or by mail to Haandl, Inc., 353 Lexington Ave, 4th Floor,"
+      },
+      {
+        "address": "press@haandl.com",
+        "confidence": "high",
+        "source_url": "https://haandl.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@haandl.com",
+        "confidence": "high",
+        "source_url": "https://haandl.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "drivers@haandl.com",
+      "investor@haandl.com",
+      "legal@haandl.com",
+      "press@haandl.com",
+      "privacy@haandl.com",
+      "support@haandl.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://haandl.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?screen=hourly",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?mode=buy#delivery-planner",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/how-it-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/pricing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/for-drivers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/faq",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?screen=customer",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/#delivery-planner",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?mode=buy&limit=100#delivery-planner",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?mode=buy&limit=50#delivery-planner",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/safety",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/restricted-items",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/service-areas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/driver-requirements",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/driver-agreement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?screen=ai",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?screen=disclosures",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://haandl.com/?screen=es",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Plan local package delivery with Haandl. Choose your addresses and item size to see a full price before signing in.",
+    "source_urls": [
+      "https://haandl.com",
+      "https://haandl.com/contact",
+      "https://haandl.com/",
+      "https://haandl.com/?screen=hourly",
+      "https://haandl.com/?mode=buy#delivery-planner",
+      "https://haandl.com/how-it-works",
+      "https://haandl.com/pricing",
+      "https://haandl.com/delivery",
+      "https://haandl.com/for-drivers",
+      "https://haandl.com/faq",
+      "https://haandl.com/privacy",
+      "https://haandl.com/terms",
+      "https://haandl.com/?screen=customer",
+      "https://haandl.com/#delivery-planner",
+      "https://haandl.com/?mode=buy&limit=100#delivery-planner",
+      "https://haandl.com/?mode=buy&limit=50#delivery-planner",
+      "https://haandl.com/safety",
+      "https://haandl.com/restricted-items",
+      "https://haandl.com/service-areas",
+      "https://haandl.com/driver-requirements",
+      "https://haandl.com/driver-agreement",
+      "https://haandl.com/?screen=ai",
+      "https://haandl.com/?screen=disclosures",
+      "https://haandl.com/?screen=es"
+    ],
+    "reason": null,
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "kitchvero.com",
+    "company_name": "KITCHVERO",
+    "website": "https://kitchvero.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@kitchvero.com",
+        "confidence": "highest",
+        "source_url": "https://kitchvero.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "returns Plus your full statutory rights UK support Email support@kitchvero.com or call +44 161 445 2832 Delivery & returns C"
+      }
+    ],
+    "role_emails": [
+      "support@kitchvero.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kitchvero.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/lg-f4y510wbln1-10kg-steam-1400-spin-freestanding-front-load-washing-machine-white-a-rated/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/warranty-and-product-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/my-account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/laundry/washing-machines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/laundry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/laundry/washer-dryers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/laundry/tumble-dryers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/air-fryers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/microwaves/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/coffee-machines/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/blenders/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product-category/kitchen-appliances/food-processors-mixers/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/track-your-order/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/bosch-wgg24400gb-series-6-9kg-1400-spin-washing-machine-white/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/bosch-wgg254z1gb-series-6-10kg-1400-spin-washing-machine-white/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=3452",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=3423",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/hoover-h3wps4106tm6-10kg-1400-spin-washing-machine-white/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=3354",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/beko-bmn3wt3821w-8kg-1200-spin-washing-machine-white/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=3360",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=3438",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/bosch-series-6-wkd28543gb-7kg4kg-fully-integrated-washer-dryer-with-1400-rpm-e-rated/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=2919",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/beko-dtlce80041w-8kg-condenser-tumble-dryer-white/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=2138",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/product/ninja-fn101ukst-crispi-4-in-1-portable-glass-air-fryer-stone/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/?add-to-cart=1710",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/shipping-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/returns-refunds-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/terms-and-conditions/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/cookie-policy/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/accessibility-statement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchvero.com/de/?wg-choose-original=false",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://kitchvero.com/contact",
+        "action": "#nx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/contact-us",
+        "action": "#nx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/pages/contact",
+        "action": "#nx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/support/contact",
+        "action": "#nx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/contact/",
+        "action": "#nx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/lg-f4y510wbln1-10kg-steam-1400-spin-freestanding-front-load-washing-machine-white-a-rated/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/bosch-wgg24400gb-series-6-9kg-1400-spin-washing-machine-white/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/bosch-wgg254z1gb-series-6-10kg-1400-spin-washing-machine-white/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/hoover-h3wps4106tm6-10kg-1400-spin-washing-machine-white/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/beko-bmn3wt3821w-8kg-1200-spin-washing-machine-white/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/bosch-series-6-wkd28543gb-7kg4kg-fully-integrated-washer-dryer-with-1400-rpm-e-rated/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/beko-dtlce80041w-8kg-condenser-tumble-dryer-white/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchvero.com/product/ninja-fn101ukst-crispi-4-in-1-portable-glass-air-fryer-stone/",
+        "action": "https://kitchvero.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop washing machines, washer dryers, tumble dryers, microwaves, coffee machines, blenders and air fryers at Kitchvero. Compare models, brands and prices.",
+    "source_urls": [
+      "https://kitchvero.com",
+      "https://kitchvero.com/contact",
+      "https://kitchvero.com/about",
+      "https://kitchvero.com/contact-us",
+      "https://kitchvero.com/about-us",
+      "https://kitchvero.com/pages/contact",
+      "https://kitchvero.com/support/contact",
+      "https://kitchvero.com/about/",
+      "https://kitchvero.com/contact/",
+      "https://kitchvero.com/warranty-and-product-support/",
+      "https://kitchvero.com/",
+      "https://kitchvero.com/faq/",
+      "https://kitchvero.com/track-your-order/",
+      "https://kitchvero.com/?add-to-cart=3452",
+      "https://kitchvero.com/?add-to-cart=3423",
+      "https://kitchvero.com/?add-to-cart=3354",
+      "https://kitchvero.com/?add-to-cart=3360",
+      "https://kitchvero.com/?add-to-cart=3438",
+      "https://kitchvero.com/?add-to-cart=2919",
+      "https://kitchvero.com/?add-to-cart=2138",
+      "https://kitchvero.com/?add-to-cart=1710",
+      "https://kitchvero.com/shipping-policy/",
+      "https://kitchvero.com/returns-refunds-policy/",
+      "https://kitchvero.com/privacy-policy/",
+      "https://kitchvero.com/terms-and-conditions/",
+      "https://kitchvero.com/cookie-policy/",
+      "https://kitchvero.com/accessibility-statement/",
+      "https://kitchvero.com/de/?wg-choose-original=false"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "nataliejinju.com",
+    "company_name": "NATALIE JINJU",
+    "website": "https://nataliejinju.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nataliejinju.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/pages/stay-updated",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/collections/last-september-merch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nataliejinju.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://nataliejinju.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "natalie jinju",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 40,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "rwarmstrong.com",
+    "company_name": "RW ARMSTRONG",
+    "website": "https://rwarmstrong.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@rwa.com",
+        "confidence": "highest",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Portfolio People Contact Us info@rwa.com"
+      }
+    ],
+    "role_emails": [
+      "info@rwa.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.dhabi@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abu.dhabi@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abu@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abu_dhabi@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abud@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "badhams@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bashiti@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.management@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "construction.management@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "construction@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "construction_management@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "constructionm@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "council@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.design@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "design@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dhabi@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Abu Dhabi",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com/portfolio/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "director.design@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "director@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "director_design@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "directord@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Director Of Design",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.projects@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "featured.projects@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "featured@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "featured_projects@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "featuredp@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.badhams@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.message@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary.badhams@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gary_badhams@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garyb@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gary Badhams",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group.message@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group_message@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "groupm@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.bashiti@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "khaled.bashiti@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "khaled@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "khaled_bashiti@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "khaledb@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khaled Bashiti",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.salahieh@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Construction Management",
+        "person_title": "Owner",
+        "source_url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "message@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Group Message",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohamed.salahieh@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohamed@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohamed_salahieh@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mohameds@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "projects@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Featured Projects",
+        "person_title": "Founder",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.council@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salahieh@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mohamed Salahieh",
+        "person_title": "Ceo",
+        "source_url": "https://rwarmstrong.com/people",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supreme.council@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supreme@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supreme_council@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supremec@rwarmstrong.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Supreme Council",
+        "person_title": "President",
+        "source_url": "https://rwarmstrong.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rwarmstrong.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/People/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/portfolio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/Portfolio/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/midfield-terminal-complex-mtc-post-completion-works-abu-dhabi-international-airport/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/project/the-address-resort-spa/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/project/al-hayer-school/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/project/azure-waters-master-plan/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/terms-condition/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rwarmstrong.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://rwarmstrong.com/contact",
+        "action": "/contact-us/#wpcf7-f6-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://rwarmstrong.com/contact-us",
+        "action": "/contact-us/#wpcf7-f6-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://rwarmstrong.com/pages/contact-us",
+        "action": "/contact-us/#wpcf7-f6-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://rwarmstrong.com/contact-us/",
+        "action": "/contact-us/#wpcf7-f6-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "For an optimal experience please rotate your device to portrait mode",
+    "source_urls": [
+      "https://rwarmstrong.com",
+      "https://rwarmstrong.com/contact",
+      "https://rwarmstrong.com/about",
+      "https://rwarmstrong.com/contact-us",
+      "https://rwarmstrong.com/about-us",
+      "https://rwarmstrong.com/people",
+      "https://rwarmstrong.com/pages/contact-us",
+      "https://rwarmstrong.com/about-us/",
+      "https://rwarmstrong.com/People/",
+      "https://rwarmstrong.com/contact-us/",
+      "https://rwarmstrong.com/",
+      "https://rwarmstrong.com/portfolio/",
+      "https://rwarmstrong.com/Portfolio/",
+      "https://rwarmstrong.com/midfield-terminal-complex-mtc-post-completion-works-abu-dhabi-international-airport/",
+      "https://rwarmstrong.com/project/the-address-resort-spa/",
+      "https://rwarmstrong.com/project/al-hayer-school/",
+      "https://rwarmstrong.com/project/azure-waters-master-plan/",
+      "https://rwarmstrong.com/project/waterfront-terrace-hotel/",
+      "https://rwarmstrong.com/terms-condition/",
+      "https://rwarmstrong.com/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shopbuffy.com",
+    "company_name": "BUFFY",
+    "website": "https://shopbuffy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shopbuffy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shopbuffy.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "soykik.com",
+    "company_name": "SOYKIK",
+    "website": "https://soykik.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://soykik.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soykik.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soykik.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soykik.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soykik.com/s/SoyKik-US-Patent-No-12486069.pdf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://soykik.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Upgrade your take-out sushi, with SoyKik. Soy sauce and wasabi pair even more perfectly with sushi when neatly packaged into a little two compartment dish.\u00a0 Swirl together the perfect amount of wasabi into the soy sauce, without spilling and splashing. Every dip delivers a piece of sushi perfectly c",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 33,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "spikeoff.com",
+    "company_name": "SPIKEOFF",
+    "website": "https://spikeoff.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "tesswilder.com",
+    "company_name": "TESS WILDER",
+    "website": "https://tesswilder.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "tinypros.com",
+    "company_name": "TINY PROS",
+    "website": "https://tinypros.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jobs@tinypros.com",
+        "confidence": "highest",
+        "source_url": "https://tinypros.com/employment.html",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-07",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "jobs@tinypros.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tinypros.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinypros.com/employment.html",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-07"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brit West Soccer offer youth soccer classes and youth soccer camps for children around Los Angeles in Southern California. We have Soccer camps for 3 - 12 years old, Tiny Pros Soccer classes for 18 months - 7 years old, Club Pros Soccer classes are for 7 - 12 years old. For the more Advanced soccer ",
+    "source_urls": [
+      "https://tinypros.com/employment.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  }
+]
