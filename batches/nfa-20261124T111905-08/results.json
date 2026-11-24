@@ -1,0 +1,3806 @@
+[
+  {
+    "company_domain": "citizeo.com",
+    "company_name": "CITIZEO",
+    "website": "https://citizeo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@citizeo.com",
+        "confidence": "highest",
+        "source_url": "https://citizeo.com/privacy.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "exercise your data rights, please contact us at: Email: privacy@citizeo.com We use cookies to improve your experience and analy"
+      },
+      {
+        "address": "support@citizeo.com",
+        "confidence": "highest",
+        "source_url": "https://citizeo.com/terms.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "estions about these Terms, please contact us at: Email: support@citizeo.com We use cookies to improve your experience and analy"
+      }
+    ],
+    "role_emails": [
+      "privacy@citizeo.com",
+      "support@citizeo.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Austria Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arabia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "austria.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Austria Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "austria@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Austria Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "austria_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Austria Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "austriar@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Austria Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bahrain Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.through@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bahrain.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bahrain Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bahrain@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bahrain Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bahrain_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bahrain Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bahrainr@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bahrain Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bosnia.through@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bosnia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bosnia_through@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bosniat@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colombia Investor Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "citizenship@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colombia.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colombia Investor Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colombia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colombia Investor Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colombia_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colombia Investor Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "colombiar@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Colombia Investor Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "countries@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Best Countries",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/reports",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "denmark.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "denmark@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "denmark_visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "denmarkv@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypt.investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypt.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypt@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypt_investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypt_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egypti@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "egyptr@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "el.investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "El Salvador Investor",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "el@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "El Salvador Investor",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "el_investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "El Salvador Investor",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eli@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "El Salvador Investor",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Finland Entrepreneur Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "finland.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Finland Entrepreneur Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "finland@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Finland Entrepreneur Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "finland_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Finland Entrepreneur Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "finlandr@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Finland Entrepreneur Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.property@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgia.property@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgia_property@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiap@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "home@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Innovator Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innovator.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Innovator Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innovator@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Innovator Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innovator_visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Innovator Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innovatorv@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Innovator Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investor@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Egypt Business Investor",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ireland.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ireland@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ireland_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irelandr@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lithuania Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lithuania.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lithuania Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lithuania@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lithuania Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lithuania_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lithuania Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lithuaniar@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lithuania Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montenegro.business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montenegro@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montenegro_business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "montenegrob@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Montenegro Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.citizenship@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.uzbekistan@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Uzbekistan",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Portugal Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "park.uzbekistan@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Uzbekistan",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "park.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "park@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "park_uzbekistan@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Uzbekistan",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "park_visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parku@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Uzbekistan",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parkv@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "permanent@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "polish.citizenship@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "polish@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "polish_citizenship@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "polishc@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Polish Citizenship",
+        "person_title": "President",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "portugal.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Portugal Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "portugal@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Portugal Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "portugal_visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Portugal Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "portugalv@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Portugal Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "property@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgia Property",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatar Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatar.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatar Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatar@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatar Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatar_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatar Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qatarr@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qatar Property Residence",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ireland Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.arabia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South Africa Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spain Entrepreneur Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi.arabia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi.residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi_arabia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi_residence@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudia@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudir@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Startup Residence",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south.business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South Africa Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South Africa Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "south_business@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South Africa Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "southb@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "South Africa Business",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spain.visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spain Entrepreneur Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spain@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spain Entrepreneur Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spain_visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spain Entrepreneur Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "spainv@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Spain Entrepreneur Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.countries@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Best Countries",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/reports",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.home@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.countries@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Best Countries",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/reports",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.home@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_countries@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Best Countries",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/reports",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_home@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thec@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Best Countries",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/reports",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "theh@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Bahamas Home",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "through@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bosnia Residence Through",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.permanent@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uruguay.permanent@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uruguay@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uruguay_permanent@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uruguayp@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uruguay Business Permanent",
+        "person_title": "Owner",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uzbekistan@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Park Uzbekistan",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "visa@citizeo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Denmark Startup Visa",
+        "person_title": "Founder",
+        "source_url": "https://citizeo.com/resources/pathways",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://citizeo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/professionals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/destinations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways?category=ancestry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways?category=remote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways?category=retirement",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways?category=career",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/pathways?category=investment",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/resources/reports",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/privacy.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/terms.html",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://citizeo.com/deletion.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://citizeo.com/professionals",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Find citizenship and residency paths that could open more doors for travel, work, family, and your future.",
+    "source_urls": [
+      "https://citizeo.com/privacy.html",
+      "https://citizeo.com/terms.html",
+      "https://citizeo.com/deletion.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 42,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "endofshiftapparel.com",
+    "company_name": "END OF SHIFT APPAREL",
+    "website": "https://endofshiftapparel.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email customer service",
+        "title": null,
+        "email": "custom@endofshiftapparel.com",
+        "source_url": "https://endofshiftapparel.com/pages/custom-orders"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email customer service",
+        "title": null,
+        "email": "custom@endofshiftapparel.com",
+        "source_url": "https://endofshiftapparel.com/pages/custom-orders"
+      }
+    ],
+    "emails": [
+      {
+        "address": "custom@endofshiftapparel.com",
+        "confidence": "highest",
+        "source_url": "https://endofshiftapparel.com/pages/custom-orders",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fer email? Copy the address below or open your email app. custom@endofshiftapparel.com Email customer service The EOSA community"
+      },
+      {
+        "address": "help@endofshiftapparel.com",
+        "confidence": "highest",
+        "source_url": "https://endofshiftapparel.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ders Contact Email customer support at help@endofshiftapparel.com . Send us a message Name Email"
+      },
+      {
+        "address": "customerservice@endofshiftapparel.com",
+        "confidence": "high",
+        "source_url": "https://endofshiftapparel.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ation Trade name: End of Shift Apparel LLC Email: customerservice@endofshiftapparel.com Physical address: End of Shift Apparel LLC, PO Box 2641,"
+      }
+    ],
+    "role_emails": [
+      "customerservice@endofshiftapparel.com",
+      "help@endofshiftapparel.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://endofshiftapparel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/special-support-operations?view=campaigns",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/special-support-operations",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/special-support-operations?view=affiliates",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/coin-of-courage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/graphic-tees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/basic-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/long-sleeve",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/gym-gear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/hats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/leather-patches",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/shift-essentials",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/lucky-patriot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/the-irons-leather-works",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/duty-wear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/custom-orders",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/custom-orders#apparel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/custom-orders#hats",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/custom-orders#drinkware",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/custom-orders#request-quote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/departmentstore",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/partner-stores-collabs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/pages/coin-of-courage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/#story",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/stay-salty-sunset",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/christmas-2026",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/139th-moral-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/silent-night-not-on-my-shift-christmas-t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/night-shift-christmas-edition-medic-t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/merry-christmas-the-ers-full-t-shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/riggs-racing",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/nightshiftroast",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/collections/afd-brevator-st",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/products/colonie-ems-movember-unisex-classic-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://endofshiftapparel.com/policies/subscription-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://endofshiftapparel.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "End of Shift Apparel creates custom first responder and veteran-inspired clothing designed for life on and off the clock. Shop high-quality EMS, fire, police, and dispatch apparel, fundraisers, and awareness collections\u2014all built by those who serve, for those who serve.",
+    "source_urls": [
+      "https://endofshiftapparel.com/pages/contact",
+      "https://endofshiftapparel.com/policies/contact-information",
+      "https://endofshiftapparel.com/pages/custom-orders",
+      "https://endofshiftapparel.com/pages/custom-orders#apparel",
+      "https://endofshiftapparel.com/pages/custom-orders#hats",
+      "https://endofshiftapparel.com/pages/custom-orders#drinkware",
+      "https://endofshiftapparel.com/pages/custom-orders#request-quote",
+      "https://endofshiftapparel.com/policies/privacy-policy",
+      "https://endofshiftapparel.com/policies/refund-policy",
+      "https://endofshiftapparel.com/policies/terms-of-service"
+    ],
+    "reason": null,
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "expertwitnesstools.com",
+    "company_name": "EXPERT WITNESS TOOLS",
+    "website": "https://expertwitnesstools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "e.tools@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expert.tools@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expert@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expert_tools@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "expertt@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tools@expertwitnesstools.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Expert Witness Tools",
+        "person_title": "Owner",
+        "source_url": "https://expertwitnesstools.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://expertwitnesstools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/intellectual-property",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/privacy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/terms",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expertwitnesstools.com/cookies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://expertwitnesstools.com",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/support",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/team",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/contactus",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/about-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/our-team",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/meet-the-team",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/leadership",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/founders",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/people",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/staff",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/press",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/media",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/help",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/company",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/who-we-are",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/our-story",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/our-mission",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/get-in-touch",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/reach-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/enquiries",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/impressum",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/pages/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/support/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://expertwitnesstools.com/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Professional PDF and evidence analysis software (Patent pending). Index depositions by page and line, process whole productions, and capture evidence in the field. Join the launch list.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "innerjuju.com",
+    "company_name": "INNER JUJU",
+    "website": "https://innerjuju.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@innerjuju.com",
+        "confidence": "highest",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Follow Instagram \u2197 @drinkkule Substack \u2197 Bitter Notes hello@innerjuju.com Legal Privacy policy Inner Juju \u00a9 2026 La"
+      }
+    ],
+    "role_emails": [
+      "hello@innerjuju.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.western@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "after.western@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "after@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "after_western@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "afterw@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.juju@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inner.juju@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inner@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inner_juju@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "innerj@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juju@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inner Juju",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "western@innerjuju.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Western",
+        "person_title": "Founder",
+        "source_url": "https://innerjuju.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://innerjuju.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/our-story/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/find-us/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/faq/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/pre-order/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/smoked-plum/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/mountain-hawthorn/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/red-date/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/five-flavor-berry/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/herbal-syrups/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://innerjuju.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://innerjuju.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://innerjuju.com/contact/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sparkling herbal teas inspired by the flavors of Traditional Chinese Medicine, made with real fruit and herbs in San Francisco. Launching Q1 2027. Join the waitlist or pre-order.",
+    "source_urls": [
+      "https://innerjuju.com",
+      "https://innerjuju.com/contact",
+      "https://innerjuju.com/about",
+      "https://innerjuju.com/our-story",
+      "https://innerjuju.com/contact/",
+      "https://innerjuju.com/",
+      "https://innerjuju.com/shop/",
+      "https://innerjuju.com/our-story/",
+      "https://innerjuju.com/find-us/",
+      "https://innerjuju.com/faq/",
+      "https://innerjuju.com/pre-order/",
+      "https://innerjuju.com/smoked-plum/",
+      "https://innerjuju.com/mountain-hawthorn/",
+      "https://innerjuju.com/red-date/",
+      "https://innerjuju.com/five-flavor-berry/",
+      "https://innerjuju.com/herbal-syrups/",
+      "https://innerjuju.com/privacy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 41,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "powerasi.com",
+    "company_name": "POWER ASI",
+    "website": "https://powerasi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://powerasi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "PowerASI.com is for sale on Spaceship. Secure checkout and quick transfer. See all purchase options. No hidden fees.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "regattaready.com",
+    "company_name": "REGATTA READY",
+    "website": "https://regattaready.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://regattaready.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://regattaready.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Regatta Ready helps dinghy sailors get race-ready: rig tuning numbers for C420 and I420, tactics coaching, weather forecasts, and a sail notebook \u2014 all in one tool.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "shoplifeofriley.com",
+    "company_name": "LIFE OF RILEY",
+    "website": "https://shoplifeofriley.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shoplifeofriley.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/who-we-are",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/get-in-touch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/reach-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/enquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoplifeofriley.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Life of Riley",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 31,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "strictlycrosses.com",
+    "company_name": "STRICTLY CROSSES",
+    "website": "https://strictlycrosses.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@strictlycrosses.com",
+        "confidence": "high",
+        "source_url": "https://strictlycrosses.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@strictlycrosses.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.mustelier@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexis.mustelier@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexis@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexis_mustelier@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexism@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mustelier@strictlycrosses.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alexis Mustelier",
+        "person_title": null,
+        "source_url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://strictlycrosses.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/new-year-same-faith",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-apparel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-t-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-sweatshirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-sweatpants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/kids-christian-t-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/matching-family-christian-shirts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-jewelry",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/cross-necklaces",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/faith-socks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-christmas-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/christian-gifts-under-40",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/blogs/journal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/faith-over-fear-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/family-faith-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/first-grace-ephesians-2-8-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/new-year-same-faith-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/dainty-gold-plated-cross-necklace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/gold-plated-cubic-zirconia-cross-heart-necklace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/dainty-sideways-cross-choker-necklace",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/layered-cross-necklace-set-of-three",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/faith-over-fear-comfort-colors-youth-midweight-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/made-new-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/led-by-faith-love-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/rooted-in-christ-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/new-year-same-faith-womens-tee",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/steadfast-in-faith-comfort-colors-youth-midweight-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/after-amen-live-it-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/products/last-word-sacred-heart-comfort-colors-garment-dyed-tee-strictly-crosses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/blogs/journal/what-to-wear-to-a-sunday-service",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/blogs/journal/what-it-means-to-be-rooted-in-christ",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://strictlycrosses.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://strictlycrosses.com/contact",
+        "action": "/contact#ContactForm-AaElXZkQxNnY5Y3YrO__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://strictlycrosses.com/pages/contact",
+        "action": "/contact#ContactForm-AaElXZkQxNnY5Y3YrO__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Strictly Crosses",
+    "source_urls": [
+      "https://strictlycrosses.com",
+      "https://strictlycrosses.com/contact",
+      "https://strictlycrosses.com/about",
+      "https://strictlycrosses.com/pages/contact",
+      "https://strictlycrosses.com/pages/about",
+      "https://strictlycrosses.com/policies/contact-information",
+      "https://strictlycrosses.com/collections/new-year-same-faith",
+      "https://strictlycrosses.com/",
+      "https://strictlycrosses.com/collections/christian-apparel",
+      "https://strictlycrosses.com/collections/christian-t-shirts",
+      "https://strictlycrosses.com/collections/christian-sweatshirts",
+      "https://strictlycrosses.com/collections/christian-sweatpants",
+      "https://strictlycrosses.com/collections/kids-christian-t-shirts",
+      "https://strictlycrosses.com/collections/matching-family-christian-shirts",
+      "https://strictlycrosses.com/collections/christian-jewelry",
+      "https://strictlycrosses.com/collections/cross-necklaces",
+      "https://strictlycrosses.com/collections/faith-socks",
+      "https://strictlycrosses.com/collections/christian-christmas-gifts",
+      "https://strictlycrosses.com/collections/christian-gifts-under-40",
+      "https://strictlycrosses.com/collections/all",
+      "https://strictlycrosses.com/blogs/journal",
+      "https://strictlycrosses.com/products/faith-over-fear-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/family-faith-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/first-grace-ephesians-2-8-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/new-year-same-faith-tee",
+      "https://strictlycrosses.com/products/dainty-gold-plated-cross-necklace",
+      "https://strictlycrosses.com/products/gold-plated-cubic-zirconia-cross-heart-necklace",
+      "https://strictlycrosses.com/products/dainty-sideways-cross-choker-necklace",
+      "https://strictlycrosses.com/products/layered-cross-necklace-set-of-three",
+      "https://strictlycrosses.com/products/faith-over-fear-comfort-colors-youth-midweight-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/made-new-tee",
+      "https://strictlycrosses.com/products/led-by-faith-love-tee",
+      "https://strictlycrosses.com/products/rooted-in-christ-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/new-year-same-faith-womens-tee",
+      "https://strictlycrosses.com/products/steadfast-in-faith-comfort-colors-youth-midweight-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/after-amen-live-it-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/products/last-word-sacred-heart-comfort-colors-garment-dyed-tee-strictly-crosses",
+      "https://strictlycrosses.com/blogs/journal/sacred-heart-of-jesus-meaning",
+      "https://strictlycrosses.com/blogs/journal/what-to-wear-to-a-sunday-service",
+      "https://strictlycrosses.com/blogs/journal/what-it-means-to-be-rooted-in-christ",
+      "https://strictlycrosses.com/policies/privacy-policy",
+      "https://strictlycrosses.com/policies/refund-policy",
+      "https://strictlycrosses.com/policies/terms-of-service",
+      "https://strictlycrosses.com/policies/shipping-policy"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 70,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "thisdomingo.com",
+    "company_name": "THISDOMINGO",
+    "website": "https://thisdomingo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thisdomingo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/collections/prints",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-52",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/roues-du-dimanche",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-entre-piramides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-in-teotihuacan",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-en-soho-raouls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-in-chinatown-kikis",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-in-soho",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-in-brooklyn-heights-promenade-copy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/products/domingo-in-joshua-tree-copy-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/pages/shipping-returns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thisdomingo.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://thisdomingo.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "thisDomingo",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 46,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "unbelievable.co",
+    "company_name": "UNBELIEVABLE",
+    "website": "https://unbelievable.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 1
+  },
+  {
+    "company_domain": "zenmushroom.com",
+    "company_name": "ZEN MUSHROOM",
+    "website": "https://zenmushroom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zenmushroom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "zodiacbotanicals.com",
+    "company_name": "ZODIAC BOTANICALS",
+    "website": "https://zodiacbotanicals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zodiacbotanicals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://zodiacbotanicals.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premium botanical products and plant-based solutions at Zodiac Botanicals. Sign up for updates and promotions!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 30,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  }
+]
