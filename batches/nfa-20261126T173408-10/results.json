@@ -1,0 +1,5114 @@
+[
+  {
+    "company_domain": "cros.com",
+    "company_name": "CROS",
+    "website": "https://cros.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@cros.com",
+        "confidence": "highest",
+        "source_url": "https://cros.com/mentions-legales/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "N\u00b0 siren : 062500053 T\u00e9l. : 04 76 40 53 54 E-mail : contact@cros.com Directeur de la publication : Alexandre Mauries R\u00e9"
+      },
+      {
+        "address": "mecenat@cros.com",
+        "confidence": "high",
+        "source_url": "https://cros.com/fonds-de-dotation/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ire d\u2019appel \u00e0 projet rempli, veuillez l\u2019envoyer par mail \u00e0 mecenat@cros.com L\u2019\u00e9quipe du fonds a travaill\u00e9 sur sa vision \u00e0 203"
+      }
+    ],
+    "role_emails": [
+      "contact@cros.com",
+      "mecenat@cros.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cros.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/metiers/location/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/cros/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/societe-a-mission/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/fonds-de-dotation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/actualites/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/nous-rejoindre/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/poles/air/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/poles/eau-systemes-de-pompage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/poles/energie-mobile-foration/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/offre-dusage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/realisations/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/realisation/production-dazote-sur-mesure-pour-un-recyclage-high-tech/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/actualites/cros-au-salon-solscope-2025-a-lyon/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/realisation/installation-dune-station-de-pompage/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/actualites/performance-rse-cros-dans-le-top-15-au-niveau-international/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/realisation/foration-et-mise-en-service-de-glissiere-radiocommandee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/metiers/vente/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/metiers/maintenance/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/mentions-legales/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cros.com/telechargement/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cros.com/contact",
+        "action": "/contact/#wpcf7-f483-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://cros.com/contact/",
+        "action": "/contact/#wpcf7-f483-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://cros.com/fonds-de-dotation/",
+        "action": "/fonds-de-dotation/#wpcf7-f557-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://cros.com/nous-rejoindre/",
+        "action": "/nous-rejoindre/#wpcf7-f876-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "CROS est sp\u00e9cialis\u00e9e en Is\u00e8re dans la vente, la location, la maintenance de mat\u00e9riels pour l\u2019industrie, les collectivit\u00e9s et le BTP.",
+    "source_urls": [
+      "https://cros.com/fonds-de-dotation/",
+      "https://cros.com/mentions-legales/",
+      "https://cros.com/telechargement/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 50,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "daybreake.com",
+    "company_name": "DAYBREAKE",
+    "website": "https://daybreake.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://daybreake.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/account/register",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/new-in",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/jacket-coat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/shoes",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/suit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/holiday-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/2025-womens-casual-sweater-sports-suit?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=1.4539982220910248&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/womens-high-collar-long-sleeve-autumn-and-winter-casual-sweater-suit?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=1.294398534645707&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/%F0%9F%90%B1plush-cat-print-hooded-sweatshirt%F0%9F%8D%AC4fc6465b-8137-4ba6-a6fe-9b3aed58b550?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=1.026975905026231&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/autumn-and-winter-thick-casual-hooded-cotton-vest-sweatshirt-long-pants-three-piece-set?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.502158353692105&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/color-block-fleece-lined-jacket?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.484289357548463&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/two-piece-set-featuring-a-half-zip-mock-neck-top-and-wide-leg-trousers?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.481821128875084&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/3-piece-hooded-set-with-thickened-fleece-lining?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.426969130860512&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/thickened-3-piece-set-with-corduroy-and-leopard-print-patchwork?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.403040143729071&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/two-piece-set-featuring-a-long-ribbed-knit-zippered-cardigan-and-high-waisted-flared-trousers?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.3682744441472545&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/long-faux-lambswool-duffle-coat?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.2961382963462422&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/%F0%9F%8E%85-christmas-pixel-led-light-curtain-%F0%9F%8E%84-for-garage-doors-balcony-doors?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.264941014630071&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/womens-floral-top-three-piece-suit-set?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.11426270219846&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/products/women-plaid-2-piece-outfit-double-breasted-blazer-and-balloon-wide-leg-pants-set?cfb=012a97ff-2b88-886b-aa7f-db078e44bce2&scm=collection.v38.11095.202.203.204&score=2.041379798832944&ssp=-",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/summer-new",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/dresses",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/shirt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/collections/pants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/delivery-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/terms-and-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://daybreake.com/pages/returns-and-refunds-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Daybreake",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 60,
+    "keenable_credits_used": 4,
+    "keenable_pages_checked": 2
+  },
+  {
+    "company_domain": "dermaki.com",
+    "company_name": "DERMAKI",
+    "website": "https://dermaki.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dermaki.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermaki.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermaki.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermaki.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermaki.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dermaki.com/register/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/cart/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/checkout/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare-acne/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare-aging/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare-normal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare-oily/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/sensitive-skin/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/full-protocols/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/recovery-facial/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/triple-exfoliator-facial/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/dermaplaning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/facial-instructions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/hydrofacial-protocol/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/microdermabrasion-facial-treatment-protocol/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/microneedling/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/brightening-protocol/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/ultrasound-instructions/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/professional-head-spa-treatment/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/ingredients/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/key-ingredients-used-in-dermaki-skincare-for-aging/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/key-ingredients-used-in-dermaki-skincare-for-acne/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/skincare-ingredients-to-avoid/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/resources/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/client-consultation-form/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/client-prescription-pad/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/dermaki-client-consultation-micro-treatment-form/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/quick-reference-and-product-pages/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/dermaki-guide/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/images/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/wholesale-ordering/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/safety-data-sheet/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/dermaki-skincare-tips/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/videos/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/new-to-dermaki/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/new-to-dermaki-specials/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/policies/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dermaki.com/professionals-only/quick-protocols-facials/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dermaki.com/register/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop Dermaki professional skincare for acne, aging, sensitive skin, and treatment rooms, with barrier-focused formulas for lasting skin health.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 75,
+    "keenable_credits_used": 5,
+    "keenable_pages_checked": 3
+  },
+  {
+    "company_domain": "dixonshangar69.com",
+    "company_name": "DIXON'S HANGAR 69",
+    "website": "https://dixonshangar69.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 0
+  },
+  {
+    "company_domain": "dripvault.com",
+    "company_name": "DRIPVAULT",
+    "website": "https://dripvault.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@dripvault.com",
+        "confidence": "highest",
+        "source_url": "https://dripvault.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Visit 75 Main St Saranac Lake, NY 12983 (518) 637-5688 support@dripvault.com By appointment only \u2014 call or text to book a visit."
+      }
+    ],
+    "role_emails": [
+      "support@dripvault.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "kiser@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.kiser@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uriah.kiser@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uriah@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uriah_kiser@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uriahk@dripvault.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uriah Kiser",
+        "person_title": "Founder",
+        "source_url": "https://dripvault.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://dripvault.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/account/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/live/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/journal/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/services/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/shop/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/coffee/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/piece/marcel-boucher-retro-modernist-2-75-in-red-baguette-rhinestone-ribbon-swirl-brooch-7235-16-33g/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/necklaces/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/brooches/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/rings/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/earrings/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/bracelets/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/vault/watches/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/piece/carole-centrella-2-in-polymer-clay-natasha-cane-beetle-bug-brooch-9-03g/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/piece/victorian-textured-bar-with-swivel-dog-clip-2-in-watch-brooch-pin-4-35g/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/piece/modernist-sterling-silver-twisted-rope-openwork-2-in-bar-brooch-4-04g/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/piece/art-nouveau-2-in-faceted-amber-glass-openwork-wire-scroll-brooch-13-82g/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/services/cleaning/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/services/repairs/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/services/appraisals/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dripvault.com/privacy-policy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Saranac Lake, New York  \u00b7 Live on Whatnot most mornings at 6 AM ET",
+    "source_urls": [
+      "https://dripvault.com",
+      "https://dripvault.com/contact",
+      "https://dripvault.com/about",
+      "https://dripvault.com/about-us",
+      "https://dripvault.com/pages/contact",
+      "https://dripvault.com/support/contact",
+      "https://dripvault.com/contact/",
+      "https://dripvault.com/about/",
+      "https://dripvault.com/account/",
+      "https://dripvault.com/",
+      "https://dripvault.com/live/",
+      "https://dripvault.com/vault/",
+      "https://dripvault.com/journal/",
+      "https://dripvault.com/services/",
+      "https://dripvault.com/shop/",
+      "https://dripvault.com/coffee/",
+      "https://dripvault.com/piece/marcel-boucher-retro-modernist-2-75-in-red-baguette-rhinestone-ribbon-swirl-brooch-7235-16-33g/",
+      "https://dripvault.com/vault/necklaces/",
+      "https://dripvault.com/vault/brooches/",
+      "https://dripvault.com/vault/rings/",
+      "https://dripvault.com/vault/earrings/",
+      "https://dripvault.com/vault/bracelets/",
+      "https://dripvault.com/vault/watches/",
+      "https://dripvault.com/piece/carole-centrella-2-in-polymer-clay-natasha-cane-beetle-bug-brooch-9-03g/",
+      "https://dripvault.com/piece/victorian-textured-bar-with-swivel-dog-clip-2-in-watch-brooch-pin-4-35g/",
+      "https://dripvault.com/piece/modernist-sterling-silver-twisted-rope-openwork-2-in-bar-brooch-4-04g/",
+      "https://dripvault.com/piece/art-nouveau-2-in-faceted-amber-glass-openwork-wire-scroll-brooch-13-82g/",
+      "https://dripvault.com/services/cleaning/",
+      "https://dripvault.com/services/repairs/",
+      "https://dripvault.com/services/appraisals/",
+      "https://dripvault.com/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 53,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "dustdepot.com",
+    "company_name": "DUST DEPOT",
+    "website": "https://dustdepot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dustdepot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/collections/dust-depot",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dustdepot.com/#buy",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Dust Depot",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 35,
+    "keenable_credits_used": 3,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "eauko.com",
+    "company_name": "EAUKO",
+    "website": "https://eauko.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://eauko.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/products/gel-reparateur-pour-les-gencives",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/customer_authentication/redirect?locale=fr\u00aeion_country=FR",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://eauko.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://eauko.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Eauko",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 36,
+    "keenable_credits_used": 2,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "embrace.com",
+    "company_name": "EMBRACE",
+    "website": "https://embrace.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@embrace.com",
+        "confidence": "high",
+        "source_url": "https://embrace.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "PO Box 81095 Wellesley Hills, MA 02481-0001 Email : info@embrace.com Website : www.embrace.com Phone: (781) 343-1865 Ge"
+      }
+    ],
+    "role_emails": [
+      "info@embrace.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.robinson@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam.robinson@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adam_robinson@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adamr@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arvanaghi@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.arvanaghi@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "barry@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon.arvanaghi@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon_arvanaghi@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandona@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Arvanaghi",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.hancock@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "campbell@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl.hancock@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carl_hancock@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carlh@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "domains@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.silver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "efti@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elliot.silver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elliot@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elliot_silver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elliots@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forms@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fried@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.forms@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gravity.forms@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gravity@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gravity_forms@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gravityf@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gravity Forms",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.hurst@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hancock@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carl Hancock",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry.hurst@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harry_hurst@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harryh@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hurst@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harry Hurst",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.campbell@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.fried@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.oliver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.parker@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.tannenbaum@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jay.tannenbaum@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jay@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jay_tannenbaum@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jayt@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy.parker@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremy_parker@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeremyp@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim.campbell@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jim_campbell@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jimc@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jim Campbell",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan.oliver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathan_oliver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jonathano@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordan.fried@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordan@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordan_fried@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jordanf@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jordan Fried",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.saroya@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karn.saroya@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karn@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karn_saroya@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "karns@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "levels@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mittal@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.barry@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan.barry@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan_barry@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathanb@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Barry",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathan Oliver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.graham@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.levels@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parker@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeremy Parker",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul.graham@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paul_graham@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paulg@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Paul Graham",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pieter.levels@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pieter@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pieter_levels@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pieterl@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pieter Levels",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.mittal@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robinson@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adam Robinson",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rohit.mittal@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rohit@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rohit_mittal@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rohitm@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rohit Mittal",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.efti@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saroya@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Karn Saroya",
+        "person_title": "Co-Founder",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "securely@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silver@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elliot Silver",
+        "person_title": "Founder",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steli.efti@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steli@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steli_efti@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stelie@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steli Efti",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.domains@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.securely@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tannenbaum@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jay Tannenbaum",
+        "person_title": "Ceo",
+        "source_url": "https://embrace.com/founders",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "top.domains@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "top@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "top_domains@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "topd@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Top Notch Domains",
+        "person_title": "President",
+        "source_url": "https://embrace.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transact.securely@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transact@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transact_securely@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transacts@embrace.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Transact Securely",
+        "person_title": "Owner",
+        "source_url": "https://embrace.com/offer/?domain=Logical.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://embrace.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/leadership",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/support/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/sell-domain-name/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/buy-a-domain-name/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Logical.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=MLR.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Luminous.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=SelfCare.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=GoodTimes.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Uppercut.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Travels.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Independence.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/offer/?domain=Flashpoint.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/one-word-com-domain-names-for-sale/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/acronym-domain-names-for-sale/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/recent-one-word-com-domain-name-sales/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://embrace.com/recent-3-letter-com-domain-name-sales/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/terms/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.embrace.com/privacy/",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://embrace.com/contact",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/contact-us",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/pages/contact",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/pages/contact-us",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/support/contact",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.embrace.com/contact-us/",
+        "action": "/contact-us/#wpcf7-f193-p8-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.embrace.com/sell-domain-name/",
+        "action": "/sell-domain-name/#wpcf7-f226-p200-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Logical.com",
+        "action": "/offer/?domain=logical.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=MLR.com",
+        "action": "/offer/?domain=MLR.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Luminous.com",
+        "action": "/offer/?domain=Luminous.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=SelfCare.com",
+        "action": "/offer/?domain=selfcare.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=GoodTimes.com",
+        "action": "/offer/?domain=goodtimes.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Uppercut.com",
+        "action": "/offer/?domain=uppercut.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Travels.com",
+        "action": "/offer/?domain=Travels.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Independence.com",
+        "action": "/offer/?domain=Independence.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://embrace.com/offer/?domain=Flashpoint.com",
+        "action": "/offer/?domain=flashpoint.com#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Embrace.com specializes in the sale of high value .com domain names for brand names. We embrace .com domains.",
+    "source_urls": [
+      "https://embrace.com/contact",
+      "https://embrace.com/contact-us",
+      "https://embrace.com/pages/contact",
+      "https://embrace.com/pages/contact-us",
+      "https://embrace.com/support/contact",
+      "https://www.embrace.com/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 48,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "emeldabe.com",
+    "company_name": "EMELDABE",
+    "website": "https://emeldabe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@emeldabe.com",
+        "confidence": "highest",
+        "source_url": "https://emeldabe.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "shop@emeldabe.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://emeldabe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://emeldabe.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://emeldabe.com/collections/silk-sacks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://emeldabe.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 29,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "enzopetsupply.com",
+    "company_name": "ENZO PET SUPPLY",
+    "website": "https://enzopetsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@enzopetsupply.com",
+        "confidence": "highest",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e. Please email order number info and reason for return to info@enzopetsupply.com . Refund or exchange credit will be at original purchase p"
+      }
+    ],
+    "role_emails": [
+      "info@enzopetsupply.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.enzo@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Enzo",
+        "person_title": "Owner",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at.enzo@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Enzo",
+        "person_title": "Owner",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Enzo",
+        "person_title": "Owner",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at_enzo@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Enzo",
+        "person_title": "Owner",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ate@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Enzo",
+        "person_title": "Owner",
+        "source_url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.supply@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "enzo.supply@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "enzo@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "enzo_supply@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "enzos@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "supply@enzopetsupply.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Enzo Pet Supply",
+        "person_title": "Founder",
+        "source_url": "https://enzopetsupply.com/pages/our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://enzopetsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/collections/drying-cleaning-towels",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/collections/cleaners",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/pages/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/products/bestpetsafelaundrydetergent",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/products/enzodogtowel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/pages/satisfaction-guaranteed",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/pages/saving-lives",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://enzopetsupply.com/blogs/enzo-news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Enzo Pet Supply for premium microfiber dog drying towels and other sustainable products. Support K9s For Warriors with every purchase. BEST DOG TOWEL",
+    "source_urls": [
+      "https://enzopetsupply.com/pages/satisfaction-guaranteed"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 43,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "evoir.com",
+    "company_name": "EVOIR",
+    "website": "https://evoir.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@evoir.com",
+        "confidence": "highest",
+        "source_url": "https://evoir.com/policies/terms-of-service",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions regarding these Terms of Service should be sent to: Support@evoir.com Stay Up-to-Date With E"
+      }
+    ],
+    "role_emails": [
+      "support@evoir.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aviel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Avery S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian.r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrian_r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adrianr@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "avery.s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Avery S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "avery@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Avery S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "avery_s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Avery S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "averys@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Avery S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aviel.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aviel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aviel@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aviel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aviel_k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aviel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "avielk@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aviel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.w@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "braden.w@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "braden@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "braden_w@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bradenw@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christian L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Corbett M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christian.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christian L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christian@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christian L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christian_l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christian L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "christianl@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Christian L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corbett.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Corbett M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corbett@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Corbett M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corbett_m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Corbett M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corbettm@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Corbett M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.g@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidl@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan.g@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylan_g@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dylang@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eduardo R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eduardo.r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eduardo R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eduardo@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eduardo R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eduardo_r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eduardo R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eduardor@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eduardo R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgiy K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Graham M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan G.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george.a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george_a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgea@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiy.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgiy K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiy@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgiy K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiy_k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgiy K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georgiyk@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Georgiy K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "giancarlo.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "giancarlo@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "giancarlo_o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "giancarloo@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Graham M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Graham M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "graham_m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Graham M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grahamm@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Graham M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hayley L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hayley.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hayley L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hayley@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hayley L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hayley_l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hayley L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hayleyl@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hayley L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jose A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jorge L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james.m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "james_m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamesm@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jorge.l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jorge L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jorge@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jorge L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jorge_l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jorge L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jorgel@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jorge L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jose.a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jose A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jose@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jose A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jose_a@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jose A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josea@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jose A.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.c@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kade.b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kade@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kade_b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kadeb@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kade B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keaton.c@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keaton@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keaton_c@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keatonc@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Keaton C.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.d@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David L.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lidia.d@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lidia@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lidia_d@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lidiad@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lidia D.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michele O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "James M.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew.s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthew_s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matthews@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michele.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michele O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michele@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michele O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michele_o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michele O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "micheleo@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michele O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick.o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick_o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicko@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "GIANCARLO O.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.v@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adrian R.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raydel.v@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raydel@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raydel_v@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raydelv@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sean B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.p@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Matthew S.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam_k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samk@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samuel.k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samuel@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samuel_k@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "samuelk@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Samuel K.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sean.b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sean B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sean@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sean B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sean_b@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sean B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seanb@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sean B.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shawn.h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shawn@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shawn_h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shawnh@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shawn H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven.p@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steven_p@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevenp@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steven P.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/brain-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "raydel v.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/acne-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.e@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Will H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Braden W.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walter.e@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walter@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "walter_e@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "waltere@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Walter E.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "will.h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Will H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "will@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Will H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "will_h@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Will H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "willh@evoir.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Will H.",
+        "person_title": null,
+        "source_url": "https://evoir.com/products/sleep-stack-powder",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://evoir.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/collections/supplements",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/collections/merch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/hangover-stack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/brain-stack-powder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/sleep-stack-powder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/acne-stack-powder",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/pages/promotional-terms-conditions",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/policies/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/acne-stack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://evoir.com/products/brain-stack",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://evoir.com/pages/contact",
+        "action": "/contact#ContactForm-AYS9IU1pEdy9TQUJoT__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover science-backed supplement stacks for sleep, cognition, and skin health. Premium ingredients, effective doses, and third-party testing in every formula.",
+    "source_urls": [
+      "https://evoir.com/policies/refund-policy",
+      "https://evoir.com/policies/terms-of-service"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 44,
+    "keenable_credits_used": 0,
+    "keenable_pages_checked": 0
+  },
+  {
+    "company_domain": "extinctmale.com",
+    "company_name": "EXTINCT MALE",
+    "website": "https://extinctmale.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://extinctmale.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/new-arrivals",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/original-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/vintage-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/trident-series",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/limited-edition",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/never-extinct-fighter-campaign",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/fathers-day-gift-drop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/accessories",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/all-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.extinctmale.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/products/24-trident-gym-duffel",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/products/gs3-precision-over-chaos-tracksuit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/products/simple-e-hat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/products/the-zah-killa-camo-edition-by-extinctmale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/hoodies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/tops",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections/sweatpants",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/policies/terms-of-service",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/policies/privacy-policy",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/policies/refund-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/collections",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://extinctmale.com/pages/size-chart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We believe that true masculinity never fades\u2014it evolves. ExtinctMALE is dedicated to celebrating the strength, resilience, and timeless nature of men at every stage of life. From the bold ambition of youth to the steady confidence of maturity, our brand designs clothing that empowers men to embrace ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 57,
+    "keenable_credits_used": 6,
+    "keenable_pages_checked": 3
+  }
+]
